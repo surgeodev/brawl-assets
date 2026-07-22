@@ -82,6 +82,19 @@
   .btn-primary { background: var(--accent); color: #fff; }
   .btn-secondary { background: var(--border); color: var(--text); }
 
+  /* YouTube example form */
+  .yt-section { margin: 0 auto; max-width: 1400px; padding: 0 24px 20px; }
+  .yt-form { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; background: var(--card); padding: 12px 16px; border-radius: 8px; border: 1px solid var(--border); }
+  .yt-form input[type=text] { flex: 1; min-width: 200px; padding: 8px 12px; border: 1px solid var(--border); border-radius: 5px; background: #0d1b2a; color: var(--text); font-size: 13px; }
+  .yt-form input:focus { outline: 2px solid var(--accent); }
+  .yt-form .status { font-size: 12px; color: var(--muted); }
+  .yt-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; margin-top: 12px; }
+  .yt-card { background: var(--card); border-radius: 8px; overflow: hidden; border: 1px solid var(--border); }
+  .yt-card img { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; }
+  .yt-card .info { padding: 8px 10px; }
+  .yt-card .info .title { font-size: 12px; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .yt-card .info .meta { font-size: 10px; color: var(--muted); }
+
   .prompt-box { font-family: monospace; font-size: 11px; white-space: pre-wrap; background: #0d1b2a; border-radius: 6px; padding: 12px; max-height: 150px; overflow-y: auto; margin-top: 8px; color: #9ab; display: none; line-height: 1.5; }
 
   /* Responsive */
@@ -125,6 +138,16 @@
   <span>Previews: <strong id="previewCount">0</strong></span>
 </div>
 
+<div class="yt-section">
+  <div class="yt-form">
+    <span style="font-size:13px;font-weight:600;">🎬 YouTube example</span>
+    <input type="text" id="ytInput" placeholder="Paste YouTube URL or video ID..." onkeydown="if(event.key==='Enter')addYtExample()">
+    <button class="btn-primary" onclick="addYtExample()" style="padding:8px 16px;font-size:12px;">Add</button>
+    <span class="status" id="ytStatus"></span>
+  </div>
+  <div class="yt-grid" id="ytGrid"></div>
+</div>
+
 <div class="container">
   <div class="brawler-grid" id="grid"></div>
 </div>
@@ -155,7 +178,7 @@
 </div>
 
 <script>
-let brawlers = [], allAssets = [], board = [];
+let brawlers = [], allAssets = [], board = [], ytExamples = [];
 
 async function load() {
   try {
@@ -202,20 +225,22 @@ function getFirstPreview(b) {
   return patterns[0]; // Return first, onerror will try next
 }
 
-function fallbackImg(img, idx = 0) {
-  const dir = img.dataset.dir;
-  const name = img.dataset.bname;
-  const patterns = [
-    `${dir}/${name.replace(/[^a-zA-Z0-9]/g,'_')}_bordered.webp`,
-    `${dir}/${name.replace(/[^a-zA-Z0-9]/g,'_')}_Default_001.webp`,
-    `${dir}/${name.split(' ')[0]}_Default_001.webp`,
-    `${dir}/${name.split(' ')[0]}_True_Gold_${name.split(' ')[0]}_001.webp`,
+function getThumbUrl(name, dir) {
+  const safe = name.replace(/[^a-zA-Z0-9]/g,'_');
+  const first = name.split(' ')[0];
+  // CDN brawlers use _bordered, Fankit use _Default_001
+  return [
+    `${dir}/${safe}_Default_001.webp`,
+    `${dir}/${first}_Default_001.webp`,
+    `${dir}/${safe}_bordered.webp`,
+    `${dir}/${safe}_Classic_001.webp`,
   ];
+}
+function fallbackImg(img, patterns, idx = 0) {
   if (idx < patterns.length - 1) {
     img.src = patterns[idx + 1];
-    img.onerror = () => fallbackImg(img, idx + 1);
+    img.onerror = () => fallbackImg(img, patterns, idx + 1);
   } else {
-    img.src = ''; img.alt = '?';
     img.style.display = 'none';
     img.parentElement.innerHTML = '<div style="color:#445;font-size:24px;">?</div>';
   }
@@ -244,12 +269,12 @@ function render() {
   grid.innerHTML = filtered.map(b => {
     const dir = getPreviewDir(b);
     const selected = board.some(item => item.brawlerKey === b.key);
+    const urls = getThumbUrl(b.name, dir);
     return `<div class="brawler-card rarity-${b.rarity.replace(/ /g,'-')} ${selected?'selected':''}" onclick="openBrawler('${b.key}')">
       <div class="rarity-bar"></div>
       <div class="thumb-wrap">
-        <img src="${dir}/${b.name.replace(/[^a-zA-Z0-9]/g,'_')}_bordered.webp"
-             data-dir="${dir}" data-bname="${b.name}"
-             onerror="fallbackImg(this,0)" alt="${b.name}" loading="lazy">
+        <img src="${urls[0]}" data-patterns='${JSON.stringify(urls).replace(/'/g,"&apos;")}'
+             onerror="fallbackImg(this,JSON.parse(this.dataset.patterns),0)" alt="${b.name}" loading="lazy">
       </div>
       <div class="info">
         <div class="name">${b.name}</div>
@@ -356,7 +381,61 @@ function genPrompt() {
   document.getElementById('board').classList.add('open');
 }
 
+// ── YouTube Examples ──
+async function loadYtExamples() {
+  try {
+    const r = await fetch('data/examples_index.json');
+    ytExamples = await r.json();
+  } catch(e) { ytExamples = []; }
+  renderYtExamples();
+}
+function renderYtExamples() {
+  const grid = document.getElementById('ytGrid');
+  if (ytExamples.length === 0) {
+    grid.innerHTML = '<div style="color:var(--muted);font-size:12px;grid-column:1/-1;padding:8px 0;">No examples yet — paste a YouTube URL above</div>';
+    return;
+  }
+  grid.innerHTML = ytExamples.slice().reverse().map(ex => {
+    const imgPath = `examples/${ex.file}`;
+    return `<div class="yt-card">
+      <img src="${imgPath}" alt="${ex.title}" loading="lazy" onerror="this.style.display='none'">
+      <div class="info">
+        <div class="title" title="${ex.title}">${ex.title}</div>
+        <div class="meta">${ex.quality} · ${(ex.size/1024).toFixed(0)}KB</div>
+      </div>
+    </div>`;
+  }).join('');
+}
+async function addYtExample() {
+  const input = document.getElementById('ytInput');
+  const status = document.getElementById('ytStatus');
+  const url = input.value.trim();
+  if (!url) return;
+
+  status.textContent = '⏳ Downloading...';
+  try {
+    const r = await fetch('/api/add-example', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({url})
+    });
+    const data = await r.json();
+    if (data.ok) {
+      status.textContent = '✅ Added!';
+      input.value = '';
+      // Reload examples
+      await loadYtExamples();
+      setTimeout(() => { status.textContent = ''; }, 3000);
+    } else {
+      status.textContent = '❌ ' + (data.error || 'Unknown error');
+    }
+  } catch(e) {
+    status.textContent = '❌ ' + e.message;
+  }
+}
+
 load();
+loadYtExamples();
 </script>
 </body>
 </html>
