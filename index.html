@@ -9,36 +9,39 @@
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
 
-  /* Header */
-  header { background: linear-gradient(135deg, #16213e 0%, #0f3460 100%); padding: 18px 24px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; border-bottom: 2px solid var(--accent); position: sticky; top: 0; z-index: 50; }
-  header h1 { font-size: 20px; letter-spacing: -0.5px; }
+  header { background: linear-gradient(135deg, #16213e 0%, #0f3460 100%); padding: 14px 20px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; border-bottom: 2px solid var(--accent); position: sticky; top: 0; z-index: 50; }
+  header h1 { font-size: 18px; letter-spacing: -0.5px; }
   header h1 span { color: var(--accent); }
-  .subtitle { font-size: 12px; color: var(--muted); margin-top: 2px; }
-  .controls { display: flex; gap: 8px; flex-wrap: wrap; }
-  .controls input, .controls select { padding: 7px 12px; border: 1px solid var(--border); border-radius: 6px; background: #0d1b2a; color: var(--text); font-size: 13px; }
-  .controls input:focus { outline: 2px solid var(--accent); }
-  .controls input::placeholder { color: #445; }
+  .subtitle { font-size: 11px; color: var(--muted); }
+  .header-actions { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+  .header-actions input, .header-actions select { padding: 5px 10px; border: 1px solid var(--border); border-radius: 5px; background: #0d1b2a; color: var(--text); font-size: 12px; }
+  .header-actions input:focus { outline: 2px solid var(--accent); }
+  .header-actions input::placeholder { color: #445; }
 
-  /* Stats bar */
-  .stats { display: flex; gap: 24px; font-size: 12px; color: var(--muted); padding: 8px 24px; background: #111122; border-bottom: 1px solid var(--border); flex-wrap: wrap; }
+  .tabs { display: flex; gap: 0; background: #111122; border-bottom: 1px solid var(--border); padding: 0 20px; overflow-x: auto; }
+  .tab { padding: 10px 16px; font-size: 12px; cursor: pointer; border-bottom: 2px solid transparent; color: var(--muted); white-space: nowrap; transition: 0.15s; }
+  .tab:hover { color: var(--text); }
+  .tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+  .tab .count { margin-left: 4px; font-size: 10px; opacity: 0.6; }
+
+  .stats { display: flex; gap: 16px; font-size: 11px; color: var(--muted); padding: 6px 20px; background: #0d0d1a; border-bottom: 1px solid var(--border); flex-wrap: wrap; }
   .stats strong { color: var(--text); }
 
-  /* Grid */
-  .container { padding: 20px 24px; max-width: 1400px; margin: 0 auto; }
-  .brawler-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
+  .container { padding: 16px 20px; max-width: 1400px; margin: 0 auto; }
+  .brawler-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; }
+  .cat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(90px, 1fr)); gap: 6px; }
 
-  .brawler-card { position: relative; background: var(--card); border-radius: 10px; overflow: hidden; cursor: pointer; transition: transform 0.2s, box-shadow 0.2s; border: 2px solid transparent; }
-  .brawler-card:hover { transform: translateY(-4px); box-shadow: 0 8px 24px rgba(233,69,96,0.15); }
+  .brawler-card { position: relative; background: var(--card); border-radius: 8px; overflow: hidden; cursor: pointer; transition: transform 0.2s, box-shadow 0.2s; border: 2px solid transparent; }
+  .brawler-card:hover { transform: translateY(-3px); box-shadow: 0 6px 20px rgba(233,69,96,0.12); }
   .brawler-card.selected { border-color: var(--accent); }
-  .brawler-card .thumb-wrap { width: 100%; aspect-ratio: 1; background: #0d1b2a; display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden; }
-  .brawler-card .thumb-wrap img { width: 85%; height: 85%; object-fit: contain; transition: transform 0.3s; }
+  .brawler-card .thumb-wrap { width: 100%; aspect-ratio: 1; background: #0d1b2a; display: flex; align-items: center; justify-content: center; overflow: hidden; }
+  .brawler-card .thumb-wrap img { width: 82%; height: 82%; object-fit: contain; transition: transform 0.3s; }
   .brawler-card:hover .thumb-wrap img { transform: scale(1.05); }
-  .brawler-card .info { padding: 8px 10px; }
-  .brawler-card .info .name { font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .brawler-card .info .meta { font-size: 11px; color: var(--muted); display: flex; justify-content: space-between; margin-top: 2px; }
+  .brawler-card .info { padding: 6px 8px; }
+  .brawler-card .info .name { font-size: 12px; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .brawler-card .info .meta { font-size: 10px; color: var(--muted); display: flex; justify-content: space-between; }
   .brawler-card .rarity-bar { position: absolute; top: 0; left: 0; right: 0; height: 3px; }
 
-  /* Rarity colors */
   .rarity-Common .rarity-bar { background: #b0b0b0; }
   .rarity-Rare .rarity-bar { background: #59b9ff; }
   .rarity-Super-Rare .rarity-bar { background: #00e5ff; }
@@ -47,65 +50,64 @@
   .rarity-Legendary .rarity-bar { background: #ffd700; }
   .rarity-Ultra-Legendary .rarity-bar { background: #ff4444; }
 
-  /* Empty state */
-  .empty { text-align: center; padding: 60px 20px; color: var(--muted); }
-  .empty .big { font-size: 40px; margin-bottom: 10px; }
+  .cat-asset { position: relative; aspect-ratio: 1; background: #0d1b2a; border-radius: 5px; overflow: hidden; cursor: pointer; border: 1px solid var(--border); }
+  .cat-asset img { width: 100%; height: 100%; object-fit: contain; display: block; }
+  .cat-asset .label { position: absolute; bottom: 0; left: 0; right: 0; font-size: 8px; background: #000a; padding: 2px 4px; color: #aaa; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .cat-asset:hover { border-color: var(--accent); }
 
-  /* Modal */
+  .empty { text-align: center; padding: 40px; color: var(--muted); font-size: 13px; }
+
   .modal-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.7); z-index: 200; align-items: center; justify-content: center; backdrop-filter: blur(4px); }
   .modal-overlay.open { display: flex; }
-  .modal { background: var(--card); border-radius: 12px; max-width: 900px; width: 95%; max-height: 88vh; overflow-y: auto; padding: 24px; position: relative; }
-  .modal .close { position: absolute; top: 12px; right: 16px; background: none; border: none; color: var(--muted); font-size: 22px; cursor: pointer; z-index: 1; }
-  .modal .close:hover { color: var(--text); }
-  .modal h2 { font-size: 22px; margin-bottom: 4px; }
-  .modal-meta { font-size: 13px; color: var(--muted); margin-bottom: 16px; line-height: 1.6; }
-  .modal-meta .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin: 2px; background: #0d1b2a; }
-  .modal .asset-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(90px, 1fr)); gap: 6px; }
-  .modal .asset-grid .asset-item { position: relative; aspect-ratio: 1; background: #0d1b2a; border-radius: 6px; overflow: hidden; cursor: pointer; border: 2px solid transparent; transition: border-color 0.15s; }
+  .modal { background: var(--card); border-radius: 10px; max-width: 900px; width: 95%; max-height: 88vh; overflow-y: auto; padding: 20px; position: relative; }
+  .modal .close { position: absolute; top: 10px; right: 14px; background: none; border: none; color: var(--muted); font-size: 20px; cursor: pointer; z-index: 1; }
+  .modal h2 { font-size: 20px; margin-bottom: 4px; }
+  .modal-meta { font-size: 12px; color: var(--muted); margin-bottom: 14px; line-height: 1.5; }
+  .modal .asset-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); gap: 5px; }
+  .modal .asset-grid .asset-item { position: relative; aspect-ratio: 1; background: #0d1b2a; border-radius: 4px; overflow: hidden; cursor: pointer; border: 2px solid transparent; }
   .modal .asset-grid .asset-item:hover { border-color: var(--accent); }
   .modal .asset-grid .asset-item img { width: 100%; height: 100%; object-fit: contain; }
-  .modal .asset-grid .asset-item .cat-label { position: absolute; bottom: 2px; left: 2px; font-size: 8px; background: #0008; padding: 1px 4px; border-radius: 2px; color: #aaa; }
-  .modal .cat-header { grid-column: 1 / -1; font-size: 12px; color: var(--muted); padding: 8px 0 4px; border-bottom: 1px solid var(--border); margin-top: 4px; }
-  .copy-btn { position: absolute; top: 2px; right: 2px; background: var(--accent); color: #fff; border: none; border-radius: 3px; padding: 2px 6px; font-size: 9px; cursor: pointer; opacity: 0; transition: opacity 0.15s; }
+  .modal .asset-grid .asset-item .cat-label { position: absolute; bottom: 1px; left: 1px; font-size: 7px; background: #0008; padding: 1px 3px; border-radius: 2px; color: #999; }
+  .cat-header { grid-column: 1 / -1; font-size: 11px; color: var(--muted); padding: 6px 0 3px; border-bottom: 1px solid var(--border); margin-top: 3px; font-weight: 600; }
+  .copy-btn { position: absolute; top: 2px; right: 2px; background: var(--accent); color: #fff; border: none; border-radius: 3px; padding: 1px 5px; font-size: 8px; cursor: pointer; opacity: 0; transition: opacity 0.15s; z-index: 1; }
   .asset-item:hover .copy-btn { opacity: 1; }
-  .copied-msg { position: fixed; bottom: 100px; left: 50%; transform: translateX(-50%); background: var(--accent); color: #fff; padding: 8px 16px; border-radius: 6px; font-size: 13px; z-index: 300; opacity: 0; transition: opacity 0.3s; pointer-events: none; }
 
-  /* Board */
-  .board { position: fixed; bottom: 0; left: 0; right: 0; background: rgba(13,27,42,0.95); backdrop-filter: blur(8px); border-top: 2px solid var(--accent); transform: translateY(calc(100% - 40px)); transition: transform 0.3s; z-index: 100; }
+  .board { position: fixed; bottom: 0; left: 0; right: 0; background: rgba(13,27,42,0.95); backdrop-filter: blur(8px); border-top: 2px solid var(--accent); transform: translateY(calc(100% - 36px)); transition: transform 0.3s; z-index: 100; }
   .board.open { transform: translateY(0); }
-  .board-toggle { position: absolute; top: -34px; left: 50%; transform: translateX(-50%); background: var(--accent); color: #fff; border: none; padding: 6px 20px; border-radius: 8px 8px 0 0; cursor: pointer; font-size: 12px; white-space: nowrap; }
-  .board-inner { padding: 10px 20px 12px; display: flex; gap: 16px; align-items: flex-start; flex-wrap: wrap; }
-  .board-items { display: flex; gap: 6px; flex-wrap: wrap; flex: 1; min-height: 60px; }
-  .board-item { width: 56px; text-align: center; position: relative; }
-  .board-item img { width: 56px; height: 56px; object-fit: contain; background: #0003; border-radius: 4px; }
-  .board-item .name { font-size: 9px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--muted); }
-  .board-item .remove { position: absolute; top: -5px; right: -5px; background: var(--accent); color: #fff; border: none; border-radius: 50%; width: 16px; height: 16px; font-size: 9px; cursor: pointer; line-height: 16px; text-align: center; }
+  .board-toggle { position: absolute; top: -30px; left: 50%; transform: translateX(-50%); background: var(--accent); color: #fff; border: none; padding: 5px 16px; border-radius: 6px 6px 0 0; cursor: pointer; font-size: 11px; white-space: nowrap; }
+  .board-inner { padding: 8px 16px 10px; display: flex; gap: 12px; align-items: flex-start; flex-wrap: wrap; }
+  .board-items { display: flex; gap: 5px; flex-wrap: wrap; flex: 1; min-height: 50px; }
+  .board-item { width: 48px; text-align: center; position: relative; }
+  .board-item img { width: 48px; height: 48px; object-fit: contain; background: #0003; border-radius: 3px; }
+  .board-item .name { font-size: 8px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--muted); }
+  .board-item .remove { position: absolute; top: -4px; right: -4px; background: var(--accent); color: #fff; border: none; border-radius: 50%; width: 14px; height: 14px; font-size: 8px; cursor: pointer; line-height: 14px; text-align: center; }
   .board-actions { display: flex; gap: 4px; flex-wrap: wrap; }
-  .board-actions button { padding: 6px 12px; border: none; border-radius: 5px; cursor: pointer; font-size: 11px; }
+  .board-actions button { padding: 5px 10px; border: none; border-radius: 4px; cursor: pointer; font-size: 10px; }
   .btn-primary { background: var(--accent); color: #fff; }
   .btn-secondary { background: var(--border); color: var(--text); }
 
-  /* YouTube example form */
-  .yt-section { margin: 0 auto; max-width: 1400px; padding: 0 24px 20px; }
-  .yt-form { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; background: var(--card); padding: 12px 16px; border-radius: 8px; border: 1px solid var(--border); }
-  .yt-form input[type=text] { flex: 1; min-width: 200px; padding: 8px 12px; border: 1px solid var(--border); border-radius: 5px; background: #0d1b2a; color: var(--text); font-size: 13px; }
-  .yt-form input:focus { outline: 2px solid var(--accent); }
-  .yt-form .status { font-size: 12px; color: var(--muted); }
-  .yt-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; margin-top: 12px; }
-  .yt-card { background: var(--card); border-radius: 8px; overflow: hidden; border: 1px solid var(--border); }
+  .prompt-box { font-family: monospace; font-size: 10px; white-space: pre-wrap; background: #0d1b2a; border-radius: 5px; padding: 10px; max-height: 120px; overflow-y: auto; margin-top: 6px; color: #9ab; display: none; line-height: 1.4; }
+
+  .copied-msg { position: fixed; bottom: 80px; left: 50%; transform: translateX(-50%); background: var(--accent); color: #fff; padding: 6px 14px; border-radius: 5px; font-size: 12px; z-index: 300; opacity: 0; transition: opacity 0.3s; pointer-events: none; }
+
+  .yt-section { max-width: 1400px; margin: 0 auto; padding: 0 20px 12px; }
+  .yt-form { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; background: var(--card); padding: 10px 14px; border-radius: 6px; border: 1px solid var(--border); }
+  .yt-form input[type=text] { flex: 1; min-width: 160px; padding: 6px 10px; border: 1px solid var(--border); border-radius: 4px; background: #0d1b2a; color: var(--text); font-size: 12px; }
+  .yt-form .status { font-size: 11px; color: var(--muted); }
+  .yt-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; margin-top: 8px; }
+  .yt-card { background: var(--card); border-radius: 6px; overflow: hidden; border: 1px solid var(--border); }
   .yt-card img { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; }
-  .yt-card .info { padding: 8px 10px; }
-  .yt-card .info .title { font-size: 12px; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .yt-card .info .meta { font-size: 10px; color: var(--muted); }
+  .yt-card .info { padding: 6px 8px; }
+  .yt-card .info .title { font-size: 11px; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .yt-card .info .meta { font-size: 9px; color: var(--muted); }
 
-  .prompt-box { font-family: monospace; font-size: 11px; white-space: pre-wrap; background: #0d1b2a; border-radius: 6px; padding: 12px; max-height: 150px; overflow-y: auto; margin-top: 8px; color: #9ab; display: none; line-height: 1.5; }
-
-  /* Responsive */
   @media (max-width: 600px) {
-    .brawler-grid { grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 8px; }
-    header { flex-direction: column; align-items: stretch; }
-    .controls input { width: 100%; }
-    .modal .asset-grid { grid-template-columns: repeat(auto-fill, minmax(70px, 1fr)); }
+    .brawler-grid { grid-template-columns: repeat(auto-fill, minmax(90px, 1fr)); gap: 6px; }
+    .cat-grid { grid-template-columns: repeat(auto-fill, minmax(70px, 1fr)); }
+    .header-actions input { width: 100%; }
+    .tabs { padding: 0 10px; }
+    .tab { padding: 8px 10px; font-size: 11px; }
+    .modal .asset-grid { grid-template-columns: repeat(auto-fill, minmax(60px, 1fr)); }
   }
 </style>
 </head>
@@ -114,12 +116,12 @@
 <header>
   <div>
     <h1><span>Brawl</span> Assets Hub</h1>
-    <div class="subtitle">107 brawlers · 5000+ assets · AI vision pack</div>
+    <div class="subtitle"><span id="totalBrawlers">0</span> brawlers · <span id="totalAssets">0</span> assets</div>
   </div>
-  <div class="controls">
-    <input type="text" id="search" placeholder="Search brawler..." oninput="render()">
-    <select id="rarityFilter" onchange="render()">
-      <option value="">All rarities</option>
+  <div class="header-actions">
+    <input type="text" id="search" placeholder="Search..." oninput="renderTab()" style="width:140px;">
+    <select id="rarityFilter" onchange="renderTab()" style="display:none;">
+      <option value="">All</option>
       <option>Common</option>
       <option>Rare</option>
       <option>Super Rare</option>
@@ -128,35 +130,31 @@
       <option>Legendary</option>
       <option>Ultra Legendary</option>
     </select>
-    <select id="classFilter" onchange="render()">
-      <option value="">All classes</option>
-    </select>
-    <button class="btn-primary" onclick="triggerScrape()" id="scrapeBtn" style="padding:7px 14px;font-size:12px;cursor:pointer;">🔄 Scrape Fankit</button>
+    <button class="btn-secondary" onclick="triggerScrape()" id="scrapeBtn" style="padding:5px 10px;font-size:11px;">🔄 Scrape</button>
+    <button class="btn-secondary" onclick="pullUpdates()" id="pullBtn" style="padding:5px 10px;font-size:11px;">⬇️ Pull</button>
   </div>
 </header>
 
-<div class="stats">
-  <span>Brawlers: <strong id="totalCount">0</strong></span>
-  <span>Filtered: <strong id="filteredCount">0</strong></span>
-  <span>Assets: <strong id="assetCount">0</strong></span>
-  <span>Previews: <strong id="previewCount">0</strong></span>
-</div>
+<div class="tabs" id="tabs"></div>
 
-<div class="yt-section">
+<div class="yt-section" id="yt-section">
   <div class="yt-form">
-    <span style="font-size:13px;font-weight:600;">🎬 YouTube example</span>
-    <input type="text" id="ytInput" placeholder="Paste YouTube URL or video ID..." onkeydown="if(event.key==='Enter')addYtExample()">
-    <button class="btn-primary" onclick="addYtExample()" style="padding:8px 16px;font-size:12px;">Add</button>
+    <span style="font-size:12px;font-weight:600;">🎬 YouTube</span>
+    <input type="text" id="ytInput" placeholder="Paste URL or video ID..." onkeydown="if(event.key==='Enter')addYtExample()">
+    <button class="btn-primary" onclick="addYtExample()" style="padding:6px 12px;font-size:11px;">Add</button>
     <span class="status" id="ytStatus"></span>
   </div>
   <div class="yt-grid" id="ytGrid"></div>
+</div>
+
+<div class="stats">
+  <span id="activeStat">Browse assets</span>
 </div>
 
 <div class="container">
   <div class="brawler-grid" id="grid"></div>
 </div>
 
-<!-- Modal -->
 <div class="modal-overlay" id="modal">
   <div class="modal">
     <button class="close" onclick="closeModal()">✕</button>
@@ -166,15 +164,10 @@
   </div>
 </div>
 
-<div class="copied-msg" id="copiedMsg">✓ Copied</div>
-
-<!-- Board -->
 <div class="board" id="board">
-  <button class="board-toggle" onclick="toggleBoard()">📋 Composition Board (<span id="boardCount">0</span>)</button>
+  <button class="board-toggle" onclick="toggleBoard()">📋 Board (<span id="boardCount">0</span>)</button>
   <div class="board-inner">
-    <div class="board-items" id="boardItems">
-      <div style="color:var(--muted);font-size:11px;padding:8px;">Click assets in brawler detail to add here</div>
-    </div>
+    <div class="board-items" id="boardItems"><div style="color:var(--muted);font-size:10px;padding:6px;">Click assets to add</div></div>
     <div class="board-actions">
       <button class="btn-primary" onclick="genPrompt()">🎯 Prompt</button>
       <button class="btn-secondary" onclick="clearBoard()">Clear</button>
@@ -182,322 +175,212 @@
   </div>
   <div class="prompt-box" id="promptOut"></div>
 </div>
+<div class="copied-msg" id="copiedMsg"></div>
 
 <script>
-let brawlers = [], allAssets = [], board = [], ytExamples = [];
+let brawlers = [], allAssets = [], manifest = [], ytExamples = [], board = [];
+let activeTab = 'brawlers';
+
+const CAT_ORDER = ['Brawlers','Portraits','Pins','Emojis','Sprays','Backgrounds','LoadingScreens','Animations','UI','Icons','Misc','Logos'];
+const CAT_LABELS = {Brawlers:'Brawlers',Portraits:'Portraits',Pins:'Pins',Emojis:'Emojis',Sprays:'Sprays',Backgrounds:'Backgrounds',LoadingScreens:'Loading',Animations:'Animations',UI:'UI',Icons:'Icons',Misc:'Misc',Logos:'Logos'};
 
 async function load() {
   try {
-    const [bRes, aRes, pRes] = await Promise.all([
+    const [bRes, aRes, mRes] = await Promise.all([
       fetch('data/brawlers.json'),
       fetch('data/search_index.json'),
       fetch('data/preview_manifest.json')
     ]);
-    const bData = await bRes.json();
+    brawlers = Object.entries(await bRes.json()).map(([k,v])=>({key:k,...v}));
     allAssets = await aRes.json();
-    const manifest = await pRes.json();
-
-    brawlers = Object.entries(bData).map(([k,v]) => ({ key: k, ...v }));
-    const totalPreviews = manifest.filter(m => m.filesize > 0).length;
-
-    document.getElementById('totalCount').textContent = brawlers.length;
-    document.getElementById('assetCount').textContent = allAssets.length;
-    document.getElementById('previewCount').textContent = totalPreviews;
-
-    // Populate class filter
-    const classes = [...new Set(brawlers.map(b => b['class']))].sort();
-    const sel = document.getElementById('classFilter');
-    classes.forEach(c => { sel.innerHTML += `<option>${c}</option>`; });
-
-    render();
+    manifest = await mRes.json();
+    document.getElementById('totalBrawlers').textContent = brawlers.length;
+    document.getElementById('totalAssets').textContent = allAssets.length;
+    renderTabs();
+    switchTab('brawlers');
   } catch(e) {
-    document.getElementById('grid').innerHTML = `<div class="empty"><div class="big">⚠️</div>Failed to load data.<br>${e.message}</div>`;
+    document.getElementById('grid').innerHTML = `<div class="empty">⚠️ Failed to load data<br>${e.message}</div>`;
   }
 }
 
-function getPreviewDir(b) {
-  let dir = b.preview_dir || b.key;
-  return `previews/Brawlers/${dir}`;
+function renderTabs() {
+  const el = document.getElementById('tabs');
+  el.innerHTML = '<div class="tab active" data-tab="brawlers" onclick="switchTab(\'brawlers\')">Brawlers <span class="count">'+brawlers.length+'</span></div>';
+  const counts = {};
+  for (const a of allAssets) { const c = a.category || 'Other'; counts[c] = (counts[c]||0)+1; }
+  for (const cat of CAT_ORDER) {
+    if (counts[cat]) el.innerHTML += `<div class="tab" data-tab="${cat}" onclick="switchTab('${cat}')">${CAT_LABELS[cat]||cat} <span class="count">${counts[cat]}</span></div>`;
+  }
+  loadYtExamples();
 }
 
-function getFirstPreview(b) {
-  const dir = getPreviewDir(b);
-  // Try common patterns
-  const patterns = [
-    `${dir}/${b.name.replace(/[^a-zA-Z0-9]/g,'_')}_bordered.webp`,
-    `${dir}/${b.name.replace(/[^a-zA-Z0-9]/g,'_')}_Default_001.webp`,
-    `${dir}/${b.name.split(' ')[0]}_Default_001.webp`,
-  ];
-  return patterns[0]; // Return first, onerror will try next
+function switchTab(tab) {
+  activeTab = tab;
+  document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.tab === tab));
+  const isBrawlers = tab === 'brawlers';
+  document.getElementById('rarityFilter').style.display = isBrawlers ? 'inline-block' : 'none';
+  document.getElementById('search').placeholder = isBrawlers ? 'Search brawler...' : 'Search assets...';
+  document.getElementById('yt-section').style.display = isBrawlers ? 'block' : 'none';
+  renderTab();
+}
+
+function renderTab() {
+  const q = document.getElementById('search').value.toLowerCase();
+  if (activeTab === 'brawlers') renderBrawlers(q);
+  else renderCategory(activeTab, q);
 }
 
 function getThumbUrl(name, dir) {
   const safe = name.replace(/[^a-zA-Z0-9]/g,'_');
   const first = name.split(' ')[0];
-  // CDN brawlers use _bordered, Fankit use _Default_001
-  return [
-    `${dir}/${safe}_Default_001.webp`,
-    `${dir}/${first}_Default_001.webp`,
-    `${dir}/${safe}_bordered.webp`,
-    `${dir}/${safe}_Classic_001.webp`,
-  ];
-}
-function fallbackImg(img, patterns, idx = 0) {
-  if (idx < patterns.length - 1) {
-    img.src = patterns[idx + 1];
-    img.onerror = () => fallbackImg(img, patterns, idx + 1);
-  } else {
-    img.style.display = 'none';
-    img.parentElement.innerHTML = '<div style="color:#445;font-size:24px;">?</div>';
-  }
+  return [`${dir}/${safe}_Default_001.webp`,`${dir}/${first}_Default_001.webp`,`${dir}/${safe}_bordered.webp`,`${dir}/${safe}_Classic_001.webp`];
 }
 
-function render() {
-  const q = document.getElementById('search').value.toLowerCase();
+function fallbackImg(img, patterns, idx) {
+  if (idx < patterns.length - 1) { img.src = patterns[idx+1]; img.onerror = () => fallbackImg(img, patterns, idx+1); }
+  else { img.style.display = 'none'; img.parentElement.innerHTML = '<div style="color:#445;font-size:20px;">?</div>'; }
+}
+
+function getPreviewDir(b) { return `previews/Brawlers/${b.preview_dir || b.key}`; }
+
+function renderBrawlers(q) {
   const r = document.getElementById('rarityFilter').value;
-  const c = document.getElementById('classFilter').value;
-
-  let filtered = brawlers.filter(b => {
-    if (r && b.rarity !== r) return false;
-    if (c && b['class'] !== c) return false;
-    if (q && !b.name.toLowerCase().includes(q) && !b.key.toLowerCase().includes(q)) return false;
-    return true;
-  });
-
-  document.getElementById('filteredCount').textContent = filtered.length;
-
+  let filtered = brawlers.filter(b => (!r||b.rarity===r) && (!q||b.name.toLowerCase().includes(q)||b.key.toLowerCase().includes(q)));
+  document.getElementById('activeStat').textContent = `Showing ${filtered.length} of ${brawlers.length} brawlers`;
   const grid = document.getElementById('grid');
-  if (filtered.length === 0) {
-    grid.innerHTML = '<div class="empty"><div class="big">🔍</div>No brawlers match your filters</div>';
-    return;
-  }
-
+  if (!filtered.length) { grid.innerHTML = '<div class="empty">No brawlers match</div>'; return; }
+  grid.style.gridTemplateColumns = '';
+  grid.className = 'brawler-grid';
   grid.innerHTML = filtered.map(b => {
     const dir = getPreviewDir(b);
-    const selected = board.some(item => item.brawlerKey === b.key);
     const urls = getThumbUrl(b.name, dir);
-    return `<div class="brawler-card rarity-${b.rarity.replace(/ /g,'-')} ${selected?'selected':''}" onclick="openBrawler('${b.key}')">
+    const sel = board.some(i => i.brawlerKey === b.key);
+    return `<div class="brawler-card rarity-${b.rarity.replace(/ /g,'-')} ${sel?'selected':''}" onclick="openBrawler('${b.key}')">
       <div class="rarity-bar"></div>
-      <div class="thumb-wrap">
-        <img src="${urls[0]}" data-patterns='${JSON.stringify(urls).replace(/'/g,"&apos;")}'
-             onerror="fallbackImg(this,JSON.parse(this.dataset.patterns),0)" alt="${b.name}" loading="lazy">
-      </div>
-      <div class="info">
-        <div class="name">${b.name}</div>
-        <div class="meta"><span>${b['class']}</span><span>${b.total_assets}</span></div>
-      </div>
+      <div class="thumb-wrap"><img src="${urls[0]}" data-p='${JSON.stringify(urls).replace(/'/g,"&apos;")}' onerror="fallbackImg(this,JSON.parse(this.dataset.p),0)" alt="${b.name}" loading="lazy"></div>
+      <div class="info"><div class="name">${b.name}</div><div class="meta"><span>${b['class']}</span><span>${b.total_assets}</span></div></div>
     </div>`;
   }).join('');
 }
 
+function renderCategory(cat, q) {
+  const items = allAssets.filter(a => (a.category||'Other') === cat && (!q || (a.display_name||'').toLowerCase().includes(q)));
+  document.getElementById('activeStat').textContent = `${cat}: ${items.length} assets`;
+  const grid = document.getElementById('grid');
+  if (!items.length) { grid.innerHTML = '<div class="empty">No assets in this category</div>'; return; }
+  grid.style.gridTemplateColumns = '';
+  grid.className = 'cat-grid';
+  grid.innerHTML = items.sort((a,b)=>(a.display_name||'').localeCompare(b.display_name||'')).map(a => {
+    const stem = (a.display_name||a.id).replace(/ /g,'_');
+    const pv = `previews/${a.category}/${a.subcategory}/${stem}.webp`;
+    return `<div class="cat-asset" title="${a.display_name} (${a.subcategory})">
+      <img src="${pv}" alt="${a.display_name}" loading="lazy" onclick="addToBoard('${a.brawler||a.category}','${(a.display_name||'').replace(/'/g,"")}','${pv}')" onerror="this.parentElement.style.display='none'">
+      <div class="label">${a.display_name||'?'}</div>
+    </div>`;
+  }).join('');
+}
+
+// ── Brawler Modal ──
 function openBrawler(key) {
   const b = brawlers.find(x => x.key === key);
   if (!b) return;
-
   document.getElementById('modalTitle').textContent = b.name;
-  document.getElementById('modalMeta').innerHTML = `
-    <span style="color:${b.color}">■</span> ${b.rarity} · ${b['class']} · <strong>${b.total_assets}</strong> assets
-    ${b.skins && b.skins.length ? '· Skins: ' + b.skins.slice(0,6).join(', ') + (b.skins.length>6?'…':'') : ''}
-    <button class="btn-secondary" onclick="event.stopPropagation();copyBrawlerContext(brawlers.find(x=>x.key==='${b.key}'))" style="margin-left:8px;padding:2px 8px;font-size:11px;">📋 Copy context</button>
-  `;
-
-  // Collect this brawler's asset IDs
   const ids = new Set();
-  for (const cat of Object.values(b.asset_types || {})) cat.forEach(id => ids.add(id));
-
-  const catOrder = ['Brawlers','Portraits','Pins','Emojis','Sprays','Backgrounds','LoadingScreens','Animations','UI','Icons','Misc','Logos'];
+  for (const cat of Object.values(b.asset_types||{})) cat.forEach(id => ids.add(id));
   const grouped = {};
-  for (const a of allAssets) {
-    if (!ids.has(a.id)) continue;
-    const cat = a.category || 'Other';
-    if (!grouped[cat]) grouped[cat] = [];
-    grouped[cat].push(a);
-  }
-
+  for (const a of allAssets) { if (ids.has(a.id)) { const c = a.category||'Other'; if (!grouped[c]) grouped[c]=[]; grouped[c].push(a); } }
+  document.getElementById('modalMeta').innerHTML = `<span style="color:${b.color}">■</span> ${b.rarity} · ${b['class']} · ${b.total_assets} assets${b.skins?.length ? ' · Skins: '+b.skins.slice(0,6).join(', ')+(b.skins.length>6?'…':''):''}
+    <button class="btn-secondary" onclick="copyBrawlerContext(brawlers.find(x=>x.key==='${b.key}'))" style="margin-left:6px;padding:2px 6px;font-size:10px;">📋 Copy</button>`;
   let html = '';
-  for (const cat of catOrder) {
-    const items = grouped[cat];
-    if (!items || items.length === 0) continue;
+  for (const cat of CAT_ORDER) {
+    const items = grouped[cat]; if (!items?.length) continue;
     html += `<div class="cat-header">${cat} (${items.length})</div>`;
-    items.sort((a,b) => (a.display_name||'').localeCompare(b.display_name||''));
-
-    for (const a of items.slice(0, 24)) {
-      const stem = (a.display_name || a.id).replace(/ /g,'_');
+    items.sort((a,b)=>(a.display_name||'').localeCompare(b.display_name||''));
+    for (const a of items.slice(0,30)) {
+      const stem = (a.display_name||a.id).replace(/ /g,'_');
       const pv = `previews/${a.category}/${a.subcategory}/${stem}.webp`;
       const dn = (a.display_name||'').replace(/'/g,"");
-      html += `<div class="asset-item" title="${a.display_name}">
-        <img src="${pv}" alt="${a.display_name}" loading="lazy"
-             onclick="event.stopPropagation();addToBoard('${b.key}','${dn}','${pv}')"
-             onerror="this.parentElement.style.display='none'">
-        <button class="copy-btn" onclick="event.stopPropagation();copyUrl('${pv}')">📋 URL</button>
-        <div class="cat-label">${a.subcategory}</div>
-      </div>`;
+      html += `<div class="asset-item" title="${a.display_name}"><img src="${pv}" alt="${a.display_name}" loading="lazy" onclick="event.stopPropagation();addToBoard('${b.key}','${dn}','${pv}')" onerror="this.parentElement.style.display='none'"><button class="copy-btn" onclick="event.stopPropagation();copyUrl('${pv}')">📋</button><div class="cat-label">${a.subcategory||''}</div></div>`;
     }
-    if (items.length > 24) html += `<div style="grid-column:1/-1;font-size:11px;color:var(--muted);padding:4px 0;">+${items.length-24} more</div>`;
+    if (items.length > 30) html += `<div style="grid-column:1/-1;font-size:10px;color:var(--muted);padding:2px 0;">+${items.length-30} more</div>`;
   }
-
-  document.getElementById('modalAssets').innerHTML = html || '<p style="color:var(--muted);padding:20px 0;">No previews available</p>';
+  document.getElementById('modalAssets').innerHTML = html || '<p style="color:var(--muted);padding:10px 0;">No previews</p>';
   document.getElementById('modal').classList.add('open');
 }
-
 function closeModal() { document.getElementById('modal').classList.remove('open'); }
 document.getElementById('modal').addEventListener('click', function(e) { if (e.target===this) closeModal(); });
 
-function addToBoard(brawlerKey, name, path) {
-  if (board.length >= 8) return;
-  if (board.some(i => i.path === path)) return;
-  board.push({ brawlerKey, name, path });
-  updateBoard();
-}
-
+// ── Board ──
+function addToBoard(bk, n, p) { if (board.length<8 && !board.some(i=>i.path===p)) { board.push({brawlerKey:bk,name:n,path:p}); updateBoard(); } }
 function removeBoard(i) { board.splice(i,1); updateBoard(); }
 function clearBoard() { board=[]; updateBoard(); document.getElementById('promptOut').style.display='none'; }
 function toggleBoard() { document.getElementById('board').classList.toggle('open'); }
-
 function updateBoard() {
   document.getElementById('boardCount').textContent = board.length;
-  render();
   const el = document.getElementById('boardItems');
-  if (board.length === 0) { el.innerHTML = '<div style="color:var(--muted);font-size:11px;padding:8px;">Click assets in brawler detail to add here</div>'; return; }
-  el.innerHTML = board.map((item,i) => `
-    <div class="board-item">
-      <img src="${item.path}" alt="${item.name}" onerror="this.remove()">
-      <div class="name">${item.name}</div>
-      <button class="remove" onclick="removeBoard(${i})">✕</button>
-    </div>
-  `).join('');
+  if (!board.length) { el.innerHTML = '<div style="color:var(--muted);font-size:10px;padding:6px;">Click assets to add</div>'; return; }
+  el.innerHTML = board.map((item,i) => `<div class="board-item"><img src="${item.path}" alt="${item.name}" onerror="this.remove()"><div class="name">${item.name}</div><button class="remove" onclick="removeBoard(${i})">✕</button></div>`).join('');
 }
-
 function genPrompt() {
-  if (board.length === 0) return;
-  const lines = [];
-  lines.push('┌─ COMPOSITION ─────────────────────────────────────────┐');
-  board.forEach((item,i) => {
-    lines.push(`│ ${i+1}. ${item.name.padEnd(46)}│`);
-    lines.push(`│    ${item.path.padEnd(46)}│`);
-  });
-  lines.push('├─ KNOWLEDGE RULES ────────────────────────────────────┤');
-  lines.push('│ • Selector: choose best assets for each layer        │');
-  lines.push('│ • Composer: subject 60%, bg 30%, accent 10%         │');
-  lines.push('│ • Palette engine: extract + harmonize 3 colors max   │');
-  lines.push('│ • Typography: Brawl Stars Heavy, stroke 2px black    │');
-  lines.push('│ • Anti-AI: no glow, no sparkles, no generic effects  │');
-  lines.push('│ • QC check before final render                       │');
+  if (!board.length) return;
+  const lines = ['┌─ COMPOSITION ─────────────────────────────────────────┐'];
+  board.forEach((item,i) => { lines.push(`│ ${i+1}. ${(item.name||'').padEnd(46)}│`); lines.push(`│    ${(item.path||'').padEnd(46)}│`); });
+  lines.push('├─ RULES ──────────────────────────────────────────────┤');
+  lines.push('│ Selector: choose best assets for each layer         │');
+  lines.push('│ Composer: subject 60%, bg 30%, accent 10%          │');
+  lines.push('│ Palette: extract + harmonize 3 colors max           │');
+  lines.push('│ Typography: Brawl Stars Heavy, stroke 2px black     │');
+  lines.push('│ Anti-AI: no glow, no sparkles, no generic effects   │');
   lines.push('└──────────────────────────────────────────────────────┘');
   const out = document.getElementById('promptOut');
-  out.textContent = lines.join('\n');
-  out.style.display = 'block';
-  document.getElementById('board').classList.add('open');
+  out.textContent = lines.join('\n'); out.style.display = 'block';
 }
 
-// ── YouTube Examples ──
-async function loadYtExamples() {
+// ── Copy ──
+let copiedTimer;
+function showCopied(m) { const e=document.getElementById('copiedMsg'); e.textContent=m; e.style.opacity='1'; clearTimeout(copiedTimer); copiedTimer=setTimeout(()=>e.style.opacity='0',2000); }
+function copyUrl(path) { const u=window.location.origin+'/'+path; navigator.clipboard.writeText(u).then(()=>showCopied('📋 URL copied')).catch(()=>{const ta=document.createElement('textarea');ta.value=u;document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove();showCopied('📋 URL copied');}); }
+function copyBrawlerContext(b) { if(!b)return; const dir=getPreviewDir(b); const firstUrl=window.location.origin+'/'+getThumbUrl(b.name,dir)[0]; let ctx=`Brawler: ${b.name}\nRarity: ${b.rarity} | Class: ${b['class']}\nAssets: ${b.total_assets}`; if(b.skins?.length) ctx+=`\nSkins: ${b.skins.slice(0,5).join(', ')}`; ctx+=`\nPreview: ${firstUrl}\nProfile: ${window.location.origin}/data/brawler_profiles/${b.key}.md`; navigator.clipboard.writeText(ctx).then(()=>showCopied('📋 Brawler context copied')); }
+
+// ── GitHub Actions ──
+async function triggerScrape() {
+  const btn = document.getElementById('scrapeBtn'); btn.textContent='⏳...'; btn.disabled=true;
   try {
-    const r = await fetch('data/examples_index.json');
-    ytExamples = await r.json();
-  } catch(e) { ytExamples = []; }
-  renderYtExamples();
+    const r = await fetch('/api/trigger-scrape', {method:'POST'}); const d = await r.json();
+    if (d.ok) { btn.textContent='✅ Scraping'; showCopied('✅ Scrape triggered!'); }
+    else { btn.textContent='❌ Failed'; showCopied('❌ '+d.error); }
+  } catch(e) { btn.textContent='❌ Err'; showCopied('❌ '+e.message); }
+  setTimeout(()=>{btn.textContent='🔄 Scrape'; btn.disabled=false;},5000);
 }
-function renderYtExamples() {
+async function pullUpdates() {
+  const btn = document.getElementById('pullBtn'); btn.textContent='⏳ Pulling...'; btn.disabled=true;
+  try {
+    const r = await fetch('/api/pull', {method:'POST'}); const d = await r.json();
+    if (d.ok) { btn.textContent='✅ Done'; showCopied('✅ Data updated! Reloading...'); setTimeout(()=>location.reload(),1500); }
+    else { btn.textContent='❌ Failed'; showCopied('❌ '+d.error); }
+  } catch(e) { btn.textContent='❌ Err'; showCopied('❌ '+e.message); }
+  setTimeout(()=>{btn.textContent='⬇️ Pull'; btn.disabled=false;},5000);
+}
+
+// ── YouTube ──
+async function loadYtExamples() {
+  try { ytExamples = await (await fetch('data/examples_index.json')).json(); } catch(e) { ytExamples = []; }
   const grid = document.getElementById('ytGrid');
-  if (ytExamples.length === 0) {
-    grid.innerHTML = '<div style="color:var(--muted);font-size:12px;grid-column:1/-1;padding:8px 0;">No examples yet — paste a YouTube URL above</div>';
-    return;
-  }
-  grid.innerHTML = ytExamples.slice().reverse().map(ex => {
-    const imgPath = `examples/${ex.file}`;
-    return `<div class="yt-card">
-      <img src="${imgPath}" alt="${ex.title}" loading="lazy" onerror="this.style.display='none'">
-      <div class="info">
-        <div class="title" title="${ex.title}">${ex.title}</div>
-        <div class="meta">${ex.quality} · ${(ex.size/1024).toFixed(0)}KB</div>
-      </div>
-    </div>`;
-  }).join('');
+  if (!ytExamples.length) { grid.innerHTML = '<div style="color:var(--muted);font-size:11px;grid-column:1/-1;padding:4px 0;">No examples yet</div>'; return; }
+  grid.innerHTML = ytExamples.slice().reverse().map(ex => `<div class="yt-card"><img src="examples/${ex.file}" alt="${ex.title}" loading="lazy" onerror="this.style.display=\'none\'"><div class="info"><div class="title" title="${ex.title}">${ex.title}</div><div class="meta">${ex.quality} · ${(ex.size/1024).toFixed(0)}KB</div></div></div>`).join('');
 }
 async function addYtExample() {
-  const input = document.getElementById('ytInput');
-  const status = document.getElementById('ytStatus');
-  const url = input.value.trim();
-  if (!url) return;
-
-  status.textContent = '⏳ Downloading...';
+  const input = document.getElementById('ytInput'), status = document.getElementById('ytStatus'), url = input.value.trim();
+  if (!url) return; status.textContent = '⏳...';
   try {
-    const r = await fetch('/api/add-example', {
-      method: 'POST',
-      headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({url})
-    });
-    const data = await r.json();
-    if (data.ok) {
-      status.textContent = '✅ Added!';
-      input.value = '';
-      // Reload examples
-      await loadYtExamples();
-      setTimeout(() => { status.textContent = ''; }, 3000);
-    } else {
-      status.textContent = '❌ ' + (data.error || 'Unknown error');
-    }
-  } catch(e) {
-    status.textContent = '❌ ' + e.message;
-  }
-}
-
-// ── Trigger GitHub Scrape ──
-async function triggerScrape() {
-  const btn = document.getElementById('scrapeBtn');
-  btn.textContent = '⏳ Triggering...';
-  btn.disabled = true;
-  try {
-    const r = await fetch('/api/trigger-scrape', { method: 'POST' });
-    const data = await r.json();
-    if (data.ok) {
-      btn.textContent = '✅ Scraping on GitHub!';
-      showCopied('✅ Scrape triggered! Check GitHub Actions in ~10min');
-    } else {
-      btn.textContent = '❌ Failed';
-      showCopied('❌ ' + (data.error || 'Failed'));
-    }
-  } catch(e) {
-    btn.textContent = '❌ Error';
-    showCopied('❌ ' + e.message);
-  }
-  setTimeout(() => { btn.textContent = '🔄 Scrape Fankit'; btn.disabled = false; }, 5000);
-}
-
-// ── Quick Copy ──
-function copyUrl(path) {
-  const url = window.location.origin + '/' + path;
-  navigator.clipboard.writeText(url).then(() => {
-    showCopied('📋 URL copied!');
-  }).catch(() => {
-    // Fallback
-    const ta = document.createElement('textarea');
-    ta.value = url; document.body.appendChild(ta);
-    ta.select(); document.execCommand('copy'); ta.remove();
-    showCopied('📋 URL copied!');
-  });
-}
-
-function copyBrawlerContext(b) {
-  const dir = getPreviewDir(b);
-  const firstUrl = window.location.origin + '/' + getThumbUrl(b.name, dir)[0];
-  let ctx = `Brawler: ${b.name}\nRarity: ${b.rarity} | Class: ${b['class']}\nAssets: ${b.total_assets}`;
-  if (b.skins && b.skins.length) ctx += `\nSkins: ${b.skins.slice(0,5).join(', ')}`;
-  ctx += `\nPreview: ${firstUrl}\nProfile: ${window.location.origin}/data/brawler_profiles/${b.key}.md`;
-  navigator.clipboard.writeText(ctx).then(() => showCopied('📋 Brawler context copied!'));
-}
-
-let copiedTimer = null;
-function showCopied(msg) {
-  const el = document.getElementById('copiedMsg');
-  el.textContent = msg; el.style.opacity = '1';
-  clearTimeout(copiedTimer);
-  copiedTimer = setTimeout(() => { el.style.opacity = '0'; }, 2000);
+    const r = await fetch('/api/add-example', {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({url})});
+    const d = await r.json();
+    if (d.ok) { status.textContent='✅ Added!'; input.value=''; await loadYtExamples(); setTimeout(()=>status.textContent='',3000); }
+    else { status.textContent='❌ '+d.error; }
+  } catch(e) { status.textContent='❌ '+e.message; }
 }
 
 load();
-loadYtExamples();
 </script>
 </body>
 </html>

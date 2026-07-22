@@ -41,13 +41,22 @@ class Handler(http.server.SimpleHTTPRequestHandler):
 
         elif self.path == '/api/trigger-scrape':
             try:
-                repo = "surgeodev/brawl-assets"
                 r = subprocess.run(
-                    ["gh", "workflow", "run", "update.yml", "--repo", repo],
+                    ["gh", "workflow", "run", "update.yml", "--repo", "surgeodev/brawl-assets"],
                     capture_output=True, text=True, timeout=30
                 )
                 if r.returncode == 0:
-                    self.send_json(200, {"ok": True, "message": "Scrape workflow triggered on GitHub"})
+                    self.send_json(200, {"ok": True})
+                else:
+                    self.send_json(500, {"error": r.stderr or r.stdout})
+            except Exception as e:
+                self.send_json(500, {"error": str(e)})
+
+        elif self.path == '/api/pull':
+            try:
+                r = subprocess.run(["git", "pull"], capture_output=True, text=True, timeout=60, cwd=str(BASE))
+                if r.returncode == 0:
+                    self.send_json(200, {"ok": True, "output": r.stdout})
                 else:
                     self.send_json(500, {"error": r.stderr or r.stdout})
             except Exception as e:
