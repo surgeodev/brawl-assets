@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+BrawlAssets/
+cdn_brawlers/
+_raw/
+contact_sheets/
+previews/
+download/*.zip
+.DS_Store
+thumbs.db
+*.egg-info/
+.tox/

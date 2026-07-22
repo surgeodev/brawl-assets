@@ -1,0 +1,104 @@
+name: Monthly Brawl Assets Update
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # 1st of every month
+  workflow_dispatch:       # Manual trigger
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install system deps
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq libglib2.0-0 libnss3 libnspr4 libatk1.0-0 \
+            libatk-bridge2.0-0 libcups2 libdrm2 libdbus-1-3 libxkbcommon0 \
+            libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 \
+            libpango-1.0-0 libcairo2 libasound2 curl
+
+      - name: Install Python deps
+        run: |
+          pip install playwright Pillow
+          playwright install chromium
+
+      - name: Scrape Fankit (Playwright)
+        run: python scripts/scrape_fankit.py
+        timeout-minutes: 30
+
+      - name: Rebuild indexes + download CDN
+        run: python scripts/rebuild_indexes.py
+        timeout-minutes: 30
+
+      - name: Generate WebP previews
+        run: |
+          mkdir -p previews
+          python scripts/build_previews.py
+        timeout-minutes: 60
+
+      - name: Generate brawler profiles
+        run: python scripts/rebuild_indexes.py --profiles-only
+        continue-on-error: true
+
+      - name: Build master prompt
+        run: |
+          cat knowledge/*.md > data/master_prompt.md 2>/dev/null || true
+          echo "Master prompt: $(wc -c < data/master_prompt.md) bytes"
+
+      - name: Create download zip
+        run: |
+          mkdir -p download
+          cd previews && find . -name '*.webp' | head -1 && cd ..
+          cd data && zip -r ../download/brawl_stars_vision_pack.zip \
+            assets.json brawlers.json search_index.json preview_manifest.json \
+            brawler_profiles/ ../master_prompt.md 2>/dev/null; cd ..
+          zip -r download/brawl_stars_vision_pack.zip previews/ \
+            -x "*/BrawlAssets/*" -x "*/_raw_assets/*" -x "*/_cdn_brawlers/*"
+          echo "Zip size: $(du -sh download/brawl_stars_vision_pack.zip | cut -f1)"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+          exclusion: '**/BrawlAssets/** **/_raw_assets/** **/_cdn_brawlers/** **/.git/**'
+
+      - name: Deploy to Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Commit updated data
+        run: |
+          git config user.name "brawl-bot"
+          git config user.email "bot@brawl-assets"
+          git add data/ preview_manifest.json
+          git diff --quiet && git diff --staged --quiet || \
+            git commit -m "auto: monthly asset update ($(date +%Y-%m-%d))"
+          git push

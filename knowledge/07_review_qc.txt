@@ -1,0 +1,18 @@
+# Quality Control — Auto-verification de la thumbnail generee
+#
+# L'IA doit verifier sa propre thumbnail avant de la rendre.
+
+## Checklist obligatoire
+#
+# [ ] Le sujet occupe 60-75% de l'image
+# [ ] Le texte est lisible (stroke + bonne couleur)
+# [ ] La palette ne depasse pas 3 couleurs principales
+# [ ] Le sujet et le fond ont un contraste suffisant (brightness diff > 0.2)
+# [ ] Aucun glow neony generique
+# [ ] Les bords sont nets (pas de flou non desire)
+# [ ] L'emoji/accent ne cache pas le visage du brawler
+# [ ] La typo utilise Brawl Stars Heavy (ou fallback Arial Black)
+# [ ] Le texte est centre ou aligne sur la regle des tiers
+# [ ] L'image fait 1024×1024
+#
+## Si un check echoue: corriger avant de rendre

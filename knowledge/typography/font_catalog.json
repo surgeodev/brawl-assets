@@ -1,0 +1,146 @@
+{
+  "note": "Brawl Stars uses Lilita One as its primary brand font. No custom font files are included in this project. All typography in thumbnails must be created using available system fonts or explicitly downloaded fonts. This catalog documents fonts found in the system AND fonts recommended for Brawl Stars thumbnail work.",
+  "available_system_fonts": [
+    {
+      "id": "dejavu_sans",
+      "name": "DejaVu Sans",
+      "file": "/data/data/com.termux/files/usr/share/fonts/TTF/DejaVuSans.ttf",
+      "family": "DejaVu Sans",
+      "weight": "400",
+      "style": "normal",
+      "visual_character": ["neutral", "clean", "legible"],
+      "best_for": ["fallback text", "subtitles", "descriptions"],
+      "avoid_for": ["thumbnail titles", "impact text", "brand headers"],
+      "recommended_transformations": ["bold weight only", "never use for main titles"]
+    },
+    {
+      "id": "dejavu_sans_bold",
+      "name": "DejaVu Sans Bold",
+      "file": "/data/data/com.termux/files/usr/share/fonts/TTF/DejaVuSans-Bold.ttf",
+      "family": "DejaVu Sans",
+      "weight": "700",
+      "style": "normal",
+      "visual_character": ["neutral", "bold", "legible"],
+      "best_for": ["subtitles", "information text", "stat counters"],
+      "avoid_for": ["main title", "brand name", "impact callouts"],
+      "recommended_transformations": ["tight tracking", "white fill with dark shadow"]
+    },
+    {
+      "id": "dejavu_sans_mono",
+      "name": "DejaVu Sans Mono",
+      "file": "/data/data/com.termux/files/usr/share/fonts/TTF/DejaVuSansMono.ttf",
+      "family": "DejaVu Sans Mono",
+      "weight": "400",
+      "style": "monospace",
+      "visual_character": ["technical", "uniform", "neutral"],
+      "best_for": ["stats", "codes", "technical labels"],
+      "avoid_for": ["brand text", "titles", "emotive text"],
+      "recommended_transformations": ["never for main titles", "use very small"]
+    },
+    {
+      "id": "dejavu_serif",
+      "name": "DejaVu Serif",
+      "file": "/data/data/com.termux/files/usr/share/fonts/TTF/DejaVuSerif.ttf",
+      "family": "DejaVu Serif",
+      "weight": "400",
+      "style": "normal",
+      "visual_character": ["formal", "classic", "serif"],
+      "best_for": ["contrast text", "formal callouts"],
+      "avoid_for": ["Brawl Stars titles", "energetic text"],
+      "recommended_transformations": ["small size only", "as accent"]
+    }
+  ],
+  "recommended_for_download": [
+    {
+      "id": "lilita_one",
+      "name": "Lilita One",
+      "source": "https://fonts.google.com/specimen/Lilita+One",
+      "family": "Lilita One",
+      "weight": "400",
+      "style": "normal",
+      "visual_character": ["rounded", "bold", "playful", "wide", "friendly", "thick"],
+      "best_for": ["thumbnail main titles", "brawler names", "impact text", "short phrases"],
+      "avoid_for": ["long paragraphs", "subtitles", "descriptions", "technical text"],
+      "recommended_transformations": [
+        "horizontal stretch 105-115%",
+        "tight tracking -5 to -10",
+        "thick outline 4-8px",
+        "offset shadow",
+        "gradient fill"
+      ],
+      "is_primary": true
+    },
+    {
+      "id": "bangers",
+      "name": "Bangers",
+      "source": "https://fonts.google.com/specimen/Bangers",
+      "family": "Bangers",
+      "weight": "400",
+      "style": "normal",
+      "visual_character": ["comic", "bold", "energetic", "irregular", "hand-drawn feel"],
+      "best_for": ["comedy thumbnails", "exaggerated text", "sound effects"],
+      "avoid_for": ["serious titles", "brand text", "thin details"],
+      "recommended_transformations": ["rotation 3-7deg", "color fill", "comic outline"]
+    },
+    {
+      "id": "luckiest_guy",
+      "name": "Luckiest Guy",
+      "source": "https://fonts.google.com/specimen/Luckiest+Guy",
+      "family": "Luckiest Guy",
+      "weight": "400",
+      "style": "normal",
+      "visual_character": ["rounded", "bold", "friendly", "wide", "solid"],
+      "best_for": ["alternative main title font", "co-op titles", "team text"],
+      "avoid_for": ["thin text", "mixed with serif"],
+      "recommended_transformations": ["white fill", "colored shadow", "slight stretch"]
+    },
+    {
+      "id": "anton",
+      "name": "Anton",
+      "source": "https://fonts.google.com/specimen/Anton",
+      "family": "Anton",
+      "weight": "400",
+      "style": "normal",
+      "visual_character": ["condensed", "bold", "impactful", "sporty", "modern"],
+      "best_for": ["competitive titles", "esports style", "stats", "rank text"],
+      "avoid_for": ["fun/comedy content", "long text"],
+      "recommended_transformations": ["tight tracking", "uppercase only", "perspective"]
+    },
+    {
+      "id": "righteous",
+      "name": "Righteous",
+      "source": "https://fonts.google.com/specimen/Righteous",
+      "family": "Righteous",
+      "weight": "400",
+      "style": "normal",
+      "visual_character": ["retro", "bold", "distinctive", "wide", "display"],
+      "best_for": ["retro-themed thumbnails", "arcade style", "character names"],
+      "avoid_for": ["modern/sleek content"],
+      "recommended_transformations": ["slight rotation", "retro gradient"]
+    },
+    {
+      "id": "passion_one",
+      "name": "Passion One",
+      "source": "https://fonts.google.com/specimen/Passion+One",
+      "family": "Passion One",
+      "weight": "400/700/900",
+      "style": "normal",
+      "visual_character": ["bold", "compact", "heavy", "sporty", "solid"],
+      "best_for": ["heavy impact text", "score numbers", "short callouts"],
+      "avoid_for": ["thin elegance"],
+      "recommended_transformations": ["outline+fill", "layered colors"]
+    }
+  ],
+  "font_availability_check": {
+    "lilita_one": "NOT_INSTALLED — must download from Google Fonts before use",
+    "bangers": "NOT_INSTALLED — must download before use",
+    "luckiest_guy": "NOT_INSTALLED — must download before use",
+    "anton": "NOT_INSTALLED — must download before use",
+    "righteous": "NOT_INSTALLED — must download before use",
+    "passion_one": "NOT_INSTALLED — must download before use"
+  },
+  "installation_commands": {
+    "pip": "pip3 install matplotlib fonttools  # for matplotlib font rendering",
+    "manual_download": "wget https://github.com/google/fonts/raw/main/ofl/lilitaone/LilitaOne-Regular.ttf -P ~/.fonts/ && fc-cache -f"
+  }
+}

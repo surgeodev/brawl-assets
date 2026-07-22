@@ -1,0 +1,7612 @@
+{
+  "wendy": {
+    "name": "Wendy",
+    "rarity": "Mythic",
+    "class": "Unknown",
+    "color": "#fe5e72",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "0b35104f1432bef2",
+        "6157a1c9a33585fe"
+      ],
+      "Emojis": [
+        "f9eedc579bddcaff"
+      ]
+    }
+  },
+  "nori": {
+    "name": "Nori",
+    "rarity": "Legendary",
+    "class": "Unknown",
+    "color": "#fff11ev",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "9eb562befe421583",
+        "550544b3d5400c20"
+      ],
+      "Emojis": [
+        "358971fd2c93aa31"
+      ]
+    }
+  },
+  "bolt": {
+    "name": "Bolt",
+    "rarity": "Epic",
+    "class": "Unknown",
+    "color": "#d850ff",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "5a5baa45ddfd5069",
+        "c268b9fdd2383fc7"
+      ],
+      "Emojis": [
+        "593e3f1f8b0fa430"
+      ]
+    }
+  },
+  "starr_nova": {
+    "name": "Starr Nova",
+    "rarity": "Mythic",
+    "class": "Unknown",
+    "color": "#fe5e72",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "fb9b1b69e86a2311",
+        "cd1f676ed1f73059"
+      ],
+      "Emojis": [
+        "63bb1748e40c1458"
+      ]
+    }
+  },
+  "damian": {
+    "name": "Damian",
+    "rarity": "Mythic",
+    "class": "Unknown",
+    "color": "#fe5e72",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "d48e41e5e7a8c65b",
+        "e44873bd53453f51"
+      ],
+      "Emojis": [
+        "3dccc4f40b5522e6"
+      ]
+    }
+  },
+  "najia": {
+    "name": "Najia",
+    "rarity": "Mythic",
+    "class": "Unknown",
+    "color": "#fe5e72",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "8ec85d2c3f6f7224",
+        "c82651a071c3126b"
+      ],
+      "Emojis": [
+        "4fc62b01ffdfdfbc"
+      ]
+    }
+  },
+  "sirius": {
+    "name": "Sirius",
+    "rarity": "Ultra Legendary",
+    "class": "Unknown",
+    "color": "#e1fb2a",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "da980a7434911079",
+        "2513b389f203ec21"
+      ],
+      "Emojis": [
+        "466f44c3de2a1507"
+      ]
+    }
+  },
+  "glowy": {
+    "name": "Glowy",
+    "rarity": "Mythic",
+    "class": "Unknown",
+    "color": "#fe5e72",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "fbfde4f9f0616ac0",
+        "ee4b74f08382c6c2"
+      ],
+      "Emojis": [
+        "8d70aefca00809b9"
+      ]
+    }
+  },
+  "gigi": {
+    "name": "Gigi",
+    "rarity": "Mythic",
+    "class": "Unknown",
+    "color": "#fe5e72",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "2706eb2eb26b5adf",
+        "93301f727d529df1"
+      ],
+      "Emojis": [
+        "78856425bac15786"
+      ]
+    }
+  },
+  "pierce": {
+    "name": "Pierce",
+    "rarity": "Legendary",
+    "class": "Unknown",
+    "color": "#fff11ev",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "9ac42f5bdcfe5488",
+        "9d7cd1995984749e"
+      ],
+      "Emojis": [
+        "dc0869b6bc641661"
+      ]
+    }
+  },
+  "ziggy": {
+    "name": "Ziggy",
+    "rarity": "Mythic",
+    "class": "Unknown",
+    "color": "#fe5e72",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "3e3fb57e2fd41ca0",
+        "7eeaef83f40e318c"
+      ],
+      "Emojis": [
+        "7989c09f709dac49"
+      ]
+    }
+  },
+  "mina": {
+    "name": "Mina",
+    "rarity": "Mythic",
+    "class": "Unknown",
+    "color": "#fe5e72",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "9d00af45ba77395b",
+        "2099f24ce205f509"
+      ],
+      "Emojis": [
+        "56cfbbcdbd343efa"
+      ]
+    }
+  },
+  "trunk": {
+    "name": "Trunk",
+    "rarity": "Epic",
+    "class": "Unknown",
+    "color": "#d850ff",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "9dc71c738b4c899a",
+        "50084f17c4ccfcb4"
+      ],
+      "Emojis": [
+        "3b4bac57439f7fdb"
+      ]
+    }
+  },
+  "alli": {
+    "name": "Alli",
+    "rarity": "Mythic",
+    "class": "Unknown",
+    "color": "#fe5e72",
+    "total_assets": 4,
+    "skins": [
+      "Ball"
+    ],
+    "asset_types": {
+      "Brawlers": [
+        "a41b836e46b3cfd0",
+        "3af7f97eb6972303"
+      ],
+      "Emojis": [
+        "5db88ddb4cb52812"
+      ],
+      "UI": [
+        "be3e09a58f915dd5"
+      ]
+    }
+  },
+  "kaze": {
+    "name": "Kaze",
+    "rarity": "Ultra Legendary",
+    "class": "Unknown",
+    "color": "#e1fb2a",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "f8e47e521a0c2115",
+        "245b5fa6acd33ca0"
+      ],
+      "Emojis": [
+        "988126b327778fa3"
+      ]
+    }
+  },
+  "jae_yong": {
+    "name": "Jae-Yong",
+    "rarity": "Mythic",
+    "class": "Unknown",
+    "color": "#fe5e72",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "6b57d8c2f72e39f0",
+        "ad469f4ad25d5f0a"
+      ],
+      "Emojis": [
+        "9f535ac7ac85dc3a"
+      ]
+    }
+  },
+  "finx": {
+    "name": "Finx",
+    "rarity": "Mythic",
+    "class": "Unknown",
+    "color": "#fe5e72",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "a2f0a7b6cd7efc16",
+        "7c0a97ebed041c12"
+      ],
+      "Emojis": [
+        "f230a74a4e8e9cbc"
+      ]
+    }
+  },
+  "lumi": {
+    "name": "Lumi",
+    "rarity": "Mythic",
+    "class": "Damage Dealer",
+    "color": "#fe5e72",
+    "total_assets": 5,
+    "skins": [
+      "Icon"
+    ],
+    "asset_types": {
+      "Brawlers": [
+        "9a001f437608aea1",
+        "5c36b184f7d75d9b"
+      ],
+      "Emojis": [
+        "d49c487e835de881"
+      ],
+      "Sprays": [
+        "cf64d3414f30cb91"
+      ],
+      "UI": [
+        "343990f1819ebf11"
+      ]
+    }
+  },
+  "ollie": {
+    "name": "Ollie",
+    "rarity": "Mythic",
+    "class": "Unknown",
+    "color": "#fe5e72",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "c1959940287305ea",
+        "c56b1f45beec5a99"
+      ],
+      "Emojis": [
+        "79ae5e3331a49adc"
+      ]
+    }
+  },
+  "meeple": {
+    "name": "Meeple",
+    "rarity": "Epic",
+    "class": "Unknown",
+    "color": "#d850ff",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "6f968bc93753558e",
+        "09ad3e6d2bc0c484"
+      ],
+      "Emojis": [
+        "f61c04ca04bade1d"
+      ]
+    }
+  },
+  "buzz_lightyear": {
+    "name": "Buzz Lightyear",
+    "rarity": "Legendary",
+    "class": "Unknown",
+    "color": "#fff11ev",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "9717c97871c288d5",
+        "1e9056824b9208ee"
+      ],
+      "Emojis": [
+        "7b234cd76a49404e"
+      ]
+    }
+  },
+  "juju": {
+    "name": "Juju",
+    "rarity": "Mythic",
+    "class": "Artillery",
+    "color": "#fe5e72",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "1fecb47763e50f74",
+        "77d25de6b0839062"
+      ],
+      "Emojis": [
+        "7b04403423d34292"
+      ]
+    }
+  },
+  "shade": {
+    "name": "Shade",
+    "rarity": "Epic",
+    "class": "Assassin",
+    "color": "#d850ff",
+    "total_assets": 3,
+    "skins": [],
+    "asset_types": {
+      "Brawlers": [
+        "2b370d000bd3c0e5",
+        "7d38280b8d782786"
+      ],
+      "Emojis": [
+        "f3d088fc89c8d5e4"
+      ]
+    }
+  },
+  "kenji": {
+    "name": "Kenji",
+    "rarity": "Legendary",
+    "class": "Assassin",
+    "color": "#fff11ev",
+    "total_assets": 22,
+    "skins": [
+      "Gadget",
+      "Icon",
+      "Kenji",
+      "Screen",
+      "Starpower"
+    ],
+    "asset_types": {
+      "Animations": [
+        "4bcbaa23be22db41",
+        "bb5181adf13c816e"
+      ],
+      "Brawlers": [
+        "00abb3174378cb01",
+        "5d2e12bd858da37c"
+      ],
+      "LoadingScreens": [
+        "9ea1ee19ea05429e"
+      ],
+      "Pins": [
+        "c6eedb534ff2efae",
+        "53a9f5b45f07e579",
+        "5e5dd5481f8b7615",
+        "f2ff04b97a53e9c6",
+        "459c8bc023987000",
+        "65dfd3ed1e0ef34b",
+        "bfc832f1fa81601c",
+        "519c3e4822a2c2db",
+        "1a150568d3e11b71",
+        "9b3f6a0387a170c7"
+      ],
+      "Portraits": [
+        "8080a2fd927aabc2"
+      ],
+      "Sprays": [
+        "6cbd80f1087f6602"
+      ],
+      "UI": [
+        "71319762f0922211",
+        "bfe2159fedce89f9",
+        "e48cc93fb96dea46",
+        "a83fe452e8769975",
+        "16ee4df0a3aa1472"
+      ]
+    }
+  },
+  "moe": {
+    "name": "Moe",
+    "rarity": "Mythic",
+    "class": "Damage Dealer",
+    "color": "#fe5e72",
+    "total_assets": 41,
+    "skins": [
+      "Gadget",
+      "Icon",
+      "Moe",
+      "Primo",
+      "Screen",
+      "Starpower",
+      "Ulti"
+    ],
+    "asset_types": {
+      "Animations": [
+        "13eb7c7c5b10672f",
+        "8e0e7ed7275cd5b7"
+      ],
+      "Brawlers": [
+        "cd9762d6de9b4aa5",
+        "3af67e303167fda5",
+        "07c91b8fa01c7758",
+        "3e7db9ea3e538e84",
+        "fd1ca5637cd3e98d",
+        "070f17546966f002",
+        "804d9e7644a471c9",
+        "59928017d57a4da2",
+        "d6d2fa7044d7048c",
+        "b699e3abc25bc4a8",
+        "772b230166e5df2d",
+        "9c592856672d6b89",
+        "8137580fab5f02e4",
+        "460acf3693f44a74",
+        "300084ea620722c9",
+        "5613b160206de344"
+      ],
+      "LoadingScreens": [
+        "56090feb499bf446"
+      ],
+      "Pins": [
+        "3dfeaec8921480c7",
+        "b7b1b52181f468a0",
+        "e99613d3134adbdc",
+        "8a28b8bd2ddcf871",
+        "5543bd95afd725aa",
+        "fe242b343eb9e57c",
+        "e7f859488b0e5304",
+        "e391230d063440e9",
+        "92a04537c4d7188b",
+        "dc7803ff868cb6e0",
+        "2ea7e8e286c97142"
+      ],
+      "Sprays": [
+        "baa452a31d1f69d8"
+      ],
+      "UI": [
+        "54b3b486b1300be4",
+        "ded25f290fa117ab",
+        "d9ee8ded29cb7159",
+        "8338ff3f07d82f97",
+        "1137f4d85191d244",
+        "00fd61bbddb6976c",
+        "b804a693eb9ca5b8",
+        "e5b85d6972a0c470",
+        "a27abb94411e8ea5",
+        "e8591a642b11c942"
+      ]
+    }
+  },
+  "clancy": {
+    "name": "Clancy",
+    "rarity": "Mythic",
+    "class": "Damage Dealer",
+    "color": "#fe5e72",
+    "total_assets": 24,
+    "skins": [
+      "2024",
+      "Clancy",
+      "Icon",
+      "Item",
+      "Sp"
+    ],
+    "asset_types": {
+      "Animations": [
+        "7c30fbec21be1df2",
+        "578ee471b20b495b"
+      ],
+      "Brawlers": [
+        "1145db30dd72a820",
+        "2da6cec4ec73b70e",
+        "8885032f330be86d",
+        "df5d4f6b14963923"
+      ],
+      "LoadingScreens": [
+        "c0a6d03abcd5f493"
+      ],
+      "Pins": [
+        "51d79cb1f1595167",
+        "4b31359f68aebee9",
+        "f72f7c860f04fcfb",
+        "e245a5d693f0ded3",
+        "4782089939c8ecc1",
+        "45352972a8e336c1",
+        "8e169988b5ee705e",
+        "148dfc4e3b85b906",
+        "2406a63c01f0db20",
+        "3b84507c7258a154"
+      ],
+      "Portraits": [
+        "55dcaefef4e13f12"
+      ],
+      "Sprays": [
+        "29df779674a3ac06"
+      ],
+      "UI": [
+        "98ca2a4f793b18b7",
+        "4d0c0d54a38a9755",
+        "f64f2999018f4664",
+        "c362d33995502d72",
+        "bfd1a23638796cda"
+      ]
+    }
+  },
+  "berry": {
+    "name": "Berry",
+    "rarity": "Epic",
+    "class": "Support",
+    "color": "#d850ff",
+    "total_assets": 24,
+    "skins": [
+      "2024",
+      "Berry",
+      "Icon",
+      "Item",
+      "Sp"
+    ],
+    "asset_types": {
+      "Animations": [
+        "bc1f5b827cc29f60",
+        "b289f97277ea7eef"
+      ],
+      "Brawlers": [
+        "cf64aeaaaa46d5df",
+        "d82b6085aac57ee4",
+        "c0d708ceb25b47ca",
+        "137ab0805aa90aab"
+      ],
+      "LoadingScreens": [
+        "216f8610c1fce956"
+      ],
+      "Pins": [
+        "b80bb2da3909d5a0",
+        "c28d2f2c835f7898",
+        "62ecfc1423bd90b1",
+        "d02de1314ef4b9f2",
+        "304a24b752ed9b55",
+        "9b914355c58015c6",
+        "86eb59d1f86227fc",
+        "027889f29dacc072",
+        "8aa38a6ec54bb506",
+        "4179667f23be202c"
+      ],
+      "Portraits": [
+        "425013a793b0e91b"
+      ],
+      "Sprays": [
+        "9bf5058d2ba777bf"
+      ],
+      "UI": [
+        "9510621e5ce86791",
+        "14824b112848e2bf",
+        "bbfe67774c345a54",
+        "5a31ec90415530d6",
+        "93fefdca04fd1eb1"
+      ]
+    }
+  },
+  "lily": {
+    "name": "Lily",
+    "rarity": "Mythic",
+    "class": "Assassin",
+    "color": "#fe5e72",
+    "total_assets": 21,
+    "skins": [
+      "Gadget",
+      "Icon",
+      "Screen",
+      "Starpower",
+      "Strawberry"
+    ],
+    "asset_types": {
+      "Animations": [
+        "a2394c2f18fec064",
+        "81c4d68cf287bcd4"
+      ],
+      "Brawlers": [
+        "12c90df6d63acca7"
+      ],
+      "LoadingScreens": [
+        "d84327ad273b9fbe"
+      ],
+      "Pins": [
+        "08439af519355a9d",
+        "72aeeba3760873ed",
+        "fbf572447306ea74",
+        "223b19ac26898324",
+        "7e286521bcc94f92",
+        "046b8b5d35f81468",
+        "c7f8baf555651120",
+        "ce068eff9d63bd13",
+        "a0880cc3839ae0a3",
+        "13c70a0c32c73c2e"
+      ],
+      "Portraits": [
+        "889273d3cdbf7e9e"
+      ],
+      "UI": [
+        "5a3e0577d1db66a3",
+        "cca041ad3adc7590",
+        "391b3af9eab85fcd",
+        "f0df629d1a5c3d90",
+        "cf4dc90358434ec2",
+        "0c78e43bdee3ea5f"
+      ]
+    }
+  },
+  "draco": {
+    "name": "Draco",
+    "rarity": "Legendary",
+    "class": "Tank",
+    "color": "#fff11ev",
+    "total_assets": 35,
+    "skins": [
+      "Dark",
+      "Draco",
+      "Gadget",
+      "Icon",
+      "Screen",
+      "Spray",
+      "Starpower"
+    ],
+    "asset_types": {
+      "Animations": [
+        "e15ac23e55467462"
+      ],
+      "Backgrounds": [
+        "4160982ea79513af"
+      ],
+      "Brawlers": [
+        "8513f9420a76fa58",
+        "69d89214c81b0f8a",
+        "385e4a4ec68fba4d"
+      ],
+      "LoadingScreens": [
+        "9c71024b48719610"
+      ],
+      "Pins": [
+        "f1f02a59f2aa4dda",
+        "ce29fc75128567cc",
+        "feac5c7f00497e75",
+        "b223b03d1120b454",
+        "2d8257fa55446d8e",
+        "39c4f7ce8508b7df",
+        "ab6609bc77798e84",
+        "a4ac6d2dcc8ccc8c",
+        "e1d5d6f45def96cf",
+        "d030ff60af5551a2",
+        "a62c573a7c6ce1bb",
+        "f086fe3a0b99e7d5",
+        "ce93e7219a559a98",
+        "1b04f605e74ffdd4",
+        "20d64b98d8de4e3f",
+        "5da7dcf604716e85",
+        "eaed67792b825277",
+        "526876a8c10c7a6d",
+        "72b9bd410e98b121"
+      ],
+      "Portraits": [
+        "18080b0fbc6b76ee"
+      ],
+      "Sprays": [
+        "43f176c263aed974",
+        "de4ec0e115fe09a6"
+      ],
+      "UI": [
+        "8e6bc78e63a42aa1",
+        "b7c2e821268f18b0",
+        "260913c43e85ef95",
+        "5d369874eafc6018",
+        "5dbd8571b8b57219",
+        "01de0b37b12319de",
+        "ba16fd3fcbc7e0c6"
+      ]
+    }
+  },
+  "angelo": {
+    "name": "Angelo",
+    "rarity": "Epic",
+    "class": "Marksman",
+    "color": "#d850ff",
+    "total_assets": 26,
+    "skins": [
+      "Button",
+      "Default",
+      "Elf",
+      "Gadget",
+      "Icon",
+      "Spray",
+      "Starpower"
+    ],
+    "asset_types": {
+      "Animations": [
+        "a41e3a8b968bbe8f",
+        "bd6485fb8b8b3fc2"
+      ],
+      "Brawlers": [
+        "9c0db1c7df805e81"
+      ],
+      "Pins": [
+        "5f6c2caa987d1bb4",
+        "c16a18a84be06f11",
+        "9550652d36d5b460",
+        "fb062e88dc306e07",
+        "256da22ea10f60cf",
+        "83ff604a47118647",
+        "2c18022572d8048f",
+        "0b5a70548b38a431",
+        "62fc565cf9e8d32b",
+        "43ad0162d576982e",
+        "e99d9c43de201280",
+        "da0dfee07132fbdf"
+      ],
+      "Portraits": [
+        "2cf200a8ae19ee40"
+      ],
+      "Sprays": [
+        "bcf0a8d5d0baf9e6",
+        "5fb2ee3fed993747"
+      ],
+      "UI": [
+        "8c1c71b691d3921e",
+        "2291e83773e33b3c",
+        "8c07ee23174e522f",
+        "827bc34a6be1a362",
+        "b696e6a598ec1dfa",
+        "00b33a42333fd21e",
+        "380dd3740fc4bb13",
+        "f42e51ab4f191449"
+      ]
+    }
+  },
+  "melodie": {
+    "name": "Melodie",
+    "rarity": "Mythic",
+    "class": "Assassin",
+    "color": "#fe5e72",
+    "total_assets": 19,
+    "skins": [
+      "2024",
+      "Default",
+      "Icon",
+      "Sif"
+    ],
+    "asset_types": {
+      "Animations": [
+        "6bbe8fdd64903916",
+        "14a57131b87a7c0d"
+      ],
+      "Backgrounds": [
+        "d5c817190b4a92e2"
+      ],
+      "Brawlers": [
+        "624716975bb34d1e"
+      ],
+      "LoadingScreens": [
+        "1192f3241db64290"
+      ],
+      "Pins": [
+        "ef0e60363832d23d",
+        "c58c4f4d175c1d75",
+        "41e87bae3c71ca05",
+        "db0a3803ef4f03b1",
+        "2127471ecd10dfd1",
+        "b5b286a76e42fa79",
+        "9d48456def3a7f57",
+        "20111420ef82f73f",
+        "6826a5ff10255c15",
+        "72357d8b0a47dc95"
+      ],
+      "Portraits": [
+        "855c5c7b027c3602"
+      ],
+      "Sprays": [
+        "ce49a1eee977d015"
+      ],
+      "UI": [
+        "7c7b4fda2bd17c82",
+        "1f5befeb1c7851db"
+      ]
+    }
+  },
+  "larry_and_lawrie": {
+    "name": "Larry & Lawrie",
+    "rarity": "Epic",
+    "class": "Artillery",
+    "color": "#d850ff",
+    "total_assets": 18,
+    "skins": [
+      "&",
+      "Icon"
+    ],
+    "asset_types": {
+      "Brawlers": [
+        "c8eb7c2e14e93b14",
+        "389f49b139cfa6e2"
+      ],
+      "Emojis": [
+        "a33f6f6c9b7bccee"
+      ],
+      "Misc": [
+        "7c58cdab0fc06deb",
+        "88002df6c1718126"
+      ],
+      "Pins": [
+        "732bb13acbca1c70",
+        "105ff8cdd4292ed9",
+        "20f9c0d5a3b959b7",
+        "5ad6c1573ca3d656",
+        "8ce274ede24e83e7",
+        "438129549a28abbf",
+        "55820afcb7c9268d",
+        "e1e5e8b38e5aea5e",
+        "ab135eb45f5bf1c2",
+        "9a7b2514347279a8",
+        "ba031e582742d7e3"
+      ],
+      "UI": [
+        "3037ed9ad55415ef",
+        "5171d26e5cf07c41"
+      ]
+    }
+  },
+  "kit": {
+    "name": "Kit",
+    "rarity": "Legendary",
+    "class": "Support",
+    "color": "#fff11ev",
+    "total_assets": 31,
+    "skins": [
+      "Billy",
+      "Default",
+      "Icon",
+      "Kit"
+    ],
+    "asset_types": {
+      "Animations": [
+        "ce4c0454809d5bb7",
+        "0d7fd431aef9df58"
+      ],
+      "Brawlers": [
+        "8d9db08ed54d64b5",
+        "81d79b38ed5f7ecf",
+        "5c521a4533100c51",
+        "11088fbee029e020",
+        "9be512cd33d0da2a",
+        "84cc6366a120e99b",
+        "0fcd4f629313124c"
+      ],
+      "Emojis": [
+        "1d0266dd8ab96d58",
+        "3615204a5209d680",
+        "788ed911f8222860",
+        "41101af5b68a2350",
+        "22a3f2af06d266c9",
+        "e8471cf17884232b",
+        "1cee3e9937c84641",
+        "fc23acb07aeccd13",
+        "1ad08ec2bc89d45b",
+        "54158b1ea999af6e",
+        "6899b32495ddc2f0",
+        "9ed536b29b4a3c92"
+      ],
+      "Misc": [
+        "1a7ec350941ec35f",
+        "ddffde15783bffed",
+        "dd1e868579247395",
+        "b4f23020ee5df023"
+      ],
+      "Pins": [
+        "7aa34f561b1fe3a3"
+      ],
+      "Portraits": [
+        "9c84bf0f7bb0ed06"
+      ],
+      "Sprays": [
+        "6107ef5eb2398387"
+      ],
+      "UI": [
+        "e73b92b63a18ab08",
+        "5d8fc0431d53a059",
+        "2c2d2cb769ab5206"
+      ]
+    }
+  },
+  "mico": {
+    "name": "Mico",
+    "rarity": "Mythic",
+    "class": "Assassin",
+    "color": "#fe5e72",
+    "total_assets": 40,
+    "skins": [
+      "Button",
+      "Default",
+      "Grouch",
+      "Icon",
+      "Macaron",
+      "Mico",
+      "Overcharge",
+      "True",
+      "Wukong"
+    ],
+    "asset_types": {
+      "Animations": [
+        "ee4f14e878dbb595"
+      ],
+      "Brawlers": [
+        "6aa7274e567ba46c",
+        "cc3014b49b40caab",
+        "acdd70171e51cb0b",
+        "ab8c6999c9e41d1c",
+        "059e5882111bcd39",
+        "6e607a560d714e83",
+        "92732463d2433fc4",
+        "56cd6337e337a34b",
+        "43735f107136d244"
+      ],
+      "Emojis": [
+        "75bc4ce3333e97f1",
+        "71eb9b2e2800612f",
+        "8654a26ce0643e7f",
+        "4565e1f988028fdf",
+        "8f4c7597e416e5f3",
+        "134071bdd3ed3ad7",
+        "fc2db0e4cb6c4bcf",
+        "dca98f3c89a6d0dd",
+        "b7d4eda9e22b074a",
+        "a0c9e8c0ece3d6f0",
+        "f9189f2ea2bf19f1",
+        "8988fdaf23ef97e4",
+        "82b54f2c73596efd",
+        "43aa1bc12479d41f",
+        "1d034255d21a2b48",
+        "57beb39cfbd3778a",
+        "6d46b2b2f71b8c8f",
+        "d3a858001c18ea32",
+        "f0db5e3d31ef9a70",
+        "2a1aeef8c6a52d4f",
+        "8102e27458039690"
+      ],
+      "Portraits": [
+        "6bd9e1cc704e5bfd"
+      ],
+      "Sprays": [
+        "84469976bf90044d",
+        "0486260fb320a6b5",
+        "15100818a1caa3d5"
+      ],
+      "UI": [
+        "bb54bbdbac5712ad",
+        "7af236bd0d8f0cb6",
+        "6724d95f6589947e",
+        "85f35add88494bff",
+        "a8fffaa5bb37f870"
+      ]
+    }
+  },
+  "charlie": {
+    "name": "Charlie",
+    "rarity": "Mythic",
+    "class": "Controller",
+    "color": "#fe5e72",
+    "total_assets": 27,
+    "skins": [
+      "Amazing",
+      "Charlie",
+      "Hypercharge.Png",
+      "Icon",
+      "Rosie",
+      "True",
+      "Virus"
+    ],
+    "asset_types": {
+      "Animations": [
+        "8ccd863a2ab5a78a"
+      ],
+      "Brawlers": [
+        "dd18b457b7ad9448",
+        "666c7e88355bf0a8",
+        "29baf4f4ade1815a",
+        "9f98dc9f23b035ac",
+        "99280d879ee45413",
+        "4852c4235f4372aa",
+        "c70dd1c65d463b72",
+        "1dc29bead23ee49c",
+        "08b7595f07a4c6ca"
+      ],
+      "Pins": [
+        "d3cede4da1963894",
+        "baf21b87277b19cf",
+        "b68e6057b7aaadee",
+        "4f1bb941ce42d65f",
+        "6501c3736fb1c6e5",
+        "1f2e273ee9e7ffa9",
+        "d54bbfeecb7f1ad7",
+        "a69608ff8dde455b",
+        "287d7e3ebc20e275"
+      ],
+      "Portraits": [
+        "dcd03f229b9f0080"
+      ],
+      "Sprays": [
+        "a151bda9c697a1dd",
+        "24019d9ae9f128bb"
+      ],
+      "UI": [
+        "217f53615360d269",
+        "f972eb3a9efa46eb",
+        "62ef17a3340a78db",
+        "9a0fe4bf56a7189c",
+        "d7d74a03f4748481"
+      ]
+    }
+  },
+  "chuck": {
+    "name": "Chuck",
+    "rarity": "Mythic",
+    "class": "Damage Dealer",
+    "color": "#fe5e72",
+    "total_assets": 36,
+    "skins": [
+      "Chuck",
+      "Desert",
+      "Icon",
+      "Inferno",
+      "Spray",
+      "True",
+      "Ulti"
+    ],
+    "asset_types": {
+      "Animations": [
+        "4513f4bfa4c62053",
+        "82885cc76d370155"
+      ],
+      "Brawlers": [
+        "b22c05bb0a59ff53",
+        "d821233f240868cb",
+        "d72aa4ebcf9a34a3",
+        "fc777e97a5e00c3c",
+        "b9b1fc63fd6d6f8a",
+        "5166ee472c38cf94",
+        "9b7c623ffe71fb87",
+        "b3be943ff3d3b5b1",
+        "736fbb2bdf07a18b"
+      ],
+      "Pins": [
+        "7278f15f157e6adf",
+        "36b582ed9457f982",
+        "f5b7e9366eb9a764",
+        "b2d8717d53adde6b",
+        "5fc20e012d31abc1",
+        "0331bf12fd9a5a0a",
+        "0abc29a3aa431054",
+        "37f5351641590a02",
+        "f51dcb4137b8cd36",
+        "fca6b9670a5b89bf",
+        "a002e646883d158a",
+        "07a4079ab9df353f",
+        "ff13aded85e4dea5",
+        "441ca8d217cd8e5f",
+        "f10f724dfb0e317f",
+        "a44a3c635b7f9129",
+        "8d3763ff0b544001",
+        "4847e0f564af023b"
+      ],
+      "Portraits": [
+        "f224cb4a768788b4"
+      ],
+      "Sprays": [
+        "4ee875326f478139",
+        "7366fac3dac71479"
+      ],
+      "UI": [
+        "fe2221ce58eb7431",
+        "ed8cfe550f0b241d",
+        "210658e87b9315a8",
+        "8e5921f27e60ab03"
+      ]
+    }
+  },
+  "pearl": {
+    "name": "Pearl",
+    "rarity": "Epic",
+    "class": "Damage Dealer",
+    "color": "#d850ff",
+    "total_assets": 38,
+    "skins": [
+      "Hypercharge",
+      "Icon",
+      "Icons",
+      "Pearl",
+      "Periscope",
+      "Starpower",
+      "True",
+      "Vintage"
+    ],
+    "asset_types": {
+      "Animations": [
+        "953f7655585b0abd",
+        "97fa7107f92369ef"
+      ],
+      "Brawlers": [
+        "da84a352c9be22cd",
+        "9d1aca006523a7ce",
+        "8dc399b2c3a43a68",
+        "b358d10b018893a3",
+        "016493e8bafb471c",
+        "e92c78b924cbd62f",
+        "66e0db5b775aee91"
+      ],
+      "Pins": [
+        "318df39a01ad7319",
+        "d11f9ab721c3ce35",
+        "88655cefe6a2926a",
+        "0788e34b5496ea7d",
+        "fc57a141303723a7",
+        "ddaa9c0d8653d700",
+        "c53e8bba7dfe9df4",
+        "29ac5f430aee5aec",
+        "32ad63f6d47c84c9",
+        "194c378f69020e81",
+        "6832ec6b59eae87d",
+        "9e99dd554f6e7048",
+        "1b81f7a3a174acea",
+        "60159c9f4790bcf6",
+        "e45e317d05aed400",
+        "26b15a6a8d7f3e66",
+        "48522f8366a982ac",
+        "a4df5e46be10ce41",
+        "6224827425718069",
+        "28aad62539430b17"
+      ],
+      "Portraits": [
+        "57a377f8c3749792"
+      ],
+      "Sprays": [
+        "542669b24c57702d",
+        "34bbb1ea9cd4dc39"
+      ],
+      "UI": [
+        "da1224d50e58f8fa",
+        "a861e54a7db10169",
+        "92d5a4c39eb021ad",
+        "f6790b73a52ae9fe",
+        "75216288d11542b7",
+        "f3a2e0bae1ec47ce"
+      ]
+    }
+  },
+  "doug": {
+    "name": "Doug",
+    "rarity": "Mythic",
+    "class": "Support",
+    "color": "#fe5e72",
+    "total_assets": 24,
+    "skins": [
+      "Default",
+      "Gadget",
+      "Icon",
+      "Starpower",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "e3682bc0cc698876",
+        "a6cf9a4896d2553e"
+      ],
+      "Brawlers": [
+        "49b7ee1876f2a322",
+        "e4dc3751b58136f9",
+        "ee9e77fb0e934e6e",
+        "444133aeb5100d48"
+      ],
+      "Pins": [
+        "97ecffbee524f6ff",
+        "499e169575c43321",
+        "4d47d23e9ca301c2",
+        "467210a6d50f3e9c",
+        "781705bd3480b913",
+        "84da9eaa6760421f",
+        "c0b47289a351e14e",
+        "17ae7dae19b393c2",
+        "4429f76d5806cd0e",
+        "78b54cf61f2cee32"
+      ],
+      "Portraits": [
+        "87fb5189390a4d34"
+      ],
+      "Sprays": [
+        "05193e94a041277b"
+      ],
+      "UI": [
+        "d54c80c38581bd75",
+        "4da22a6abad459f5",
+        "c493e188e9482abf",
+        "fce670ce283ed8ce",
+        "cae6a1648de77f93",
+        "ee2ac0531bcfd610"
+      ]
+    }
+  },
+  "cordelius": {
+    "name": "Cordelius",
+    "rarity": "Legendary",
+    "class": "Assassin",
+    "color": "#fff11ev",
+    "total_assets": 41,
+    "skins": [
+      "Cordelius",
+      "Default",
+      "Gadget",
+      "Icon",
+      "Odin",
+      "Poison",
+      "Raider",
+      "Spore",
+      "Spray",
+      "Starpower",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "22ffb1948f694ec0",
+        "1169858c8d9a80d1"
+      ],
+      "Brawlers": [
+        "350550edff3ae805",
+        "39c0c03c559881b4",
+        "41615ca86a40eaf3",
+        "db81bf2d5379538d",
+        "ce638ea58e4ed221",
+        "f45059fbc0e55662",
+        "5135d4b1591714e5"
+      ],
+      "Pins": [
+        "5f41cee004c906a8",
+        "737e203bd4c43b36",
+        "28d9d35b071f41c2",
+        "da14867841e2cc09",
+        "81b89676ed4d43b0",
+        "8433f92267e2740a",
+        "7fa5025fb4a2084d",
+        "b114c153befe7177",
+        "2e5e068bc214692d",
+        "a3e566191d961a45",
+        "6cb3c500839caf80",
+        "bb40d67795a4bca0",
+        "13c24809e531ac0e",
+        "7e17d5eeb44b5130",
+        "a83a59d6cd161cbc",
+        "58de1527910e9cc7",
+        "6bf62351c9989fdf",
+        "07274955a7b3d7f4",
+        "c58f37e3af6d675e",
+        "17b53f4669c37764"
+      ],
+      "Portraits": [
+        "4a42b83b9fa9f39c"
+      ],
+      "Sprays": [
+        "d68b954dac3003c2",
+        "a08b8dca44e55a45",
+        "0082b781a53f4394"
+      ],
+      "UI": [
+        "204158f59e015c1e",
+        "8ea6d012dd430b94",
+        "ee0805b577d391ab",
+        "60e024c5fbb059f6",
+        "24fd0014e5b4aaec",
+        "39e099adee5cbea6",
+        "c0310cff7952411b",
+        "d2a86ec903ffc727"
+      ]
+    }
+  },
+  "hank": {
+    "name": "Hank",
+    "rarity": "Epic",
+    "class": "Tank",
+    "color": "#d850ff",
+    "total_assets": 55,
+    "skins": [
+      "Default",
+      "Gadget",
+      "Hank",
+      "Icon",
+      "Rodeo",
+      "Shark",
+      "Starpower"
+    ],
+    "asset_types": {
+      "Animations": [
+        "31901b1dabf515eb",
+        "e219606e4a16e207"
+      ],
+      "Brawlers": [
+        "2e0a1adfc06d6063",
+        "7a5b9a9fbedd73fd",
+        "8a7fcede601979cb",
+        "c038565c0973c08e"
+      ],
+      "Emojis": [
+        "21a80fcd69086752",
+        "7595149c39e56f50",
+        "9a5debb4f49ab1f8",
+        "6def84c5008b8443",
+        "5c3366af06e232a3"
+      ],
+      "Misc": [
+        "750a2fb5edd41170",
+        "ec408391acf70097",
+        "301ff57bd4574002",
+        "f4ff93ce8c4bebed",
+        "930f6d8573111d88"
+      ],
+      "Pins": [
+        "cd933d6f6a7c04b0",
+        "d1e4dd9798732369",
+        "65d6492e64d64a4a",
+        "fd7b621916a9ddb2",
+        "517cf3865d9b508c",
+        "67da28034122db35",
+        "6009bb14d9118f60",
+        "0d08ae60bf8935d0",
+        "9173aad65baf6774",
+        "ec972be808e12d16",
+        "d53c74f724eb6e36",
+        "c352d718fc34a04b",
+        "aa77df6b3b7b7fa8",
+        "6eafc1ef8025254e",
+        "a372bf5b8980713c",
+        "af625931d42d9790",
+        "d6d2202d91ebf3e6",
+        "068377f465b84dc6",
+        "b810bc456671ec81",
+        "958e23489324d7cc",
+        "520fb52ec1ca69e5",
+        "773a553101f9e254",
+        "18cf3c7007e607e8",
+        "ff2781d9f8920f97",
+        "4eb4788c8d5e502e",
+        "ccc6d2ad25a13cf1",
+        "198c0aba870cd640",
+        "7a19e779e87155aa",
+        "241b258a365b72a5"
+      ],
+      "Portraits": [
+        "dfff9bd727dbbbf3"
+      ],
+      "Sprays": [
+        "aad505cea0891fcf",
+        "3789d6a373c1400d"
+      ],
+      "UI": [
+        "701b0c08f882cfcc",
+        "c4b489f7b5074ea4",
+        "16f487d545253c25",
+        "e2c63cc2bcba1961",
+        "ad66490407fd341d",
+        "5964fe634b7a00d8",
+        "a054aec8d7c296b0"
+      ]
+    }
+  },
+  "maisie": {
+    "name": "Maisie",
+    "rarity": "Epic",
+    "class": "Marksman",
+    "color": "#d850ff",
+    "total_assets": 40,
+    "skins": [
+      "Default",
+      "Gadget",
+      "Icon",
+      "Jungle",
+      "Maisie",
+      "Marauder",
+      "Overcharge",
+      "Starpower",
+      "Tech",
+      "True",
+      "Ulti"
+    ],
+    "asset_types": {
+      "Animations": [
+        "00bc7a65391babfc",
+        "aeb78c7e3102fc51"
+      ],
+      "Brawlers": [
+        "8ccd9a725df6e782",
+        "195d82464dbce2f5",
+        "9ed9dbef20d5c0b0",
+        "340a758a50a58476",
+        "2f564a9856f20fa3",
+        "1459c3a730a5e62f"
+      ],
+      "Emojis": [
+        "acc5afff2c6b06f3"
+      ],
+      "Pins": [
+        "f386384b9af5daaa",
+        "11c91c7bba37ffac",
+        "bfb040b0b55d650b",
+        "455b5e5e97e3becd",
+        "7501014d2db9f067",
+        "ff5fbd558e1c1e4f",
+        "d8917e2bfd7f070d",
+        "04f172d567b4cc53",
+        "34b863ef81f690da",
+        "c4bed2ee411b010c",
+        "9590744b1f7095d7",
+        "23eb932c18032ef7",
+        "56a93b0a02672716",
+        "fe128472a77a5035",
+        "bf7a7576fe5720e7",
+        "8d3711af5c05e6b8",
+        "37d8fd79a45b58a0",
+        "3b6b83b5c0ebcf9b",
+        "c8d581a47ba3e48f"
+      ],
+      "Portraits": [
+        "db66db926fc3107a"
+      ],
+      "Sprays": [
+        "db43b7258d58da8c",
+        "b053c23ca10fa868",
+        "055eb751b8a1956c"
+      ],
+      "UI": [
+        "178e228a7a2fea39",
+        "9417519691ac03a2",
+        "41e96e321de624a3",
+        "c33e9f2468485440",
+        "7a9661842bbe65fb",
+        "a6ebd64f5d58698a",
+        "979695987a7f1ba6",
+        "17c06fd7b22a44a3"
+      ]
+    }
+  },
+  "willow": {
+    "name": "Willow",
+    "rarity": "Mythic",
+    "class": "Controller",
+    "color": "#fe5e72",
+    "total_assets": 32,
+    "skins": [
+      "Axl",
+      "Default",
+      "Gadget",
+      "Icon",
+      "Scorpion",
+      "Starpower",
+      "True",
+      "Willow"
+    ],
+    "asset_types": {
+      "Animations": [
+        "d7c6f5cdd227765e",
+        "9928e8ef45a686bb"
+      ],
+      "Brawlers": [
+        "6287b417117f21cd",
+        "0eb828e7f2a6bd93",
+        "fdbdf3915cee9a62",
+        "4dd9f61bd97310f7",
+        "4d524d1ef2acd2f7"
+      ],
+      "Pins": [
+        "b0d5743250bddeda",
+        "c53bc90bb289e343",
+        "027342ca15b2843b",
+        "7974d4e3065c17c4",
+        "45dc80467777faf5",
+        "2442c67bf614310f",
+        "c90fa140ab90692e",
+        "1848c72c32b38588",
+        "64c4833d534f91bc",
+        "cefa9612e9afe474",
+        "a927841d256e58d5"
+      ],
+      "Portraits": [
+        "e098a068d18b12e9"
+      ],
+      "Sprays": [
+        "cfa84fe0ce6ac833",
+        "c3c95da19b6b547c"
+      ],
+      "UI": [
+        "1cc71b0f754d156c",
+        "9129fe265f980bf2",
+        "07fb1bd83d725417",
+        "e6197f7f3c045a50",
+        "562b7b11e028f61f",
+        "c50318234b8c7f8f",
+        "818cf8f7674c1245",
+        "24c1d56be8ae4931",
+        "99e132d8d2bc7546",
+        "418f5bd62e1abed1",
+        "6db976099279a492"
+      ]
+    }
+  },
+  "r_t": {
+    "name": "R-T",
+    "rarity": "Mythic",
+    "class": "Damage Dealer",
+    "color": "#fe5e72",
+    "total_assets": 88,
+    "skins": [
+      "Bp",
+      "Brawlentines",
+      "Card",
+      "Cartoon",
+      "Class",
+      "Esports",
+      "Esports2022",
+      "Extraction",
+      "Gadget",
+      "Icon",
+      "Modifier",
+      "Screen",
+      "Skins",
+      "Small",
+      "Smart",
+      "Spray",
+      "Starpower",
+      "T",
+      "Top",
+      "Trophy",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "0bbe6da6c6880a05",
+        "bd7ba78f5624d47e"
+      ],
+      "Backgrounds": [
+        "738d220aee666153"
+      ],
+      "Brawlers": [
+        "5d08c3e376ec4665",
+        "3d40b9948b4276c6"
+      ],
+      "Emojis": [
+        "cccd597b34f7fe4c",
+        "d540b08d89762ef4",
+        "cf833db5a05f4b12",
+        "d322e3768a64409c"
+      ],
+      "LoadingScreens": [
+        "558120b7c3585e96"
+      ],
+      "Misc": [
+        "ae527536212941e9",
+        "816d37c3041371dc",
+        "bee8b739cfc95dec",
+        "517fbe8d7b7c97df",
+        "8c73b2604d2746d9",
+        "3d9cf2d7ef5796e8",
+        "130981b6e91fc453",
+        "f9004d6e674c3b51",
+        "43024a9cee5b3942",
+        "8aacd967504022ec",
+        "3950b0341f87029a",
+        "8c6fe6bf914a5901"
+      ],
+      "Pins": [
+        "66a78e9aed74d265",
+        "54dda7603dd4a84e",
+        "86799d4a94a60423",
+        "4328c71de065ee10",
+        "ef4d2f28a62bfefb",
+        "cf187fed72751e8e",
+        "3fe8a7a94ce8ad34",
+        "2da2c0abfbff88e3",
+        "6aa15cc380c569f2",
+        "d29c77644bd0b58b",
+        "22f8585189005318",
+        "b1bee637d7e7e49e",
+        "6cc10f053dc18a25",
+        "b024d5c137201053",
+        "6d27fb8a7288bb99",
+        "b08229e6422ab5db",
+        "b2dbd05725fa3c22",
+        "d1d3187eaf891f9f",
+        "31a94b074d749926",
+        "6dc1f97584aebd7d"
+      ],
+      "Portraits": [
+        "4fbc9f2a2a5f9f4c",
+        "fbdacb626e674f1b",
+        "db360dfd755ddaa6",
+        "1357404e23d05d57",
+        "aebec3fbe0528755",
+        "a2c7dea5a4825c77",
+        "4f402f615ce4b41c"
+      ],
+      "Sprays": [
+        "c44b2a9c65fbb694",
+        "b27e1ab18ed6f7f8",
+        "5f5df76b86619a6c",
+        "7d02ea442619fe4e",
+        "bc01dc86d0fbcf37",
+        "94a5d0c388234930",
+        "7d40a3b07153fb31",
+        "fc633c2a7291f613",
+        "a9ae16fa23b3d0d2",
+        "9b9509f8391406a9"
+      ],
+      "UI": [
+        "a1959c2b79b28c76",
+        "5a975eabf5c8c5b3",
+        "25efc5996e5fdd03",
+        "64fd306a6d30e590",
+        "4e57dacca0ca3ffe",
+        "39165a4ae6368f2d",
+        "7c92567c43c81b6f",
+        "14ca1471fabda0e2",
+        "6376be42177dc611",
+        "dd1368b6e9b8d39e",
+        "eba2b1d26e0ece0f",
+        "3be1f054ba6070bd",
+        "f7a58786ae436941",
+        "28d0185ca84662c5",
+        "e738e420e8e75c61",
+        "dc0724cf627ef19c",
+        "eac2ce7ca93e633d",
+        "6734a6349afcce0e",
+        "c40d861abd518dd2",
+        "670eae3154a53542",
+        "c5728ce31cd2ac4f",
+        "e740384af7798c82",
+        "457f8cca69802df8",
+        "a7d035545e3a9e27",
+        "4a233732f4bd592e",
+        "3d9ed0639afa00c9",
+        "8aa0a9a8b2c56824",
+        "67328ceea1eb2680",
+        "05b92aa33d9fa24f"
+      ]
+    }
+  },
+  "mandy": {
+    "name": "Mandy",
+    "rarity": "Epic",
+    "class": "Marksman",
+    "color": "#d850ff",
+    "total_assets": 45,
+    "skins": [
+      "Default",
+      "Gadget",
+      "Hanbok",
+      "Icon",
+      "Magma",
+      "Mandy",
+      "Mc",
+      "Starpower",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "d1e9eea58a70e930",
+        "02585d0436c4fecb"
+      ],
+      "Brawlers": [
+        "779e7669ff66d443",
+        "db3594c5dac0a1ac",
+        "e4d701aaf1f7ca33",
+        "606b445c5bb9f09d",
+        "b52f7fc44f0e5455",
+        "0a29ef3bfbaeb591",
+        "021a5cf359d8b368"
+      ],
+      "Pins": [
+        "7d392bc7a6003414",
+        "2cb4d81a20706495",
+        "ba87a2403c79edbe",
+        "43af2d9f35ada959",
+        "abbe49b6e6ea9f13",
+        "5b80adf15a2e950f",
+        "967f35b45f968bdd",
+        "a2caa1d396f34e6a",
+        "eaffd113c4638acf",
+        "334c6d38c22e486a",
+        "22943e9608696b38",
+        "83939b7db56ace80",
+        "5ba4be3ab3ac3843",
+        "97451bcd4bce3bfb",
+        "8219be99dd9674c0",
+        "1a0fd2c76ee96ea4",
+        "d5bf3b1f9fdfcde0",
+        "62b6f848b92f1bb7",
+        "de482dce74b62cc7",
+        "0312d5c2edd14801",
+        "f692da6de33bee0f"
+      ],
+      "Portraits": [
+        "82a3060e5a82a356"
+      ],
+      "Sprays": [
+        "44e3c9b40a73ff7f",
+        "45375485410fa2f6"
+      ],
+      "UI": [
+        "63bb2b0ce91777e9",
+        "7ee7746523869832",
+        "7806014fc4dd66bb",
+        "1869362d4384b9a4",
+        "a709e71112907115",
+        "412d4c44fc1a60b9",
+        "758f2e6860925a1d",
+        "9a26d351adcab81f",
+        "507ebaa0e77ea783",
+        "7818b8549df1710b",
+        "f5f34038ce27ae82",
+        "d33285c369ccf970"
+      ]
+    }
+  },
+  "gray": {
+    "name": "Gray",
+    "rarity": "Mythic",
+    "class": "Support",
+    "color": "#fe5e72",
+    "total_assets": 31,
+    "skins": [
+      "Default",
+      "Detective",
+      "Gadget",
+      "Icon",
+      "Runaway",
+      "Starpower",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "95ed5a117ceec439",
+        "0cbf958525c96b68"
+      ],
+      "Brawlers": [
+        "5a3044e524c089d5",
+        "13a488299578fe6d",
+        "5aaa150087752bad",
+        "da440ebf6fc36a9d",
+        "3e75e91d1bd50f46",
+        "406d4350414e1cfb"
+      ],
+      "Pins": [
+        "41b46977540473ac",
+        "ada635a3886e9814",
+        "1b83d15244bdfa03",
+        "1c8ba83c82ca97a5",
+        "299b2d511616c83c",
+        "c733995e28d1786e",
+        "af57bb44ce395538",
+        "0bfbb967d68abcc8",
+        "88183d0480a08cac",
+        "118f492ed0e7dca7",
+        "cdfec2248dddefeb"
+      ],
+      "Portraits": [
+        "6593927befed7cb1"
+      ],
+      "Sprays": [
+        "202fc8880c915072"
+      ],
+      "UI": [
+        "fdede27831ca72f3",
+        "7674e3d414806464",
+        "b74e068c26622fc6",
+        "837816b2f4d58d1b",
+        "435ce902053cc333",
+        "823b9a58148d4f37",
+        "270d19579953fdee",
+        "9058d0d67171b868",
+        "401c6a0eed349528",
+        "924204033a69ae91"
+      ]
+    }
+  },
+  "chester": {
+    "name": "Chester",
+    "rarity": "Legendary",
+    "class": "Damage Dealer",
+    "color": "#fff11ev",
+    "total_assets": 44,
+    "skins": [
+      "Chester",
+      "Dark",
+      "Default",
+      "Gadget",
+      "Icon",
+      "Loki",
+      "Spray",
+      "Starpower",
+      "Super",
+      "True",
+      "Wood"
+    ],
+    "asset_types": {
+      "Animations": [
+        "0b7a7fecbb6f02ac",
+        "50c0c1c66cf70f30"
+      ],
+      "Brawlers": [
+        "152dfd45dbe97f8f",
+        "f1e54a9af9e481d3",
+        "261271b55fd1db36",
+        "582cf1b23bd098f2",
+        "20946b3cd8cf26ef",
+        "70bc7db76c1d3992",
+        "e7ebb24acdae41cf"
+      ],
+      "Misc": [
+        "70601471e4e432b9"
+      ],
+      "Pins": [
+        "3c11cf362851e747",
+        "18f97efa4e3641b0",
+        "a27962fd4de71685",
+        "aad21ff9e733b29c",
+        "270e1850d90843e3",
+        "ace8880cb4feb425",
+        "d7eacb0bcd7d8d22",
+        "9714f713a1259421",
+        "974d71a38dd55285",
+        "e88eb93927377e65",
+        "f04099d1e90dbc19",
+        "6f0dc6a9545ae0a1"
+      ],
+      "Portraits": [
+        "771589fa3ef50821"
+      ],
+      "Sprays": [
+        "59e8d38d94506753",
+        "c1ac7e794187b102"
+      ],
+      "UI": [
+        "51b03df1f541091c",
+        "80846485688dbbe8",
+        "12f3da4a8f010a15",
+        "1c31392f767c8b6c",
+        "c47b094979445a66",
+        "e5f3c24a35751d9a",
+        "6e72e3ea3ae999aa",
+        "d03dbbc15ac47e75",
+        "fb9959b1f113ec9d",
+        "45428db14b8449b7",
+        "d842e802548dd880",
+        "48824aafaef7e8e0",
+        "ed30f1fc7aa12f34",
+        "5aa35dd3ac379314",
+        "a79a349eaa8185b8",
+        "b51440daf2cd18a6",
+        "843f0e884ca8b54b",
+        "b05c0640b11a013a",
+        "55f4ef7f6cd56de9"
+      ]
+    }
+  },
+  "buster": {
+    "name": "Buster",
+    "rarity": "Mythic",
+    "class": "Tank",
+    "color": "#fe5e72",
+    "total_assets": 44,
+    "skins": [
+      "&",
+      "Buffed",
+      "Buster",
+      "Chainsaw",
+      "Crocodile",
+      "Default",
+      "Gadget",
+      "Icon",
+      "Starpower",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "feb35e48703444a2",
+        "cb96524324e1449b"
+      ],
+      "Brawlers": [
+        "95dcb50e3a2549dd",
+        "3db5c954af53113a",
+        "53045469203845b7",
+        "d3366559e90fdc4f",
+        "1c150220f1f37945"
+      ],
+      "Misc": [
+        "3923463907b3a326",
+        "b92d62f77001b4ca"
+      ],
+      "Pins": [
+        "664a31b4726c172c",
+        "b478f1c26fed366a",
+        "1476c62dba9cec61",
+        "07017f2e551ffa94",
+        "016990498c48cfe6",
+        "7bb2f9c6973f2042",
+        "582c2a81c73ab426",
+        "9c963406a7e914e0",
+        "d3a34fa85e3de0f8",
+        "ff51baa270532853",
+        "370b1634e0a3a43d",
+        "f291930f9b286049",
+        "52538afe305d17df",
+        "e4ef780a1e9d5395",
+        "85727f689c3d9f2e",
+        "3aa3acbc1f7e192b",
+        "bf251230410e0ed2",
+        "51e206036fe89b69",
+        "cf79af08d0701006",
+        "d667f6b2eed7524c"
+      ],
+      "Portraits": [
+        "209e17e1a833bad9"
+      ],
+      "Sprays": [
+        "1704c0e8d731e3cc",
+        "d551eb0e3e0e5221"
+      ],
+      "UI": [
+        "701d8bd360246b1d",
+        "88d3d87a04505575",
+        "2a1b0e514ae7c79b",
+        "48ba749f014860a4",
+        "cba1443579f7f779",
+        "4808ca2349f54257",
+        "7bba0f689fff0bf4",
+        "bc94a821e2ea3620",
+        "33efca0c3773920d",
+        "fe586864804c9d79",
+        "f7a0fca9effcf57c",
+        "c9abb632c2875100"
+      ]
+    }
+  },
+  "gus": {
+    "name": "Gus",
+    "rarity": "Super Rare",
+    "class": "Support",
+    "color": "#5ab3ff",
+    "total_assets": 30,
+    "skins": [
+      "Balloon",
+      "Boy",
+      "Gadget",
+      "Gus",
+      "Icon",
+      "Starpower",
+      "World"
+    ],
+    "asset_types": {
+      "Animations": [
+        "ae531788ba16465a",
+        "3bdbed6320f2a185"
+      ],
+      "Brawlers": [
+        "f2f4c73ef68b7023",
+        "8f68cfa7f78ab509",
+        "c1214fdf43b545fb",
+        "d03c6c48bc8aaaf1"
+      ],
+      "Pins": [
+        "41d920e38ce5e1f9",
+        "a881ea9354100a85",
+        "e00e0230969d62aa",
+        "c42643b2fdd30b8e",
+        "1d7ebe26e202e279",
+        "cc2667479ae05f21",
+        "63924c1da5c1ac98",
+        "922250c05cb92e21",
+        "803dc6ad6c765b03",
+        "6e0dd43cc24f8846",
+        "ce755fce6488011a",
+        "0becb6c89ed1c557",
+        "65f7803ebadbf10d"
+      ],
+      "Portraits": [
+        "596b1d07d4c7ba0c"
+      ],
+      "UI": [
+        "f1ee24fb8c031b2c",
+        "9888a0e2196927a3",
+        "11e74bcd7296b018",
+        "748338bd03dce49a",
+        "46b495d463b45e55",
+        "5292c0983e0dbda6",
+        "f1c8dacf117a2f53",
+        "6db214fff4d78d22",
+        "376f58438cfb272f",
+        "4344138b3350c62d"
+      ]
+    }
+  },
+  "sam": {
+    "name": "Sam",
+    "rarity": "Epic",
+    "class": "Assassin",
+    "color": "#d850ff",
+    "total_assets": 26,
+    "skins": [
+      "Button",
+      "Caesar",
+      "Dark",
+      "Gadget",
+      "Icon",
+      "Starpower",
+      "Ulti",
+      "Yeti"
+    ],
+    "asset_types": {
+      "Animations": [
+        "7c84295ac32dfa18",
+        "bced0832ee88108e"
+      ],
+      "Brawlers": [
+        "6c75f6bd729c9b22",
+        "2d56f007d9b83f87",
+        "066045edb74d59d6",
+        "d993b39c8496b4a4"
+      ],
+      "Emojis": [
+        "44f982d778851d55"
+      ],
+      "Pins": [
+        "6742e5ab404780c0",
+        "cf16d81184178a7c",
+        "7cf2222ece2a046b"
+      ],
+      "Portraits": [
+        "e9aed2b5d6eb403b"
+      ],
+      "Sprays": [
+        "66c7285b74f9f32f"
+      ],
+      "UI": [
+        "28fd65ada02f47b3",
+        "42efc6895229532e",
+        "42cf9aa54005e3df",
+        "290225b8369cc65b",
+        "e0f5bb2902492b76",
+        "96f36cd7798bb6c4",
+        "819c6698cd5a0013",
+        "683f302ef0b3b03b",
+        "c5ef2af23beb9159",
+        "1023c1624c039258",
+        "144f42ecc0e24d54",
+        "b926fd033c191d0a",
+        "e17bf4060011b8c5",
+        "4c22b116b313ceab"
+      ]
+    }
+  },
+  "otis": {
+    "name": "Otis",
+    "rarity": "Mythic",
+    "class": "Controller",
+    "color": "#fe5e72",
+    "total_assets": 43,
+    "skins": [
+      "Gadget",
+      "Icon",
+      "Oni",
+      "Otis",
+      "Pharaotis",
+      "Starpower",
+      "W"
+    ],
+    "asset_types": {
+      "Animations": [
+        "1a4b336b5a391687",
+        "67837f4d64dcceed"
+      ],
+      "Brawlers": [
+        "b68b28e508f31795",
+        "dd0b0345a9c1aae6",
+        "190f4a852f52890d",
+        "e0d77242f7a07267",
+        "d982be10a35f5c09",
+        "2fc64d4dc0ac43fc"
+      ],
+      "Emojis": [
+        "8a59183841ecb071"
+      ],
+      "Pins": [
+        "654b504034f39d2e",
+        "d4361875ca569ca3",
+        "66c94b8e80e0adc6",
+        "d9e9c79f75738d2a",
+        "c976cbf8dfdf1ca8",
+        "910bf9a0078d07ea",
+        "cff3e96c811961c4",
+        "946d04f1a235e3fd",
+        "ac3be80f96f3369a",
+        "d1fcb58588ee1110",
+        "1934cf2b267f9f0a",
+        "57b04a5b98926597",
+        "16ae23de28a8fdd2",
+        "78e2b47b3a145bb5",
+        "5aab9c4a95b6f9f0",
+        "7bce47303515a4cd",
+        "f1d3706087b110bd",
+        "80a992c06fbec4f6",
+        "0388ba09fb3f2630"
+      ],
+      "Portraits": [
+        "88a76a75caeff768"
+      ],
+      "Sprays": [
+        "dc3340f789d8dcee",
+        "d24030fcd94ded58"
+      ],
+      "UI": [
+        "f98bfaadb1340730",
+        "ce3617b012ab0dee",
+        "14f3ceb88a794ee7",
+        "672c27f5f41285ba",
+        "1c481ff55fdb681f",
+        "d4a73862220c9943",
+        "9df15bd7c13d3d23",
+        "55fc7b86aa14c1bc",
+        "bb5206dcd1741520",
+        "142783d5efad56ff",
+        "f092d61f3ab70682",
+        "c02873d0e4d2edc2"
+      ]
+    }
+  },
+  "bonnie": {
+    "name": "Bonnie",
+    "rarity": "Epic",
+    "class": "Marksman",
+    "color": "#d850ff",
+    "total_assets": 35,
+    "skins": [
+      "Default",
+      "Empress",
+      "Footbonnie",
+      "Gadget",
+      "Icon",
+      "Puking",
+      "Starpower",
+      "True",
+      "Unicorn"
+    ],
+    "asset_types": {
+      "Animations": [
+        "26d6ab79fdbf9558",
+        "2050011fd6a940b9"
+      ],
+      "Brawlers": [
+        "63c7a0ecc19d30c5",
+        "2393ba3fe88dc619",
+        "63df821ee2b91eb3",
+        "09d227f2ba809a08",
+        "ffa88dd7f4bb67a1",
+        "28cdcd315e9a6a24"
+      ],
+      "Misc": [
+        "beef7c0694aa5f9d"
+      ],
+      "Pins": [
+        "afb39832e49097ac",
+        "5c524dfaed2aa72f",
+        "af33cba976d95939",
+        "b0cc5b358244b0ed",
+        "866b9ca944183c9d",
+        "4ffcac15e7b6920a",
+        "64b8f2643f73a450",
+        "e26238454e31970b",
+        "4cf7a9730a38bfaa",
+        "91756f01390e891c",
+        "731725ae0c9d6bc8",
+        "3173aef2e463d374",
+        "51a43bf96e223ff4"
+      ],
+      "Portraits": [
+        "2d9d6c8f6592d103"
+      ],
+      "Sprays": [
+        "6e1eefa1957ef975"
+      ],
+      "UI": [
+        "51f2f5d360bda730",
+        "e3186ed0801cce62",
+        "4092c7744e7695a0",
+        "86cff8b280d32434",
+        "e080f6cb99ccd064",
+        "dd78df50a3d0d0fb",
+        "c784cbf5682f0833",
+        "7f73d6555ecf8a6a",
+        "72db28a868b16b08",
+        "e63be699712367bd",
+        "15c9e83664fcc220"
+      ]
+    }
+  },
+  "janet": {
+    "name": "Janet",
+    "rarity": "Mythic",
+    "class": "Marksman",
+    "color": "#fe5e72",
+    "total_assets": 50,
+    "skins": [
+      "Dark",
+      "Default",
+      "G",
+      "Gadget",
+      "Icon",
+      "Janet",
+      "Lunar",
+      "Popstar",
+      "Spray",
+      "Starpower",
+      "True",
+      "Valkyrie"
+    ],
+    "asset_types": {
+      "Animations": [
+        "56e89b28fd480406"
+      ],
+      "Brawlers": [
+        "6824e4658bb535d4",
+        "9e22408fcf9fba84",
+        "ae149032cd876dc0",
+        "5c50975d2f6c9488",
+        "7fe7e2204bbf0e66",
+        "95c0a151f25c8acf",
+        "34cb9e4bfc633e9e",
+        "35131ff7478f8972"
+      ],
+      "Pins": [
+        "d26313617edc2af5",
+        "62ce969d2d87cdbe",
+        "a98b4825626af874",
+        "36a2eeb7ebe725e5",
+        "3a91346af0b88071",
+        "da99a64ec7110272",
+        "36ea2982f202279f",
+        "db924f6ce1277172",
+        "2841716dca78c025",
+        "029389f89a4a4b6a",
+        "6f8d45bce3587538",
+        "78c4c327637022db",
+        "90232435379c9d83",
+        "9a434e96e1094a5a",
+        "84ae552068ccbb8d",
+        "161944d6dfda77a2",
+        "0efc33348a92ba3f",
+        "3b81325f41b4596c",
+        "1b9bf4401238fe57",
+        "b38fb2a974d13bd4",
+        "19118f0dfc10ae34",
+        "3f02885bed5fb9e5",
+        "6fa85b4e96f7ae27"
+      ],
+      "Portraits": [
+        "85f600c02bf9ed91"
+      ],
+      "Sprays": [
+        "6e17a61e9d874949",
+        "d929f1a6315cfafc",
+        "4efc200c7207b861"
+      ],
+      "UI": [
+        "c6d8074541ee6b1d",
+        "e0885f9ae50fa764",
+        "64f005dfe3ca5989",
+        "3d817e2bed2459bf",
+        "c5fa1adc576737a2",
+        "b04b0f2051769853",
+        "f073e918a8ebdad1",
+        "5d7d7bc504db87e5",
+        "ffa8f68a022e6bd2",
+        "a46950d87974e060",
+        "158e1b9925b58a47",
+        "d45cea86a6f887c9",
+        "76e3c2385d576e13",
+        "66403c26355970ce"
+      ]
+    }
+  },
+  "eve": {
+    "name": "Eve",
+    "rarity": "Mythic",
+    "class": "Damage Dealer",
+    "color": "#fe5e72",
+    "total_assets": 86,
+    "skins": [
+      "Baiku",
+      "Banner",
+      "Default",
+      "Event",
+      "Gadget",
+      "Icon",
+      "Knockout",
+      "Modifier",
+      "Modifiers",
+      "Mothra",
+      "Mythic",
+      "Shop",
+      "Snowtel",
+      "Spiky",
+      "Thieves",
+      "Trophy",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "622d82c81a561272",
+        "de8ff621fa50e8a7"
+      ],
+      "Brawlers": [
+        "c834b1651d4279c2",
+        "c2ac1859facf3aab",
+        "5ccadd73190e367f",
+        "47c838d595f7808a",
+        "1813f5cb8dd8c9ff",
+        "956803e806a5eb03",
+        "2979b4ceb2186316",
+        "e35900948a5b4463",
+        "f52c174b5c37b99d"
+      ],
+      "Misc": [
+        "2c25f1ef82639045",
+        "bbb706f807a0ef34",
+        "1b29df3420f62597",
+        "aebf41b2b52a2542",
+        "14ac5d8056483f33",
+        "7e329998db94a245",
+        "bf7c7564cba50525",
+        "591f183150c6c207",
+        "720f3256badfcb8c",
+        "0c04c4f7071fb299",
+        "b34ca9dd3057ebbe",
+        "7412cf72b806f4a1",
+        "e01e1c6072ba2bac",
+        "dff38b10efea8d1d",
+        "4c70833db08ba091",
+        "c90c012de4688c4f"
+      ],
+      "Pins": [
+        "0eb9e969f45e5fac",
+        "400624a0421a0b31",
+        "752cb7ccf152b819",
+        "dbb03437352d9d93",
+        "3b2799054786b16f",
+        "c89a36daafdc209a",
+        "5cf0b26282ecceff",
+        "c552f0b713db3735",
+        "e709c798e9153541",
+        "f714e76c02723e52",
+        "23e89e502839359f",
+        "f9a5b12f551b5c3f",
+        "d4aeab3360064218",
+        "83781108777f4527",
+        "47c05e83913cbbcf",
+        "c2f557bc712a9371",
+        "320af5264b12827e",
+        "191200e9238258df",
+        "6f8627588277c5eb",
+        "7400d960c280be0f",
+        "de08cd33f15c66cc",
+        "57fa9fd5b846619c",
+        "04a5ed19f3824880",
+        "88c32c5c6b0fd1c3",
+        "2a1c6a624bbf94e3",
+        "0d3a23b0cd5e04a2"
+      ],
+      "Portraits": [
+        "4b2c6df0545fa694"
+      ],
+      "Sprays": [
+        "e817ba37953713ad",
+        "11d48b689066bb83",
+        "82bfc4b7ae1092f0",
+        "5db3fdbabe83a93e",
+        "e73da74615fe6bae",
+        "5a1743485d4aecb1"
+      ],
+      "UI": [
+        "91395768dae5d34a",
+        "97f0336596d6852e",
+        "d9374264ab563553",
+        "49f5145087804636",
+        "05405fde9ac20b83",
+        "511bbe5ec78aafe5",
+        "244aca9c2a8e10f2",
+        "afe91e354be6d634",
+        "e2a92cdcd9f6c427",
+        "9810688324a633b9",
+        "f029a0503105a3e2",
+        "0ffff4c767da02e2",
+        "d61d59766f2f7077",
+        "20843f1852e201b0",
+        "92b33164435bde5f",
+        "ad3680e9fb1e70b0",
+        "51d9e727ce118baf",
+        "a3b2a1c958db2ca2",
+        "8cb5081d5a4d9d36",
+        "5a29343ca67f6de6",
+        "34dbafedc7196c48",
+        "7c56400834c5d651",
+        "3361248fea5ad37c",
+        "ae610b0b8683b0c3",
+        "9ab93c85d6ce36c6",
+        "24faddf2f469e2c3"
+      ]
+    }
+  },
+  "fang": {
+    "name": "Fang",
+    "rarity": "Mythic",
+    "class": "Assassin",
+    "color": "#fe5e72",
+    "total_assets": 63,
+    "skins": [
+      "Blue",
+      "Button",
+      "Default",
+      "Fang",
+      "Fanguard",
+      "Ferocious",
+      "Furious",
+      "Gadget",
+      "Icon",
+      "Kabocha",
+      "Octo",
+      "Overcharge",
+      "Red",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "3e1e6333fe43356e",
+        "f597227597e8c3a3"
+      ],
+      "Brawlers": [
+        "77dfb9458cf50249",
+        "b7848435e7fc4280",
+        "83b658407fbbb869",
+        "0a1c38eabb8f6c84",
+        "844a6ab0c67e66b4",
+        "5f741655b1b018e1",
+        "5d0336c8707aec7d",
+        "873aa0dc1fc8a32d",
+        "63f7803efa34a2b2",
+        "e5f969f308fe2994",
+        "e5d95218b66b05a7",
+        "a05a7765c66dc4a9",
+        "11facdc4addaad2c"
+      ],
+      "Emojis": [
+        "2656bb16a24afb52",
+        "1c6c11ef6e7ded58",
+        "d6b292cfc9b5e9dd"
+      ],
+      "Pins": [
+        "a961c16c1d55aacf",
+        "9fd3d2e30429cf2a",
+        "7a04f5684c484afc",
+        "7f6664bbca50be4a",
+        "d3c6247e037c1104",
+        "9870e0a3d052459e",
+        "18bcc8f5fe2225e9",
+        "cfc9e0ab3e261cd2",
+        "6954edbb0bce5084",
+        "9cf2a667a1de6569",
+        "ec795f6a56773dc0",
+        "414b3d9723fd9664",
+        "8c22de77b94cfb7a",
+        "7c57f53bf8e44bcb",
+        "c3aa505e8965e14f",
+        "f27f8d35efa37bd4",
+        "5606a3afa2529a41",
+        "b28ae4743f9ae64e",
+        "959ef280e1851edb",
+        "5c3be1ca17c4e17e",
+        "902b231373cf58a8",
+        "79ad8a92932a4ba4",
+        "b4db8726a3f716c1"
+      ],
+      "Portraits": [
+        "61f8021f19dc17c1"
+      ],
+      "Sprays": [
+        "9d628d196503d0a5",
+        "1957c966898957d6",
+        "814ad416c161dbef"
+      ],
+      "UI": [
+        "198ecba5299c076d",
+        "1d4dbe265c36a201",
+        "854dc2973a0fc583",
+        "af60de5ba49bd92a",
+        "72fd00baf5094436",
+        "fd4aa6145c352b77",
+        "f087293545decfbe",
+        "106c7c0acb248d97",
+        "a72e47ed12b56e33",
+        "7cfbee4f0e12b8aa",
+        "820266cd98bc2ae4",
+        "e7d5345411f8a176",
+        "d4dd077a0e10aea8",
+        "f2bb343876465f56",
+        "92aaa5e59cfd7d43",
+        "bb56b9c47600a07d",
+        "e74f2f3b5459099b",
+        "19b2a25130056d18"
+      ]
+    }
+  },
+  "lola": {
+    "name": "Lola",
+    "rarity": "Epic",
+    "class": "Damage Dealer",
+    "color": "#d850ff",
+    "total_assets": 35,
+    "skins": [
+      "Calculating",
+      "Cobra",
+      "Default",
+      "Gadget",
+      "Galaxy",
+      "Icon",
+      "Kitsune",
+      "Lavish",
+      "Lawless",
+      "Lola",
+      "Rebel",
+      "Starpower",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "c5b1a6713e47fa83",
+        "23c9ebb389316242"
+      ],
+      "Brawlers": [
+        "e77472fb9dceb73b",
+        "0f0e58abf4caa17e",
+        "acc307a801f61bee",
+        "53dca786bf559912",
+        "8f52008c0d29d5d2",
+        "0bcb6eb6c788201a",
+        "366a013ffcace431",
+        "718430269c7dd4c0",
+        "aec23d7b98bf8069"
+      ],
+      "Emojis": [
+        "57a4b3211d4cdf0a",
+        "392835d81bb78570"
+      ],
+      "Misc": [
+        "2fd0a17d476ea974"
+      ],
+      "Pins": [
+        "75a1799bb4857a51",
+        "0ed5c2171f0536c2"
+      ],
+      "Portraits": [
+        "489e1b8c17d46359"
+      ],
+      "Sprays": [
+        "df20f82ba756c7be",
+        "2885fc5d6d270c3c",
+        "2181e982463d3357"
+      ],
+      "UI": [
+        "b4b02e1cfbc98fcc",
+        "e607ffd6a95022bd",
+        "1d4ce5db5ee3b3ab",
+        "ce62721a9b46deca",
+        "a5d695c0fa2bd4d3",
+        "d5d772ae4e1301a9",
+        "b01061061b5e8065",
+        "eaa087c9c2f59fd8",
+        "9822b22011837827",
+        "01a24406de9de17a",
+        "1e965dc98f36a62a",
+        "c0d69a345b203851",
+        "c6ab6b7394106d6c",
+        "aa1b99bb486a73a5",
+        "3f34c80699ee2d6d"
+      ]
+    }
+  },
+  "meg": {
+    "name": "Meg",
+    "rarity": "Legendary",
+    "class": "Tank",
+    "color": "#fff11ev",
+    "total_assets": 49,
+    "skins": [
+      "Beetle",
+      "Beettle",
+      "Default",
+      "Gadget",
+      "Gold",
+      "Icon",
+      "Jaguar",
+      "Mecha",
+      "Meg",
+      "Monster",
+      "Silver",
+      "Spray",
+      "Starpower",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "6a16c205eef3e598",
+        "ae233db76ed9a29a"
+      ],
+      "Brawlers": [
+        "09ab92f14c132b0e",
+        "feae592fd2c296df",
+        "6fd108953e1d7482",
+        "f7e59e6326d9342d",
+        "f8e8b43af78d6ebd",
+        "1d30eb52967dcaa4",
+        "1f5060cdf47eb0db",
+        "32ee5da5995039ef",
+        "5dffa2c53a36ea8f",
+        "81753eb78f6ff978",
+        "35e5ef00dcee0313",
+        "2ae69aec58a9b4b3",
+        "b6f1a5170653ad56"
+      ],
+      "Pins": [
+        "f99a709eaa1f7ca6",
+        "d474e1a21db3def7",
+        "00f6e827853b93fd",
+        "4f61c0f8215fe2a0",
+        "b51f8660c45c2b63",
+        "12487ba110f23715",
+        "8acc584bea8e4d29",
+        "48ed6a4f5eca8266",
+        "f06685d4d35e7285",
+        "8f5c586451f25ab4",
+        "8b9d76df7b4df836",
+        "79396d9695495b4c",
+        "84cb020bea457032",
+        "7fa721293fff916c",
+        "5e85188ba13cb4ff"
+      ],
+      "Portraits": [
+        "be9391960a8a9932"
+      ],
+      "Sprays": [
+        "55b15634538e4a5b",
+        "72ded50d0a101394",
+        "f41a76c745c613d1"
+      ],
+      "UI": [
+        "8918934c9645cc47",
+        "34f2ec94d3c94901",
+        "f6e7fd08b0697e68",
+        "7835c5332dc34f03",
+        "59feea08b29db514",
+        "72a35498b2931044",
+        "d7d3bdf8350ea840",
+        "db878fd281075fe8",
+        "9d82979c128346e6",
+        "3ac49ddf1849d065",
+        "b82c19079334d09b",
+        "f65bd48dee80085f",
+        "39839bf210518aa5",
+        "0df94681dfdc4b0a",
+        "03848858d2addd25"
+      ]
+    }
+  },
+  "ash": {
+    "name": "Ash",
+    "rarity": "Epic",
+    "class": "Tank",
+    "color": "#d850ff",
+    "total_assets": 55,
+    "skins": [
+      "2021",
+      "Citysmash",
+      "Default",
+      "Gadget",
+      "Icon",
+      "Krampus",
+      "Krusty",
+      "Ninja",
+      "Pizza",
+      "Sb",
+      "Skin",
+      "Starpower",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "7d3594cd6fff3e40",
+        "7d611be2f32ca610"
+      ],
+      "Backgrounds": [
+        "d6139d367a0e80bb"
+      ],
+      "Brawlers": [
+        "9c0b2915e0954efe",
+        "7d6faafab8f91917",
+        "6f49ccd171564dee",
+        "3f41078640ef91d2",
+        "6477a61322f3ffbf",
+        "694c82cf891ec845"
+      ],
+      "LoadingScreens": [
+        "b526734998e1cc99"
+      ],
+      "Pins": [
+        "70b0fdbd1d2d5ca8",
+        "553146ca462dfa9a",
+        "8988a81672d2a092",
+        "810c42a6807b9167",
+        "74b094eb9e1de172",
+        "6a0ea31df37eb3d0",
+        "93badb96a5233612",
+        "9cffd52b4f12410a",
+        "528af46c40abb048",
+        "21139a720beb1d09",
+        "dfc29e62089d71dd",
+        "efab8f98acf7042b",
+        "5d352cf82b3713ec",
+        "f288b30174e0e600",
+        "951d4ea69841efa6",
+        "0dde533200daa621",
+        "cbf31f7474d77682",
+        "4495252c70bb46ad",
+        "e0279701f39b1e77",
+        "8f23bb76895f6a8f",
+        "4833bc075995bc65",
+        "0573f9eb35f6807b"
+      ],
+      "Portraits": [
+        "7f01c3d79648262b"
+      ],
+      "Sprays": [
+        "a0365c829241360d",
+        "779ea3845c4cf67b",
+        "4ef90fd25e4f69e4"
+      ],
+      "UI": [
+        "ca4b65d3a2efca96",
+        "1639eaee192c77a0",
+        "60fcfbc2305d1612",
+        "f2b058221fd78b96",
+        "f4ecb13672fde746",
+        "adb8460ad9c2741a",
+        "e600d2bdbe40db0a",
+        "6f59355ffbdc3e17",
+        "789888111af5c53e",
+        "690f5f42e293bcb4",
+        "8366c324e52aada2",
+        "3df28224da7fd6b4",
+        "0b91d87a5747cc79",
+        "e71cfec95da2b9e1",
+        "396812c9a4633670",
+        "46305e88e34c340b",
+        "ba682399120d0c4e",
+        "e9c68a8db72877f5",
+        "043b5877afa4a389"
+      ]
+    }
+  },
+  "griff": {
+    "name": "Griff",
+    "rarity": "Epic",
+    "class": "Controller",
+    "color": "#d850ff",
+    "total_assets": 35,
+    "skins": [
+      "Default",
+      "Gadget",
+      "High",
+      "Icon",
+      "Sleigher",
+      "Spray",
+      "Starpower",
+      "Sunken",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "3326ca2ccddc8aa5",
+        "6329258dc7176ba5"
+      ],
+      "Brawlers": [
+        "9cf77f387db0af74",
+        "c89f0b86cc3b2e36",
+        "6593f730537f56b6",
+        "524d370316113ca7",
+        "b72844eb8bc17243",
+        "4a5ee943311ad2c1"
+      ],
+      "Pins": [
+        "03bb22f38c12ca76",
+        "3941a778d622e4fc",
+        "53646fdc593a09e3",
+        "2b3f6c055a2ebd86",
+        "c88961f784c3f182",
+        "8184f92b912a8445",
+        "7d2f80ee3ef43d34",
+        "5e229ad4424fe6d9",
+        "322b092aa9182bc2",
+        "3f2b3978887f24df",
+        "c6b437b474dd8760",
+        "73484e3f836e489e",
+        "df44b2f42985604d"
+      ],
+      "Portraits": [
+        "777091bda8323e80"
+      ],
+      "Sprays": [
+        "ef05d2e261fbff0d",
+        "4b1157bcf974520b"
+      ],
+      "UI": [
+        "807a64f397c0ade8",
+        "c2b3d1be09ff3512",
+        "3a901ac542e3c4ca",
+        "53563f9cf92fde82",
+        "eb9ff7c05037b2a6",
+        "02b7f78630dc0fd5",
+        "fc28ee776e8ac56b",
+        "f1168aa6df82d009",
+        "a9759c94bb0a7e66",
+        "331862b6c3e03907",
+        "9102cb7f0cae37eb"
+      ]
+    }
+  },
+  "buzz": {
+    "name": "Buzz",
+    "rarity": "Mythic",
+    "class": "Assassin",
+    "color": "#fe5e72",
+    "total_assets": 80,
+    "skins": [
+      "Born",
+      "Buzz",
+      "Buzzette",
+      "Default",
+      "Director",
+      "Eldr",
+      "Fenrir",
+      "Filmmaker",
+      "Gadget",
+      "Godzilla",
+      "Icon",
+      "Kaiju",
+      "Mork",
+      "Spray",
+      "Starpower",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "533025eabcde52f9",
+        "85da56fdc834f455"
+      ],
+      "Brawlers": [
+        "f34b5810ddc94822",
+        "614cb679ba2ff39b",
+        "76d5367979a9cf63",
+        "a026f874c52e54e0",
+        "e0cfd76f8b6ed70e",
+        "3332d3dbb64297c5",
+        "f124cb6e4d92c591",
+        "6d089e9174795d52",
+        "6347de888ad71038",
+        "0341b780282de8f7",
+        "d544ef3129159317",
+        "50b4fe177514f047",
+        "71d1c55040374017",
+        "7f7bf99eb2d1bdc1"
+      ],
+      "Misc": [
+        "255ed305d03ef699"
+      ],
+      "Pins": [
+        "08eebc78b652da93",
+        "275e07b84905f58d",
+        "0f243f5a7802c79d",
+        "9b57d4ceba66503b",
+        "f9e0679c16256b71",
+        "03fe67a84b4e8f62",
+        "7a40f95deb7317c7",
+        "c766c220dd060592",
+        "849dd4f4f0d97885",
+        "07ec37035f9ed17d",
+        "ccce74a2bd0f5fc5",
+        "993460d351435d87",
+        "5ffe70b9f77d9463",
+        "43a04872d0e38183",
+        "fc85868ac1a71f01",
+        "71ff18d4595d1fe8",
+        "58c7629d078c45a8",
+        "3316bf87da733eee",
+        "ebb03338e67669ac",
+        "e0464d0db629bc45",
+        "df6ddcb5b3df2aff",
+        "ef89533fac27b4d4",
+        "236ac28b0470a4be",
+        "a39245c4310d5109",
+        "55652dfdaaf88f23",
+        "78bb3437aa6f71c3",
+        "85a7c5c79f56ee55",
+        "f141d0b5e3c8bd1d",
+        "633c5645b6fed123",
+        "2c918de76d719c8e",
+        "ab34a7c741721300",
+        "c08a9304cc1d6123",
+        "e761b14455060246",
+        "da047fbe93f31c2b",
+        "21952592a1e7a093",
+        "9355054058cf805e",
+        "d43b134a4021be75",
+        "6f80d455999cfb09",
+        "ba86fcefc94e0106",
+        "0e5688a7e51c43da"
+      ],
+      "Portraits": [
+        "05fdbef276dc5dcd"
+      ],
+      "Sprays": [
+        "647eba20e497954a",
+        "638cad73fefb1a6d",
+        "1665971cc75ce8f7"
+      ],
+      "UI": [
+        "68a3de6073cc44c1",
+        "be95cf415c00cc0f",
+        "2b2dea886d12fe43",
+        "a3c95a18937f3c84",
+        "ccc420a402ad9a55",
+        "b67977743078e80a",
+        "d92802b329ba7ad1",
+        "bf0034f653586758",
+        "623d84d1c9172653",
+        "b301ea3b6eeb6a30",
+        "c8a9a71148e0bb88",
+        "abbf707182d2998b",
+        "90e567717fac6d4a",
+        "19b037e506837875",
+        "68c4a7eb7a97a7bc",
+        "6ee3addad98d794f",
+        "3e33999492af4fea",
+        "af2e23d80ac39213",
+        "7300893d8517bceb"
+      ]
+    }
+  },
+  "grom": {
+    "name": "Grom",
+    "rarity": "Epic",
+    "class": "Artillery",
+    "color": "#d850ff",
+    "total_assets": 46,
+    "skins": [
+      "Bunny",
+      "Dasis",
+      "Default",
+      "Frankengrom",
+      "Gadget",
+      "Grom",
+      "Icon",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "cb5676a53f36790a",
+        "596b6848b927f270"
+      ],
+      "Brawlers": [
+        "518c275a5f3af9fe",
+        "53d3c7707e2b1104",
+        "42518b277a7ae0a0",
+        "099764c8b9238952",
+        "6559597b3c088c8d",
+        "64263744adfc90f4",
+        "8b66f8cd3ae8ea7b",
+        "47e516eb43ba8532"
+      ],
+      "Emojis": [
+        "e29e4e3a098eeea5"
+      ],
+      "Pins": [
+        "92846f23bf1b7d78",
+        "3b406b8c3506e3ac",
+        "516b5a3d64f7b40e",
+        "b9767e76816d7195",
+        "f8b3693ac9485c32",
+        "195c7e10f03b88d0",
+        "722381edac31d32b",
+        "005720583693acb3",
+        "a62af48903a58b14",
+        "b6eaf65106dc0be7",
+        "c0d849430a5d110a",
+        "0e9065c6fc895f50",
+        "dab7a0a902dd08bd",
+        "1c792f77ac922106",
+        "3f9d69408e66a1d8",
+        "56cda94487be589e",
+        "81cf16a506e2ab8a",
+        "38a86d77c1a6a6e3",
+        "b752065f54ebf760",
+        "2b98a59eff1c575c",
+        "5e6e6877132e6b47",
+        "7629f4a73bd4e707"
+      ],
+      "Portraits": [
+        "0cb4bde13bc51790"
+      ],
+      "Sprays": [
+        "0c6a83c9002c279c",
+        "71de9118af48fe66"
+      ],
+      "UI": [
+        "037ce03de010c48e",
+        "814ee14a562fb9c9",
+        "e6e3e1804f24f9bc",
+        "0c507f03d14940e8",
+        "ccdc43a19a093669",
+        "8c3fccfa04109c41",
+        "a25ffe4fb4538b85",
+        "adc26507df345d00",
+        "29afcb002e1e45a5",
+        "8dff390f4fd68437"
+      ]
+    }
+  },
+  "squeak": {
+    "name": "Squeak",
+    "rarity": "Mythic",
+    "class": "Controller",
+    "color": "#fe5e72",
+    "total_assets": 44,
+    "skins": [
+      "Default",
+      "First",
+      "Gadget",
+      "Ghost",
+      "Icon",
+      "Moon",
+      "Nerd",
+      "Potato",
+      "Spray",
+      "Squeak",
+      "Starpower",
+      "True",
+      "Ulti"
+    ],
+    "asset_types": {
+      "Animations": [
+        "21c005d905838dc0",
+        "1f8cc4165b51a3fc"
+      ],
+      "Brawlers": [
+        "4c6b9a80fc50c493",
+        "115ae97b106b38a5",
+        "7a252a7b477acb93",
+        "5e4ae51de5136d9b",
+        "5c8db1300c762a92",
+        "ccf81e2f98d80fbf",
+        "82652326a2ad2ec6",
+        "bde4729b79cf8d0d",
+        "b9f13f6a13c82b1d"
+      ],
+      "Pins": [
+        "e84b0b66f4c15bdc",
+        "2ced152828da5c15",
+        "2dd8a8d87c09d4c8",
+        "5a7d71b9fca2bf39",
+        "2134e5f85426d965",
+        "5d253cb17ea71ef2",
+        "ff3036d9c29e284d",
+        "98dff3e0e5b07afd",
+        "21d7ad4d736d0a6f",
+        "be5adcc5f74dac5c",
+        "8b50b7f6e45b0f75",
+        "aa79984530a396c1",
+        "fd1dfb5aefe23adc",
+        "c651ca2b45774766",
+        "01470aabb8acd024"
+      ],
+      "Portraits": [
+        "087a2b7696d5a2a4"
+      ],
+      "Sprays": [
+        "760c81687626b375",
+        "e7a742bb4752b00f",
+        "2981f67ded6453f7"
+      ],
+      "UI": [
+        "e2894bc86a1ab101",
+        "3e1cde1f3519754f",
+        "a188a122a97a8567",
+        "31904df933d385ef",
+        "f0c2606f85f8dbe5",
+        "73f9e5330ce9cdc2",
+        "9c7c857de5151583",
+        "9aa184351b5253d0",
+        "b59c3079d712ded6",
+        "496f7b6a5b3e73d8",
+        "817247bd5a34a2a4",
+        "07cda47b697f8724",
+        "6014b21a6c1c9791",
+        "10a8f22c4dbf31d8"
+      ]
+    }
+  },
+  "belle": {
+    "name": "Belle",
+    "rarity": "Epic",
+    "class": "Marksman",
+    "color": "#d850ff",
+    "total_assets": 51,
+    "skins": [
+      "Belle",
+      "Cod",
+      "Coral",
+      "Default",
+      "Gadget",
+      "Icon",
+      "Ivy",
+      "Spray",
+      "Starpower",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "60fe0666c6490168",
+        "a6a611f950a7a404"
+      ],
+      "Brawlers": [
+        "4ce75773b7044a0d",
+        "e109a44739baeb54",
+        "fabdf1cf42ec2c59",
+        "d8a6ddfd83e1555d",
+        "bc7515c69645f38c",
+        "0af5c7fbd028aa72",
+        "97ceb38dc264dbf5",
+        "093332fd7b17a240"
+      ],
+      "Misc": [
+        "89cf5a3807f44960",
+        "478e58de56feb154"
+      ],
+      "Pins": [
+        "581d2061dbcef54d",
+        "630c283f4982d729",
+        "8d42bf1a5d97095a",
+        "6b591e3116d31024",
+        "7890e8232f77798d",
+        "82d9f4777b2a0b7b",
+        "3625155099f8f7e0",
+        "0a992d524eca3d05",
+        "34b77ec6095cf769",
+        "dfccd41977c62714",
+        "f931f97e4cd8b7b4",
+        "f66b126946ec40af",
+        "fbfebfb19fac8ba4",
+        "1daefba1dbcc5344",
+        "3c64bbb5e8dd4713",
+        "d9ce2910329ba3b1",
+        "d5434428013612f8",
+        "02ba821d9ea8e9d2",
+        "d9f5620798ca2db6",
+        "5bec4bd9a68d8cd8",
+        "02b20355c86ceee9",
+        "228d547cb373af1d",
+        "253dbefe29eef386"
+      ],
+      "Portraits": [
+        "9dbaf23433927edc"
+      ],
+      "Sprays": [
+        "b5eeec9ea504d333",
+        "3b616bff4074d301"
+      ],
+      "UI": [
+        "e199d064b4baae4e",
+        "2976f9a4d5fc1ff6",
+        "51d6eedc1e48309e",
+        "2eed12885fa2a24c",
+        "138020a063e41a82",
+        "079786fe5d7a72e1",
+        "429724d7de45f243",
+        "9dcbd9fd8e8f5432",
+        "a1e07970dd54a269",
+        "2a0b252536d59e05",
+        "3eee3f604ceffae3",
+        "c80c16a783491a0a",
+        "1c94f6e46052fad2"
+      ]
+    }
+  },
+  "stu": {
+    "name": "Stu",
+    "rarity": "Epic",
+    "class": "Assassin",
+    "color": "#d850ff",
+    "total_assets": 45,
+    "skins": [
+      "Default",
+      "Gadget",
+      "Headless",
+      "Icon",
+      "Lobby",
+      "Santa",
+      "Starpower",
+      "Stu",
+      "Stuntshow",
+      "Superstar",
+      "True",
+      "Wicked"
+    ],
+    "asset_types": {
+      "Animations": [
+        "103628458c3c112f",
+        "a8947491a63f8989"
+      ],
+      "Backgrounds": [
+        "6de40857601a1e41"
+      ],
+      "Brawlers": [
+        "aecfb024cdb3b831",
+        "f7626a7318153db7",
+        "77ddd990eb93fc16",
+        "69ffda58c7251e2f",
+        "87a2ff77f9293169",
+        "96458a608df19853",
+        "f9df5e9ad0860587"
+      ],
+      "Emojis": [
+        "7ac4079911993c7d"
+      ],
+      "LoadingScreens": [
+        "34ecd4f28087709f"
+      ],
+      "Pins": [
+        "317c45892a9f8e51",
+        "91946c79e53c2c77",
+        "d073e9d5ce04d0d1",
+        "505ec07a519abe33",
+        "ae2519ff9dbebe5b",
+        "44417fca53a99295",
+        "f2a82c69db1fd7ff",
+        "9639b3dbd1de0572",
+        "15b3b66816178da8",
+        "e7b49deaf7b42c0b",
+        "c0a65312f74c5189",
+        "a05f530e7b412049"
+      ],
+      "Portraits": [
+        "8345a5343606f22d"
+      ],
+      "Sprays": [
+        "094342e3018c41bb",
+        "e38408d57f92c029",
+        "6258010f76f4b11f",
+        "d0e7cc475dce815f"
+      ],
+      "UI": [
+        "2a40df525dddd304",
+        "06bf91b63fe54b0a",
+        "9903d727749fb457",
+        "2d968a24379b16ba",
+        "6262a5cb2e627242",
+        "896b98698526e24f",
+        "033a0ccb7872f4f4",
+        "873fa99979e240be",
+        "6026bd64a7c96b03",
+        "eb0c62473aaa9bd0",
+        "49e32d737658a4f4",
+        "dfca2a96f8b48648",
+        "f4cd57fb584af477",
+        "467eae33fdc0db9f",
+        "d5f2790646a36668",
+        "3b7f5e6db33a9c0f"
+      ]
+    }
+  },
+  "ruffs": {
+    "name": "Ruffs",
+    "rarity": "Mythic",
+    "class": "Support",
+    "color": "#fe5e72",
+    "total_assets": 43,
+    "skins": [
+      "Alwayshasbeen",
+      "Default",
+      "Gadget",
+      "Icon",
+      "Marshal",
+      "Ronin",
+      "Ruffs",
+      "Starpower",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "93a1a365645af21f"
+      ],
+      "Brawlers": [
+        "b7a5336e6b63a173",
+        "c0894ab306fcf50d",
+        "594381ee4aa5437c",
+        "7ed52db35fdf5afc",
+        "1e83df569f673dad",
+        "270aeb84296aa7b8"
+      ],
+      "Misc": [
+        "95483bd678420279"
+      ],
+      "Pins": [
+        "23808ad25fe6339b",
+        "2637c80f47f5278e",
+        "c6efde6cdb8f7300",
+        "bc465133c33ceeb9",
+        "74a84c94930811e9",
+        "9e650d7f80762a87",
+        "8d20c04f7900c414",
+        "e9bbed5cb993680a",
+        "bf3d4b8b0aa28eb3",
+        "b3cd3f21da8bc24c",
+        "af8e9151b670f0df",
+        "8c4beb22e014d581",
+        "3a9764a5833f2e07",
+        "6d3ae88e8f42a9e6",
+        "155b954981f3d15c",
+        "4309e5f1540275f4",
+        "63e12e6c177c1da1",
+        "18d832d7d739af59",
+        "8d10e7094eeb632b",
+        "b35ac1306b1aa578"
+      ],
+      "Portraits": [
+        "8b13d449d94b057b"
+      ],
+      "Sprays": [
+        "7d1b9e2379998a98",
+        "daf4d0545e00ecad"
+      ],
+      "UI": [
+        "ad4e4fe2450e1c54",
+        "fdc679d83498da3e",
+        "d0c9c43419ce6083",
+        "31c0661d39ac6232",
+        "5fdc23f7d728a247",
+        "a05a6f4a3a5fa87f",
+        "6c45a9b877942349",
+        "da20a0f7eae7ce4f",
+        "72e11ce90df502cb",
+        "0d5fef8190d1621e",
+        "3fb23f667f431336",
+        "e2eedd3f1924fd44"
+      ]
+    }
+  },
+  "edgar": {
+    "name": "Edgar",
+    "rarity": "Epic",
+    "class": "Assassin",
+    "color": "#d850ff",
+    "total_assets": 68,
+    "skins": [
+      "Blackbird",
+      "Button",
+      "Default",
+      "Doctor",
+      "Edgar",
+      "Gadget",
+      "Icon",
+      "Mecha",
+      "Orochi",
+      "Overcharge",
+      "Quickdraw",
+      "Spray",
+      "Starpower",
+      "Thief",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "ac397ad1b83c0dd5",
+        "0fe0874a897cdd66"
+      ],
+      "Backgrounds": [
+        "2fbbb70a0deb9334"
+      ],
+      "Brawlers": [
+        "0f3f5c558f9d4ee0",
+        "d89225be95105c35",
+        "f04e7a06b66e595d",
+        "7abc20cd5c199fe0",
+        "ed20a4e89b78fcc9",
+        "de3cb3757e3a04d6",
+        "08e0b4a25b6b8d30",
+        "ea585ce961eb64c6",
+        "c8c9486357f0e1ec",
+        "29d2741ad8b1b0cb",
+        "060c66a4db5dc3c2",
+        "ba6ddce08ae14de9",
+        "d726f6b75f3e146b"
+      ],
+      "Emojis": [
+        "f2dc68442e96bb81"
+      ],
+      "Pins": [
+        "dcd7175ef93bcb91",
+        "e501eccba5368885",
+        "6a7514b46ef105fd",
+        "dbae01667f30613b",
+        "34c6bdf05bfee0f6",
+        "eee80bc5465e194f",
+        "e1a42e50371a1e7d",
+        "25fd05d31d96ce93",
+        "a505fc0f276afc17",
+        "2b70b5853d578103",
+        "18e4ca02c008b412",
+        "c4bbdadc319e0884",
+        "45876e1545542157",
+        "bb9ee812ffc56187",
+        "c1f277dacd7ae350",
+        "084e8ded62d69771",
+        "7b98d4f1354569dd",
+        "23eb60e25c77f764",
+        "7cb496d29d59db98",
+        "534dc6e597da6502",
+        "a9df8475e5decf0c",
+        "1553358885c02dcb",
+        "0b763e2469fcae8e",
+        "fd66d8ff1171f285",
+        "bc8f033f61b824c9",
+        "789e84ac2dcef601"
+      ],
+      "Portraits": [
+        "b92abf8a3da045b9"
+      ],
+      "Sprays": [
+        "9524c5475a302104",
+        "2aaaf89aaef01f63",
+        "1c16f726bb22f5ba",
+        "0f480c8810dfbbf1",
+        "06d9fef6cecb2eb5"
+      ],
+      "UI": [
+        "aa75ab37a431897b",
+        "977351822b99e4a9",
+        "f7e567b82e8b575f",
+        "0e9df212a4567a4b",
+        "2e0b0bb7f7bcf956",
+        "987a7600d0dd2f22",
+        "3549bde91eb3b876",
+        "bc61371992c0089e",
+        "1722de4dc3827905",
+        "c1d2c3cf3b1a1386",
+        "c6234ce35d513092",
+        "2c21f7ffe3078d02",
+        "80765b7dda68c941",
+        "cd710a0cf16a05bf",
+        "3bbd6b6cedf2039b",
+        "c7ce709179fdffde",
+        "b1d76ada029d411d",
+        "db7f9b7ef062b4cc",
+        "0960c78b940a0d7d"
+      ]
+    }
+  },
+  "byron": {
+    "name": "Byron",
+    "rarity": "Mythic",
+    "class": "Support",
+    "color": "#fe5e72",
+    "total_assets": 40,
+    "skins": [
+      "Beach",
+      "Byron",
+      "Default",
+      "Gadget",
+      "Icon",
+      "Overlord",
+      "Ringmaster",
+      "Starpower",
+      "True",
+      "Wizard"
+    ],
+    "asset_types": {
+      "Animations": [
+        "d2cc2828b965db77",
+        "0884233872d7e09a"
+      ],
+      "Brawlers": [
+        "276dcc403757db6f",
+        "c9c5bbad5b023b18",
+        "be43047195dd8dc2",
+        "27c7ad537a7ee50c",
+        "ecf03364bf969873",
+        "43e3cbb246296272",
+        "8af07cbc1f9ad0c1"
+      ],
+      "Emojis": [
+        "a288196f359a50ff"
+      ],
+      "Pins": [
+        "9dd29fc403d2aa0c",
+        "5c47771836f74abc",
+        "25ebeee25eb0f7af",
+        "793af4254e61c12e",
+        "862c40e414ae4c1b",
+        "6ec15b15e922db17",
+        "32fa6a38f1567753",
+        "dd93bf931a4d3a59",
+        "52042eba2071a9f9",
+        "d5305f6f0aea6657",
+        "6cecd94c87871473",
+        "c4d6c369ded838c1",
+        "be80fe3e2f7e8bd2"
+      ],
+      "Portraits": [
+        "3753535468e648a2"
+      ],
+      "Sprays": [
+        "00c1ae5ff5d79d80",
+        "dd47db48918d401c"
+      ],
+      "UI": [
+        "ab9440f96e218c71",
+        "299c576dc2554e4a",
+        "b8308c34d8b3be9e",
+        "b60a7f96552068b0",
+        "a80ac6c753dbc76f",
+        "57f0d0d8732c2a08",
+        "422681985a534883",
+        "427824c00098e2c2",
+        "f63980fbdc384d81",
+        "e909d2635381c26d",
+        "b204befaee58489f",
+        "62b36d49ef79fae8",
+        "bb6bf56b5c9c6db0",
+        "59692fea0011ec20"
+      ]
+    }
+  },
+  "lou": {
+    "name": "Lou",
+    "rarity": "Mythic",
+    "class": "Controller",
+    "color": "#fe5e72",
+    "total_assets": 50,
+    "skins": [
+      "Burger",
+      "Default",
+      "Gadget",
+      "Icon",
+      "King",
+      "Modifier",
+      "Overcharge",
+      "Smooth",
+      "Spray",
+      "Stone",
+      "True",
+      "Ulti"
+    ],
+    "asset_types": {
+      "Animations": [
+        "0bfda67eb060f682",
+        "803d24c8ed8d3128"
+      ],
+      "Brawlers": [
+        "0539718f96fd7cfd",
+        "43230ccb32d93e96",
+        "994f51cef8e477ff",
+        "8ab1908de4abbbd2",
+        "67c5964bb8337f3f",
+        "fc2381f1ef9cbe60",
+        "72590d9a0db133f9"
+      ],
+      "Emojis": [
+        "f95cd54283e1554a",
+        "e65c2c96dc4c10e0"
+      ],
+      "Pins": [
+        "8eef7a51c606a6fa",
+        "491e1485a9adad40",
+        "c6c4cb1cc7d3b028",
+        "f45a134172c443a6",
+        "d31f7fe9f11c7733",
+        "8fa0f5c3e6adc9e9",
+        "3038ab3f9a97de00",
+        "d6ac9e8b699a0ac5",
+        "d243b841d4c6e2e4",
+        "2e18ff69c2d6643d",
+        "2a96fa9b19b0e92a",
+        "2f5cb62830e7b292",
+        "8f53d8c9eb484c6b",
+        "c87d041548dcd5b6",
+        "efb1be9dd859098d",
+        "9d019447789a7b9f",
+        "916d5ae9313d6caa",
+        "7c4e62911840fd10",
+        "fbe3d9f6a2a266d0",
+        "3e9ebfb07755c4f3",
+        "ac25aa1fee81e92e"
+      ],
+      "Portraits": [
+        "88818032b5655cc2"
+      ],
+      "Sprays": [
+        "2d8de095a6cf65a1",
+        "b5953527ac5c939e",
+        "c4f7bc77edbad877",
+        "395ae0e31a111c4c"
+      ],
+      "UI": [
+        "6f319df4878b1cfe",
+        "f468ad1e5fcacedc",
+        "79cb6714512dfb23",
+        "4128a46051b66de0",
+        "4fce45c3e7acb602",
+        "7a61af2e08740cbd",
+        "32a5e7f20aef0ec8",
+        "0ac7deebb3ba7afa",
+        "18201e5d75ddad3f",
+        "e53c10965fd4a2f0",
+        "2fd11681dc826a92",
+        "23fbaa4b82898d8e",
+        "71becf5f51b0c1b3"
+      ]
+    }
+  },
+  "amber": {
+    "name": "Amber",
+    "rarity": "Legendary",
+    "class": "Controller",
+    "color": "#fff11ev",
+    "total_assets": 45,
+    "skins": [
+      "Amber",
+      "Default",
+      "Frost",
+      "Gadget",
+      "Icon",
+      "Mythic",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "8ac77a6cfe8e8b89",
+        "d3fea96b7a213e1e"
+      ],
+      "Brawlers": [
+        "826c1e019928a65d",
+        "431035e1bdacb0dc",
+        "2feff678b79077a7",
+        "755bb296b1632572",
+        "8ed23c1f6e1a62d5",
+        "bb7bce1395b86a33"
+      ],
+      "Pins": [
+        "ea298f5f3386081f",
+        "19b6651541f258cc",
+        "a582528ef1fc6fd4",
+        "8cc8ea754d4e3242",
+        "dee20f36daffe68e",
+        "695a176c132b7d94",
+        "878b9be072fd5d50",
+        "91127277cb5f0be2",
+        "776c80d7c702ccdd",
+        "c3e2d361e52210a4",
+        "7cc4a4fcccc3f8e1",
+        "bc5860e6bb21dfb8",
+        "2deb26132962b61f",
+        "8d349a209f43ee56",
+        "edb75cbfb95d3524",
+        "9436779585740851",
+        "fc08a40be688537f",
+        "b0cd54451f316d59",
+        "1b28884faab560d8",
+        "e3a9bce4d05f17a7",
+        "59b24371371046a4",
+        "c4d94ded22e238c5"
+      ],
+      "Portraits": [
+        "6fdf94fc398a7b75"
+      ],
+      "Sprays": [
+        "b7b24ed5883ee7d0",
+        "81a478148212b6c1"
+      ],
+      "UI": [
+        "837c6f82ba2ae24f",
+        "e6ba6c0e57bed10e",
+        "19891011e6922285",
+        "6252c042736e084f",
+        "2a06bfeb87a150cb",
+        "40bf72024c2ba085",
+        "c5098f06129974d7",
+        "2d97a25bb75d76b3",
+        "0008cdbef3583c92",
+        "6b072b41bcf14cb8",
+        "4072eef66d8d4464",
+        "3ff1b73203d4652b"
+      ]
+    }
+  },
+  "colette": {
+    "name": "Colette",
+    "rarity": "Epic",
+    "class": "Damage Dealer",
+    "color": "#d850ff",
+    "total_assets": 59,
+    "skins": [
+      "Colette",
+      "Default",
+      "Fangirl",
+      "Gadget",
+      "Gladiator",
+      "Icon",
+      "Inspector",
+      "Kiiro",
+      "Midori",
+      "Navigator",
+      "Overcharge",
+      "Starpower",
+      "Trixie",
+      "True",
+      "Ulti"
+    ],
+    "asset_types": {
+      "Animations": [
+        "18234d5c381fbf8c",
+        "7351958da0cec640"
+      ],
+      "Brawlers": [
+        "49ca699202756149",
+        "a6926ec7cc047cc8",
+        "9dc4a4bb8f65016f",
+        "99bcabe58e553511",
+        "0dbe63090b9bb477",
+        "a59224b8fa3451b8",
+        "81be07bd08b95c1a",
+        "0492ac93be8cca68",
+        "fc686ed6317a26a5",
+        "2e956107a9480f44",
+        "1ac633f170c5a9ce"
+      ],
+      "Emojis": [
+        "9526d738163126db",
+        "b62043b18c5cb2ac",
+        "d0b46e0d80e51aa0",
+        "5dad2b85a1614dd9"
+      ],
+      "Pins": [
+        "a7ebf20c31a68b25",
+        "cec7b9e3234858c0",
+        "ebf1313cab8cd2aa",
+        "451fa925d31cac4b",
+        "1f3b8a8b403f6011",
+        "2e5fde23302e7164",
+        "9f6674a61021ffb1",
+        "51481b16f1a7a524",
+        "6b58923b6d929291",
+        "443f4701f44a4931",
+        "95b828847058dbf3",
+        "47ee3e8c304cbdab",
+        "010944f9af0e3f63",
+        "a918825ff52d3bc6",
+        "d68233222bb143ff",
+        "38597589332ecab7",
+        "6a9f5fce2d780002",
+        "ee1af34b44b0d113",
+        "79ea63fa1e746d12",
+        "af18d9f709a4ec9e",
+        "03b4e3e516c413a6",
+        "147e767a618452cf",
+        "88eabe1b1a7be060",
+        "c3bc5a3961b7a3a5"
+      ],
+      "Portraits": [
+        "abd4fbad56d49e19"
+      ],
+      "Sprays": [
+        "d688073dfc1bdecd",
+        "fe180739763c3b1a"
+      ],
+      "UI": [
+        "85635a20638b23e9",
+        "5ef73ac056cdb569",
+        "ad66dcbfc67ca741",
+        "6a611384883dd6f3",
+        "635fa1adf4219167",
+        "94ccff81d5cdb176",
+        "1cc55ccdbf4f82e9",
+        "12fae6d263cbc7bd",
+        "5d0804281385b52b",
+        "45eb51d682d44b82",
+        "6c5cc62542051d7c",
+        "78e386f1ffdb541b",
+        "99dbc4809f6e65b3",
+        "bf4977642b47f7a8",
+        "7f74f1d6f3686619"
+      ]
+    }
+  },
+  "surge": {
+    "name": "Surge",
+    "rarity": "Legendary",
+    "class": "Damage Dealer",
+    "color": "#fff11ev",
+    "total_assets": 61,
+    "skins": [
+      "Default",
+      "Diy",
+      "Gadget",
+      "Icon",
+      "Kraken",
+      "Mecha",
+      "Scarlet",
+      "Spray",
+      "Starpower",
+      "Surge",
+      "Surgenie",
+      "True",
+      "Ulti"
+    ],
+    "asset_types": {
+      "Animations": [
+        "e912ce985b45b582",
+        "901a99a7ee6122cd"
+      ],
+      "Brawlers": [
+        "f0dc813a5582125b",
+        "cf6606a9975d6ada",
+        "445edf0d1898d371",
+        "1972193de7c46666",
+        "8090ee6a4b23d20d",
+        "d92f1c5de3039194",
+        "0580670b221b2c51",
+        "b92f37497d71403b",
+        "571fc8abf335f971",
+        "4adcac6914f28b77",
+        "8b0734621f82be25",
+        "5e94e28d56c1c8c8"
+      ],
+      "Pins": [
+        "401a350c2f2f6860",
+        "dcab236ef144fc86",
+        "1656d26bd133f3c8",
+        "edd840e32c51b64f",
+        "211e4122bbc5e876",
+        "0a97557b622fe87f",
+        "fe636a66d8ceb17f",
+        "ea8c25124e12c6dc",
+        "bf7f6bab6f2f5ea6",
+        "cc48dffc1fd4c27c",
+        "d32d2ff4dbc8b54f",
+        "b1fe0ec11b685366",
+        "a579665118340985",
+        "939fa977691aefc2",
+        "a54928f3a914ad2c",
+        "1ba1b53be5d9716b",
+        "6467adfc42b92939",
+        "2bdec59ff3802ea3",
+        "877e6c2a35b20d5a",
+        "e5684e48ab7fea2a",
+        "ea0db1dd205395b8",
+        "7927633a3f8b9ebd",
+        "10961c9ffeffbfc3",
+        "8c32adb887274657",
+        "fc223342eab13257",
+        "9900c6e7bfdbbcb7",
+        "d6f4ebb0647738a0"
+      ],
+      "Portraits": [
+        "6bb6f493d83905bf"
+      ],
+      "Sprays": [
+        "9f2f5956f26c699b",
+        "edd7a4cb8df4450f",
+        "01a9795e49f71a02"
+      ],
+      "UI": [
+        "18501a24d960ad3b",
+        "d9730883fa17316e",
+        "1cc69fc3d0f21524",
+        "5841dac7c450b0f2",
+        "b5249f55a6f6a5d3",
+        "808d053948e4fc6b",
+        "22a382ea59c39c26",
+        "ccafdd8ccad340fb",
+        "21ad29642b1f75e1",
+        "b0679204e5ba031c",
+        "13249f14ea92f6bb",
+        "a3791f194d5f3a8e",
+        "e409b4140b5db1e9",
+        "1ce2c33b0054cb63",
+        "f1888f0efae29dbb",
+        "650a065419f63879"
+      ]
+    }
+  },
+  "sprout": {
+    "name": "Sprout",
+    "rarity": "Mythic",
+    "class": "Artillery",
+    "color": "#fe5e72",
+    "total_assets": 45,
+    "skins": [
+      "Corrupted",
+      "Default",
+      "Emerald",
+      "Gadget",
+      "Icon",
+      "Lunar",
+      "Ruby",
+      "Spray",
+      "Starpower",
+      "Tropical",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "fe0a1bae0fb09b62",
+        "398ac80b2a73dcc3"
+      ],
+      "Brawlers": [
+        "f8eed0c9dd86db94",
+        "3d8e0952e95ef057",
+        "601dab4e3c8f3e91",
+        "36e232ae9c86f95b",
+        "5cc681914598767a",
+        "7e067306d20f66eb",
+        "fbbd2c567047ad76",
+        "05f705648ee40c07",
+        "5ee598816fddbac0"
+      ],
+      "Pins": [
+        "eec7bda1681bded0",
+        "9e134f33b9dfbbf2",
+        "eec3ff1dc4b001cc",
+        "578cf53135e6e828",
+        "97370650739899c9",
+        "c090f1d06a6866e6",
+        "bff26ee3c5a85fa8",
+        "e47b5a268636c12d",
+        "34215a8359e4f708",
+        "0668687ff94b38b2",
+        "d8bc727bc4cbe8c5",
+        "a90441d55a20efc9",
+        "83876b9161d18c84",
+        "156346c64845e34a",
+        "b7ef73d7e4a43438",
+        "15218bc58d8159b9",
+        "76773ac1b6e82ab9",
+        "3ed2db5dcb1cadce"
+      ],
+      "Portraits": [
+        "45426a8950fc7c1d"
+      ],
+      "Sprays": [
+        "59c1903f1b70420f",
+        "1c9874081d4e1e36"
+      ],
+      "UI": [
+        "3d83d6216709f5b1",
+        "d8bfa9fdb6511d45",
+        "94f9726f48173dc4",
+        "ae034ab394291b64",
+        "2a42bbb7de3be53a",
+        "238cf686f1a6afd4",
+        "515b52e091047b07",
+        "11ba148f7e8bb50e",
+        "180b4314e6273f7b",
+        "dc7ad3c2264764a5",
+        "785b431dfaf2b9c3",
+        "06e964a804fc882b",
+        "baa10511bcb9f784"
+      ]
+    }
+  },
+  "nani": {
+    "name": "Nani",
+    "rarity": "Epic",
+    "class": "Marksman",
+    "color": "#d850ff",
+    "total_assets": 45,
+    "skins": [
+      "Ares",
+      "Bell",
+      "Default",
+      "Gadget",
+      "Icon",
+      "Nani",
+      "Retro",
+      "Sally",
+      "Spray",
+      "Starpower",
+      "True",
+      "Ulti"
+    ],
+    "asset_types": {
+      "Animations": [
+        "4994640a21e91387",
+        "9aab9284c4b18e9a"
+      ],
+      "Brawlers": [
+        "e747b2840138a578",
+        "9dd9eecc165d6d14",
+        "1098079c738fdbe3",
+        "a53aa39d130c6b52",
+        "5c77e73bbf2714ef",
+        "5b58341b0dc02c2e",
+        "a4ec2f5a372b1131",
+        "58c649b3375775fb"
+      ],
+      "Pins": [
+        "a1e2214d3134612a",
+        "41b6d5eaa4f80923",
+        "1dd2e185f2e0e539",
+        "9b62f0639339136d",
+        "8a9c673e074e4896",
+        "1c6740ac18c1b315",
+        "57004017705c3c79",
+        "e1fcdd64487e7333",
+        "8054bdd58ae00c2f",
+        "ba471fbf8b9eb7e4",
+        "65bd1f0471591c32",
+        "c9b4b75de21637d4",
+        "063a3329e94c7d8d",
+        "82e7526ddb46dad0",
+        "b24f4604be639922"
+      ],
+      "Portraits": [
+        "9a2209692c08c8c3"
+      ],
+      "Sprays": [
+        "27d8b9437cad32ca",
+        "e18235bd19d542e5",
+        "cde00b868e724334",
+        "8af57c68364786de"
+      ],
+      "UI": [
+        "62dbc262a88abbd2",
+        "1f746e027fd2bb88",
+        "13b2541812bab122",
+        "94a2458914bf5b2c",
+        "ce3927d250d97bdc",
+        "3659cff3d3b14430",
+        "c7231e4e3d990aa4",
+        "95d7cf65c29f185a",
+        "9d635940af3f7436",
+        "5a5bbc4021f02f56",
+        "1577b836f4da3bae",
+        "f902ef86ad5d5e1a",
+        "f2551b7de41f0fa2",
+        "01545577bb151b19",
+        "2cc98860971e3fdd"
+      ]
+    }
+  },
+  "gale": {
+    "name": "Gale",
+    "rarity": "Epic",
+    "class": "Controller",
+    "color": "#d850ff",
+    "total_assets": 49,
+    "skins": [
+      "Button",
+      "Default",
+      "Gadget",
+      "Icon",
+      "Merchant",
+      "Nutcracker",
+      "Shell",
+      "Spray",
+      "Squeakbuster",
+      "Starpower",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "d82fdb5fec15ed7a",
+        "00efe12653940354"
+      ],
+      "Brawlers": [
+        "b52988e5318ba4e9",
+        "b52a9ef684dbc83b",
+        "d2ba5939f1642589",
+        "c82fc8b9174dd88d",
+        "679182020fbbfe3b",
+        "4c4e173aa272b897",
+        "278e408e5b71b305"
+      ],
+      "Pins": [
+        "4b8971fe2fd1ba22",
+        "0a123294e6c8fdde",
+        "bae366b38426ed15",
+        "fc7525149ed1d467",
+        "33ff1c601aae8fde",
+        "9588b8f85043d2b2",
+        "db8e105866eb843e",
+        "0f02a819efecb827",
+        "6ec67767924b4535",
+        "cb8e738a6447bfc1",
+        "c15efbe093b2d32d",
+        "35bde2779d849abc",
+        "a82a48e011f5c0ce",
+        "d7105dd431f015e2",
+        "0315b26f2b646c86",
+        "97a548fcbd63b675",
+        "5fc3a6b34ed22653",
+        "bb1532ec8832f717",
+        "c991b660bd993ddb",
+        "03866efaa1795ff7",
+        "61e629024c8b5fb8",
+        "c2213490ae20f966"
+      ],
+      "Portraits": [
+        "fa9f75915ad637f9"
+      ],
+      "Sprays": [
+        "e132ef16e2913517",
+        "42cb9c3c18c2afd9"
+      ],
+      "UI": [
+        "be3a3f027a1bf682",
+        "b95e4bde289f4671",
+        "e173c15151948931",
+        "1f98e1149db22c00",
+        "d5c9b6648d391aeb",
+        "26713f5136c2ecf6",
+        "0687fcfeeacb48b4",
+        "9ebb88102ac64a7f",
+        "e94a57bc280c3790",
+        "62a281fe1eb70827",
+        "f38e196830596c0f",
+        "d0af5c2bfb654a56",
+        "c77f785dc2d6c018",
+        "983c6576b7d24cb2",
+        "780540c2f066a920"
+      ]
+    }
+  },
+  "jacky": {
+    "name": "Jacky",
+    "rarity": "Super Rare",
+    "class": "Tank",
+    "color": "#5ab3ff",
+    "total_assets": 47,
+    "skins": [
+      "Constructor",
+      "Default",
+      "Gadget",
+      "Gift",
+      "Hypercharge",
+      "Icon",
+      "Icons",
+      "Jacky",
+      "Jet",
+      "Starpower",
+      "True",
+      "Ultra",
+      "Wave"
+    ],
+    "asset_types": {
+      "Animations": [
+        "dd03b11d4ff9be49",
+        "297d2b8186c94aeb"
+      ],
+      "Brawlers": [
+        "cfb227bbcff4d796",
+        "f3803182759a8715",
+        "1af3b420bce46dd5",
+        "60d7d3452eab527f",
+        "240509ef94501690",
+        "2e494aa41a3ca1fe",
+        "70aacbcdb4c452d7",
+        "24a64ad79d15dcec",
+        "2c206f3011d53f97"
+      ],
+      "Pins": [
+        "b5aaa4f2382a6b7a",
+        "6d033da1e02f29ba",
+        "a36acbc36f1b2fcb",
+        "69ce2cd07301902a",
+        "3d9b313f0b24072f",
+        "7030a09e01358136",
+        "319bc46ff576b19a",
+        "99711dceaf19c1dc",
+        "a156bcd66979f8c0",
+        "0ad4514fa8cb9ee4",
+        "8e700c926d5794ec",
+        "79b1d66374f9c673",
+        "64440d1636fb2d68",
+        "2c12d70f54bb4b82",
+        "da68d5a9777b2b0a",
+        "73ef459c92da182f"
+      ],
+      "Portraits": [
+        "b099a4fd91a9dca8"
+      ],
+      "Sprays": [
+        "5711973517e992c6",
+        "fe0ab9c4ca592edd",
+        "7638a7119b1ecaed"
+      ],
+      "UI": [
+        "674fa88c6fd4210d",
+        "e9d0bc8b42a30b02",
+        "5e4445b8ae1e9922",
+        "5b98b5aafe3101fd",
+        "8317f48395192594",
+        "6f49c03338945882",
+        "70e471cfec418f52",
+        "ac65899adffd2fbb",
+        "629ec0b913c0de23",
+        "38c2d56087195a29",
+        "f102b7ae00d6dd53",
+        "561783c8117cae5f",
+        "5686dab7c0b92761",
+        "3425a60f8055936d",
+        "8a348ffb99cbfa1f",
+        "d4fb3bc88422e229"
+      ]
+    }
+  },
+  "max": {
+    "name": "Max",
+    "rarity": "Mythic",
+    "class": "Support",
+    "color": "#fe5e72",
+    "total_assets": 45,
+    "skins": [
+      "Cony",
+      "Default",
+      "Doppelganger",
+      "Gadget",
+      "Gt",
+      "Hermes",
+      "Icon",
+      "Leopard",
+      "Max",
+      "Panther",
+      "Skins",
+      "Starpower",
+      "Streetwear",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "63ff0645e9002f3a",
+        "1b0747d50d213b91"
+      ],
+      "Brawlers": [
+        "66ad6e4cbe95491f",
+        "9023e40815e8216d",
+        "f3c4ac2476de5906",
+        "9eb27c504b90348b",
+        "9642043bfd61311a",
+        "9fb89891ffc5066e",
+        "8e97e72d139b49dc",
+        "78dab954129f83b2",
+        "c33886193caf160b",
+        "278eb1965b880608"
+      ],
+      "Misc": [
+        "ae4d47df57f2613e"
+      ],
+      "Pins": [
+        "a6855c4e0e9c4c32",
+        "440958b4cdeaea87",
+        "18f2cc6c0ea85742",
+        "db1e40a7e3464b42",
+        "abffb19d44bf8e51",
+        "a014c13e6831af33",
+        "5bd3467519cee940",
+        "2527a5692280d523",
+        "d828cb941a4a1b76",
+        "311f306a66685e0d",
+        "e546a30bcb2d11ed",
+        "640e43e8707a2efc",
+        "473cd18073e1b578",
+        "dce9b5be0ad87480",
+        "8814fb5c16fc3d38"
+      ],
+      "Portraits": [
+        "89cb0e2139b7fe0e"
+      ],
+      "Sprays": [
+        "4168bd92c0c4ccf4",
+        "0dc109659c4c2d6a",
+        "4088fbfec7638e43"
+      ],
+      "UI": [
+        "44e8ac2a75702817",
+        "359d9f8516325748",
+        "b4b24a27a87baa27",
+        "4d7207397af931be",
+        "d9787e0e655ea0f2",
+        "362f1b1af95ef39c",
+        "eecdf7d291680bd4",
+        "fa11e3fabba25cca",
+        "8cb82c4bdc0a180f",
+        "10f52495a5083ebb",
+        "c61a3b11e9f8f6ab",
+        "d115bf65abedb7a7",
+        "2611fbcd262acf81"
+      ]
+    }
+  },
+  "mr_p": {
+    "name": "Mr. P",
+    "rarity": "Mythic",
+    "class": "Controller",
+    "color": "#fe5e72",
+    "total_assets": 40,
+    "skins": [
+      "Gadget",
+      "Icon",
+      "Mrp",
+      "P",
+      "Starpower"
+    ],
+    "asset_types": {
+      "Animations": [
+        "7c6e9121623aac71",
+        "12add2c27e851a4e",
+        "ffaee4a56eea63cb"
+      ],
+      "Brawlers": [
+        "931af1e5e62faf74",
+        "59c93f6de92c3ec3"
+      ],
+      "Emojis": [
+        "d71ec81e0a05945e"
+      ],
+      "Misc": [
+        "821232ee4ee77f80",
+        "5932023119f7b277",
+        "eac89e9f23cef537",
+        "69726051ba76494b",
+        "3a55aa8e64d96eb8",
+        "d96744d48c22a7b0",
+        "0149970d7d34f10e"
+      ],
+      "Pins": [
+        "c049c602494e2e5b",
+        "3a8ce34ddd10b2d1",
+        "1351a9f620f49031",
+        "f3c2755c75ca67db",
+        "8df87a82f910043b",
+        "872cc6ebaf432463",
+        "d9f93f241be4fe49",
+        "2ba8031224e0e06a",
+        "1689dee95dd6087a",
+        "add249bca56b3693",
+        "c858504084ea750b",
+        "a912ba0a5171461f",
+        "669f1ebe4d575dc3",
+        "fb21c92baee10ae6"
+      ],
+      "Sprays": [
+        "ab6a07ab77435b5d",
+        "e607b43a44ec9436"
+      ],
+      "UI": [
+        "26ad75d644abc2d1",
+        "8cfdf45aaadb6e44",
+        "320cc5bb4a472eec",
+        "e1ece3f04e749f11",
+        "7d72f199a938004b",
+        "146e07e45f998880",
+        "25e5038a9e10758c",
+        "e7e5c6ace2bf8260",
+        "8663c95878fefa26",
+        "29505d6afb90b092",
+        "5e16374dbe2e07d3"
+      ]
+    }
+  },
+  "emz": {
+    "name": "Emz",
+    "rarity": "Epic",
+    "class": "Controller",
+    "color": "#d850ff",
+    "total_assets": 50,
+    "skins": [
+      "Button",
+      "College",
+      "Default",
+      "Dj",
+      "Emz",
+      "Gadget",
+      "Harajuku",
+      "Icon",
+      "Mean",
+      "Spray",
+      "Starpower",
+      "Super",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "9f3311f186cbfe21",
+        "ad8c081a3842cf3c"
+      ],
+      "Brawlers": [
+        "50ba83acb1e9a3ab",
+        "e8495cea8d6e3c38",
+        "320f753f22bd9b20",
+        "2bbce6abaeb55f5d",
+        "9e7e69e65d8adac0",
+        "55fcef1e2a3366b1",
+        "3f2275dd45d69282",
+        "74c3f39ebb3b5064"
+      ],
+      "Pins": [
+        "4808a575e7271b3f",
+        "b2f618dafb756989",
+        "500293c656289b62",
+        "f9857d30d8bb3e66",
+        "137e33c608947a7b",
+        "e7b84edd74c4d613",
+        "0fdf6bd2069d5457",
+        "f812e567c2a290fe",
+        "a47c10ad21b97415",
+        "0bf0f6d11193e66c",
+        "cbe79ea0a83ed581",
+        "9adb8f977c4de357",
+        "22080b6e1a86b9e4",
+        "a6ddde1db144b9be",
+        "4c76bc03ae957f22",
+        "c603f29deed99c29",
+        "ba836057473c8094",
+        "c644a1f71280abe2"
+      ],
+      "Portraits": [
+        "47a257d3fe902632"
+      ],
+      "Sprays": [
+        "f5b804f2c40be4c3",
+        "c42eafbb27f8b5a6",
+        "f8dd5593b55d728a"
+      ],
+      "UI": [
+        "69cb8764649746c2",
+        "a008430a15cc135d",
+        "8ef56b11fce2f7bc",
+        "7a61d003604bb5da",
+        "4bb7d37308a2ac79",
+        "44f385169efe687f",
+        "5c6cb027edf435a0",
+        "3e96925e6742f28e",
+        "fae245ba0ac8c285",
+        "c3c8105163804e91",
+        "ef0bf1793c7459f5",
+        "17ee1cf5dd44ac51",
+        "d08e110ba6e44e6f",
+        "952ca617a54ad4f6",
+        "d5e387eb5ef04933",
+        "c97a1b7cd4a5b3bf",
+        "dec99cba67b8cf49",
+        "4c2289bff37ed36f"
+      ]
+    }
+  },
+  "bea": {
+    "name": "Bea",
+    "rarity": "Epic",
+    "class": "Marksman",
+    "color": "#d850ff",
+    "total_assets": 44,
+    "skins": [
+      "Archvillain",
+      "Bea",
+      "Default",
+      "Esports",
+      "Gadget",
+      "Gold",
+      "Icon",
+      "Ladybug",
+      "Mega",
+      "Modifier",
+      "Neko",
+      "Rmg",
+      "Starpower",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "19ca6665ec63b7ba",
+        "6a76bfbc8d4ed58f"
+      ],
+      "Brawlers": [
+        "a8996bc8064be956",
+        "3e8b25bd5a974d55",
+        "e01d5e3191f3a010",
+        "b08d0d2293885d56",
+        "c2c9978730e6d658",
+        "24bc66eec05c8880",
+        "1c69addca8856f87",
+        "8461614fba0a9bbf",
+        "107ba42b91437183"
+      ],
+      "Misc": [
+        "893374d7415b73dd"
+      ],
+      "Pins": [
+        "514fe6b275eeb28e",
+        "8dc326da79fc306d",
+        "538f2566fc0bc0ea",
+        "ac2119cf2b2de74f",
+        "811881299ef3dde1",
+        "1787d7e7edb605ef",
+        "bb36b4354be6dc9d",
+        "ef5d19141a7c5741",
+        "86242773809b6ce0",
+        "62e86136bd2fa1ca",
+        "6d775588a2024b81",
+        "74d940320955f5a1",
+        "1282a997738a8f51",
+        "ac70e95ec7a3eb60",
+        "95529fe41fc259b8",
+        "2c627481543b62ee"
+      ],
+      "Portraits": [
+        "3f88dbfb8b0d86db"
+      ],
+      "Sprays": [
+        "b66c895529161e66",
+        "e8267bbe262e00fa"
+      ],
+      "UI": [
+        "1c279d69bd45d564",
+        "ffb11a5355badd02",
+        "08e5a9ee35b24e33",
+        "7e7012e6ce8360b5",
+        "2257a4590a3b9542",
+        "1b52219eef3f0c02",
+        "2704b0c4e0095306",
+        "80cada0ffb315e13",
+        "485f49797358f0f6",
+        "4c877eec19ba745e",
+        "2ea2beb99655a7d4",
+        "b50d43c25dc27c78",
+        "9ea80218eca43161"
+      ]
+    }
+  },
+  "sandy": {
+    "name": "Sandy",
+    "rarity": "Legendary",
+    "class": "Controller",
+    "color": "#fff11ev",
+    "total_assets": 49,
+    "skins": [
+      "Default",
+      "Gadget",
+      "Icon",
+      "Lantern",
+      "Mythic",
+      "Nightmare",
+      "Sandy",
+      "Sleep",
+      "Sleepy",
+      "Starpower",
+      "Sugar",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "2df23f909349b47f",
+        "d9381efa6921e65b"
+      ],
+      "Brawlers": [
+        "79dd2ec79a916168",
+        "e165e59270f02d49",
+        "de252da550d40647",
+        "02e7fecd48a80252",
+        "3a375adebf23cb60",
+        "6a8e7522dd832475",
+        "dc594204bac48a34",
+        "74a7ceab581096ee",
+        "c42a35a5625b4fbf"
+      ],
+      "Emojis": [
+        "c6800d739c12d009"
+      ],
+      "Misc": [
+        "de90bd983c683d7b"
+      ],
+      "Pins": [
+        "fd65aebabf58c3d9",
+        "bca29f0a2088a093",
+        "bf1ebe083480ef2f",
+        "1a16917d7b93e8a0",
+        "dda07ac4b3bbc861",
+        "6e882f7e5b93d979",
+        "2791f93378922963",
+        "eba7449b6b53b53d",
+        "77873f6ee0cc6eda",
+        "c2c616780b7d02f8",
+        "edf832735a86f1d3",
+        "493f963a893a3e87",
+        "feaa8f5cb55b81b9",
+        "7ea7f42c698b4b66",
+        "e728c5e1be1e5826",
+        "d2075794c95bda47",
+        "b187fc8d96904258"
+      ],
+      "Portraits": [
+        "0d3d8bb8391fc6cd"
+      ],
+      "Sprays": [
+        "429c744f27b1eabf",
+        "03d104d28e86a4e9",
+        "965e248358f54850"
+      ],
+      "UI": [
+        "1113c0d2aaa88fe3",
+        "fde08d38e83e6fc1",
+        "23d4fa03a9345cb4",
+        "bf4e7ac558b6c5ed",
+        "95b242493d1abfdd",
+        "2c6b1359c7321849",
+        "410bd02d26f345bf",
+        "674fe37a9737cd55",
+        "9e880451a2fa0eb8",
+        "c10e14337cd998bb",
+        "eb580c1b1d97e58d",
+        "e6283ce897aae288",
+        "f7ab707b3cc4498e",
+        "5c114d1577b141d0",
+        "fb9e5f85f1fc17d8"
+      ]
+    }
+  },
+  "8_bit": {
+    "name": "8-Bit",
+    "rarity": "Super Rare",
+    "class": "Damage Dealer",
+    "color": "#5ab3ff",
+    "total_assets": 45,
+    "skins": [
+      "8Bit",
+      "Bit",
+      "Gadget",
+      "Icon",
+      "Spray",
+      "Starpower"
+    ],
+    "asset_types": {
+      "Animations": [
+        "f8e986ed4e071e21",
+        "55440a4e1b625bad"
+      ],
+      "Brawlers": [
+        "d77f94d6a9d8b9ec",
+        "b385b7d38ab4aa7a",
+        "65fa42b1180d93ad",
+        "07c2768c366d1e9f",
+        "0ef9d14567ab63e9",
+        "c53a273a34bdab53",
+        "dab190759345f0c8",
+        "cc21ddbdf22afbcc",
+        "c693236f2ee80377",
+        "02fb60514717dafa"
+      ],
+      "Pins": [
+        "e2bf6aab575debb7",
+        "bcafd08d9033596e",
+        "efedf238616cd447",
+        "af16e1a56d792904",
+        "096f4ca9b4d3807b",
+        "86fa0d150829cf32",
+        "cf87fc6e3a7c9afa",
+        "5eae9ac8058710cd",
+        "53055a6dcf4cabdf",
+        "a83b180606adf16e",
+        "a93a5d4f5ab10a54",
+        "766aa14aa317cf98",
+        "7a4e19f630234965",
+        "c345cd989b07af05",
+        "6b1d5a611d35664d"
+      ],
+      "Sprays": [
+        "28b4c3ddfbae2b3e",
+        "6517026b0e2dbd10",
+        "59c01b0a76b349cf"
+      ],
+      "UI": [
+        "aab24bcd1fd829ce",
+        "778fbbd50551af8a",
+        "2e296448785c7fc0",
+        "03a6dac78c67e713",
+        "b597323ecff68613",
+        "6c2e3395a1962979",
+        "108b92e745deeed7",
+        "8a72153a06821917",
+        "03cd9bd803f71de8",
+        "48051d996e15d6db",
+        "2cdc42c049569677",
+        "bbb1eed100596e55",
+        "806d976f12342bd9",
+        "6b73188a58971b2b",
+        "df14b87c4fd7c9b5"
+      ]
+    }
+  },
+  "bibi": {
+    "name": "Bibi",
+    "rarity": "Epic",
+    "class": "Tank",
+    "color": "#d850ff",
+    "total_assets": 62,
+    "skins": [
+      "Bibi",
+      "Bibilante",
+      "Bubblegum",
+      "Cursed",
+      "Default",
+      "Gadget",
+      "Gamer",
+      "Heroine",
+      "Icon",
+      "Spray",
+      "Starpower",
+      "Thor",
+      "True",
+      "Vicious",
+      "Zombibi"
+    ],
+    "asset_types": {
+      "Animations": [
+        "1d6a886fa46e127a",
+        "6400dd9b80bd2082"
+      ],
+      "Brawlers": [
+        "89bf0ac5e1220b2c",
+        "2e94148054c6d148",
+        "16e145652aef9d32",
+        "e59a255d8f2edf4a",
+        "325586bc8a70226b",
+        "1f4609b405be96c0",
+        "2830f2affeea5d09",
+        "4f8682a70722098c",
+        "0b3069c0db1912af",
+        "f337b274404b7787",
+        "bd47ee6eae0254f1",
+        "3b5c75a66547afc7"
+      ],
+      "Pins": [
+        "fc61a48c250f7628",
+        "9e03736ec0349d21",
+        "09eaa10b2776d8d5",
+        "4ae1eb6d2fce39aa",
+        "d35d33064df88108",
+        "6925ff5b37cd5467",
+        "e4089e0ec2be5c57",
+        "fcbe7e5a1d703206",
+        "774feaebed5d2bf7",
+        "53145f1841c1bc99",
+        "be6a89eeaa463b95",
+        "acf3425f9172d5c9",
+        "e7c839677fff284b",
+        "5066d2308805a8af",
+        "a7739d9f04e0ba2c",
+        "6b391080cf071b98",
+        "a40a41c06cd3b5bd",
+        "aab30643a27fe56a",
+        "7c68617f6765de84",
+        "ca0fe82fd119987a",
+        "8359ecd9124da2cc",
+        "069e45359a2c91cb",
+        "f9cdc060205ac15b",
+        "6c74f10be04aad58"
+      ],
+      "Portraits": [
+        "ac11c73428f516f5"
+      ],
+      "Sprays": [
+        "34bd278630323b63",
+        "1ffb51773354005d",
+        "1a26db52211fe96a",
+        "fb1f60993c149643",
+        "9fd1a0ef60d6698e",
+        "73cfdc1f3723082a"
+      ],
+      "UI": [
+        "c61772f4654c17d9",
+        "c1f084885201857b",
+        "22fd82275acb6e11",
+        "567309fee52410af",
+        "999ba8ca72cfe432",
+        "a0c2155888876f72",
+        "be6136ff470f94ca",
+        "9e09be5cd45ede42",
+        "9275cc5bb53857d4",
+        "d05514093f011357",
+        "96ca25baaea527ef",
+        "0a4c7fd7ceaba07e",
+        "3f8108706f5805f8",
+        "e71555875a1d594d",
+        "cba0b5548b534f42",
+        "936b19f1c32f10a1",
+        "3a55c28a7adf9d8d"
+      ]
+    }
+  },
+  "carl": {
+    "name": "Carl",
+    "rarity": "Super Rare",
+    "class": "Damage Dealer",
+    "color": "#5ab3ff",
+    "total_assets": 42,
+    "skins": [
+      "Biker",
+      "Captain",
+      "Carl",
+      "Dark",
+      "Default",
+      "Gadget",
+      "Glasses",
+      "Goblin",
+      "Hog",
+      "Icon",
+      "Leonard",
+      "Road",
+      "Starpower",
+      "Sultan",
+      "Surfer",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "2d900de12969aed9",
+        "f8f48fb8d5518b41"
+      ],
+      "Brawlers": [
+        "0a7dcfef617c967b",
+        "89045138602156c3",
+        "de6cf49f47c1cdef",
+        "1b0c55a128885195",
+        "592ca86416dffe92",
+        "0fa92ad1c22963f1",
+        "42429f185c1a1df4",
+        "e74ffcd7faac7896",
+        "72fcf6f7d4c7eb2b",
+        "c3fb5322482c60e6",
+        "b798a9e69b42f984",
+        "9cc50b0432818d5b"
+      ],
+      "Misc": [
+        "cc7e26ec02ce8cd7"
+      ],
+      "Pins": [
+        "526805e65f355144",
+        "6bb57523c24ef35f",
+        "370e6f4dea52fcd5",
+        "ee586f93a453e387",
+        "8de17a386a74f564",
+        "8bd1eaa4105c4c68",
+        "638d2af842a1e490",
+        "3a404f6cbab0f335",
+        "5bd04f306970609b",
+        "631e437a1f901cb9",
+        "75b2a00ab8b60164",
+        "e385b7074883245a",
+        "6f57ebfda3b88605"
+      ],
+      "Portraits": [
+        "18beff3706f1ede5"
+      ],
+      "Sprays": [
+        "85315f72d5aab4a7",
+        "1c573ad96bf83556"
+      ],
+      "UI": [
+        "e8742bd2e7c8a31b",
+        "310e81eac0be76b5",
+        "76ee0e45f47b5c96",
+        "5b24a739b273fcb6",
+        "ee7b081b59587f5e",
+        "4ef1a86e4f163082",
+        "bf76a35646aa9cfe",
+        "a339929742f15670",
+        "41f0283a258128e5",
+        "cfbb34095964a38f",
+        "5e22e742d88c72f5"
+      ]
+    }
+  },
+  "rosa": {
+    "name": "Rosa",
+    "rarity": "Rare",
+    "class": "Tank",
+    "color": "#68fd58",
+    "total_assets": 58,
+    "skins": [
+      "Brawl",
+      "Cheerleader",
+      "Coco",
+      "Default",
+      "Gadget",
+      "Icon",
+      "Major",
+      "Mantis",
+      "Overcharge",
+      "Rosa",
+      "Starpower",
+      "True",
+      "Ulti",
+      "X"
+    ],
+    "asset_types": {
+      "Animations": [
+        "d6bc91c0dd33c058",
+        "0ff20d99bd7b4bc3"
+      ],
+      "Brawlers": [
+        "3e384ec17e2b572b",
+        "63b4c428c0abeba0",
+        "231c5ffe400c7cf6",
+        "9e717cf417c68aef",
+        "f8bef91bcd6aef27",
+        "d9c6ff979b0abeda",
+        "4ce9904cc6e55fc3",
+        "d62f8404edaf875d",
+        "b47510890f392515"
+      ],
+      "Emojis": [
+        "f6960f352540612e"
+      ],
+      "Misc": [
+        "1d1d1581b6d44106"
+      ],
+      "Pins": [
+        "94dad6d979ba6f12",
+        "663b55a737b4baa1",
+        "6204c28eacb723aa",
+        "1e767e86d7b30a4d",
+        "e6f2abd5d06db045",
+        "13844b8d8beb3ccb",
+        "5ad014b3c24b2886",
+        "91d01e90e89abf27",
+        "96ea32f948d116c9",
+        "11a2555fe3f41461",
+        "cb23d7e3d9fc81d8",
+        "66a8d11e7070e3b4",
+        "87399df1f0eda5ab",
+        "ec3be519a5d6bfd5",
+        "692630b39c6fa67d",
+        "d3a6c62dbf0bd08d",
+        "c4657a4e9e255841",
+        "d776f6bfba57c89b",
+        "991c2105aab81810",
+        "7a18479caa17f5a2",
+        "c00e071fe809f8ca",
+        "954d23a6d7fe727c",
+        "20828be6d65c10b9",
+        "96a7f4e044311c58",
+        "ca7139543a0b6243"
+      ],
+      "Portraits": [
+        "270bfdb42471db96"
+      ],
+      "Sprays": [
+        "0a8af0e302dcea9c",
+        "3b412886cb5592e2",
+        "5297c92631e6addd"
+      ],
+      "UI": [
+        "22733021986a083c",
+        "7168ac6e2016caf9",
+        "ec37cea473640092",
+        "c40ab731cd3fc24f",
+        "2280576d5ecd1738",
+        "4f197ad39def0db9",
+        "b9df5f673b6cff36",
+        "1e891fa15da7e6dd",
+        "d8aa4a27ffcf68e6",
+        "791e16de2a243fa3",
+        "d447e8c2e47ecdd6",
+        "9a33ca6a5f9a994a",
+        "1e19065f5a6c37c4",
+        "c039c98512cb852c",
+        "f7382bff15869600",
+        "2eeb79484fe8a9da"
+      ]
+    }
+  },
+  "leon": {
+    "name": "Leon",
+    "rarity": "Legendary",
+    "class": "Assassin",
+    "color": "#fff11ev",
+    "total_assets": 69,
+    "skins": [
+      "2024",
+      "Button",
+      "Default",
+      "Dino",
+      "Gadget",
+      "Icon",
+      "Leon",
+      "Mechaleon",
+      "Mythic",
+      "Overcharge",
+      "Radiant",
+      "Sally",
+      "Shadow",
+      "Shark",
+      "Spray",
+      "Starpower",
+      "Trick",
+      "True",
+      "Werewolf",
+      "White"
+    ],
+    "asset_types": {
+      "Animations": [
+        "90ed3782cf85318c",
+        "4455ba4715093eac"
+      ],
+      "Backgrounds": [
+        "96ba3d86acfe9b13"
+      ],
+      "Brawlers": [
+        "36abf49bd440f903",
+        "167983b38ea546a2",
+        "e69dfb2f205a199e",
+        "160a0015eac952de",
+        "49dadeb0beb14139",
+        "5d3ea9d4eb545e4e",
+        "30828f14f775a3fb",
+        "1a8643209668cafe",
+        "1a434ee39ce1b2e1",
+        "d38a61a1a61ed7cb",
+        "9fb357809564159c",
+        "18c500fa35f6739f",
+        "61c8ac271d4becae",
+        "db1f2ff3a1db84ac",
+        "e92ac83a44559b10"
+      ],
+      "Emojis": [
+        "ec5b379de03598c7",
+        "48d5da16a67197ef"
+      ],
+      "LoadingScreens": [
+        "6ba86ab11a0fd7ae"
+      ],
+      "Pins": [
+        "7e3104b0e1a903b7",
+        "70e2b17acfda94a8",
+        "d97f01745f44f097",
+        "24c9f3bf5d6f229e",
+        "2ab293a395ef752b",
+        "fb167e6a72eabed7",
+        "adc31989f7a922f9",
+        "7a68336c9b1df977",
+        "4f6347b186c27ec2",
+        "ec4c248b8b36878f",
+        "7dbe5578dcf57e0e",
+        "8952424e2493873e",
+        "5720cc5ab6558996",
+        "f696479878d1ac53",
+        "3e21ed0c3b14c900",
+        "91a096bc61d295ff",
+        "e8431291b9c6d7d7",
+        "5f2f44efe386ace5",
+        "64665a0159048b8d",
+        "69dcedab51977ae4",
+        "30bbf95b210d6a2b",
+        "fedc4f0fa01b0e44",
+        "c90c8983905b3e68",
+        "7212de462a8261f3",
+        "fb72840391370e78"
+      ],
+      "Portraits": [
+        "afe7a014f232253f"
+      ],
+      "Sprays": [
+        "434c8446c68a9513",
+        "19be051636b16e93",
+        "0ea841ed59a22f2a",
+        "5b07b645e1a906ae"
+      ],
+      "UI": [
+        "71a5477ee568a1ca",
+        "7714dd847eccf290",
+        "66bd76f81ed14ffb",
+        "d6489e48ed85fb7a",
+        "94a7e75cb4067982",
+        "a4ac65c575082d55",
+        "d2449ab18d5116d8",
+        "2ad98458dc5cbbc0",
+        "5ee716360e8e0662",
+        "455eba7ef8354953",
+        "88dc3d4e661489b5",
+        "34ab8ca782481ce3",
+        "0d1d853286ae1e89",
+        "cd37db310b8e4cb6",
+        "648e6c65e258e22b",
+        "2df86c1c6a175e17",
+        "faa2644543497fdf",
+        "d7dd9b3356bb6871"
+      ]
+    }
+  },
+  "tick": {
+    "name": "Tick",
+    "rarity": "Super Rare",
+    "class": "Artillery",
+    "color": "#5ab3ff",
+    "total_assets": 52,
+    "skins": [
+      "Cerberus",
+      "Club",
+      "Default",
+      "Gadget",
+      "Icon",
+      "King",
+      "Mecha",
+      "Mythic",
+      "Snowman",
+      "Starpower",
+      "Tick",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "3fbcbfd5ba64d43c",
+        "22f16746f163dd9e"
+      ],
+      "Brawlers": [
+        "9ad07c6fe8df19fa",
+        "b952fd03acac5f90",
+        "955a2ee7712760dc",
+        "441e837840703dbc",
+        "0166758946b0d432",
+        "17403e7e9b91eb56",
+        "aad1d0613a29d22d",
+        "0880c8d2f787d33c",
+        "70335fc736323094",
+        "a622902ca82ee1ef",
+        "b0823b09a57a481b",
+        "11ef53402e8b73f2"
+      ],
+      "Pins": [
+        "218587b857c10877",
+        "1e6387372dd14917",
+        "26e50d497c94c21e",
+        "5f751a90ea1b2c6a",
+        "a490e6757935acc4",
+        "baa42af72ff67027",
+        "abad14264eb0d66b",
+        "abf0b127558ca9fc",
+        "1a4a676fee16d151",
+        "b31a8d10d14582d8",
+        "b87d0cf2f1faab61",
+        "01ef4f3313895329",
+        "e66523ff74cd29b9",
+        "efcca825491196d2",
+        "ac5bc5537f69fdda",
+        "375b27c35c9e7b3f",
+        "71fda90a53ae9684"
+      ],
+      "Portraits": [
+        "4969659e5b365085"
+      ],
+      "Sprays": [
+        "717d0f634a04cb84",
+        "869530e2f775b8d2",
+        "d3672ac25a3fb72c",
+        "ec56fba7d5ac105d"
+      ],
+      "UI": [
+        "9c9fd4debe3a5784",
+        "cd27337ace5b14e9",
+        "91807f1df301dd30",
+        "c16bc0836c733b7b",
+        "c03581b889a94cae",
+        "1acf2fc5ac5c649d",
+        "2a0b940931353a74",
+        "02a9ec9817938c40",
+        "1b67bb0e059b79c1",
+        "cf65f70985af3807",
+        "3e96a049c60af709",
+        "056f5b54908070dc",
+        "420b16163fa555f8",
+        "b78282e8109f10d9",
+        "d263c486f038aeaa",
+        "b541c99a731062d0"
+      ]
+    }
+  },
+  "gene": {
+    "name": "Gene",
+    "rarity": "Mythic",
+    "class": "Controller",
+    "color": "#fe5e72",
+    "total_assets": 41,
+    "skins": [
+      "Dark",
+      "Default",
+      "Evil",
+      "Gadget",
+      "Gene",
+      "Generic",
+      "Icon",
+      "Mythic",
+      "Pirate",
+      "Starpower",
+      "Swamp",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "242f63b93c776efb",
+        "b5edb418446f1a44"
+      ],
+      "Brawlers": [
+        "e65058dfa67d9f21",
+        "5734913eaeabc66c",
+        "d1b5678f1b7deafd",
+        "e62f22f662b7b039",
+        "e024dbda25d06052",
+        "ad87e55d20877319",
+        "50fc31a6069ce452",
+        "ce16aa9cf86b1c22"
+      ],
+      "Pins": [
+        "e8ae94c83ce7ec89",
+        "b694cbd3dc5f1a2f",
+        "7717268170bb8037",
+        "5e6149df1fb74ba6",
+        "f3c85a39ad8e8cc1",
+        "c4ebff0b64314be6",
+        "7126fa421f1abb45",
+        "a422918d6802e30c",
+        "b43a690d82693be4",
+        "24c976911f99f480",
+        "133438b728cf677f",
+        "0d33ef470737f5a2",
+        "cb9e29a6a30cf2b9",
+        "29fd2e952a7d8dc3"
+      ],
+      "Portraits": [
+        "996f81100404beba"
+      ],
+      "Sprays": [
+        "c3df9575a69236ad",
+        "fbae436609531980"
+      ],
+      "UI": [
+        "c8d206a526938481",
+        "4f88f533b955406c",
+        "6ecb00f80961d1f6",
+        "8f91eb84a09a65d5",
+        "0d9e7500c5772db2",
+        "ad14ca126abf3da8",
+        "61166c8e5c8a5b90",
+        "84a623b469419954",
+        "1c3b3da8ea308cac",
+        "28aeb013818de6b2",
+        "f87c669cfe5f2a63",
+        "e822dcab6388d5e6",
+        "d672ea7af885564c",
+        "ccc7fc9b67fb529c"
+      ]
+    }
+  },
+  "frank": {
+    "name": "Frank",
+    "rarity": "Epic",
+    "class": "Tank",
+    "color": "#d850ff",
+    "total_assets": 70,
+    "skins": [
+      "Blue",
+      "Button",
+      "Caveman",
+      "Default",
+      "Dj",
+      "Frank",
+      "Gadget",
+      "Holiday",
+      "Icon",
+      "Parasol",
+      "Red",
+      "Spirit",
+      "Spray",
+      "Starpower",
+      "True",
+      "Vanara"
+    ],
+    "asset_types": {
+      "Animations": [
+        "7cf9f0ce98d4f783",
+        "601e672271a9ce36"
+      ],
+      "Brawlers": [
+        "5b8fe7ef535156fb",
+        "145aff04b85f8fcb",
+        "f9d7bb5785a59013",
+        "3d129a197b921700",
+        "5eb7a1899c9ea412",
+        "078c737cae123070",
+        "3114704c5ea763d4",
+        "a6a8897f02ff1c84",
+        "751e1ba75424c5e9",
+        "741c641ae289446d",
+        "ea3f8489e096ea0a"
+      ],
+      "Emojis": [
+        "62107c02ffb59139",
+        "243f98c8fbbf13a1",
+        "cee15499ed07bcce",
+        "bedb4155a353e976",
+        "9158f0ccc6ccfa5a",
+        "098654e98a1aca87",
+        "59476c3ae370772f",
+        "c3d27cc5c46118b1",
+        "551b124bd2ee4602",
+        "3a8e40ea35c00847",
+        "9d9b3d10a88df18d",
+        "765a3e8ccdcd2be5",
+        "cc0c260caa88dae2",
+        "83629b6dbdd0f5ea",
+        "c379647d975d2d43",
+        "85c66dbc49ab63c1",
+        "6119b229901aa193",
+        "d5d0069ad3e104fe",
+        "db372fcd7b582f91"
+      ],
+      "Pins": [
+        "97f2d25e8050e7f2",
+        "c06b2e76e2803c71",
+        "41f6568079aceb8a",
+        "880aeddff5a27fdb",
+        "5c47f2d5381d2ee0",
+        "7956ee2e7c3426cd",
+        "b2e715e5533d9e92",
+        "c81cacc23f8fc7a5",
+        "1259edc57327362c",
+        "108f99cbdef01d6a",
+        "21114a2c7aff9b28",
+        "e17607b319b602ff",
+        "7f9e20c36ab7e580",
+        "d402625b26f700ad",
+        "4a49696949abdde2"
+      ],
+      "Portraits": [
+        "c4cde2af61e73c3b"
+      ],
+      "Sprays": [
+        "b95c8041afbd3587",
+        "7960d7102e6af992",
+        "cab2fadc60a40c3d",
+        "1bdc1fd2f9918eee",
+        "563d86d16b314917"
+      ],
+      "UI": [
+        "ea23923e9d5ae426",
+        "53e9e1001be7f756",
+        "546fa349e029ea0a",
+        "1f934d313735e005",
+        "c3cee33201da76c7",
+        "2d0892bd70ac31a8",
+        "06a033cbdf9104b9",
+        "cbbbfb9b1a0817ec",
+        "39ab853ab3427339",
+        "1ee28203d6bc50bd",
+        "0a0d47a9ccb646ef",
+        "4beb93213e4d82db",
+        "76666c83c95de748",
+        "b3933931304419e0",
+        "7b63d92d7cc72433",
+        "59fbc41dd1983d96",
+        "e5ee1d0963ca37fb"
+      ]
+    }
+  },
+  "penny": {
+    "name": "Penny",
+    "rarity": "Super Rare",
+    "class": "Artillery",
+    "color": "#5ab3ff",
+    "total_assets": 47,
+    "skins": [
+      "Bunny",
+      "Dark",
+      "Default",
+      "Gadget",
+      "Icon",
+      "Lil",
+      "Moon",
+      "Smuggler",
+      "Starpower",
+      "Trash",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "2d09e603260c7266"
+      ],
+      "Brawlers": [
+        "8363bd11a3e046e3",
+        "96a79481cfe9655c",
+        "9ddf594d4f170b5d",
+        "41df0f85ed86e9d3",
+        "adee1db8c6b8a21f",
+        "eed5849536f882e6",
+        "474d1611b3314bb3",
+        "e3dbc81bd0622ee1",
+        "647bef4c21da2dbe",
+        "979e4c336d209424"
+      ],
+      "Emojis": [
+        "881dbcdbbbb151b9",
+        "828d3a5c8b9e1367",
+        "4128b1e652ece6a3",
+        "f6aa3b8fb8ae205d",
+        "9cba55ace9fb96c5",
+        "7e3400cb41d2f5b8",
+        "e225974349515ba3",
+        "1bdfbee00f0e3876",
+        "9ec12e504b868b37",
+        "42b26d8d92bbe0b1",
+        "c3e9b69c92efd1e3",
+        "05a6bb3454a3db87",
+        "7bd61037be6ca007"
+      ],
+      "Pins": [
+        "6a4380b680351066",
+        "d86ffab6d9f3fe42",
+        "da48aed615d79919",
+        "da560ee9e765c79e",
+        "358684657d0be6a9",
+        "eadaee060f6fb62a",
+        "68c0624506a24718"
+      ],
+      "Portraits": [
+        "558bab51697ed404"
+      ],
+      "Sprays": [
+        "59dbcd1c9589276b"
+      ],
+      "UI": [
+        "4358c64e813b9481",
+        "ddfcf5d417d95ce6",
+        "1101d64e637d8e60",
+        "8cc201818985ef04",
+        "45290f4d93e846dc",
+        "5ee125207cdbc44c",
+        "8128eed5e5e00c49",
+        "a233e83453e51686",
+        "b21f79f2db046540",
+        "d39f0dd299b27798",
+        "bdf5e3bf2801bfe6",
+        "fd1d6d5ad8bd0676",
+        "8a2959ff228f07c4",
+        "11ebf543afe08154"
+      ]
+    }
+  },
+  "darryl": {
+    "name": "Darryl",
+    "rarity": "Super Rare",
+    "class": "Tank",
+    "color": "#5ab3ff",
+    "total_assets": 43,
+    "skins": [
+      "Crash",
+      "Cupcake",
+      "D4R",
+      "Darryl",
+      "Default",
+      "Dumpling",
+      "Gadget",
+      "Icon",
+      "Mascot",
+      "Mega",
+      "Omega",
+      "Starpower",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "4d534e8cdab417cd",
+        "35625c9e536b6598"
+      ],
+      "Brawlers": [
+        "ca8d591bba693374",
+        "db43db53ffc2dd11",
+        "298def5a418d2962",
+        "2a919af4633319da",
+        "003abc439fdd0f4c",
+        "ee60c8cb79a9480b",
+        "68a18758d3397fbf",
+        "8d20e64f0822c7d4",
+        "9e7dcac2d6e601a7",
+        "ca3baee5a605a12d",
+        "529c693f52acdb68"
+      ],
+      "Pins": [
+        "c00833305cb7679d",
+        "6a60149f22c3fbb5",
+        "83ec20fbf3689b1f",
+        "1e093cbd100c98c2",
+        "5a023486e99d5068",
+        "7544440ef7b2a501",
+        "f37911483edce91a",
+        "c342f48450c04ea5",
+        "40b3ccd43eba576d",
+        "0ba29fe79c22a152",
+        "a7041a40f9c96cc9",
+        "5286a3bf88c6f4b2",
+        "a9b6d2e697740411",
+        "fcc59efa4a00ee30",
+        "51dcbfae87e6bc4e",
+        "ef5460d0aa0736a4"
+      ],
+      "Portraits": [
+        "08e9e47185b9246c"
+      ],
+      "Sprays": [
+        "7b9a0d1eb92a39dd"
+      ],
+      "UI": [
+        "d3ef208f55b57a14",
+        "5300bb0da1229189",
+        "b26bb07c434449ef",
+        "cca348ecf9cec729",
+        "3e2f4bb931849baa",
+        "19ff2a0b14d3105a",
+        "de6653ff0bd3db26",
+        "e56b7854bf9da484",
+        "f4973ca01787ea26",
+        "22f265dd55b66361",
+        "f8be53c6abf67e66",
+        "17272d8c60e1f6bf"
+      ]
+    }
+  },
+  "tara": {
+    "name": "Tara",
+    "rarity": "Mythic",
+    "class": "Damage Dealer",
+    "color": "#fe5e72",
+    "total_assets": 49,
+    "skins": [
+      "2020",
+      "Bazaar",
+      "Default",
+      "Gadget",
+      "Icon",
+      "Misfortune",
+      "Ragequit",
+      "Spray",
+      "Stara",
+      "Starpower",
+      "Street",
+      "Tara",
+      "Tempest",
+      "True",
+      "Ulti",
+      "Urban"
+    ],
+    "asset_types": {
+      "Animations": [
+        "1064b85ee0e98b31",
+        "e140b27e8e649713"
+      ],
+      "Backgrounds": [
+        "59561529c8edf1ad"
+      ],
+      "Brawlers": [
+        "474abf6a34d0ed11",
+        "e88f025477f4b303",
+        "491caf48bc4dd64f",
+        "0d43c950bba08732",
+        "eb908fe4f55311c1",
+        "7f2b535b5bf8580a",
+        "e73dbacccfc94a7e",
+        "940dee4562b7f71c",
+        "dfed89b69af18941"
+      ],
+      "LoadingScreens": [
+        "438b4d61f02723a8"
+      ],
+      "Pins": [
+        "31a7e63f1725b23b",
+        "515698a84ae036ae",
+        "61bbd2acf2c68d3c",
+        "fbacf652e11187f0",
+        "de56237dcc4d00a1",
+        "e47a28a406da401e",
+        "ed3616f6f4330363",
+        "5f297600815c5f00",
+        "967495ce7f5140e0",
+        "b4316402c5d77a19",
+        "cd539e1218a31cee",
+        "52230d9cc9c17460",
+        "9aefb097a5c4926e",
+        "c36aaec05edae62c",
+        "16b3fbbc960d5956",
+        "24b25fff1cb15d6c",
+        "2d5d7378d6c642e4"
+      ],
+      "Portraits": [
+        "538648b94397356d"
+      ],
+      "Sprays": [
+        "a451ceca298fe30d",
+        "0a8c6bb47fe3aace",
+        "cd61aa9ae95881e8"
+      ],
+      "UI": [
+        "46f2bce9438a4d6f",
+        "d38780652f97e013",
+        "6d75c51243ee7c3e",
+        "f1832f84ba1648c1",
+        "131070641543be86",
+        "48ef1d0f9483dcaf",
+        "b2ba37865bddd54b",
+        "945c5a1f2202ddd5",
+        "a777dac83d0374ee",
+        "9f0ac802640cc0a5",
+        "3cbe825e93baad8d",
+        "1e3c0a72f08c1e72",
+        "56f03b085ceafe4b",
+        "5766243d42ab5282",
+        "5dc8bd3ab45886c1"
+      ]
+    }
+  },
+  "pam": {
+    "name": "Pam",
+    "rarity": "Epic",
+    "class": "Support",
+    "color": "#d850ff",
+    "total_assets": 47,
+    "skins": [
+      "Default",
+      "Evil",
+      "Gadget",
+      "Holiday",
+      "Icon",
+      "Mythic",
+      "Pam",
+      "Starpower",
+      "Stonks",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "ababba0a9bd8f1b2",
+        "1c38af0979daa2d9"
+      ],
+      "Brawlers": [
+        "6044f5c615085193",
+        "c9aa231b03445f95",
+        "541d188e377992bf",
+        "f2332d5989894611",
+        "27b1c269c7fabe66",
+        "c37ccf8cbf0a9a9c",
+        "8eeee5eb81413a86",
+        "d1040f936d36db61"
+      ],
+      "Emojis": [
+        "6d8c4377e741e2fc",
+        "b9eca5a9e942a5b7",
+        "f6d829d75cb102b2",
+        "2fc27c33b2896759",
+        "00482f7a267c2450",
+        "6c40ef829e79c533",
+        "792fcfaad9b42bd1",
+        "39027783efd9e730",
+        "7ed7037dc2034b53"
+      ],
+      "Misc": [
+        "038750fc781b1204"
+      ],
+      "Pins": [
+        "6b0a2f35833ef383",
+        "70286f801d3a4835",
+        "a44ae6bfa217129c",
+        "2e1d661a0e802341",
+        "9e4d8d55ec4e422a",
+        "3b71ab8cca2c64f9",
+        "7d566c6828f0f2e4",
+        "c03bb6d5b2d6817f",
+        "cc6fdd0ebe17d54a",
+        "0a83cc6959845ceb",
+        "d71c054119b02794",
+        "04ff64be7ae2ec6f"
+      ],
+      "Portraits": [
+        "e1d268736df60cb6"
+      ],
+      "Sprays": [
+        "60dda89f1a598d54",
+        "485c44faed067376"
+      ],
+      "UI": [
+        "ad7bf736995d7d50",
+        "d3bd64db34d4a2e2",
+        "7763e0024ad729c6",
+        "347aee8eb13c4d63",
+        "dcc1856234fab6aa",
+        "36849e0391578e38",
+        "b17388671ef3fe0a",
+        "0dc699c1975468d3",
+        "3b4843f88d61bb7b",
+        "fcc8bcaaac942bd2",
+        "47122da807e6bfc7",
+        "1800a92e48fffb72"
+      ]
+    }
+  },
+  "piper": {
+    "name": "Piper",
+    "rarity": "Epic",
+    "class": "Marksman",
+    "color": "#d850ff",
+    "total_assets": 51,
+    "skins": [
+      "Button",
+      "Calavera",
+      "Choco",
+      "Cupid",
+      "Default",
+      "Flag",
+      "Gadget",
+      "Icon",
+      "Lunar",
+      "Mariposa",
+      "Spray",
+      "Starpower",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "c6b0eebda0a2a139",
+        "f6f56681a9b4042f"
+      ],
+      "Brawlers": [
+        "4b79f38b5d534a9b",
+        "fa59bf2889c21324",
+        "916fff05b42b5f6e",
+        "b903cb892a7407fe",
+        "03467162d3c22eea",
+        "073d8fb44793f771",
+        "a98d37a078800a2f",
+        "9a3132a70fd1edbc",
+        "ee72ea3c92e42ae1",
+        "2102b4fe7c8f4ad5"
+      ],
+      "Emojis": [
+        "0f862f9f76e610e4"
+      ],
+      "Pins": [
+        "2da7238d9c2d8eb2",
+        "4895e26df21c236f",
+        "568e174d96e70fc2",
+        "e1a3e0af84308545",
+        "40b107a46baefec8",
+        "4993525a9845385e",
+        "0b15ba6e2d19b486",
+        "c89415215ffe389a",
+        "a43e2f477337da0d",
+        "f4f7e8e87b7ff61d",
+        "815cb100c874a02f",
+        "05a41f0b8a456712",
+        "91c942650b9a1a1f",
+        "e222985116af2a4c",
+        "5e702e9e09131ff4",
+        "949695333dd03d54"
+      ],
+      "Portraits": [
+        "c456efea01cf1ad8"
+      ],
+      "Sprays": [
+        "619d01ed7f5d8050",
+        "8361e6c08b99b47e",
+        "965bff672d2f5232"
+      ],
+      "UI": [
+        "62ff32fc5bf1f6ff",
+        "15164e2be0750b5c",
+        "9227e3bc0d2b873b",
+        "ed06830b1bd44b7b",
+        "060ac645e1843798",
+        "7f55e49335ed9d83",
+        "cfcc58da64a13216",
+        "c14b399c9a5b60b0",
+        "5db0d49fa5657d2e",
+        "409bda09f260c1a9",
+        "c2d6e441b9f3eb6a",
+        "8328f0e9ec878213",
+        "27998d0781cc878b",
+        "638b81e8231264c1",
+        "ab61eaf94eb2c8ce",
+        "d6d3b0d21436fbea",
+        "6f74f3f614a94d76",
+        "fdbe0886358611ce"
+      ]
+    }
+  },
+  "bo": {
+    "name": "Bo",
+    "rarity": "Epic",
+    "class": "Controller",
+    "color": "#d850ff",
+    "total_assets": 133,
+    "skins": [
+      "Bo",
+      "Bob",
+      "Bounty",
+      "Bp",
+      "Brother",
+      "Calendar",
+      "Debuff",
+      "Default",
+      "Drop",
+      "El",
+      "Factory",
+      "Gadget",
+      "Gold",
+      "Ho",
+      "Horus",
+      "Icon",
+      "Light",
+      "Meal",
+      "Mecha",
+      "Modifier",
+      "Primo",
+      "Rainbow",
+      "Robo",
+      "Robot",
+      "Robotcolt",
+      "Robotfactory",
+      "Rumble",
+      "Saw",
+      "Sb",
+      "Screen",
+      "Skins",
+      "Spray",
+      "Starpower",
+      "Supreme",
+      "True",
+      "Underworld",
+      "Warrior",
+      "Wasp"
+    ],
+    "asset_types": {
+      "Animations": [
+        "a298833b3ba6a84e",
+        "ad0dcc75292b3c97"
+      ],
+      "Backgrounds": [
+        "19107c458904eefb",
+        "d2e5a43b3d6996c5",
+        "3972085115fe1085"
+      ],
+      "Brawlers": [
+        "48a2369f3083c731",
+        "2d36557d8e9123c4",
+        "81108b6d185b73af",
+        "56db1a55f032744a",
+        "907ed1ed69407d1f",
+        "82d1d153e50d98ca",
+        "829d399ec4069ea7",
+        "c879b5d203d1352c",
+        "d2a9622786307bd6",
+        "a5bbbd35eaced97c",
+        "b98eeea0d3bbf2d2",
+        "18fa814116e1170f",
+        "ae24b5df5b8fd8ed",
+        "ca993b096acc9e76"
+      ],
+      "Emojis": [
+        "f801880abc67ac4d",
+        "3e55218600f590f6",
+        "4e3a3ca1eb737fd8",
+        "41d3caee092d42c7",
+        "d30f3f9e70f9037f"
+      ],
+      "LoadingScreens": [
+        "5ef6ccc17ce64d06",
+        "f7777cc65b6eeadf"
+      ],
+      "Misc": [
+        "285aa1fff1209d16",
+        "2469651b58b9e831",
+        "a1d4f90b875194a6",
+        "392bbc4d62d38c14",
+        "b0b8cf6a8a5f54fa",
+        "3d8ffe9a0e745b4e",
+        "016527399efe18e5",
+        "e2d799b6cbd514fe",
+        "ac9a9a79a31b314f",
+        "1d0b9f6683efecbc",
+        "d7a695f8404be236",
+        "752293211e96a095",
+        "446a7e67da57bd6a",
+        "e0f7c1aac61f56ea"
+      ],
+      "Pins": [
+        "c238d5c6c1cdc4d6",
+        "ae0be482c158e1ae",
+        "4e11a2d517f6b3da",
+        "7d40636453fe548c",
+        "ecbdb3a11ee0b1ad",
+        "959e974b5f8abe22",
+        "b44e9e6a8bdb920f",
+        "2910852b36e945b6",
+        "cfacc33409eedd7d",
+        "b65aa8da1aba9bb6",
+        "89ee26bbfb9f4916",
+        "362610c07b3d2b35",
+        "7046608b46504438",
+        "67acd09a8e881c1e",
+        "30060a84e147f9b6",
+        "12b49d9e2e232387",
+        "d6d4d3a8460abb35",
+        "8f780548267778a2",
+        "a4f347631b35d946",
+        "2b5e87b0934bcdee",
+        "856b1168aaf93fcf",
+        "4936ad3a62c75322",
+        "ff270e4452a7317d",
+        "7aa1a340c13e2ea4",
+        "a5874d2e5a805a72",
+        "226a8e9f0a6830dc",
+        "cad7968dd3cc9a09",
+        "d34235eb8f56b438",
+        "6b5b6d26946fe364",
+        "4d86da279a79fc48",
+        "aa438ae2fc5cee8f",
+        "39afd1d6b25af4c5",
+        "0307480ff55889d8",
+        "d3a1e2638d49b0c9",
+        "7eaf0a6a607c43ed",
+        "da34c9f4d51777b8",
+        "0ad0b914d800adcf",
+        "76a22a9f17a6a2f1",
+        "5a7cf5613db63672",
+        "2fe3dbcacf4cec0c"
+      ],
+      "Portraits": [
+        "62f315c4fdf4d4c0"
+      ],
+      "Sprays": [
+        "f478f290be6adb01",
+        "8f8c3e9064f9e650",
+        "ddb628661b0040fe",
+        "864d85c8e2295138",
+        "d155f693bb51963e",
+        "4cba787eee890a5c",
+        "8be94cfe3428e64f",
+        "f6f5e11cf9f3a2ba",
+        "640b0366bf954807",
+        "388eac50891b651c",
+        "804aa5fcad38945b"
+      ],
+      "UI": [
+        "36e8111ccf72504a",
+        "42b176235efe8f04",
+        "9c7bd5eb5a74f0dd",
+        "6e53df9edd26e013",
+        "64035f02854222be",
+        "3e218ad99e57dd90",
+        "331279b33a40179b",
+        "a9b19aa5c8e26b24",
+        "4d3fd8fdde6c55d4",
+        "a21082bec69d1bf1",
+        "1cbc9eb867e4f945",
+        "d84e58886db75ba1",
+        "4981ecfa94242e1d",
+        "9dcd02086954f2c7",
+        "a5c8a43efa1fb423",
+        "5d48ae74816e8f4d",
+        "0304b12a3128844c",
+        "8a17be658c951db9",
+        "6ee54a566df5e3f2",
+        "af4f9f770965ab49",
+        "005f450dd649a196",
+        "1e005b288eb21a5e",
+        "f84512e49307c92c",
+        "95a110713acbde2c",
+        "ad331ed1617105bc",
+        "5d4f5095ea2bfeff",
+        "a4de4d258ddf8846",
+        "2ae5077f11a996af",
+        "5a8c3a289b489b62",
+        "d0e6f33ea8f66326",
+        "03911311e741fcd9",
+        "ce83a9b79764226e",
+        "b128aec26c61c3d6",
+        "57763df269fa88c8",
+        "6b25f6edc70ad0a7",
+        "14e5ef13532be8d5",
+        "f76391137b32a81e",
+        "f54968131e0875ba",
+        "b827e194ebbd4c6e",
+        "14fd8f355d2d49cb",
+        "367bb1b3b1da5eff"
+      ]
+    }
+  },
+  "poco": {
+    "name": "Poco",
+    "rarity": "Rare",
+    "class": "Support",
+    "color": "#68fd58",
+    "total_assets": 47,
+    "skins": [
+      "Cctv",
+      "Default",
+      "Desperado",
+      "Gadget",
+      "Icon",
+      "Pirate",
+      "Poco",
+      "Serenade",
+      "Spray",
+      "Trash",
+      "True",
+      "Ulti"
+    ],
+    "asset_types": {
+      "Animations": [
+        "6aa1ab3f7620e30a",
+        "99a87ae617f5d76d"
+      ],
+      "Brawlers": [
+        "d7e2a07152053094",
+        "1a006918aa820463",
+        "9d6b3195a8810201",
+        "f2bd136a205f59c7",
+        "b27818a15e5281b9",
+        "69b9787f2030e742",
+        "b43531930bcbac3e",
+        "c666f8c02add41c1",
+        "11fcf685ebff9636",
+        "21b7786abd297d0d"
+      ],
+      "Emojis": [
+        "39e6d0c21119c47d"
+      ],
+      "Pins": [
+        "2ea9cc47f7263613",
+        "3de9a9e6c3334a3a",
+        "569b411857b26bfc",
+        "235b451c8516c420",
+        "db3297d98f7be289",
+        "3c9b5819c07ad3ba",
+        "805b32a1e5e4e399",
+        "04ffd1cece023d17",
+        "62b5390a72c77cd8",
+        "f9879849828840c9",
+        "3c24e846ba27d230",
+        "73d3900f0f6c2049",
+        "e8b06c56070a029b",
+        "4c4c1185a3df761c",
+        "1a0409dc6ff1117a"
+      ],
+      "Portraits": [
+        "a417d095e9cc4a6b"
+      ],
+      "Sprays": [
+        "618180fcca1713aa",
+        "b5c71e4e0f598679",
+        "d8f0c46b8e1d8962"
+      ],
+      "UI": [
+        "7f1ee77635756166",
+        "a6adc5c8ad1a634d",
+        "dd57b36591059002",
+        "86c76ecca8da52e8",
+        "1fabe2e0504c40ec",
+        "3653b38837197d1a",
+        "b0129c2e840ce44a",
+        "c77ac304cd6c209c",
+        "4d523d9fe2007a2e",
+        "e3cbac2ef613ccb0",
+        "71a94e28ce985476",
+        "48665b43bd099a52",
+        "7ae99a30d3bb8293",
+        "2f1ffd296e839ecb",
+        "b7c2cbbea2e4081d"
+      ]
+    }
+  },
+  "crow": {
+    "name": "Crow",
+    "rarity": "Legendary",
+    "class": "Assassin",
+    "color": "#fff11ev",
+    "total_assets": 70,
+    "skins": [
+      "Button",
+      "Captain",
+      "Crow",
+      "Crowbone",
+      "Default",
+      "Gadget",
+      "Gold",
+      "Icon",
+      "Mythic",
+      "Night",
+      "Overcharge",
+      "Phoenix",
+      "Spray",
+      "Starpower",
+      "True",
+      "White"
+    ],
+    "asset_types": {
+      "Animations": [
+        "3dd25abf6ce7c9b9",
+        "2c4e2b0d39fafb32"
+      ],
+      "Brawlers": [
+        "ad706b53ac761725",
+        "b2e2e2b36dd3762d",
+        "78aa5a66d72e64a6",
+        "3db2abdc8b4a0be4",
+        "1fac6d8a99893074",
+        "be87e0cdd1ef7710",
+        "7f0609fd074f91c1",
+        "03a9f7861d303ee2",
+        "6850a077430fcc12",
+        "69b3d81bf5a6b41c",
+        "14ce76a39df90a98"
+      ],
+      "Emojis": [
+        "c055a7cf44f6b78c"
+      ],
+      "Pins": [
+        "f3fdcc40383ca652",
+        "e1b84f3dae253789",
+        "004a7dfb522baa56",
+        "c4894607c3453c46",
+        "66b96d42acb9efea",
+        "c164c7d746e98142",
+        "ac5024775d08509f",
+        "cc107b99137c8dec",
+        "067f5e528124d952",
+        "4305a99bdd5fb82e",
+        "312b5d983d808762",
+        "763b9833977883e3",
+        "32485623e69f508e",
+        "e6785c78f1280f7f",
+        "3a7df3f109b30d10",
+        "7588875b2be6f3b6",
+        "c8c7bc70eb10caf0",
+        "14706e89990a7bf9",
+        "189b44d3ae994b4e",
+        "b5e6abd16c132eec",
+        "ac4bf986bd0164c2",
+        "380fd207ef92fb5c",
+        "3dcab49a9b5334f8",
+        "8147fc81aa504901",
+        "24df44b6b00caa33",
+        "05c84ea1fda9a716",
+        "eec081b103bd38f1",
+        "112abb419c3fd69e",
+        "2029515ee0c72e56",
+        "545b281732bf01ab",
+        "858dbc57f628a50c",
+        "9fd92d3819f1b51b",
+        "4384c5da1358cbca"
+      ],
+      "Portraits": [
+        "6b7164c2598a56ee"
+      ],
+      "Sprays": [
+        "2f4c56043471cbbc",
+        "5130c1aac6e70c79",
+        "7ac5f884f570e897",
+        "7853a2cb57a6c3c2",
+        "444b404a6a4db269"
+      ],
+      "UI": [
+        "c27e32c856562c01",
+        "42dcfaa7db73c35b",
+        "9999f814a2907a7a",
+        "0db7c8b1f8270a0f",
+        "457003d35a8cdad2",
+        "76b55be04a5e0e75",
+        "f485332c44e5e1a7",
+        "7c0829357d05267a",
+        "f0d1cc7f013d8f7d",
+        "00e62bd7358cf3ea",
+        "8b521d249d29bda7",
+        "b8cd40fa538a345f",
+        "2919bc287b304035",
+        "fabaa5887c1d73ae",
+        "340e23c2ec7ebbb5",
+        "36f392edc6a039d6",
+        "24055bbb48fd6346"
+      ]
+    }
+  },
+  "mortis": {
+    "name": "Mortis",
+    "rarity": "Mythic",
+    "class": "Assassin",
+    "color": "#fe5e72",
+    "total_assets": 75,
+    "skins": [
+      "Beach",
+      "Change",
+      "December2023",
+      "Default",
+      "Gadget",
+      "Gala",
+      "Grave",
+      "Happy",
+      "Hockey",
+      "Icon",
+      "Mecha",
+      "Mortis",
+      "Night",
+      "Rockabilly",
+      "Rogue",
+      "Side",
+      "Spray",
+      "Starpower",
+      "Top",
+      "True",
+      "Ulti"
+    ],
+    "asset_types": {
+      "Animations": [
+        "87c79a192c192975",
+        "512a5099cdf1835d"
+      ],
+      "Backgrounds": [
+        "4269cbd1d0a4ca88"
+      ],
+      "Brawlers": [
+        "c7b8952fd12404dd",
+        "9a11e36710c7b73a",
+        "c4b8375d2642f10a",
+        "b2b0707e3c530208",
+        "b8d0aa093981f353",
+        "990d0c7166427fd2",
+        "cd882338d5f590c3",
+        "51aaa3d204fbfc81",
+        "982e76efcc109e52",
+        "2445b67d56921e6a",
+        "e35d86a808f3a749",
+        "9744c7abe997fe3d",
+        "dbe1ff897ec792a0",
+        "18c484ebfc0ff657",
+        "0a0a2c04e7ed2fa8",
+        "5160ee7004e0ee5c",
+        "a7fda4f611bc5e7a",
+        "e3d66940dcab7814"
+      ],
+      "Emojis": [
+        "f1bb1c000c54c2b6"
+      ],
+      "Misc": [
+        "ca3ec7412ec5cdc5",
+        "5217b797b4829078",
+        "210ae37dc2ad8cef",
+        "5bedbd5f80cc7347",
+        "8b9505128bea4747"
+      ],
+      "Pins": [
+        "106dc46014dc3e71",
+        "39b6d2d224726d8e",
+        "d2b70e5ab9b9e888",
+        "8810c33daa7c827d",
+        "c1fedae85abe3d26",
+        "28196808e5bad70c",
+        "21f4dbfa40cd9bc4",
+        "6a23d6be0323976d",
+        "30c0ab55cb7ceeb9",
+        "b687c28749bf1e22",
+        "31bd82f298078c2b",
+        "c81fc3f3350fc500",
+        "6e1af628cb958323",
+        "650a662d756efac5",
+        "e226209f7474dbc3",
+        "038457195dd63bc6",
+        "f454a8ca9c0e77f6",
+        "93f995e6284ff15f",
+        "97d235f813241eed",
+        "574d55262dd99838",
+        "f28ce23f50c39a81",
+        "a61b24d2cabc2a54",
+        "3a267e76a0cb6d31",
+        "0a15f001d00b5775",
+        "01600ab9c7a46469",
+        "d6d2b6a1e9d9e231",
+        "b1789130579ed3ff"
+      ],
+      "Portraits": [
+        "18a6c9e0fb84db13"
+      ],
+      "Sprays": [
+        "c6af359e3d6d846c",
+        "e19433ddd67e4034",
+        "3396acc07a77745b"
+      ],
+      "UI": [
+        "68917b754be5aba7",
+        "0b73a46757775668",
+        "1139d31463bfb053",
+        "77205a9bfc366cad",
+        "aede9fab7b518d5b",
+        "bf0d62dfca66114f",
+        "030b3a86bb217685",
+        "22d40f7dc25f4348",
+        "5410c318aab0c835",
+        "7085c984d40c96eb",
+        "dca147f3a7929c31",
+        "f9685a9e93f833b5",
+        "970afbb554bc5028",
+        "292521e683dcbff5",
+        "150feae1d87a4e4f",
+        "23a39b2889034810",
+        "4a9c182bab5c4fd3"
+      ]
+    }
+  },
+  "el_primo": {
+    "name": "El Primo",
+    "rarity": "Rare",
+    "class": "Tank",
+    "color": "#68fd58",
+    "total_assets": 16,
+    "skins": [
+      "El",
+      "Gadget",
+      "Icon",
+      "Primo",
+      "Spray",
+      "Starpower"
+    ],
+    "asset_types": {
+      "Animations": [
+        "d9a4f3a945750cf7",
+        "660a2f56cb93dfd0"
+      ],
+      "Brawlers": [
+        "cdf34cb6648c2415",
+        "68b233fd2d6053ae",
+        "cfb9b5755928cfa1",
+        "5e3839939d2333f7"
+      ],
+      "Misc": [
+        "6102f55b5ad9387a"
+      ],
+      "Pins": [
+        "4851b74964cc737d"
+      ],
+      "Sprays": [
+        "a2d4e0e1bfa5ad30",
+        "5a0bf47010e1969b"
+      ],
+      "UI": [
+        "69704e75a68849d5",
+        "eaf10a7c0f8d8908",
+        "568414ccc7608f4c",
+        "2aadaf51f6dc4cb8",
+        "210e82596a526b07",
+        "64ef3be3742918e7"
+      ]
+    }
+  },
+  "dynamike": {
+    "name": "Dynamike",
+    "rarity": "Super Rare",
+    "class": "Artillery",
+    "color": "#5ab3ff",
+    "total_assets": 67,
+    "skins": [
+      "Bellhop",
+      "Button",
+      "Chivas",
+      "Classic",
+      "Coach",
+      "Default",
+      "Dynamike",
+      "Dynasty",
+      "Flamengo",
+      "Gadget",
+      "Icon",
+      "Ldu",
+      "Moldy",
+      "Overcharge",
+      "Psg",
+      "Robo",
+      "Santa",
+      "Spicy",
+      "Spray",
+      "Starpower",
+      "Tengu",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "2be724708c9d424d",
+        "6a93d2630f71f83a"
+      ],
+      "Brawlers": [
+        "58f40ec090f6fd98",
+        "b35fafea12ac1e73",
+        "d40bd83eb73ec875",
+        "5de5e5ae7f3744b1",
+        "7dbba76e464de4c0",
+        "ef843af11e104470",
+        "96f3564cdba6b01f",
+        "5f2bf5e14c2c64d7",
+        "e28abf3d6cfb4e7b",
+        "ba62253153188cb0",
+        "702ee033dc9a1db5",
+        "ff994bc2125520e3",
+        "bdd9966ccd904901",
+        "a8d882c211f8e80f",
+        "568873c83eb2dbc5",
+        "d67b1daf2bc84269",
+        "66745dd17ec1fe8c"
+      ],
+      "Emojis": [
+        "ef81ef97e3cfc48f",
+        "a11ca293be60a04c",
+        "855174e1001e756b",
+        "45bfa32b260ee46d",
+        "9d742f430e7101c6",
+        "3f7170f753a86647",
+        "0953215c6220b0e9",
+        "e4ca53f353e78c23",
+        "f5bc79639be67c24"
+      ],
+      "Pins": [
+        "6ff2e67d53828e6c",
+        "33383804b94ee10a",
+        "3964976c7f769c0c",
+        "85e32f69fc76e6b0",
+        "38c0825769d994bb",
+        "41ae5e6a22a6379b",
+        "5ad0836e9910a6f8",
+        "b681f3789d6a22c0",
+        "5dcd1c08f75e4bde",
+        "2e059f455a965de2",
+        "66daa0c9c9740456",
+        "c69a2b6a6faa98e5",
+        "7967ff92e2b4e62e",
+        "951002daae3e867e",
+        "edbdc1d06dbba245",
+        "09a3626a872dfdbc",
+        "e233c4fef9b366c7"
+      ],
+      "Sprays": [
+        "3a723ea082804675",
+        "8a430e6d9a8b83f2",
+        "de966ff09076effd",
+        "2bcb65e67a043288"
+      ],
+      "UI": [
+        "b246a26aacd7aad6",
+        "6913e526d2abcaa9",
+        "4a89b773e2472450",
+        "ada8a1ff04f27a5c",
+        "a6ab8d97cda135b5",
+        "d5abc82179cbf224",
+        "5ad6b610e4b27b4c",
+        "face0bde5232c272",
+        "6a1278a30c4529f8",
+        "632d633c9bbcde7e",
+        "b22cef0875ac96cb",
+        "e1d34771a53eb288",
+        "75cab7a3b352887a",
+        "af2af1fdbd367b37",
+        "42873595aaab441c",
+        "5f32fc659425312a",
+        "5cf2c04b8b3a2fb8",
+        "4691617ca3462d50"
+      ]
+    }
+  },
+  "nita": {
+    "name": "Nita",
+    "rarity": "Rare",
+    "class": "Damage Dealer",
+    "color": "#68fd58",
+    "total_assets": 63,
+    "skins": [
+      "Default",
+      "Gadget",
+      "Gummybear",
+      "Icon",
+      "Koala",
+      "Mechagodzilla",
+      "Nian",
+      "Nita",
+      "Panda",
+      "Red",
+      "Rui",
+      "Shiba",
+      "Starpower",
+      "True",
+      "Tusked",
+      "Whale"
+    ],
+    "asset_types": {
+      "Animations": [
+        "4c3bbc7922bf16e0",
+        "79c3fed218034f81"
+      ],
+      "Brawlers": [
+        "68659ee3ad844940",
+        "db928b4a5b74701a",
+        "02d91d415e7b4dd8",
+        "c60ea31400918f8d",
+        "4d9d3efd4ff7d5f5",
+        "f549c4a827c53bde",
+        "a618c8796468ba0e",
+        "4311c69efe21d6e6",
+        "e346d5979b5b57c6",
+        "159c37cfd69e91cd",
+        "b7f3cd706aaeb544",
+        "2081c0f98fb7bc0e",
+        "d7379bfd5db3b2a5"
+      ],
+      "Emojis": [
+        "1d0c207286d986be",
+        "88e1d863f2440c3e",
+        "cd65f6b4d1155444",
+        "3f1978e616646cf9",
+        "ede655c7bb2f0777",
+        "6100900ed05e9405",
+        "b33075911550a9f1",
+        "bc52ffd4829e505e",
+        "661a977ee6b17ee7"
+      ],
+      "Pins": [
+        "1d4afb1281b69aa7",
+        "7c0858387c5bea99",
+        "bf32aaaaad96bd43",
+        "65439d9eb0d22d92",
+        "c5b05bb4b051efad",
+        "558ae574d1eddef4",
+        "dd55ccfc718f4290",
+        "98afa8b0e58ee459",
+        "a849c75750b65c12",
+        "127211f25939c521",
+        "62664412a7d3ebbc",
+        "987366810266161e",
+        "1c36a283cd8ef118",
+        "aeb307d0a53e0ed2",
+        "3d3aa262bd82e5e2",
+        "f89d1965930f5a05"
+      ],
+      "Portraits": [
+        "c840644d91424c45"
+      ],
+      "Sprays": [
+        "ad2bd1f1af524b34",
+        "c60a0f76aa25ed8b",
+        "a0ed400d232977ad",
+        "c76c0b34f04ae0f9"
+      ],
+      "UI": [
+        "5370de6619ee2bd2",
+        "6cb866716ccafff2",
+        "e96fa3bbd1e7bff5",
+        "bb553c39bf291dc2",
+        "24b73fda66b454ea",
+        "16bb23ccbe8566d7",
+        "d03d49d10bb869f9",
+        "502203360c34e25f",
+        "910af2ec88f44459",
+        "0d7ea16b9783b82c",
+        "acbc204f5ea72794",
+        "d945500919424393",
+        "80d15ab029cf6567",
+        "dbb329633e0b8a25",
+        "5c5fbc3403e3ef7d",
+        "1de992ad14cd90ab",
+        "a695cf16c6d5ef8f",
+        "f1b087e73010d7fb"
+      ]
+    }
+  },
+  "jessie": {
+    "name": "Jessie",
+    "rarity": "Super Rare",
+    "class": "Controller",
+    "color": "#5ab3ff",
+    "total_assets": 63,
+    "skins": [
+      "Cat",
+      "Default",
+      "Doll",
+      "Dragon",
+      "Gadget",
+      "Icon",
+      "Jessie",
+      "Overcharge",
+      "Red",
+      "Shadow",
+      "Skadi",
+      "Spray",
+      "Starpower",
+      "Summer",
+      "Tanuki",
+      "True",
+      "Ulti",
+      "X"
+    ],
+    "asset_types": {
+      "Animations": [
+        "da34833d48d4dc49",
+        "49da85f2d466a618"
+      ],
+      "Brawlers": [
+        "4217d9baa39264ea",
+        "4fd163a9a47c1077",
+        "2e895fa9d212868e",
+        "6d23c5ef66a1f2ad",
+        "ef93f5e8f127461a",
+        "b717682fbf3342a5",
+        "0af053273ab382f1",
+        "9b304cb6bd00217d",
+        "5a7eafa7f80dacbd",
+        "63bc684b82702111",
+        "0847206d63f94830",
+        "65c38a3c850da594"
+      ],
+      "Emojis": [
+        "78aa3117c6677727",
+        "cbb66d4817ea6141",
+        "65aaed2c83eec2fb",
+        "a9aa66bd88e14d72",
+        "1185201b9c1f4227",
+        "45ba5409402263f2",
+        "a734fdbc44e1e4d9",
+        "da6d27f3646c97d5",
+        "aee109e9167dc5de",
+        "a6b22e5e535201c1",
+        "55712990ed302c60",
+        "7bb4cd9bce8c9d8f"
+      ],
+      "Misc": [
+        "d19b9a8c102799ba"
+      ],
+      "Pins": [
+        "f412ff256a650e93",
+        "b98e20d74ce4ab27",
+        "9ea4d4709a88c323",
+        "0a3b69f21c0bc728",
+        "2cdc14bdf51bec84",
+        "55dd2e2ce8c6c2a4",
+        "7dc897bb99bea4f5",
+        "81c40af45495fb9b",
+        "c907bff0d7dba2d6",
+        "a1a7df794195ff71",
+        "63bf9e6072f76d49",
+        "d43cefdcfc8cf0d3",
+        "2440a68591be6c7a",
+        "ea03664e166b216a",
+        "70e571abf72aeae9",
+        "1dd0e2b94a43cd58"
+      ],
+      "Portraits": [
+        "c97115a1f531779c"
+      ],
+      "Sprays": [
+        "b342692e6fb01d72",
+        "54defc702b4d7d95",
+        "23d7de19b872a9b9"
+      ],
+      "UI": [
+        "cb70b39a36f8229f",
+        "5e4bdffcfb241147",
+        "116eae540df8a82c",
+        "6ea555b6fd4815e3",
+        "5d1b500964eefc0a",
+        "5faf8f2bcabd4846",
+        "ec66363b9c7894b3",
+        "e56d6032d4ab6d9f",
+        "4c67de4fc1ed63a7",
+        "9f389eb18e918778",
+        "98f36bd7b953d421",
+        "1ebc75d0c10a86f8",
+        "c0175b7b5153a633",
+        "e6488a217a1f3c0c",
+        "3cbe3f23b126ac22",
+        "1a7a55b1fb492f47"
+      ]
+    }
+  },
+  "barley": {
+    "name": "Barley",
+    "rarity": "Rare",
+    "class": "Artillery",
+    "color": "#68fd58",
+    "total_assets": 45,
+    "skins": [
+      "Bakesale",
+      "Barley",
+      "Default",
+      "Gadget",
+      "Golden",
+      "Icon",
+      "Maple",
+      "Red",
+      "Spray",
+      "Starpower",
+      "Sway",
+      "True",
+      "Unicorn",
+      "Wizard"
+    ],
+    "asset_types": {
+      "Animations": [
+        "f9ce929bae277b89",
+        "2d98fcd963a21807"
+      ],
+      "Backgrounds": [
+        "5fa7e4ef6a021c3b"
+      ],
+      "Brawlers": [
+        "06e848b0027ec488",
+        "b8aeda36c36f9e26",
+        "a2575e5bd15d88a6",
+        "5748f735aac898bd",
+        "0b70017b4e3a6429",
+        "2770ff2fa52a8bde",
+        "6e9db307deecea7c",
+        "3d8b5a077b4a9666",
+        "8f285b8460c7d9c0",
+        "733a146ec5b00fdf"
+      ],
+      "Pins": [
+        "84deed71a7932b2e",
+        "f5975895ee5e36da",
+        "2b6bc1e3f361c1a0",
+        "d9ceddcdd3fbf2c3",
+        "282e22098dd20721",
+        "dad1c1aee9ccfea1",
+        "8947bd9136905bdc",
+        "4cb0ab10814bd658",
+        "5a0f3d43878b5ffa",
+        "2c45c39610e3d8e0",
+        "e88d64b00bc3cecd",
+        "8d1dfde50ff66828",
+        "032ea52cd3b2c5eb",
+        "0ee777be37219fc2",
+        "853625f736733a71"
+      ],
+      "Portraits": [
+        "002bc84f99490698"
+      ],
+      "Sprays": [
+        "855d77ba9a9c7b12",
+        "74460dbd29360152"
+      ],
+      "UI": [
+        "95992cc62e5014f6",
+        "908bd63ff1268bbe",
+        "69c876bd11cec10c",
+        "30e4f79225ed2d3a",
+        "ad01531ff3fad403",
+        "d6de1c35ff56a155",
+        "9a0d7bfc7c3adb4f",
+        "5b889a16d5fc284e",
+        "90247c3a8d237bd1",
+        "8683a43b767b106e",
+        "e6404d95afc2c8ed",
+        "e9fab77af5b16d8e",
+        "5c8d9a00bbfb5c0a",
+        "47fcf63ccd79f350"
+      ]
+    }
+  },
+  "spike": {
+    "name": "Spike",
+    "rarity": "Legendary",
+    "class": "Damage Dealer",
+    "color": "#fff11ev",
+    "total_assets": 65,
+    "skins": [
+      "Dark",
+      "Default",
+      "Gadget",
+      "Hypercharge",
+      "Icon",
+      "Icons",
+      "Is",
+      "Logmas",
+      "Mask",
+      "Mythic",
+      "Poop",
+      "Pyro",
+      "Robo",
+      "Sakura",
+      "Spike",
+      "Spray",
+      "Starpower",
+      "Toon",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "8b62ea008505c664",
+        "9ee69bcc36ae548a"
+      ],
+      "Brawlers": [
+        "519ab5ff5541a79b",
+        "969489c473dc6c60",
+        "72f68a0132dde436",
+        "53c6bfc8a414d9d5",
+        "4ea07485c3882db6",
+        "9894e9993d449c42",
+        "5634a8310e6f0421",
+        "f437eeef037ee8a6",
+        "80b84c3f78f424ac",
+        "bb624dab1c9650e4",
+        "ce3c1f7c33397a50",
+        "d30f33d3a0164b47"
+      ],
+      "Emojis": [
+        "ad0057a3fe496178",
+        "7d02e241aedc2e1b",
+        "8b6f82e534c37618",
+        "899ec037b4837174",
+        "16bebd5979322967",
+        "989b5ec0319c2bbc",
+        "1e222cdd62faabf5",
+        "ad854df6557054fd",
+        "a9e049b6409c56bc"
+      ],
+      "Misc": [
+        "e3654c46cb094662",
+        "a44d876545b8a608"
+      ],
+      "Pins": [
+        "55f73af63c6549bb",
+        "87f1338f40c2e055",
+        "8550752835806210",
+        "6f80a1d735f7761a",
+        "01fcc63f35ed3366",
+        "5276d1d2d174ec69",
+        "ae2fd13b905d8d14",
+        "0ca25da772385808",
+        "00a95cd4e12e6a0a",
+        "d68210537996193f",
+        "1ea3bfbaa7dcb0e0",
+        "fdb74e250d0b7a6d",
+        "8dd077c4a2ec9163",
+        "b44637d2d7920fd0",
+        "d767f9ded88cfc88",
+        "dbfba5aed15f3792",
+        "074fd767c2d19101",
+        "b3feef2cfdd30cc2"
+      ],
+      "Portraits": [
+        "e4ccdf1470a3372d"
+      ],
+      "Sprays": [
+        "0e8b950c554d64e8",
+        "abbaef446bf646db",
+        "e5897fb2ad81fbdf",
+        "e41e7fe7499ae088"
+      ],
+      "UI": [
+        "73ace25f45b273d8",
+        "bdb202f47875046f",
+        "a94f27cd1152a582",
+        "c1639bac68b489d1",
+        "7bcc91106ee1e51c",
+        "879ad8d642740132",
+        "1699e8fca2d9e265",
+        "ae37c69af235e5f9",
+        "68acafe16a9083e7",
+        "1c6c49c2b556fac5",
+        "26ef3acfed74da4d",
+        "81b0f5e3b3d9ebb5",
+        "c5ad983b35775e6b",
+        "1e8555c99e4f6d8a",
+        "1cab425202445c59",
+        "ef0cbead3156b456",
+        "953e98ee315f3639"
+      ]
+    }
+  },
+  "rico": {
+    "name": "Rico",
+    "rarity": "Super Rare",
+    "class": "Damage Dealer",
+    "color": "#5ab3ff",
+    "total_assets": 117,
+    "skins": [
+      "Button",
+      "Chicken",
+      "Default",
+      "Final",
+      "Firefly",
+      "Gadget",
+      "Guard",
+      "Icon",
+      "Loaded",
+      "Maker",
+      "Plunder",
+      "Popcorn",
+      "Rico",
+      "Ricochet",
+      "Spray",
+      "Star",
+      "True"
+    ],
+    "asset_types": {
+      "Animations": [
+        "423753fd08d48f23",
+        "5862657873d75d59"
+      ],
+      "Brawlers": [
+        "67e223dc444a23e4",
+        "82010c9507bc6c95",
+        "1779efbc823a622b",
+        "915c06c32e9b8cd3",
+        "1353d1ccdc661bc8",
+        "2158ddb7d224bd6e",
+        "e2ad00b3f52a2dd6",
+        "58bf21f4c35c5915",
+        "9fd0ebaf35b31cf5",
+        "331617e6fd2115cf",
+        "a8d01cbefd1dd655"
+      ],
+      "Emojis": [
+        "0320756ea2b525b0"
+      ],
+      "Pins": [
+        "9ba92ba583fb1d16",
+        "9c5b0206cbded28f",
+        "a7d435444fac211a",
+        "23190c262947922b",
+        "2d768c50f918e411",
+        "926aba9573fcdb1a",
+        "c17ae8499c9745cc",
+        "42cf92010fa0586f",
+        "f1a2248397f60601",
+        "f14a65983150e65c",
+        "342e620476cf06dd",
+        "94c9f03746361f60",
+        "841cdd7b98d72679",
+        "3d751eab7c369ac6",
+        "a71ddb7faabe7b19",
+        "78dde538d60d63da",
+        "5154e19c060c0819",
+        "f103a6bc3e8e8dfe",
+        "2281e6f41bcad2db",
+        "6c77b8d5b588a243",
+        "6ae12258d37528f0",
+        "e12c2c025b378573",
+        "106ed414ab172b20",
+        "04de7ded6747af1a",
+        "df4b3f4c36c0ac48",
+        "bf49414221225817",
+        "b309fb22c0fed85e"
+      ],
+      "Portraits": [
+        "c17d26bb010debe6"
+      ],
+      "Sprays": [
+        "5ca7ac4e255469c9",
+        "8faf49497dd05d8a",
+        "4e340ebd41f78ca3"
+      ],
+      "UI": [
+        "6af518daaddae048",
+        "f9461acd282abe51",
+        "76433716a47337ec",
+        "3f56937bd6150522",
+        "2c82ac441df016b9",
+        "10f459a5a2dce224",
+        "9e165a1ac94a0252",
+        "78dbb3862107f343",
+        "c6cc780b41d6b249",
+        "962a84415a71c6bc",
+        "0e867a82f09b46bc",
+        "1ab2d34451a5884a",
+        "deb2a21f62260e9f",
+        "d0f947d099b2b614",
+        "4ae6389d539e8c71",
+        "144611cc75c66824",
+        "cd54d4a20d0d5a49",
+        "a42797fcead6980e",
+        "e7f53ea0ce85b503",
+        "f4292f1109998817",
+        "6c31252b363cbb55",
+        "175615346bece57d",
+        "dc748395d60bcebe",
+        "2f52bb7a9d2020e4",
+        "6bdaf9c356240daa",
+        "a8497093e91ece5a",
+        "857573fa0682a0c3",
+        "df543d896a267127",
+        "4cb09c35ea4c52a9",
+        "481145482f13ee90",
+        "cf66524f825d0a0d",
+        "0285c2f2098b3cc2",
+        "d02acb8e3079d0c0",
+        "3b05f378a365e761",
+        "e4dbb3350b1d1642",
+        "6a6a588d3b6de58a",
+        "406726fe4fb69f0e",
+        "9b8df106e2824c5b",
+        "120e561baeb3a4c9",
+        "fbf2a682c8dc9666",
+        "16e526a5baf14200",
+        "05782dbfdaf2e6ba",
+        "8f3ce54bb1a0fe58",
+        "bc0a071c20aed771",
+        "45a3e998d4ed2971",
+        "eb38cb62d365fa46",
+        "d3d64f7f62ee7b34",
+        "7972c69563dc65ed",
+        "1b556d1b90ebcf7e",
+        "36eb9f8103a3802a",
+        "1c018fcf48a81e6d",
+        "e4baaf32417c277d",
+        "b8031fd65f180300",
+        "275ec4107737a9c9",
+        "2be3b37104e6d9f0",
+        "850eaa60dfe77785",
+        "778c911001e30f85",
+        "fe570dabd72e3b72",
+        "eb88f1fe42d6c803",
+        "d125d6dac7bb371f",
+        "39d8ad69e8df7a9d",
+        "d031b7beb1e6c3a1",
+        "e1fd42ab5ede8a8a",
+        "e2b902d8852dce7d",
+        "e49aaf110c1007fb",
+        "7c5489c2f24d36f2",
+        "1a2c2d7123973936",
+        "d94a2c272e03b5fb",
+        "8a0a8bb133e24950",
+        "d63b3f6f630da323",
+        "32e4c70c5f5f95fa",
+        "63c426ada556ca33"
+      ]
+    }
+  },
+  "brock": {
+    "name": "Brock",
+    "rarity": "Rare",
+    "class": "Marksman",
+    "color": "#68fd58",
+    "total_assets": 83,
+    "skins": [
+      "Beach",
+      "Boom",
+      "Brock",
+      "Brockzombie",
+      "Button",
+      "Default",
+      "Gadget",
+      "Gold",
+      "Hacker",
+      "Hot",
+      "Icon",
+      "Lion",
+      "Matrix",
+      "Old",
+      "Postal",
+      "Rgb",
+      "Rocket",
+      "Starpower",
+      "Super",
+      "True",
+      "Why",
+      "Zeus",
+      "Zombrock"
+    ],
+    "asset_types": {
+      "Animations": [
+        "2fddbab38e494741",
+        "98df1e22b60958a4"
+      ],
+      "Brawlers": [
+        "37176d5aa9788b27",
+        "55dd4b103e5bd150",
+        "f25b1a9530d03db1",
+        "f1db9387eb06379a",
+        "31c7434121f797a5",
+        "588281099d25ce24",
+        "04fa5a2734ce8aca",
+        "96bcd4db39fc68ab",
+        "f67f9a79af18c2e7",
+        "989638d81ac16961",
+        "4c2d8c069f7e93cb",
+        "633aed66979389e7",
+        "7c48cf01df7b826e",
+        "f2274d3320e8191e",
+        "c3929dad0a0ca282",
+        "6571502a1528e474",
+        "b5e4f815e28ab007",
+        "b8abd2733944bba2",
+        "e8584958223f2d3f",
+        "cac326582ec705bf",
+        "08d2ee115057f805",
+        "186ed529adc8f64d"
+      ],
+      "Misc": [
+        "1a66cf174cf017f1",
+        "badfcc03ff1342b6",
+        "537806399d1d659e"
+      ],
+      "Pins": [
+        "20736ddd05e8d24c",
+        "0aaf7773c1835a33",
+        "b67e14c7ca9fd8e7",
+        "58c81afa9ad24de9",
+        "c0713d1205f836c8",
+        "b11ee38cf136626a",
+        "24d3f110dfa13e32",
+        "533c3cfc409d7ca5",
+        "7cfb296064d42072",
+        "f23706a6aea05580",
+        "a3f00ace9d40f3e3",
+        "6857eb071f93190b",
+        "71ba24308121fa5b",
+        "cc0d40e16c4761a3",
+        "8803575c77183fff",
+        "4240654f03f0514f",
+        "dc38ff3e723911c4",
+        "b8478735ec978257",
+        "0475ae6d3cfe53f2",
+        "bf80079b72d05ccb",
+        "ec4333773859b953",
+        "62072292f6819026",
+        "1289db3dbcaab87c",
+        "3cb99d149b9c74c2",
+        "ca9f13950f993a65",
+        "4a089499be0e87ee",
+        "3f41969013a7ada1",
+        "395cdc90a104c55c"
+      ],
+      "Portraits": [
+        "6b9e9f03875003bf"
+      ],
+      "Sprays": [
+        "c4a53375e50f8b2a",
+        "d2bbd17d386aea6e",
+        "83335597ef1a6431"
+      ],
+      "UI": [
+        "ec0cb73b0eccae7f",
+        "25947de53474ddd0",
+        "3f0968505d49454f",
+        "42668c0248ded0cc",
+        "796804ba884d47c9",
+        "0a896ef057df923f",
+        "6915cdce0e81d616",
+        "f1a7c44e8bb2fbe1",
+        "53442894eae44149",
+        "37154a57f081c7e8",
+        "cae201130ec5aa25",
+        "c67eeeda92bcc886",
+        "17d500b5d1189192",
+        "1d609a67a993e9eb",
+        "31cf35ed90cedf33",
+        "989ade462aa6b725",
+        "d03162272029861d",
+        "4476904630c6efc1",
+        "adf7fe1be9be3789",
+        "7169cc58f15456bc",
+        "c11862ad9eb9ffce",
+        "cd8996c8bd4999d7",
+        "e4de6b94924ceb4f",
+        "4103684f530e1757"
+      ]
+    }
+  },
+  "bull": {
+    "name": "Bull",
+    "rarity": "Rare",
+    "class": "Tank",
+    "color": "#68fd58",
+    "total_assets": 52,
+    "skins": [
+      "Alleycat",
+      "B",
+      "Barbarian",
+      "Bull",
+      "Default",
+      "Gadget",
+      "Hypercharge",
+      "Icon",
+      "Icons",
+      "Linebacker",
+      "Lion",
+      "New",
+      "Space",
+      "Spray",
+      "Starpower",
+      "Touchdown",
+      "True",
+      "Viking"
+    ],
+    "asset_types": {
+      "Animations": [
+        "d431fd47019a5be9",
+        "fdada2e0b1dba0c7"
+      ],
+      "Brawlers": [
+        "6e5eefa252f19565",
+        "0f2b4c612f443f00",
+        "a70f91b917bae37b",
+        "93d32b2edb6c890c",
+        "1d1ff75cab08f610",
+        "87bedbeec61dd8b7",
+        "1a234e2aa1174b2f",
+        "1fafc67f5fd5e873",
+        "9f4c3fba902b9e4f",
+        "7782388f69c934b7",
+        "e74632cc193dfbdf",
+        "d640dba2b93bca5f"
+      ],
+      "Misc": [
+        "095514bc56a0a8bf"
+      ],
+      "Pins": [
+        "540f225b5bbab141",
+        "293da798cad65c05",
+        "535be8b9141f0738",
+        "5b414ea399096cc3",
+        "d41a1df96a2f49ad",
+        "0aa980304a039258",
+        "8b477af3e46fe712",
+        "479c4a94e2e3e58c",
+        "1a764f7d2f29c8be",
+        "d3c20c991574651a",
+        "b4c98ee571d725ad",
+        "d8856b6afb921e22",
+        "f96a86ecc1df32da",
+        "23d8136b12e8417f",
+        "b2e8e5cfa33dbeb2"
+      ],
+      "Portraits": [
+        "844bd05d3ab87b2e"
+      ],
+      "Sprays": [
+        "661781d02de8211a",
+        "a4d7f2a14f4c7b29",
+        "66ff852cdd8b41d9",
+        "e2a8ae8762110105"
+      ],
+      "UI": [
+        "c6d9795237a9db75",
+        "7059cea3911c79ae",
+        "04b4e74235bea33c",
+        "4ed3e076eccab884",
+        "9603a321d9e375a6",
+        "3424bafd5686c7bf",
+        "ec18d4b5866699e6",
+        "e158c4d835be4c9e",
+        "61cf613873ebba97",
+        "990c12a2c041648d",
+        "6f01d2c03de039f9",
+        "01da12d1897792b7",
+        "d65e9609976788d2",
+        "7fe9f1d5ae6d1911",
+        "d57fdca207c788c6",
+        "5969fd31e3054b1d",
+        "21506d9f8abb1953"
+      ]
+    }
+  },
+  "colt": {
+    "name": "Colt",
+    "rarity": "Rare",
+    "class": "Damage Dealer",
+    "color": "#68fd58",
+    "total_assets": 75,
+    "skins": [
+      "Atl.",
+      "Bananas",
+      "Cerro",
+      "Challenger",
+      "Club",
+      "Colt",
+      "Corsair",
+      "Dark",
+      "Default",
+      "Gadget",
+      "Gunslinger",
+      "Handsome",
+      "Hypercharge",
+      "Icon",
+      "Icons",
+      "Mecha",
+      "Outlaw",
+      "Paragon",
+      "Renegade",
+      "River",
+      "Rockstar",
+      "Royal",
+      "Sharktooth",
+      "Spray",
+      "Starpower",
+      "Take",
+      "True",
+      "X"
+    ],
+    "asset_types": {
+      "Animations": [
+        "a7ee8f01028282e3",
+        "660d7c50810b4fdf"
+      ],
+      "Brawlers": [
+        "702a6a4111c8ee8f",
+        "ddecc13475b0d722",
+        "9bd01d26b64a720a",
+        "9a44a1972018c506",
+        "cdc28d60ab87db2c",
+        "4ffbbb5dbb76cc1f",
+        "4d0d8b375b243ced",
+        "14b0845e36ca3dc4",
+        "2cd0ec70186f9690",
+        "955cf3651391b906",
+        "427fb1fba41f0da0",
+        "928dd2eb98e79f86",
+        "6ee2cc72d5049daf",
+        "85af281ab4b094b9",
+        "f0e83158b222355f",
+        "a271111c57da3998",
+        "f14c46d65e5266cd",
+        "d7d771d1ef678e33",
+        "41f4c72928d53ac7",
+        "4b5458433e20967b"
+      ],
+      "Emojis": [
+        "ef4d8fab26cbf7ce"
+      ],
+      "Misc": [
+        "6aeb9051813eaffe",
+        "d852b81ecf2530a6"
+      ],
+      "Pins": [
+        "788cc313b201aa97",
+        "36b379b0d21218cf",
+        "c5568866f1b391d3",
+        "283e847836e1cc66",
+        "d04ca253a8360436",
+        "4ceafc7a2a20ef6d",
+        "6b9d0680b5ed1f63",
+        "0cd58fac6dcb1462",
+        "8a7d8fd066e4bb32",
+        "0c89dafb39376f35",
+        "9cee9330852120e5",
+        "13895bb9c9ca72dc",
+        "f378d09a15fd408b",
+        "53bc4cf85f463ff6",
+        "5e5236599ed0f115",
+        "92700469a5e3af0c",
+        "5a8bab56f93327b5",
+        "c20207ecfd775bfe",
+        "89b4214b0a1e647b",
+        "4233d02b1dd326eb",
+        "9249a5f3d3857374",
+        "b1d17b943308ce6c",
+        "81bf72d5582ccb04",
+        "355d076e732fa174",
+        "31066b145763f638",
+        "ad80b30307c731c2"
+      ],
+      "Portraits": [
+        "dc19202d30bb22e2"
+      ],
+      "Sprays": [
+        "d4436d2102201ea2",
+        "bbd857fe327ede6c",
+        "6957725271ab2995",
+        "af5c033d47875fa9"
+      ],
+      "UI": [
+        "bc23a8505b31618d",
+        "9d83cc610c3c1259",
+        "6e37e54bc0f371e1",
+        "2f0c1de97b385071",
+        "687db13388802cb2",
+        "545c61745b000828",
+        "54910e5b5c87bbdf",
+        "83199e207a1222ab",
+        "058aec688311c2cb",
+        "8d801563cfcf75bd",
+        "8d83b897497c1908",
+        "bd2a0f00f41db868",
+        "33f77d8f93d23e3c",
+        "717f249fe680efb7",
+        "2c03c25dace06405",
+        "4e46b06baa9e35a7",
+        "0572b92e55cf4a9c",
+        "033c1bd6ea00f87b",
+        "923d6190415cb75c"
+      ]
+    }
+  },
+  "shelly": {
+    "name": "Shelly",
+    "rarity": "Common",
+    "class": "Damage Dealer",
+    "color": "#b9eaff",
+    "total_assets": 66,
+    "skins": [
+      "America",
+      "Bandita",
+      "Boca",
+      "Challenge",
+      "Classic",
+      "Default",
+      "Gadget",
+      "Hoot",
+      "Hypercharge",
+      "Icon",
+      "Icons",
+      "Princess",
+      "Psg",
+      "Shelly",
+      "Squad",
+      "Star",
+      "Starpower",
+      "True",
+      "U",
+      "Witch"
+    ],
+    "asset_types": {
+      "Animations": [
+        "8ca198e958ef72f9",
+        "00c06c338b719165"
+      ],
+      "Brawlers": [
+        "f95091f031b4f4ad",
+        "eb8bacc9aba90def",
+        "80e5e1c2852baa89",
+        "54509188b171f81f",
+        "6dd5665b57302f14",
+        "650c380377fd3a85",
+        "8f226d80141f43d4",
+        "b6f504e09ab15886",
+        "e537506204622573",
+        "0b1dfe1cbbee472b",
+        "929d77c8093ca7ac",
+        "d81db0c338a5fc32",
+        "5fa850ac61e12247",
+        "cc24a1ed87115ba5",
+        "bf4460a26f4c3d13",
+        "192220a2a26e709a",
+        "e47c342c8fe80297"
+      ],
+      "Emojis": [
+        "966bc757998846fd"
+      ],
+      "Pins": [
+        "9287bcc98620e7a2",
+        "564b7a081bdaa054",
+        "c7019f3d6ffd55b5",
+        "41f238691720ddd1",
+        "d7200ab1e6c1e5fc",
+        "54e3d9293e8e6aae",
+        "822524a33056e3f1",
+        "575255eb1388157a",
+        "f73115ce2e9fcbd2",
+        "9f69b36456861b25",
+        "0301ba3e9a1c0a08",
+        "bfc571300255e140",
+        "d34b625ae89855d2",
+        "1b2afc2489ec7103",
+        "93500606c7372dc1",
+        "4fe9038d49f6e3ff",
+        "93e63514d38f980d",
+        "85dbf1d547465004",
+        "dae61e9bd61d2f33"
+      ],
+      "Portraits": [
+        "dc58fc5fddd9cf4c"
+      ],
+      "Sprays": [
+        "77ca32e22fa7e654",
+        "e04e7e6285b86c3d",
+        "6b9eff003f5c0fe6",
+        "896888179e364474"
+      ],
+      "UI": [
+        "dffdcdc51611f280",
+        "8206536bf57570a7",
+        "a25aadd59a80a4ab",
+        "c43669594a354da0",
+        "cba82c3cfa43bba0",
+        "3a4f3c193251cc0d",
+        "b23c75e30519a25f",
+        "e4398f0104df6d24",
+        "6b5189215cd7e650",
+        "d1a47ad8a6309a3a",
+        "f7752691deaa8d16",
+        "016f17458da5481b",
+        "a1ff0ebbdc7c3071",
+        "922ea5500c6400c7",
+        "4b8ce6c7234884bd",
+        "e5b26d6aa60caf28",
+        "25ee7bbc8da69007",
+        "2cf90c2ea352b416",
+        "86a529470f4db772",
+        "18bf0ac50328d447",
+        "74e0f2a65e229080",
+        "5a07e7eb67cb5003"
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+# Brawl Assets Catalog — Ce qui est disponible
+#
+## Categories d'assets
+#
+# ├── Brawlers/      — Renders de brawlers (512×512 WebP)
+# ├── Backgrounds/   — Decors, environnements
+# ├── LoadingScreens/— Ecrans de chargement
+# ├── Portraits/     — Portraits de brawlers (cadres)
+# ├── Pins/          — Pins 128×128
+# ├── Emojis/        — Emojis 256×256
+# ├── Sprays/        — Sprays 128×128
+# ├── Animations/    — Sequences d'animation
+# ├── UI/            — Elements d'interface
+# ├── Misc/          — Autres (skins alternatifs, objets)
+# ├── Icons/         — Icônes diverses
+# └── Logos/         — Logos du jeu
+#
+## Fichiers disponibles
+#
+# - data/brawlers.json        → 107 brawlers avec rareté, classe, skins
+# - data/assets.json          → Tous les assets avec stats visuelles
+# - data/search_index.json    → Index de recherche
+# - data/preview_manifest.json → Mapping asset → preview WebP
+# - data/brawler_profiles/    → Un fichier par brawler (107)
+# - previews/                 → 5000+ WebP organises par categorie/brawler
+# - knowledge/                → Regles de creation de thumbnails
+#
+## Stats disponibles par asset (dans assets.json)
+#
+# - dominant_colors: top 8 couleurs RGB + pourcentage
+# - brightness: luminosite moyenne (0-1)
+# - contrast: ecart-type de la luminosite (0-1)
+# - saturation: saturation moyenne (0-1)
+# - average_hue: teinte dominante (0-360)
+# - average_lightness: clarte moyenne (0-1)
+# - edge_density: densite de bords (0-1)
+# - visual_complexity: ratio couleurs uniques (0-1)
+# - transparency_ratio: % de pixels transparents
+# - orientation: landscape/portrait/square
+# - aspect_ratio: largeur/hauteur

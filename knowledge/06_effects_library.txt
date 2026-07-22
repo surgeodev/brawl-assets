@@ -1,0 +1,36 @@
+# Effects Library — Effets autorises et interdits
+#
+## AUTORISES
+#
+# ✓ Ombre portee (drop shadow)
+#   - blur: 2-4px, offset: 1-3px, couleur: noir 40-60%
+#   - Toujours sous le sujet, jamais au-dessus
+#
+# ✓ Contour (stroke)
+#   - epaisseur: 1-3px selon la taille du texte
+#   - Couleur: soit noir, soit la couleur dominante du fond
+#   - Pour le texte Brawl Stars: stroke 2px noir obligatoire
+#
+# ✓ Overlay de fusion
+#   - Gradient lineaire (top→bottom ou left→right)
+#   - Opacite: 10-30%, jamais plus
+#   - Pour unifier les palettes sujet + fond
+#
+# ✓ Filtre de couleur (color grade)
+#   - Teinte globale legere (hue shift < 15°)
+#   - Saturation boost: +5-15% max
+#   - Contraste: +5-10% max
+#
+# ✓ Vignettage
+#   - Assombrir les bords de 5-15%
+#   - Rayon: 30-50% de l'image
+#
+## INTERDITS (anti-generic-AI)
+#
+# ✗ Glow/lueur externe generique
+# ✗ Effet sparkle/etoile
+# ✗ Flou artistique non justifie
+# ✗ Lueur interne (inner glow)
+# ✗ Effet de neige ou particules aleatoires
+# ✗ Filter "artistic" generique
+# ✗ Effet neon (sauf si le brawler est un robot/thematique neon)

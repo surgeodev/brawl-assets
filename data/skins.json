@@ -1,0 +1,1379 @@
+{
+  "Classic": {
+    "brawlers": [
+      "8bit",
+      "Colt",
+      "Dynamike",
+      "Elprimo",
+      "Jessie",
+      "Max",
+      "Penny",
+      "Poco",
+      "Shelly"
+    ],
+    "total_assets": 14,
+    "asset_ids": [
+      "d77f94d6a9d8b9ec",
+      "efedf238616cd447",
+      "5de5e5ae7f3744b1",
+      "85e32f69fc76e6b0",
+      "4e46b06baa9e35a7",
+      "af2af1fdbd367b37",
+      "e6488a217a1f3c0c",
+      "d115bf65abedb7a7",
+      "fd1d6d5ad8bd0676",
+      "48665b43bd099a52",
+      "aaef6fb2983b9084",
+      "d1a47ad8a6309a3a",
+      "41f238691720ddd1",
+      "54509188b171f81f"
+    ]
+  },
+  "Antivirus": {
+    "brawlers": [
+      "8bit"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "b385b7d38ab4aa7a"
+    ]
+  },
+  "Default": {
+    "brawlers": [
+      "8bit",
+      "Amber",
+      "Angelo",
+      "Ash",
+      "Barley",
+      "Bea",
+      "Belle",
+      "Berry",
+      "Bibi",
+      "Bo",
+      "Bonnie",
+      "Brock",
+      "Bull",
+      "Buster",
+      "Buzz",
+      "Byron",
+      "Carl",
+      "Chester",
+      "Clancy",
+      "Colette",
+      "Colt",
+      "Cordelius",
+      "Crow",
+      "Darryl",
+      "Doug",
+      "Dynamike",
+      "Edgar",
+      "Elprimo",
+      "Emz",
+      "Eve",
+      "Fang",
+      "Frank",
+      "Gale",
+      "Gene",
+      "Gray",
+      "Griff",
+      "Grom",
+      "Hank",
+      "Jacky",
+      "Janet",
+      "Jessie",
+      "Kenji",
+      "Kit",
+      "Leon",
+      "Lola",
+      "Lou",
+      "Maisie",
+      "Mandy",
+      "Max",
+      "Meg",
+      "Melodie",
+      "Mico",
+      "Moe",
+      "Mortis",
+      "Nani",
+      "Nita",
+      "Pam",
+      "Penny",
+      "Piper",
+      "Poco",
+      "Rico",
+      "Rosa",
+      "Ruffs",
+      "Sandy",
+      "Shelly",
+      "Spike",
+      "Sprout",
+      "Squeak",
+      "Stu",
+      "Surge",
+      "Tara",
+      "Tick",
+      "Willow"
+    ],
+    "total_assets": 78,
+    "asset_ids": [
+      "65fa42b1180d93ad",
+      "3af67e303167fda5",
+      "5d2e12bd858da37c",
+      "df5d4f6b14963923",
+      "c0d708ceb25b47ca",
+      "431035e1bdacb0dc",
+      "a41e3a8b968bbe8f",
+      "9550652d36d5b460",
+      "bd6485fb8b8b3fc2",
+      "9c0b2915e0954efe",
+      "b8aeda36c36f9e26",
+      "e01d5e3191f3a010",
+      "d8a6ddfd83e1555d",
+      "325586bc8a70226b",
+      "81108b6d185b73af",
+      "63c7a0ecc19d30c5",
+      "31c7434121f797a5",
+      "1d1ff75cab08f610",
+      "53045469203845b7",
+      "a026f874c52e54e0",
+      "be43047195dd8dc2",
+      "1b0c55a128885195",
+      "261271b55fd1db36",
+      "a6926ec7cc047cc8",
+      "14b0845e36ca3dc4",
+      "350550edff3ae805",
+      "3db2abdc8b4a0be4",
+      "003abc439fdd0f4c",
+      "e4dc3751b58136f9",
+      "ef843af11e104470",
+      "d89225be95105c35",
+      "68b233fd2d6053ae",
+      "e8495cea8d6e3c38",
+      "47c838d595f7808a",
+      "844a6ab0c67e66b4",
+      "f9d7bb5785a59013",
+      "b52988e5318ba4e9",
+      "d1b5678f1b7deafd",
+      "5a3044e524c089d5",
+      "9cf77f387db0af74",
+      "6559597b3c088c8d",
+      "7a5b9a9fbedd73fd",
+      "f3803182759a8715",
+      "9e22408fcf9fba84",
+      "2e895fa9d212868e",
+      "ce4c0454809d5bb7",
+      "0d7fd431aef9df58",
+      "167983b38ea546a2",
+      "0f0e58abf4caa17e",
+      "43230ccb32d93e96",
+      "8ccd9a725df6e782",
+      "db3594c5dac0a1ac",
+      "9023e40815e8216d",
+      "6fd108953e1d7482",
+      "6bbe8fdd64903916",
+      "41e87bae3c71ca05",
+      "14a57131b87a7c0d",
+      "ee4f14e878dbb595",
+      "51aaa3d204fbfc81",
+      "a53aa39d130c6b52",
+      "68659ee3ad844940",
+      "541d188e377992bf",
+      "9ddf594d4f170b5d",
+      "03467162d3c22eea",
+      "9d6b3195a8810201",
+      "1779efbc823a622b",
+      "f8bef91bcd6aef27",
+      "b7a5336e6b63a173",
+      "e165e59270f02d49",
+      "6dd5665b57302f14",
+      "72f68a0132dde436",
+      "601dab4e3c8f3e91",
+      "4c6b9a80fc50c493",
+      "aecfb024cdb3b831",
+      "1972193de7c46666",
+      "474abf6a34d0ed11",
+      "441e837840703dbc",
+      "0eb828e7f2a6bd93"
+    ]
+  },
+  "Haunted House": {
+    "brawlers": [
+      "8bit"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "07c2768c366d1e9f"
+    ]
+  },
+  "Piano": {
+    "brawlers": [
+      "8bit"
+    ],
+    "total_assets": 4,
+    "asset_ids": [
+      "0ef9d14567ab63e9",
+      "5eae9ac8058710cd",
+      "2cdc42c049569677",
+      "df14b87c4fd7c9b5"
+    ]
+  },
+  "Saloon": {
+    "brawlers": [
+      "8bit"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "c53a273a34bdab53"
+    ]
+  },
+  "True Gold": {
+    "brawlers": [
+      "8bit",
+      "Amber",
+      "Ash",
+      "Barley",
+      "Bea",
+      "Belle",
+      "Berry",
+      "Bibi",
+      "Bo",
+      "Bonnie",
+      "Brock",
+      "Bull",
+      "Buster",
+      "Buzz",
+      "Carl",
+      "Charlie",
+      "Chester",
+      "Chuck",
+      "Clancy",
+      "Colette",
+      "Colt",
+      "Cordelius",
+      "Crow",
+      "Darryl",
+      "Doug",
+      "Dynamike",
+      "Edgar",
+      "Elprimo",
+      "Emz",
+      "Eve",
+      "Fang",
+      "Frank",
+      "Gale",
+      "Gene",
+      "Gray",
+      "Griff",
+      "Grom",
+      "Jacky",
+      "Janet",
+      "Jessie",
+      "Leon",
+      "Lola",
+      "Lou",
+      "Maisie",
+      "Mandy",
+      "Max",
+      "Meg",
+      "Mico",
+      "Mortis",
+      "Nani",
+      "Nita",
+      "Pam",
+      "Pearl",
+      "Penny",
+      "Piper",
+      "Poco",
+      "Rico",
+      "Rosa",
+      "Ruffs",
+      "Sandy",
+      "Shelly",
+      "Spike",
+      "Sprout",
+      "Squeak",
+      "Stu",
+      "Surge",
+      "Tara",
+      "Tick",
+      "Willow"
+    ],
+    "total_assets": 71,
+    "asset_ids": [
+      "dab190759345f0c8",
+      "8885032f330be86d",
+      "55dd4b103e5bd150",
+      "d82b6085aac57ee4",
+      "755bb296b1632572",
+      "6477a61322f3ffbf",
+      "6e9db307deecea7c",
+      "8461614fba0a9bbf",
+      "0af5c7fbd028aa72",
+      "0b3069c0db1912af",
+      "a5bbbd35eaced97c",
+      "09d227f2ba809a08",
+      "e8584958223f2d3f",
+      "7782388f69c934b7",
+      "d3366559e90fdc4f",
+      "50b4fe177514f047",
+      "b798a9e69b42f984",
+      "c70dd1c65d463b72",
+      "20946b3cd8cf26ef",
+      "fc777e97a5e00c3c",
+      "2e956107a9480f44",
+      "41f4c72928d53ac7",
+      "f45059fbc0e55662",
+      "03a9f7861d303ee2",
+      "ca3baee5a605a12d",
+      "ee9e77fb0e934e6e",
+      "d67b1daf2bc84269",
+      "060c66a4db5dc3c2",
+      "cfb9b5755928cfa1",
+      "3f2275dd45d69282",
+      "2979b4ceb2186316",
+      "a05a7765c66dc4a9",
+      "751e1ba75424c5e9",
+      "4c4e173aa272b897",
+      "50fc31a6069ce452",
+      "3e75e91d1bd50f46",
+      "b72844eb8bc17243",
+      "8b66f8cd3ae8ea7b",
+      "2e494aa41a3ca1fe",
+      "95c0a151f25c8acf",
+      "0847206d63f94830",
+      "9fb357809564159c",
+      "718430269c7dd4c0",
+      "fc2381f1ef9cbe60",
+      "2f564a9856f20fa3",
+      "0a29ef3bfbaeb591",
+      "78dab954129f83b2",
+      "2ae69aec58a9b4b3",
+      "92732463d2433fc4",
+      "0a0a2c04e7ed2fa8",
+      "5160ee7004e0ee5c",
+      "a4ec2f5a372b1131",
+      "159c37cfd69e91cd",
+      "8eeee5eb81413a86",
+      "016493e8bafb471c",
+      "647bef4c21da2dbe",
+      "ee72ea3c92e42ae1",
+      "11fcf685ebff9636",
+      "331617e6fd2115cf",
+      "d62f8404edaf875d",
+      "1e83df569f673dad",
+      "74a7ceab581096ee",
+      "cc24a1ed87115ba5",
+      "ce3c1f7c33397a50",
+      "05f705648ee40c07",
+      "bde4729b79cf8d0d",
+      "87a2ff77f9293169",
+      "8b0734621f82be25",
+      "e73dbacccfc94a7e",
+      "b0823b09a57a481b",
+      "4dd9f61bd97310f7"
+    ]
+  },
+  "True Silver": {
+    "brawlers": [
+      "8bit",
+      "Amber",
+      "Ash",
+      "Barley",
+      "Bea",
+      "Belle",
+      "Berry",
+      "Bibi",
+      "Bo",
+      "Bonnie",
+      "Brock",
+      "Bull",
+      "Buster",
+      "Buzz",
+      "Byron",
+      "Carl",
+      "Charlie",
+      "Chester",
+      "Chuck",
+      "Clancy",
+      "Colette",
+      "Colt",
+      "Cordelius",
+      "Crow",
+      "Darryl",
+      "Doug",
+      "Dynamike",
+      "Edgar",
+      "Elprimo",
+      "Emz",
+      "Eve",
+      "Fang",
+      "Frank",
+      "Gale",
+      "Gene",
+      "Gray",
+      "Griff",
+      "Grom",
+      "Jacky",
+      "Janet",
+      "Jessie",
+      "Leon",
+      "Lola",
+      "Lou",
+      "Maisie",
+      "Mandy",
+      "Max",
+      "Meg",
+      "Mico",
+      "Mortis",
+      "Nani",
+      "Nita",
+      "Pam",
+      "Pearl",
+      "Penny",
+      "Piper",
+      "Poco",
+      "Rico",
+      "Rosa",
+      "Ruffs",
+      "Sandy",
+      "Shelly",
+      "Spike",
+      "Sprout",
+      "Squeak",
+      "Stu",
+      "Surge",
+      "Tara",
+      "Tick",
+      "Willow"
+    ],
+    "total_assets": 72,
+    "asset_ids": [
+      "cc21ddbdf22afbcc",
+      "1145db30dd72a820",
+      "37176d5aa9788b27",
+      "cf64aeaaaa46d5df",
+      "8ed23c1f6e1a62d5",
+      "694c82cf891ec845",
+      "3d8b5a077b4a9666",
+      "107ba42b91437183",
+      "97ceb38dc264dbf5",
+      "f337b274404b7787",
+      "b98eeea0d3bbf2d2",
+      "ffa88dd7f4bb67a1",
+      "cac326582ec705bf",
+      "e74632cc193dfbdf",
+      "1c150220f1f37945",
+      "71d1c55040374017",
+      "43e3cbb246296272",
+      "9cc50b0432818d5b",
+      "1dc29bead23ee49c",
+      "70bc7db76c1d3992",
+      "b9b1fc63fd6d6f8a",
+      "1ac633f170c5a9ce",
+      "4b5458433e20967b",
+      "5135d4b1591714e5",
+      "6850a077430fcc12",
+      "529c693f52acdb68",
+      "444133aeb5100d48",
+      "66745dd17ec1fe8c",
+      "ba6ddce08ae14de9",
+      "5e3839939d2333f7",
+      "74c3f39ebb3b5064",
+      "e35900948a5b4463",
+      "11facdc4addaad2c",
+      "741c641ae289446d",
+      "278e408e5b71b305",
+      "ce16aa9cf86b1c22",
+      "406d4350414e1cfb",
+      "4a5ee943311ad2c1",
+      "47e516eb43ba8532",
+      "70aacbcdb4c452d7",
+      "34cb9e4bfc633e9e",
+      "65c38a3c850da594",
+      "18c500fa35f6739f",
+      "aec23d7b98bf8069",
+      "72590d9a0db133f9",
+      "1459c3a730a5e62f",
+      "021a5cf359d8b368",
+      "c33886193caf160b",
+      "b6f1a5170653ad56",
+      "56cd6337e337a34b",
+      "a7fda4f611bc5e7a",
+      "e3d66940dcab7814",
+      "58c649b3375775fb",
+      "b7f3cd706aaeb544",
+      "d1040f936d36db61",
+      "e92c78b924cbd62f",
+      "979e4c336d209424",
+      "2102b4fe7c8f4ad5",
+      "21b7786abd297d0d",
+      "a8d01cbefd1dd655",
+      "b47510890f392515",
+      "270aeb84296aa7b8",
+      "c42a35a5625b4fbf",
+      "bf4460a26f4c3d13",
+      "d30f33d3a0164b47",
+      "5ee598816fddbac0",
+      "b9f13f6a13c82b1d",
+      "96458a608df19853",
+      "5e94e28d56c1c8c8",
+      "940dee4562b7f71c",
+      "11ef53402e8b73f2",
+      "4d524d1ef2acd2f7"
+    ]
+  },
+  "V8": {
+    "brawlers": [
+      "8bit"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "c693236f2ee80377"
+    ]
+  },
+  "Virus": {
+    "brawlers": [
+      "8bit",
+      "Brock",
+      "Charlie"
+    ],
+    "total_assets": 19,
+    "asset_ids": [
+      "02fb60514717dafa",
+      "6b1d5a611d35664d",
+      "d3cede4da1963894",
+      "08b7595f07a4c6ca",
+      "baf21b87277b19cf",
+      "b68e6057b7aaadee",
+      "4f1bb941ce42d65f",
+      "6501c3736fb1c6e5",
+      "1f2e273ee9e7ffa9",
+      "d54bbfeecb7f1ad7",
+      "a69608ff8dde455b",
+      "287d7e3ebc20e275",
+      "bbb1eed100596e55",
+      "d03162272029861d",
+      "9a0fe4bf56a7189c",
+      "4103684f530e1757",
+      "d7d74a03f4748481",
+      "6517026b0e2dbd10",
+      "24019d9ae9f128bb"
+    ]
+  },
+  "Retro": {
+    "brawlers": [
+      "8bit",
+      "Barley",
+      "Brock",
+      "Carl",
+      "Lola",
+      "Mortis",
+      "Nani"
+    ],
+    "total_assets": 10,
+    "asset_ids": [
+      "766aa14aa317cf98",
+      "032ea52cd3b2c5eb",
+      "6857eb071f93190b",
+      "5bd04f306970609b",
+      "392835d81bb78570",
+      "f28ce23f50c39a81",
+      "5c77e73bbf2714ef",
+      "5c8d9a00bbfb5c0a",
+      "c67eeeda92bcc886",
+      "292521e683dcbff5"
+    ]
+  },
+  "Sporemind": {
+    "brawlers": [
+      "Cordelius"
+    ],
+    "total_assets": 9,
+    "asset_ids": [
+      "5f41cee004c906a8",
+      "737e203bd4c43b36",
+      "28d9d35b071f41c2",
+      "da14867841e2cc09",
+      "81b89676ed4d43b0",
+      "8433f92267e2740a",
+      "7fa5025fb4a2084d",
+      "b114c153befe7177",
+      "2e5e068bc214692d"
+    ]
+  },
+  "DJ": {
+    "brawlers": [
+      "Emz",
+      "Frank",
+      "Rico"
+    ],
+    "total_assets": 5,
+    "asset_ids": [
+      "67e223dc444a23e4",
+      "320f753f22bd9b20",
+      "500293c656289b62",
+      "3d129a197b921700",
+      "c97a1b7cd4a5b3bf"
+    ]
+  },
+  "Knight": {
+    "brawlers": [
+      "Barley",
+      "Draco",
+      "Frank",
+      "Jessie",
+      "Nani",
+      "Poco"
+    ],
+    "total_assets": 12,
+    "asset_ids": [
+      "e747b2840138a578",
+      "8513f9420a76fa58",
+      "4cb0ab10814bd658",
+      "8f285b8460c7d9c0",
+      "385e4a4ec68fba4d",
+      "a6a8897f02ff1c84",
+      "7dc897bb99bea4f5",
+      "0af053273ab382f1",
+      "1dd2e185f2e0e539",
+      "e5ee1d0963ca37fb",
+      "f902ef86ad5d5e1a",
+      "73d3900f0f6c2049"
+    ]
+  },
+  "Samurai": {
+    "brawlers": [
+      "Gene",
+      "Kenji"
+    ],
+    "total_assets": 5,
+    "asset_ids": [
+      "00abb3174378cb01",
+      "5e6149df1fb74ba6",
+      "5734913eaeabc66c",
+      "e822dcab6388d5e6",
+      "d672ea7af885564c"
+    ]
+  },
+  "Wizard": {
+    "brawlers": [
+      "Barley",
+      "Byron"
+    ],
+    "total_assets": 3,
+    "asset_ids": [
+      "0b70017b4e3a6429",
+      "733a146ec5b00fdf",
+      "8af07cbc1f9ad0c1"
+    ]
+  },
+  "Pirate": {
+    "brawlers": [
+      "Bibi",
+      "Gene",
+      "Poco"
+    ],
+    "total_assets": 3,
+    "asset_ids": [
+      "e59a255d8f2edf4a",
+      "e024dbda25d06052",
+      "b27818a15e5281b9"
+    ]
+  },
+  "Zombie": {
+    "brawlers": [
+      "Bibi",
+      "Brock",
+      "Gus",
+      "Pam"
+    ],
+    "total_assets": 4,
+    "asset_ids": [
+      "6c74f10be04aad58",
+      "ca9f13950f993a65",
+      "65f7803ebadbf10d",
+      "04ff64be7ae2ec6f"
+    ]
+  },
+  "Mecha": {
+    "brawlers": [
+      "Bo",
+      "Colt",
+      "Crow",
+      "Edgar",
+      "Leon",
+      "Meg",
+      "Mortis",
+      "Nita",
+      "Tick"
+    ],
+    "total_assets": 114,
+    "asset_ids": [
+      "56db1a55f032744a",
+      "829d399ec4069ea7",
+      "cfacc33409eedd7d",
+      "c879b5d203d1352c",
+      "b65aa8da1aba9bb6",
+      "89ee26bbfb9f4916",
+      "362610c07b3d2b35",
+      "7046608b46504438",
+      "67acd09a8e881c1e",
+      "30060a84e147f9b6",
+      "12b49d9e2e232387",
+      "d6d4d3a8460abb35",
+      "8f780548267778a2",
+      "a4f347631b35d946",
+      "0c89dafb39376f35",
+      "9cee9330852120e5",
+      "427fb1fba41f0da0",
+      "13895bb9c9ca72dc",
+      "f378d09a15fd408b",
+      "53bc4cf85f463ff6",
+      "5e5236599ed0f115",
+      "92700469a5e3af0c",
+      "5a8bab56f93327b5",
+      "6ee2cc72d5049daf",
+      "c20207ecfd775bfe",
+      "85af281ab4b094b9",
+      "9249a5f3d3857374",
+      "d4436d2102201ea2",
+      "1fac6d8a99893074",
+      "067f5e528124d952",
+      "4305a99bdd5fb82e",
+      "312b5d983d808762",
+      "763b9833977883e3",
+      "32485623e69f508e",
+      "e6785c78f1280f7f",
+      "3a7df3f109b30d10",
+      "7588875b2be6f3b6",
+      "c8c7bc70eb10caf0",
+      "14706e89990a7bf9",
+      "189b44d3ae994b4e",
+      "be87e0cdd1ef7710",
+      "2f4c56043471cbbc",
+      "a505fc0f276afc17",
+      "2b70b5853d578103",
+      "ed20a4e89b78fcc9",
+      "de3cb3757e3a04d6",
+      "08e0b4a25b6b8d30",
+      "18e4ca02c008b412",
+      "c4bbdadc319e0884",
+      "45876e1545542157",
+      "bb9ee812ffc56187",
+      "c1f277dacd7ae350",
+      "084e8ded62d69771",
+      "7b98d4f1354569dd",
+      "c6234ce35d513092",
+      "4f6347b186c27ec2",
+      "ec4c248b8b36878f",
+      "7dbe5578dcf57e0e",
+      "8952424e2493873e",
+      "5720cc5ab6558996",
+      "f696479878d1ac53",
+      "3e21ed0c3b14c900",
+      "91a096bc61d295ff",
+      "e8431291b9c6d7d7",
+      "49dadeb0beb14139",
+      "5d3ea9d4eb545e4e",
+      "69dcedab51977ae4",
+      "1a8643209668cafe",
+      "fedc4f0fa01b0e44",
+      "434c8446c68a9513",
+      "6ba86ab11a0fd7ae",
+      "96ba3d86acfe9b13",
+      "b2b0707e3c530208",
+      "b8d0aa093981f353",
+      "990d0c7166427fd2",
+      "39b6d2d224726d8e",
+      "feae592fd2c296df",
+      "f7e59e6326d9342d",
+      "f8e8b43af78d6ebd",
+      "1f5060cdf47eb0db",
+      "5dffa2c53a36ea8f",
+      "35e5ef00dcee0313",
+      "b687c28749bf1e22",
+      "31bd82f298078c2b",
+      "c81fc3f3350fc500",
+      "6e1af628cb958323",
+      "4269cbd1d0a4ca88",
+      "650a662d756efac5",
+      "e226209f7474dbc3",
+      "038457195dd63bc6",
+      "f454a8ca9c0e77f6",
+      "c60ea31400918f8d",
+      "98afa8b0e58ee459",
+      "ad80b30307c731c2",
+      "5d4f5095ea2bfeff",
+      "cd710a0cf16a05bf",
+      "c7ce709179fdffde",
+      "80d15ab029cf6567",
+      "ce83a9b79764226e",
+      "033c1bd6ea00f87b",
+      "36f392edc6a039d6",
+      "d7dd9b3356bb6871",
+      "23a39b2889034810",
+      "1de992ad14cd90ab",
+      "864d85c8e2295138",
+      "0f480c8810dfbbf1",
+      "3396acc07a77745b",
+      "a0ed400d232977ad",
+      "17403e7e9b91eb56",
+      "aad1d0613a29d22d",
+      "0880c8d2f787d33c",
+      "abad14264eb0d66b",
+      "abf0b127558ca9fc",
+      "1a4a676fee16d151"
+    ]
+  },
+  "Hacker": {
+    "brawlers": [
+      "Brock"
+    ],
+    "total_assets": 6,
+    "asset_ids": [
+      "588281099d25ce24",
+      "04fa5a2734ce8aca",
+      "b11ee38cf136626a",
+      "7cfb296064d42072",
+      "633aed66979389e7",
+      "71ba24308121fa5b"
+    ]
+  },
+  "Barbarian": {
+    "brawlers": [
+      "Bull"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "a70f91b917bae37b"
+    ]
+  },
+  "Viking": {
+    "brawlers": [
+      "Bull"
+    ],
+    "total_assets": 2,
+    "asset_ids": [
+      "d640dba2b93bca5f",
+      "b2e8e5cfa33dbeb2"
+    ]
+  },
+  "Fenrir": {
+    "brawlers": [
+      "Buzz"
+    ],
+    "total_assets": 6,
+    "asset_ids": [
+      "3332d3dbb64297c5",
+      "f9e0679c16256b71",
+      "f124cb6e4d92c591",
+      "7a40f95deb7317c7",
+      "d544ef3129159317",
+      "df6ddcb5b3df2aff"
+    ]
+  },
+  "Surf": {
+    "brawlers": [
+      "Carl"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "c3fb5322482c60e6"
+    ]
+  },
+  "Ghost": {
+    "brawlers": [
+      "Colette",
+      "Leon",
+      "Penny",
+      "Squeak"
+    ],
+    "total_assets": 6,
+    "asset_ids": [
+      "2e5fde23302e7164",
+      "1bdfbee00f0e3876",
+      "adc31989f7a922f9",
+      "358684657d0be6a9",
+      "faa2644543497fdf",
+      "7a252a7b477acb93"
+    ]
+  },
+  "Gladiator": {
+    "brawlers": [
+      "Colette"
+    ],
+    "total_assets": 2,
+    "asset_ids": [
+      "99bcabe58e553511",
+      "9f6674a61021ffb1"
+    ]
+  },
+  "Outlaw": {
+    "brawlers": [
+      "Colt",
+      "Lola"
+    ],
+    "total_assets": 3,
+    "asset_ids": [
+      "928dd2eb98e79f86",
+      "c0d69a345b203851",
+      "c6ab6b7394106d6c"
+    ]
+  },
+  "Rockstar": {
+    "brawlers": [
+      "Colt"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "a271111c57da3998"
+    ]
+  },
+  "Royal": {
+    "brawlers": [
+      "Colt",
+      "Frank"
+    ],
+    "total_assets": 3,
+    "asset_ids": [
+      "f14c46d65e5266cd",
+      "7b63d92d7cc72433",
+      "59fbc41dd1983d96"
+    ]
+  },
+  "Shark": {
+    "brawlers": [
+      "Colt",
+      "Elprimo",
+      "Hank",
+      "Leon"
+    ],
+    "total_assets": 6,
+    "asset_ids": [
+      "d7d771d1ef678e33",
+      "3e7db9ea3e538e84",
+      "c038565c0973c08e",
+      "1a434ee39ce1b2e1",
+      "2ea7e8e286c97142",
+      "210e82596a526b07"
+    ]
+  },
+  "Spore": {
+    "brawlers": [
+      "Cordelius"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "ce638ea58e4ed221"
+    ]
+  },
+  "Phoenix": {
+    "brawlers": [
+      "Crow"
+    ],
+    "total_assets": 12,
+    "asset_ids": [
+      "7f0609fd074f91c1",
+      "ac4bf986bd0164c2",
+      "380fd207ef92fb5c",
+      "3dcab49a9b5334f8",
+      "8147fc81aa504901",
+      "24df44b6b00caa33",
+      "05c84ea1fda9a716",
+      "eec081b103bd38f1",
+      "112abb419c3fd69e",
+      "2029515ee0c72e56",
+      "7ac5f884f570e897",
+      "24055bbb48fd6346"
+    ]
+  },
+  "White Crow": {
+    "brawlers": [
+      "Crow"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "69b3d81bf5a6b41c"
+    ]
+  },
+  "Robot": {
+    "brawlers": [
+      "Colt",
+      "Dynamike"
+    ],
+    "total_assets": 11,
+    "asset_ids": [
+      "951002daae3e867e",
+      "ef81ef97e3cfc48f",
+      "a11ca293be60a04c",
+      "855174e1001e756b",
+      "45bfa32b260ee46d",
+      "9d742f430e7101c6",
+      "3f7170f753a86647",
+      "0953215c6220b0e9",
+      "e4ca53f353e78c23",
+      "f5bc79639be67c24",
+      "923d6190415cb75c"
+    ]
+  },
+  "Evil": {
+    "brawlers": [
+      "Gene",
+      "Mandy",
+      "Pam",
+      "Surge"
+    ],
+    "total_assets": 18,
+    "asset_ids": [
+      "6d8c4377e741e2fc",
+      "b9eca5a9e942a5b7",
+      "f6d829d75cb102b2",
+      "2fc27c33b2896759",
+      "00482f7a267c2450",
+      "6c40ef829e79c533",
+      "792fcfaad9b42bd1",
+      "39027783efd9e730",
+      "7ed7037dc2034b53",
+      "e62f22f662b7b039",
+      "f3c85a39ad8e8cc1",
+      "ba87a2403c79edbe",
+      "f2332d5989894611",
+      "ccc7fc9b67fb529c",
+      "485c44faed067376",
+      "edd840e32c51b64f",
+      "211e4122bbc5e876",
+      "0a97557b622fe87f"
+    ]
+  },
+  "Bunny": {
+    "brawlers": [
+      "Grom",
+      "Penny",
+      "Squeak"
+    ],
+    "total_assets": 9,
+    "asset_ids": [
+      "4128b1e652ece6a3",
+      "f6aa3b8fb8ae205d",
+      "42518b277a7ae0a0",
+      "d86ffab6d9f3fe42",
+      "8363bd11a3e046e3",
+      "da48aed615d79919",
+      "96a79481cfe9655c",
+      "5a7d71b9fca2bf39",
+      "5e4ae51de5136d9b"
+    ]
+  },
+  "Witch": {
+    "brawlers": [
+      "Mortis",
+      "Shelly"
+    ],
+    "total_assets": 6,
+    "asset_ids": [
+      "966bc757998846fd",
+      "e35d86a808f3a749",
+      "970afbb554bc5028",
+      "b23c75e30519a25f",
+      "e47c342c8fe80297",
+      "6b9eff003f5c0fe6"
+    ]
+  },
+  "Merchant": {
+    "brawlers": [
+      "Gale"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "b52a9ef684dbc83b"
+    ]
+  },
+  "Brawloween": {
+    "brawlers": [
+      "Gene",
+      "Leon",
+      "Mr.p",
+      "Piper",
+      "Rosa",
+      "Shelly",
+      "Squeak"
+    ],
+    "total_assets": 7,
+    "asset_ids": [
+      "b694cbd3dc5f1a2f",
+      "70e2b17acfda94a8",
+      "1351a9f620f49031",
+      "568e174d96e70fc2",
+      "1e767e86d7b30a4d",
+      "564b7a081bdaa054",
+      "2dd8a8d87c09d4c8"
+    ]
+  },
+  "Sally": {
+    "brawlers": [
+      "Gus",
+      "Leon",
+      "Nani"
+    ],
+    "total_assets": 6,
+    "asset_ids": [
+      "8f68cfa7f78ab509",
+      "a881ea9354100a85",
+      "30828f14f775a3fb",
+      "5b58341b0dc02c2e",
+      "c9b4b75de21637d4",
+      "2cc98860971e3fdd"
+    ]
+  },
+  "Champion": {
+    "brawlers": [
+      "Gus"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "d03c6c48bc8aaaf1"
+    ]
+  },
+  "Popstar": {
+    "brawlers": [
+      "Janet"
+    ],
+    "total_assets": 2,
+    "asset_ids": [
+      "7fe7e2204bbf0e66",
+      "66403c26355970ce"
+    ]
+  },
+  "Dragon": {
+    "brawlers": [
+      "Elprimo",
+      "Jessie",
+      "Mr.p"
+    ],
+    "total_assets": 8,
+    "asset_ids": [
+      "ef93f5e8f127461a",
+      "b717682fbf3342a5",
+      "a1a7df794195ff71",
+      "8df87a82f910043b",
+      "1d1bfb19be6a737a",
+      "12e0840c65c2cbb6",
+      "4f197ad39def0db9",
+      "64ef3be3742918e7"
+    ]
+  },
+  "Tanuki": {
+    "brawlers": [
+      "Jessie"
+    ],
+    "total_assets": 2,
+    "asset_ids": [
+      "63bc684b82702111",
+      "1a7a55b1fb492f47"
+    ]
+  },
+  "Werewolf": {
+    "brawlers": [
+      "Leon"
+    ],
+    "total_assets": 2,
+    "asset_ids": [
+      "61c8ac271d4becae",
+      "648e6c65e258e22b"
+    ]
+  },
+  "Kitsune": {
+    "brawlers": [
+      "Lola"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "53dca786bf559912"
+    ]
+  },
+  "Rebel": {
+    "brawlers": [
+      "Lola"
+    ],
+    "total_assets": 2,
+    "asset_ids": [
+      "366a013ffcace431",
+      "aa1b99bb486a73a5"
+    ]
+  },
+  "Rockabilly": {
+    "brawlers": [
+      "Mortis"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "9744c7abe997fe3d"
+    ]
+  },
+  "Rogue": {
+    "brawlers": [
+      "Mortis"
+    ],
+    "total_assets": 3,
+    "asset_ids": [
+      "dbe1ff897ec792a0",
+      "a61b24d2cabc2a54",
+      "4a9c182bab5c4fd3"
+    ]
+  },
+  "Top Hat": {
+    "brawlers": [
+      "Mortis"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "18c484ebfc0ff657"
+    ]
+  },
+  "Shiba": {
+    "brawlers": [
+      "Nita"
+    ],
+    "total_assets": 3,
+    "asset_ids": [
+      "e346d5979b5b57c6",
+      "1c36a283cd8ef118",
+      "f1b087e73010d7fb"
+    ]
+  },
+  "Oni": {
+    "brawlers": [
+      "Otis",
+      "Ruffs"
+    ],
+    "total_assets": 11,
+    "asset_ids": [
+      "e0d77242f7a07267",
+      "e9bbed5cb993680a",
+      "bf3d4b8b0aa28eb3",
+      "b3cd3f21da8bc24c",
+      "af8e9151b670f0df",
+      "8c4beb22e014d581",
+      "3a9764a5833f2e07",
+      "594381ee4aa5437c",
+      "6d3ae88e8f42a9e6",
+      "155b954981f3d15c",
+      "4309e5f1540275f4"
+    ]
+  },
+  "Cupid": {
+    "brawlers": [
+      "Piper"
+    ],
+    "total_assets": 2,
+    "asset_ids": [
+      "b903cb892a7407fe",
+      "6f74f3f614a94d76"
+    ]
+  },
+  "Paladin": {
+    "brawlers": [
+      "Surge"
+    ],
+    "total_assets": 14,
+    "asset_ids": [
+      "1cc69fc3d0f21524",
+      "808d053948e4fc6b",
+      "0580670b221b2c51",
+      "d32d2ff4dbc8b54f",
+      "b1fe0ec11b685366",
+      "a579665118340985",
+      "939fa977691aefc2",
+      "a54928f3a914ad2c",
+      "1ba1b53be5d9716b",
+      "6467adfc42b92939",
+      "2bdec59ff3802ea3",
+      "877e6c2a35b20d5a",
+      "8c32adb887274657",
+      "b92f37497d71403b"
+    ]
+  },
+  "Neon": {
+    "brawlers": [
+      "Sandy"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "edf832735a86f1d3"
+    ]
+  },
+  "Bandita": {
+    "brawlers": [
+      "Shelly"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "eb8bacc9aba90def"
+    ]
+  },
+  "Dancer Light": {
+    "brawlers": [
+      "Shelly"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "d7200ab1e6c1e5fc"
+    ]
+  },
+  "Princess": {
+    "brawlers": [
+      "Shelly"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "8f226d80141f43d4"
+    ]
+  },
+  "PSG Shelly": {
+    "brawlers": [
+      "Shelly"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "b6f504e09ab15886"
+    ]
+  },
+  "Star Shell": {
+    "brawlers": [
+      "Shelly"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "5fa850ac61e12247"
+    ]
+  },
+  "Dark Lord": {
+    "brawlers": [
+      "Spike"
+    ],
+    "total_assets": 2,
+    "asset_ids": [
+      "6f80a1d735f7761a",
+      "969489c473dc6c60"
+    ]
+  },
+  "Robo Spike": {
+    "brawlers": [
+      "Spike"
+    ],
+    "total_assets": 1,
+    "asset_ids": [
+      "f437eeef037ee8a6"
+    ]
+  },
+  "Sakura": {
+    "brawlers": [
+      "Spike"
+    ],
+    "total_assets": 2,
+    "asset_ids": [
+      "b44637d2d7920fd0",
+      "80b84c3f78f424ac"
+    ]
+  }
+}

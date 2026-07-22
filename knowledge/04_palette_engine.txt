@@ -1,0 +1,57 @@
+# Palette Engine — Extraction et harmonisation des couleurs
+#
+# L'IA doit extraire et utiliser les palettes des assets selectionnes.
+
+## Extraction de palette
+#
+# Chaque asset a deja des stats calculees:
+#   - dominant_colors: les 8 couleurs principales avec pourcentage
+#   - brightness: luminosite moyenne (0-1)
+#   - saturation: saturation moyenne (0-1)  
+#   - average_hue: teinte dominante (0-360)
+#
+# Ces stats sont dans assets.json ou search_index.json.
+# L'IA peut les utiliser pour choisir les harmonies.
+
+## Regles d'harmonie
+#
+# 1. **Palette monochrome**: 1 couleur dominante + ses nuances
+#    → Quand? Le brawler a une couleur signature (ex: Crow = violet)
+#    → Utiliser la couleur dominante pour le texte, les ombres
+#
+# 2. **Palette complementaire**: 2 couleurs opposees (hue diff ≈ 180°)
+#    → Quand? Sujet chaud + fond froid (ou inverse)
+#    → Texte dans la couleur du sujet, ombres dans celle du fond
+#
+# 3. **Palette analogique**: 2-3 couleurs proches (hue diff < 60°)
+#    → Quand? Composition douce, harmonieuse
+#    → Utiliser des nuances pour la profondeur
+#
+# 4. **Palette triade**: 3 couleurs espaces de 120°
+#    → Quand? Composition energetique, "brawl"
+#    → Une couleur pour le sujet, une pour le fond, une pour les accents
+
+## Extraction automatique
+#
+# Pour chaque asset dans la composition:
+#   couleur_principale = dominant_colors[0]["hex"]
+#   couleurs_secondaires = [c["hex"] for c in dominant_colors[1:4]]
+#   luminosite = brightness
+#   satu = saturation
+#
+# La palette FINALE de la thumbnail doit etre:
+#   60% de la couleur dominante du SUJET
+#   30% de la couleur dominante du FOND
+#   10% d'une couleur d'ACCENT (souvent complementaire)
+#
+# NE PAS utiliser plus de 3 couleurs principales dans la thumbnail.
+
+## Quand le sujet et le fond ont des couleurs proches
+#
+# Si hue difference < 30°:
+#   → Probleme: manque de contraste
+#   → Solutions:
+#     a) Ajouter un overlay sombre (noir 30%) entre le fond et le sujet
+#     b) Choisir un autre fond
+#     c) Ajouter un contour (stroke) au sujet dans une couleur complementaire
+#   → NE PAS faire confiance au blending additif

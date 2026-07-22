@@ -1,0 +1,62 @@
+# Composition Engine — Regles de composition automatique
+#
+# L'IA doit composer la thumbnail en assemblant les assets selectionnes.
+
+## Structure de base
+#
+# La thumbnail fait 1024×1024 (format carre Brawl Stars).
+# 3 couches:
+#
+#   LAYER 0 (FOND)     → Background, LoadingScreen, ou brawler secondaire
+#   LAYER 1 (SUJET)    → Render du brawler principal
+#   LAYER 2 (ACCENTS)  → Emojis, particules, effets
+#
+# Chaque couche peut avoir des sous-couches (ombre, lueur, overlay).
+
+## Regles de positionnement
+#
+# SUJET: centre ± 15%, occupe 60-75% de la hauteur
+#   - Toujours centrer le visage dans le tiers superieur
+#   - Si le brawler tient une arme: l'arme pointe vers le bord, pas vers le centre
+#   - Le regard du brawler doit diriger l'attention vers le texte ou l'accent
+#
+# FOND: plein ecran, occupe 100%
+#   - Flou gaussien (radius 4-8px) si le fond a trop de details
+#   - Overlay semi-transparent (noir 20-40%) si le sujet ressort mal
+#   - Le fond ne doit JAMAIS voler l'attention du sujet
+#
+# ACCENTS: libre, mais regles strictes
+#   - Pas plus de 3 elements d'accent
+#   - Disposes en triangle (regle des tiers)
+#   - Taille max: 15% de la thumbnail pour un emoji, 25% pour un spray
+
+## Fusion des assets
+#
+# Pour fondre 2 assets ensemble:
+#   - Si les deux ont des palettes differentes: utiliser un gradient overlay
+#   - Si un asset a un fond transparent: le superposer directement
+#   - Si les deux ont des bords durs: ajouter une ombre portee (blur 3px, offset 2px)
+#   - Ne JAMAIS utiliser de "glow" ou "lueur" generique (voir anti-generic-AI rules)
+
+## Gestion des skins
+#
+# Si la demande specifie un skin:
+#   - Le skin modifie la palette du brawler
+#   - Les accents (effets, projectiles) restent ceux du brawler de base
+#   - Le nom du skin peut apparaitre en petit texte sous le nom du brawler
+#
+# Si aucun skin specifie:
+#   - Utiliser le Default (skin 001)
+#   - Si plusieurs skins disponibles: choisir celui avec la meilleure palette
+#     (contraste eleve, saturation > 0.4, couleurs non boueuses)
+
+## Exemple de composition automatique
+# Demande: "Amber theme feu"
+#   |→ SUJET: Amber_Default_001 (Brawlers)
+#   |   → Centree, 70% de la hauteur
+#   |→ FOND: Un background volcanique (brightness 0.3)
+#   |   → Overlay orange/rouge 15% pour unifier
+#   |→ ACCENT: Emoji flamme ou amber_emoji
+#   |   → Coin superieur droit, 12% de la largeur
+#   |→ TEXTE: "AMBER" en Brawl Stars Heavy, stroke 2px
+#   |   → Base centre, 8% de la hauteur

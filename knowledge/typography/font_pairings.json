@@ -1,0 +1,51 @@
+{
+  "pairing_rules": {
+    "primary_secondary_ratio": "Primary font is 2x the size of secondary",
+    "max_pairings_per_thumbnail": 1,
+    "never_pair": ["Two display fonts in same line", "Serif + Script", "Mono + Display"]
+  },
+  "pairings": [
+    {
+      "id": "lilita_bold",
+      "primary": "Lilita One",
+      "secondary": "DejaVu Sans Bold",
+      "best_for": ["general thumbnails", "brawler spotlights", "guides"],
+      "rationale": "Rounded display font for impact + clean sans for supporting text"
+    },
+    {
+      "id": "lilita_condensed",
+      "primary": "Lilita One",
+      "secondary": "Anton",
+      "best_for": ["competitive videos", "rank pushes", "esports"],
+      "rationale": "Wide friendly Lilita + sporty condensed Anton creates energy"
+    },
+    {
+      "id": "lucky_pro",
+      "primary": "Luckiest Guy",
+      "secondary": "DejaVu Sans",
+      "best_for": ["co-op content", "team gameplay", "friendly videos"],
+      "rationale": "Friendly rounded primary + neutral secondary for readability"
+    },
+    {
+      "id": "bangers_clean",
+      "primary": "Bangers",
+      "secondary": "DejaVu Sans Bold",
+      "best_for": ["funny moments", "meme videos", "entertainment"],
+      "rationale": "Comic irregular primary + clean bold secondary for contrast"
+    },
+    {
+      "id": "passion_clean",
+      "primary": "Passion One",
+      "secondary": "DejaVu Sans",
+      "best_for": ["heavy impact", "tournament announcements", "countdowns"],
+      "rationale": "Heavy bold primary + neutral secondary for information"
+    },
+    {
+      "id": "righteous_modern",
+      "primary": "Righteous",
+      "secondary": "Anton",
+      "best_for": ["retro arcade", "old school", "anniversary content"],
+      "rationale": "Retro distinctive primary + modern condensed secondary"
+    }
+  ]
+}

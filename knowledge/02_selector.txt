@@ -1,0 +1,72 @@
+# Brawler Asset Selector — Autonomus Decision Logic
+#
+# L'IA doit selectionner les assets les plus adaptes pour une composition.
+# Utiliser ces regles pour choisir sans intervention humaine.
+
+## Regle 1: Priorite par hierarchie visuelle
+#
+# Dans une composition il y a 3 zones:
+#   SUJET (60% de l'image) — le brawler principal
+#   FOND  (30%)           — ambiance, decor
+#   ACCENT (10%)          — effets, particules, emoji
+#
+# Pour chaque zone, le type d'asset ideal:
+#
+# SUJET → Brawlers category, skin par defaut ou skin demande
+#   - Si skin specifique demande: chercher display_name contenant le skin
+#   - Sinon: Default_001 (le render principal)
+#   - Si le brawler n'a pas d'asset Brawlers: utiliser CDN bordered
+#
+# FOND → Backgrounds, LoadingScreens, ou un Brawler en plan large
+#   - Choisir un fond dont la palette contraste avec le sujet
+#   - Brightness du fond < 0.5 pour faire ressortir le sujet
+#   - Eviter les fonds avec edge_density > 0.3 (trop bruyant)
+#
+# ACCENT → Emojis, Sprays, Pins
+#   - Emoji: overlay petit en coin (10-15% de la taille du sujet)
+#   - Spray: effet de texture ou particule
+#   - Pin: petit element decoratif
+
+## Regle 2: Comment determiner quel brawler utiliser
+#
+# Si la demande est "fais une thumbnail de X":
+#   → Utiliser X comme SUJET
+#   → Chercher dans brawler_profiles/{key}.md les assets disponibles
+#   → Choisir le Default_001 en priorite, sauf si un skin est demande
+#
+# Si la demande est "fais une thumbnail de X skin Y":
+#   → Chercher display_name contenant "Y" dans les assets du brawler
+#   → Fallback: Default_001 si skin non trouve
+#
+# Si la demande est vague ("fais un brawler epic feu"):
+#   → Identifier le brawler via la couleur (rouge/orange = feu)
+#   → Amber, Brock, Byron, Emz (fire themes)
+#   → Chercher un fond qui match le theme
+
+## Regle 3: Assets a eviter
+#
+# ❌ Pins category pour le SUJET (trop petit, basse resolution)
+# ❌ Portraits avec fond transparent si le fond de la composition est clair
+# ❌ Assets avec brightness > 0.9 (surexposes, pas de detail)
+# ❌ Animations category (spritesheet, pas une image fixe)
+# ❌ UI category (boutons, icones d'interface)
+# ❌ Les assets avec "Special" dans le nom (sauf si demande explicite)
+
+## Regle 4: Selection multi-brawler
+#
+# Si la composition melange plusieurs brawlers:
+#   - Le brawler principal est le SUJET (centre, plus grand)
+#   - Le secondaire est place en arriere-plan ou sur le cote
+#   - Le secondaire doit avoir une brightness plus basse (ombre/profondeur)
+#   - Les palettes doivent etre complementaires (hue difference > 30 degres)
+#   - NE PAS melanger 2 brawlers avec la meme couleur dominante
+
+## Regle 5: Fallback CDN
+#
+# Si un brawler n'a PAS d'assets Brawlers dans le Fankit:
+#   → Utiliser les portraits CDN (bordered, borderless)
+#   → bordered: pour le SUJET (cadre qui isole bien)
+#   → borderless: pour overlay, fusion, ou si le cadre gene
+#   → emoji: pour ACCENT (petit, lisible)
+#
+# Les brawlers CDN-only sont stockes dans previews/Brawlers/{key}/

@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Brawl Assets Hub</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #1a1a2e; color: #eee; min-height: 100vh; }
+  header { background: linear-gradient(135deg, #16213e, #0f3460); padding: 20px 30px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; border-bottom: 2px solid #e94560; }
+  header h1 { font-size: 22px; color: #fff; }
+  header h1 span { color: #e94560; }
+  header .subtitle { font-size: 13px; color: #8899aa; }
+  .controls { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  .controls input, .controls select { padding: 8px 14px; border: 1px solid #334; border-radius: 6px; background: #16213e; color: #eee; font-size: 14px; }
+  .controls input:focus { outline: 2px solid #e94560; }
+  .stats { display: flex; gap: 20px; font-size: 13px; color: #8899aa; padding: 10px 30px; background: #16213e55; }
+  .stats strong { color: #fff; }
+  .container { padding: 20px 30px; }
+  .brawler-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 14px; }
+  .brawler-card { background: #16213e; border-radius: 10px; overflow: hidden; cursor: pointer; transition: transform 0.15s, box-shadow 0.15s; border: 2px solid transparent; }
+  .brawler-card:hover { transform: translateY(-3px); box-shadow: 0 6px 20px #0004; }
+  .brawler-card.selected { border-color: #e94560; }
+  .brawler-card .thumb { width: 100%; aspect-ratio: 1; object-fit: contain; background: #0d1b2a; display: block; }
+  .brawler-card .info { padding: 8px 10px; }
+  .brawler-card .info .name { font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .brawler-card .info .meta { font-size: 11px; color: #8899aa; display: flex; justify-content: space-between; margin-top: 2px; }
+  .rarity-common { border-top: 3px solid #b0b0b0; }
+  .rarity-rare { border-top: 3px solid #59b9ff; }
+  .rarity-super-rare { border-top: 3px solid #00e5ff; }
+  .rarity-epic { border-top: 3px solid #d850ff; }
+  .rarity-mythic { border-top: 3px solid #fe5e72; }
+  .rarity-legendary { border-top: 3px solid #ffd700; }
+  .rarity-ultra-legendary { border-top: 3px solid #ff4444; }
+
+  /* Composition Board */
+  .board { position: fixed; bottom: 0; left: 0; right: 0; background: #0d1b2ae8; backdrop-filter: blur(8px); border-top: 2px solid #e94560; padding: 12px 20px; transform: translateY(calc(100% - 44px)); transition: transform 0.3s; z-index: 100; }
+  .board.open { transform: translateY(0); }
+  .board-toggle { position: absolute; top: -32px; left: 50%; transform: translateX(-50%); background: #e94560; color: #fff; border: none; padding: 6px 20px; border-radius: 8px 8px 0 0; cursor: pointer; font-size: 13px; }
+  .board-content { display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; }
+  .board-items { display: flex; gap: 8px; flex-wrap: wrap; flex: 1; }
+  .board-item { width: 64px; text-align: center; position: relative; }
+  .board-item img { width: 64px; height: 64px; object-fit: contain; background: #0003; border-radius: 4px; }
+  .board-item .remove { position: absolute; top: -6px; right: -6px; background: #e94560; color: #fff; border: none; border-radius: 50%; width: 18px; height: 18px; font-size: 11px; cursor: pointer; line-height: 18px; text-align: center; }
+  .board-actions { display: flex; flex-direction: column; gap: 6px; }
+  .board-actions button { padding: 8px 16px; border: none; border-radius: 6px; cursor: pointer; font-size: 12px; white-space: nowrap; }
+  .btn-primary { background: #e94560; color: #fff; }
+  .btn-secondary { background: #334; color: #eee; }
+  .board-stats { font-size: 11px; color: #8899aa; max-height: 120px; overflow-y: auto; flex: 1; min-width: 200px; }
+
+  /* Modal */
+  .modal-overlay { display: none; position: fixed; inset: 0; background: #0008; z-index: 200; align-items: center; justify-content: center; }
+  .modal-overlay.open { display: flex; }
+  .modal { background: #16213e; border-radius: 12px; max-width: 800px; width: 90%; max-height: 85vh; overflow-y: auto; padding: 24px; }
+  .modal h2 { margin-bottom: 16px; }
+  .modal .asset-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 8px; }
+  .modal .asset-grid img { width: 100%; aspect-ratio: 1; object-fit: contain; background: #0d1b2a; border-radius: 4px; cursor: pointer; border: 2px solid transparent; }
+  .modal .asset-grid img:hover { border-color: #e94560; }
+  .modal .asset-grid img:active { transform: scale(0.95); }
+  .modal .close { float: right; background: none; border: none; color: #8899aa; font-size: 20px; cursor: pointer; }
+
+  /* Prompt output */
+  .prompt-output { background: #0d1b2a; border-radius: 6px; padding: 14px; font-family: monospace; font-size: 12px; white-space: pre-wrap; max-height: 200px; overflow-y: auto; margin-top: 8px; color: #aabbcc; }
+
+  /* Loading */
+  .loading { text-align: center; padding: 40px; color: #8899aa; }
+
+  @media (max-width: 600px) {
+    .brawler-grid { grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); gap: 10px; }
+    .controls input, .controls select { width: 100%; }
+    .board-content { flex-direction: column; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>Brawl <span>Assets</span> Hub</h1>
+    <div class="subtitle">107 brawlers · 5000+ assets · AI vision pack</div>
+  </div>
+  <div class="controls">
+    <input type="text" id="search" placeholder="Search brawler..." oninput="renderGrid()">
+    <select id="rarityFilter" onchange="renderGrid()">
+      <option value="">All rarities</option>
+      <option value="Common">Common</option>
+      <option value="Rare">Rare</option>
+      <option value="Super Rare">Super Rare</option>
+      <option value="Epic">Epic</option>
+      <option value="Mythic">Mythic</option>
+      <option value="Legendary">Legendary</option>
+      <option value="Ultra Legendary">Ultra Legendary</option>
+    </select>
+  </div>
+</header>
+
+<div class="stats">
+  <span>Brawlers: <strong id="brawlerCount">0</strong></span>
+  <span>Filtered: <strong id="filteredCount">0</strong></span>
+  <span>Last update: <strong id="lastUpdate">—</strong></span>
+</div>
+
+<div class="container">
+  <div class="brawler-grid" id="grid"></div>
+</div>
+
+<!-- Brawler Detail Modal -->
+<div class="modal-overlay" id="modal">
+  <div class="modal">
+    <button class="close" onclick="closeModal()">✕</button>
+    <h2 id="modalTitle">—</h2>
+    <div id="modalMeta" style="margin-bottom:12px;font-size:13px;color:#8899aa;"></div>
+    <div class="asset-grid" id="modalAssets"></div>
+  </div>
+</div>
+
+<!-- Composition Board -->
+<div class="board" id="board">
+  <button class="board-toggle" onclick="toggleBoard()">📋 Composition Board (<span id="boardCount">0</span>)</button>
+  <div class="board-content">
+    <div class="board-items" id="boardItems"></div>
+    <div class="board-stats" id="boardStats"></div>
+    <div class="board-actions">
+      <button class="btn-primary" onclick="generatePrompt()">🎯 Generate Prompt</button>
+      <button class="btn-secondary" onclick="clearBoard()">Clear</button>
+    </div>
+  </div>
+  <div class="prompt-output" id="promptOutput" style="display:none;"></div>
+</div>
+
+<script>
+// ── State ──
+let brawlers = [];
+let allAssets = [];
+let board = [];
+let brawlerMap = {};
+
+// ── Load data ──
+async function loadData() {
+  try {
+    const [bRes, aRes] = await Promise.all([
+      fetch('data/brawlers.json'),
+      fetch('data/search_index.json')
+    ]);
+    const bData = await bRes.json();
+    const aData = await aRes.json();
+
+    brawlers = Object.entries(bData).map(([key, val]) => ({ key, ...val }));
+    allAssets = aData;
+    for (const b of brawlers) {
+      brawlerMap[b.name.toLowerCase()] = b;
+    }
+
+    document.getElementById('lastUpdate').textContent = new Date().toISOString().split('T')[0];
+    renderGrid();
+  } catch (e) {
+    document.getElementById('grid').innerHTML = `<div class="loading">Failed to load data. ${e.message}</div>`;
+  }
+}
+
+// ── Render ──
+function renderGrid() {
+  const query = document.getElementById('search').value.toLowerCase();
+  const rarity = document.getElementById('rarityFilter').value;
+
+  let filtered = brawlers.filter(b => {
+    if (rarity && b.rarity !== rarity) return false;
+    if (query && !b.name.toLowerCase().includes(query) && !b.key.toLowerCase().includes(query)) return false;
+    return true;
+  });
+
+  document.getElementById('brawlerCount').textContent = brawlers.length;
+  document.getElementById('filteredCount').textContent = filtered.length;
+
+  const grid = document.getElementById('grid');
+  grid.innerHTML = filtered.map(b => {
+    const previewUrl = `previews/Brawlers/${b.key}`;
+    const firstPreview = `${previewUrl}/${b.name.replace(/[^a-zA-Z0-9]/g,'_')}_Default_001.webp`;
+    const isSelected = board.some(item => item.id === b.key);
+    return `<div class="brawler-card rarity-${b.rarity.toLowerCase().replace(' ','-')} ${isSelected?'selected':''}" onclick="openBrawler('${b.key}')">
+      <img class="thumb" src="${firstPreview}" alt="${b.name}" loading="lazy" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect fill=%22%230d1b2a%22 width=%22100%22 height=%22100%22/><text x=%2250%22 y=%2255%22 text-anchor=%22middle%22 fill=%22%238899aa%22 font-size=%2210%22>${b.name[0]}</text></svg>'">
+      <div class="info">
+        <div class="name">${b.name}</div>
+        <div class="meta"><span>${b.class}</span><span>${b.total_assets}</span></div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ── Modal ──
+function openBrawler(key) {
+  const b = brawlers.find(x => x.key === key);
+  if (!b) return;
+
+  document.getElementById('modalTitle').textContent = b.name;
+  document.getElementById('modalMeta').innerHTML = `
+    <span style="color:${b.color}">■</span> ${b.rarity} · ${b.class} · <strong>${b.total_assets}</strong> assets
+    ${b.skins && b.skins.length ? `· Skins: ${b.skins.slice(0,5).join(', ')}${b.skins.length>5?'...':''}` : ''}
+  `;
+
+  // Get this brawler's assets
+  const bAssetIds = new Set();
+  for (const [cat, ids] of Object.entries(b.asset_types || {})) {
+    for (const id of ids) bAssetIds.add(id);
+  }
+
+  let html = '';
+  for (const a of allAssets) {
+    if (bAssetIds.has(a.id)) {
+      const previewPath = `previews/${a.category}/${a.subcategory}/${a.display_name.replace(/ /g,'_')}.webp`;
+      html += `<img src="${previewPath}" alt="${a.display_name}" loading="lazy"
+        onclick="addToBoard('${b.key}','${a.display_name.replace(/'/g,"\\'")}','${previewPath}')"
+        title="${a.display_name} (${a.category})" onerror="this.style.display='none'">`;
+    }
+  }
+
+  document.getElementById('modalAssets').innerHTML = html || '<p style="color:#8899aa;">No previews available</p>';
+  document.getElementById('modal').classList.add('open');
+}
+
+function closeModal() {
+  document.getElementById('modal').classList.remove('open');
+}
+
+// ── Composition Board ──
+function addToBoard(brawlerKey, displayName, previewPath) {
+  if (board.length >= 8) return;
+  if (board.some(item => item.path === previewPath)) return;
+  board.push({ id: brawlerKey, name: displayName, path: previewPath });
+  updateBoard();
+}
+
+function removeFromBoard(index) {
+  board.splice(index, 1);
+  updateBoard();
+}
+
+function clearBoard() {
+  board = [];
+  updateBoard();
+  document.getElementById('promptOutput').style.display = 'none';
+}
+
+function toggleBoard() {
+  document.getElementById('board').classList.toggle('open');
+}
+
+function updateBoard() {
+  document.getElementById('boardCount').textContent = board.length;
+  renderGrid();
+
+  const items = document.getElementById('boardItems');
+  items.innerHTML = board.map((item, i) => `
+    <div class="board-item">
+      <img src="${item.path}" alt="${item.name}" onerror="this.remove()">
+      <div style="font-size:10px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${item.name}</div>
+      <button class="remove" onclick="removeFromBoard(${i})">✕</button>
+    </div>
+  `).join('');
+
+  // Show stats
+  const stats = document.getElementById('boardStats');
+  stats.innerHTML = board.map(item => {
+    return `<div><b>${item.name}</b> → ${item.path}</div>`;
+  }).join('');
+}
+
+function generatePrompt() {
+  if (board.length === 0) return;
+
+  let lines = [];
+  lines.push('┌─ COMPOSITION REQUEST ─────────────────────────────┐');
+  lines.push('│ Select assets and describe your composition       │');
+  lines.push('├─ Selected Assets ─────────────────────────────────┤');
+  board.forEach((item, i) => {
+    lines.push(`│ ${i+1}. ${item.name.padEnd(45)}│`);
+    lines.push(`│    ${item.path.padEnd(45)}│`);
+  });
+  lines.push('├─ Instructions ────────────────────────────────────┤');
+  lines.push('│ Create a Brawl Stars thumbnail composition using  │');
+  lines.push('│ the assets above. Follow knowledge/ rules for:    │');
+  lines.push('│  • Typography (Brawl Stars Heavy, stroke 2px)     │');
+  lines.push('│  • Lighting & depth                               │');
+  lines.push('│  • Color palette extraction                       │');
+  lines.push('│  • Anti-generic-AI rules (no glow, no sparkles)   │');
+  lines.push('└───────────────────────────────────────────────────┘');
+
+  const output = document.getElementById('promptOutput');
+  output.textContent = lines.join('\n');
+  output.style.display = 'block';
+}
+
+// ── Init ──
+loadData();
+
+// Close modal on overlay click
+document.getElementById('modal').addEventListener('click', function(e) {
+  if (e.target === this) closeModal();
+});
+</script>
+</body>
+</html>
