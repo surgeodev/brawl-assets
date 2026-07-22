@@ -66,6 +66,9 @@
   .modal .asset-grid .asset-item img { width: 100%; height: 100%; object-fit: contain; }
   .modal .asset-grid .asset-item .cat-label { position: absolute; bottom: 2px; left: 2px; font-size: 8px; background: #0008; padding: 1px 4px; border-radius: 2px; color: #aaa; }
   .modal .cat-header { grid-column: 1 / -1; font-size: 12px; color: var(--muted); padding: 8px 0 4px; border-bottom: 1px solid var(--border); margin-top: 4px; }
+  .copy-btn { position: absolute; top: 2px; right: 2px; background: var(--accent); color: #fff; border: none; border-radius: 3px; padding: 2px 6px; font-size: 9px; cursor: pointer; opacity: 0; transition: opacity 0.15s; }
+  .asset-item:hover .copy-btn { opacity: 1; }
+  .copied-msg { position: fixed; bottom: 100px; left: 50%; transform: translateX(-50%); background: var(--accent); color: #fff; padding: 8px 16px; border-radius: 6px; font-size: 13px; z-index: 300; opacity: 0; transition: opacity 0.3s; pointer-events: none; }
 
   /* Board */
   .board { position: fixed; bottom: 0; left: 0; right: 0; background: rgba(13,27,42,0.95); backdrop-filter: blur(8px); border-top: 2px solid var(--accent); transform: translateY(calc(100% - 40px)); transition: transform 0.3s; z-index: 100; }
@@ -161,6 +164,8 @@
     <div class="asset-grid" id="modalAssets"></div>
   </div>
 </div>
+
+<div class="copied-msg" id="copiedMsg">✓ Copied</div>
 
 <!-- Board -->
 <div class="board" id="board">
@@ -292,6 +297,7 @@ function openBrawler(key) {
   document.getElementById('modalMeta').innerHTML = `
     <span style="color:${b.color}">■</span> ${b.rarity} · ${b['class']} · <strong>${b.total_assets}</strong> assets
     ${b.skins && b.skins.length ? '· Skins: ' + b.skins.slice(0,6).join(', ') + (b.skins.length>6?'…':'') : ''}
+    <button class="btn-secondary" onclick="event.stopPropagation();copyBrawlerContext(brawlers.find(x=>x.key==='${b.key}'))" style="margin-left:8px;padding:2px 8px;font-size:11px;">📋 Copy context</button>
   `;
 
   // Collect this brawler's asset IDs
@@ -317,10 +323,12 @@ function openBrawler(key) {
     for (const a of items.slice(0, 24)) {
       const stem = (a.display_name || a.id).replace(/ /g,'_');
       const pv = `previews/${a.category}/${a.subcategory}/${stem}.webp`;
+      const dn = (a.display_name||'').replace(/'/g,"");
       html += `<div class="asset-item" title="${a.display_name}">
         <img src="${pv}" alt="${a.display_name}" loading="lazy"
-             onclick="event.stopPropagation();addToBoard('${b.key}','${(a.display_name||'').replace(/'/g,"")}','${pv}')"
+             onclick="event.stopPropagation();addToBoard('${b.key}','${dn}','${pv}')"
              onerror="this.parentElement.style.display='none'">
+        <button class="copy-btn" onclick="event.stopPropagation();copyUrl('${pv}')">📋 URL</button>
         <div class="cat-label">${a.subcategory}</div>
       </div>`;
     }
@@ -432,6 +440,37 @@ async function addYtExample() {
   } catch(e) {
     status.textContent = '❌ ' + e.message;
   }
+}
+
+// ── Quick Copy ──
+function copyUrl(path) {
+  const url = window.location.origin + '/' + path;
+  navigator.clipboard.writeText(url).then(() => {
+    showCopied('📋 URL copied!');
+  }).catch(() => {
+    // Fallback
+    const ta = document.createElement('textarea');
+    ta.value = url; document.body.appendChild(ta);
+    ta.select(); document.execCommand('copy'); ta.remove();
+    showCopied('📋 URL copied!');
+  });
+}
+
+function copyBrawlerContext(b) {
+  const dir = getPreviewDir(b);
+  const firstUrl = window.location.origin + '/' + getThumbUrl(b.name, dir)[0];
+  let ctx = `Brawler: ${b.name}\nRarity: ${b.rarity} | Class: ${b['class']}\nAssets: ${b.total_assets}`;
+  if (b.skins && b.skins.length) ctx += `\nSkins: ${b.skins.slice(0,5).join(', ')}`;
+  ctx += `\nPreview: ${firstUrl}\nProfile: ${window.location.origin}/data/brawler_profiles/${b.key}.md`;
+  navigator.clipboard.writeText(ctx).then(() => showCopied('📋 Brawler context copied!'));
+}
+
+let copiedTimer = null;
+function showCopied(msg) {
+  const el = document.getElementById('copiedMsg');
+  el.textContent = msg; el.style.opacity = '1';
+  clearTimeout(copiedTimer);
+  copiedTimer = setTimeout(() => { el.style.opacity = '0'; }, 2000);
 }
 
 load();
