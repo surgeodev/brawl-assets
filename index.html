@@ -5,70 +5,91 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Brawl Assets Hub</title>
 <style>
+  :root { --bg: #0f0f1a; --card: #1a1a2e; --accent: #e94560; --text: #e0e0e0; --muted: #667788; --border: #2a2a3e; }
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #1a1a2e; color: #eee; min-height: 100vh; }
-  header { background: linear-gradient(135deg, #16213e, #0f3460); padding: 20px 30px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; border-bottom: 2px solid #e94560; }
-  header h1 { font-size: 22px; color: #fff; }
-  header h1 span { color: #e94560; }
-  header .subtitle { font-size: 13px; color: #8899aa; }
-  .controls { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
-  .controls input, .controls select { padding: 8px 14px; border: 1px solid #334; border-radius: 6px; background: #16213e; color: #eee; font-size: 14px; }
-  .controls input:focus { outline: 2px solid #e94560; }
-  .stats { display: flex; gap: 20px; font-size: 13px; color: #8899aa; padding: 10px 30px; background: #16213e55; }
-  .stats strong { color: #fff; }
-  .container { padding: 20px 30px; }
-  .brawler-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 14px; }
-  .brawler-card { background: #16213e; border-radius: 10px; overflow: hidden; cursor: pointer; transition: transform 0.15s, box-shadow 0.15s; border: 2px solid transparent; }
-  .brawler-card:hover { transform: translateY(-3px); box-shadow: 0 6px 20px #0004; }
-  .brawler-card.selected { border-color: #e94560; }
-  .brawler-card .thumb { width: 100%; aspect-ratio: 1; object-fit: contain; background: #0d1b2a; display: block; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+  /* Header */
+  header { background: linear-gradient(135deg, #16213e 0%, #0f3460 100%); padding: 18px 24px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; border-bottom: 2px solid var(--accent); position: sticky; top: 0; z-index: 50; }
+  header h1 { font-size: 20px; letter-spacing: -0.5px; }
+  header h1 span { color: var(--accent); }
+  .subtitle { font-size: 12px; color: var(--muted); margin-top: 2px; }
+  .controls { display: flex; gap: 8px; flex-wrap: wrap; }
+  .controls input, .controls select { padding: 7px 12px; border: 1px solid var(--border); border-radius: 6px; background: #0d1b2a; color: var(--text); font-size: 13px; }
+  .controls input:focus { outline: 2px solid var(--accent); }
+  .controls input::placeholder { color: #445; }
+
+  /* Stats bar */
+  .stats { display: flex; gap: 24px; font-size: 12px; color: var(--muted); padding: 8px 24px; background: #111122; border-bottom: 1px solid var(--border); flex-wrap: wrap; }
+  .stats strong { color: var(--text); }
+
+  /* Grid */
+  .container { padding: 20px 24px; max-width: 1400px; margin: 0 auto; }
+  .brawler-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
+
+  .brawler-card { position: relative; background: var(--card); border-radius: 10px; overflow: hidden; cursor: pointer; transition: transform 0.2s, box-shadow 0.2s; border: 2px solid transparent; }
+  .brawler-card:hover { transform: translateY(-4px); box-shadow: 0 8px 24px rgba(233,69,96,0.15); }
+  .brawler-card.selected { border-color: var(--accent); }
+  .brawler-card .thumb-wrap { width: 100%; aspect-ratio: 1; background: #0d1b2a; display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden; }
+  .brawler-card .thumb-wrap img { width: 85%; height: 85%; object-fit: contain; transition: transform 0.3s; }
+  .brawler-card:hover .thumb-wrap img { transform: scale(1.05); }
   .brawler-card .info { padding: 8px 10px; }
   .brawler-card .info .name { font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .brawler-card .info .meta { font-size: 11px; color: #8899aa; display: flex; justify-content: space-between; margin-top: 2px; }
-  .rarity-common { border-top: 3px solid #b0b0b0; }
-  .rarity-rare { border-top: 3px solid #59b9ff; }
-  .rarity-super-rare { border-top: 3px solid #00e5ff; }
-  .rarity-epic { border-top: 3px solid #d850ff; }
-  .rarity-mythic { border-top: 3px solid #fe5e72; }
-  .rarity-legendary { border-top: 3px solid #ffd700; }
-  .rarity-ultra-legendary { border-top: 3px solid #ff4444; }
+  .brawler-card .info .meta { font-size: 11px; color: var(--muted); display: flex; justify-content: space-between; margin-top: 2px; }
+  .brawler-card .rarity-bar { position: absolute; top: 0; left: 0; right: 0; height: 3px; }
 
-  /* Composition Board */
-  .board { position: fixed; bottom: 0; left: 0; right: 0; background: #0d1b2ae8; backdrop-filter: blur(8px); border-top: 2px solid #e94560; padding: 12px 20px; transform: translateY(calc(100% - 44px)); transition: transform 0.3s; z-index: 100; }
-  .board.open { transform: translateY(0); }
-  .board-toggle { position: absolute; top: -32px; left: 50%; transform: translateX(-50%); background: #e94560; color: #fff; border: none; padding: 6px 20px; border-radius: 8px 8px 0 0; cursor: pointer; font-size: 13px; }
-  .board-content { display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; }
-  .board-items { display: flex; gap: 8px; flex-wrap: wrap; flex: 1; }
-  .board-item { width: 64px; text-align: center; position: relative; }
-  .board-item img { width: 64px; height: 64px; object-fit: contain; background: #0003; border-radius: 4px; }
-  .board-item .remove { position: absolute; top: -6px; right: -6px; background: #e94560; color: #fff; border: none; border-radius: 50%; width: 18px; height: 18px; font-size: 11px; cursor: pointer; line-height: 18px; text-align: center; }
-  .board-actions { display: flex; flex-direction: column; gap: 6px; }
-  .board-actions button { padding: 8px 16px; border: none; border-radius: 6px; cursor: pointer; font-size: 12px; white-space: nowrap; }
-  .btn-primary { background: #e94560; color: #fff; }
-  .btn-secondary { background: #334; color: #eee; }
-  .board-stats { font-size: 11px; color: #8899aa; max-height: 120px; overflow-y: auto; flex: 1; min-width: 200px; }
+  /* Rarity colors */
+  .rarity-Common .rarity-bar { background: #b0b0b0; }
+  .rarity-Rare .rarity-bar { background: #59b9ff; }
+  .rarity-Super-Rare .rarity-bar { background: #00e5ff; }
+  .rarity-Epic .rarity-bar { background: #d850ff; }
+  .rarity-Mythic .rarity-bar { background: #fe5e72; }
+  .rarity-Legendary .rarity-bar { background: #ffd700; }
+  .rarity-Ultra-Legendary .rarity-bar { background: #ff4444; }
+
+  /* Empty state */
+  .empty { text-align: center; padding: 60px 20px; color: var(--muted); }
+  .empty .big { font-size: 40px; margin-bottom: 10px; }
 
   /* Modal */
-  .modal-overlay { display: none; position: fixed; inset: 0; background: #0008; z-index: 200; align-items: center; justify-content: center; }
+  .modal-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.7); z-index: 200; align-items: center; justify-content: center; backdrop-filter: blur(4px); }
   .modal-overlay.open { display: flex; }
-  .modal { background: #16213e; border-radius: 12px; max-width: 800px; width: 90%; max-height: 85vh; overflow-y: auto; padding: 24px; }
-  .modal h2 { margin-bottom: 16px; }
-  .modal .asset-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 8px; }
-  .modal .asset-grid img { width: 100%; aspect-ratio: 1; object-fit: contain; background: #0d1b2a; border-radius: 4px; cursor: pointer; border: 2px solid transparent; }
-  .modal .asset-grid img:hover { border-color: #e94560; }
-  .modal .asset-grid img:active { transform: scale(0.95); }
-  .modal .close { float: right; background: none; border: none; color: #8899aa; font-size: 20px; cursor: pointer; }
+  .modal { background: var(--card); border-radius: 12px; max-width: 900px; width: 95%; max-height: 88vh; overflow-y: auto; padding: 24px; position: relative; }
+  .modal .close { position: absolute; top: 12px; right: 16px; background: none; border: none; color: var(--muted); font-size: 22px; cursor: pointer; z-index: 1; }
+  .modal .close:hover { color: var(--text); }
+  .modal h2 { font-size: 22px; margin-bottom: 4px; }
+  .modal-meta { font-size: 13px; color: var(--muted); margin-bottom: 16px; line-height: 1.6; }
+  .modal-meta .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin: 2px; background: #0d1b2a; }
+  .modal .asset-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(90px, 1fr)); gap: 6px; }
+  .modal .asset-grid .asset-item { position: relative; aspect-ratio: 1; background: #0d1b2a; border-radius: 6px; overflow: hidden; cursor: pointer; border: 2px solid transparent; transition: border-color 0.15s; }
+  .modal .asset-grid .asset-item:hover { border-color: var(--accent); }
+  .modal .asset-grid .asset-item img { width: 100%; height: 100%; object-fit: contain; }
+  .modal .asset-grid .asset-item .cat-label { position: absolute; bottom: 2px; left: 2px; font-size: 8px; background: #0008; padding: 1px 4px; border-radius: 2px; color: #aaa; }
+  .modal .cat-header { grid-column: 1 / -1; font-size: 12px; color: var(--muted); padding: 8px 0 4px; border-bottom: 1px solid var(--border); margin-top: 4px; }
 
-  /* Prompt output */
-  .prompt-output { background: #0d1b2a; border-radius: 6px; padding: 14px; font-family: monospace; font-size: 12px; white-space: pre-wrap; max-height: 200px; overflow-y: auto; margin-top: 8px; color: #aabbcc; }
+  /* Board */
+  .board { position: fixed; bottom: 0; left: 0; right: 0; background: rgba(13,27,42,0.95); backdrop-filter: blur(8px); border-top: 2px solid var(--accent); transform: translateY(calc(100% - 40px)); transition: transform 0.3s; z-index: 100; }
+  .board.open { transform: translateY(0); }
+  .board-toggle { position: absolute; top: -34px; left: 50%; transform: translateX(-50%); background: var(--accent); color: #fff; border: none; padding: 6px 20px; border-radius: 8px 8px 0 0; cursor: pointer; font-size: 12px; white-space: nowrap; }
+  .board-inner { padding: 10px 20px 12px; display: flex; gap: 16px; align-items: flex-start; flex-wrap: wrap; }
+  .board-items { display: flex; gap: 6px; flex-wrap: wrap; flex: 1; min-height: 60px; }
+  .board-item { width: 56px; text-align: center; position: relative; }
+  .board-item img { width: 56px; height: 56px; object-fit: contain; background: #0003; border-radius: 4px; }
+  .board-item .name { font-size: 9px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--muted); }
+  .board-item .remove { position: absolute; top: -5px; right: -5px; background: var(--accent); color: #fff; border: none; border-radius: 50%; width: 16px; height: 16px; font-size: 9px; cursor: pointer; line-height: 16px; text-align: center; }
+  .board-actions { display: flex; gap: 4px; flex-wrap: wrap; }
+  .board-actions button { padding: 6px 12px; border: none; border-radius: 5px; cursor: pointer; font-size: 11px; }
+  .btn-primary { background: var(--accent); color: #fff; }
+  .btn-secondary { background: var(--border); color: var(--text); }
 
-  /* Loading */
-  .loading { text-align: center; padding: 40px; color: #8899aa; }
+  .prompt-box { font-family: monospace; font-size: 11px; white-space: pre-wrap; background: #0d1b2a; border-radius: 6px; padding: 12px; max-height: 150px; overflow-y: auto; margin-top: 8px; color: #9ab; display: none; line-height: 1.5; }
 
+  /* Responsive */
   @media (max-width: 600px) {
-    .brawler-grid { grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); gap: 10px; }
-    .controls input, .controls select { width: 100%; }
-    .board-content { flex-direction: column; }
+    .brawler-grid { grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 8px; }
+    header { flex-direction: column; align-items: stretch; }
+    .controls input { width: 100%; }
+    .modal .asset-grid { grid-template-columns: repeat(auto-fill, minmax(70px, 1fr)); }
   }
 </style>
 </head>
@@ -76,227 +97,266 @@
 
 <header>
   <div>
-    <h1>Brawl <span>Assets</span> Hub</h1>
+    <h1><span>Brawl</span> Assets Hub</h1>
     <div class="subtitle">107 brawlers · 5000+ assets · AI vision pack</div>
   </div>
   <div class="controls">
-    <input type="text" id="search" placeholder="Search brawler..." oninput="renderGrid()">
-    <select id="rarityFilter" onchange="renderGrid()">
+    <input type="text" id="search" placeholder="Search brawler..." oninput="render()">
+    <select id="rarityFilter" onchange="render()">
       <option value="">All rarities</option>
-      <option value="Common">Common</option>
-      <option value="Rare">Rare</option>
-      <option value="Super Rare">Super Rare</option>
-      <option value="Epic">Epic</option>
-      <option value="Mythic">Mythic</option>
-      <option value="Legendary">Legendary</option>
-      <option value="Ultra Legendary">Ultra Legendary</option>
+      <option>Common</option>
+      <option>Rare</option>
+      <option>Super Rare</option>
+      <option>Epic</option>
+      <option>Mythic</option>
+      <option>Legendary</option>
+      <option>Ultra Legendary</option>
+    </select>
+    <select id="classFilter" onchange="render()">
+      <option value="">All classes</option>
     </select>
   </div>
 </header>
 
 <div class="stats">
-  <span>Brawlers: <strong id="brawlerCount">0</strong></span>
+  <span>Brawlers: <strong id="totalCount">0</strong></span>
   <span>Filtered: <strong id="filteredCount">0</strong></span>
-  <span>Last update: <strong id="lastUpdate">—</strong></span>
+  <span>Assets: <strong id="assetCount">0</strong></span>
+  <span>Previews: <strong id="previewCount">0</strong></span>
 </div>
 
 <div class="container">
   <div class="brawler-grid" id="grid"></div>
 </div>
 
-<!-- Brawler Detail Modal -->
+<!-- Modal -->
 <div class="modal-overlay" id="modal">
   <div class="modal">
     <button class="close" onclick="closeModal()">✕</button>
     <h2 id="modalTitle">—</h2>
-    <div id="modalMeta" style="margin-bottom:12px;font-size:13px;color:#8899aa;"></div>
+    <div class="modal-meta" id="modalMeta"></div>
     <div class="asset-grid" id="modalAssets"></div>
   </div>
 </div>
 
-<!-- Composition Board -->
+<!-- Board -->
 <div class="board" id="board">
   <button class="board-toggle" onclick="toggleBoard()">📋 Composition Board (<span id="boardCount">0</span>)</button>
-  <div class="board-content">
-    <div class="board-items" id="boardItems"></div>
-    <div class="board-stats" id="boardStats"></div>
+  <div class="board-inner">
+    <div class="board-items" id="boardItems">
+      <div style="color:var(--muted);font-size:11px;padding:8px;">Click assets in brawler detail to add here</div>
+    </div>
     <div class="board-actions">
-      <button class="btn-primary" onclick="generatePrompt()">🎯 Generate Prompt</button>
+      <button class="btn-primary" onclick="genPrompt()">🎯 Prompt</button>
       <button class="btn-secondary" onclick="clearBoard()">Clear</button>
     </div>
   </div>
-  <div class="prompt-output" id="promptOutput" style="display:none;"></div>
+  <div class="prompt-box" id="promptOut"></div>
 </div>
 
 <script>
-// ── State ──
-let brawlers = [];
-let allAssets = [];
-let board = [];
-let brawlerMap = {};
+let brawlers = [], allAssets = [], board = [];
 
-// ── Load data ──
-async function loadData() {
+async function load() {
   try {
-    const [bRes, aRes] = await Promise.all([
+    const [bRes, aRes, pRes] = await Promise.all([
       fetch('data/brawlers.json'),
-      fetch('data/search_index.json')
+      fetch('data/search_index.json'),
+      fetch('data/preview_manifest.json')
     ]);
     const bData = await bRes.json();
-    const aData = await aRes.json();
+    allAssets = await aRes.json();
+    const manifest = await pRes.json();
 
-    brawlers = Object.entries(bData).map(([key, val]) => ({ key, ...val }));
-    allAssets = aData;
-    for (const b of brawlers) {
-      brawlerMap[b.name.toLowerCase()] = b;
-    }
+    brawlers = Object.entries(bData).map(([k,v]) => ({ key: k, ...v }));
+    const totalPreviews = manifest.filter(m => m.filesize > 0).length;
 
-    document.getElementById('lastUpdate').textContent = new Date().toISOString().split('T')[0];
-    renderGrid();
-  } catch (e) {
-    document.getElementById('grid').innerHTML = `<div class="loading">Failed to load data. ${e.message}</div>`;
+    document.getElementById('totalCount').textContent = brawlers.length;
+    document.getElementById('assetCount').textContent = allAssets.length;
+    document.getElementById('previewCount').textContent = totalPreviews;
+
+    // Populate class filter
+    const classes = [...new Set(brawlers.map(b => b['class']))].sort();
+    const sel = document.getElementById('classFilter');
+    classes.forEach(c => { sel.innerHTML += `<option>${c}</option>`; });
+
+    render();
+  } catch(e) {
+    document.getElementById('grid').innerHTML = `<div class="empty"><div class="big">⚠️</div>Failed to load data.<br>${e.message}</div>`;
   }
 }
 
-// ── Render ──
-function renderGrid() {
-  const query = document.getElementById('search').value.toLowerCase();
-  const rarity = document.getElementById('rarityFilter').value;
+function getPreviewDir(b) {
+  let dir = b.preview_dir || b.key;
+  return `previews/Brawlers/${dir}`;
+}
+
+function getFirstPreview(b) {
+  const dir = getPreviewDir(b);
+  // Try common patterns
+  const patterns = [
+    `${dir}/${b.name.replace(/[^a-zA-Z0-9]/g,'_')}_bordered.webp`,
+    `${dir}/${b.name.replace(/[^a-zA-Z0-9]/g,'_')}_Default_001.webp`,
+    `${dir}/${b.name.split(' ')[0]}_Default_001.webp`,
+  ];
+  return patterns[0]; // Return first, onerror will try next
+}
+
+function fallbackImg(img, idx = 0) {
+  const dir = img.dataset.dir;
+  const name = img.dataset.bname;
+  const patterns = [
+    `${dir}/${name.replace(/[^a-zA-Z0-9]/g,'_')}_bordered.webp`,
+    `${dir}/${name.replace(/[^a-zA-Z0-9]/g,'_')}_Default_001.webp`,
+    `${dir}/${name.split(' ')[0]}_Default_001.webp`,
+    `${dir}/${name.split(' ')[0]}_True_Gold_${name.split(' ')[0]}_001.webp`,
+  ];
+  if (idx < patterns.length - 1) {
+    img.src = patterns[idx + 1];
+    img.onerror = () => fallbackImg(img, idx + 1);
+  } else {
+    img.src = ''; img.alt = '?';
+    img.style.display = 'none';
+    img.parentElement.innerHTML = '<div style="color:#445;font-size:24px;">?</div>';
+  }
+}
+
+function render() {
+  const q = document.getElementById('search').value.toLowerCase();
+  const r = document.getElementById('rarityFilter').value;
+  const c = document.getElementById('classFilter').value;
 
   let filtered = brawlers.filter(b => {
-    if (rarity && b.rarity !== rarity) return false;
-    if (query && !b.name.toLowerCase().includes(query) && !b.key.toLowerCase().includes(query)) return false;
+    if (r && b.rarity !== r) return false;
+    if (c && b['class'] !== c) return false;
+    if (q && !b.name.toLowerCase().includes(q) && !b.key.toLowerCase().includes(q)) return false;
     return true;
   });
 
-  document.getElementById('brawlerCount').textContent = brawlers.length;
   document.getElementById('filteredCount').textContent = filtered.length;
 
   const grid = document.getElementById('grid');
+  if (filtered.length === 0) {
+    grid.innerHTML = '<div class="empty"><div class="big">🔍</div>No brawlers match your filters</div>';
+    return;
+  }
+
   grid.innerHTML = filtered.map(b => {
-    const previewUrl = `previews/Brawlers/${b.key}`;
-    const firstPreview = `${previewUrl}/${b.name.replace(/[^a-zA-Z0-9]/g,'_')}_Default_001.webp`;
-    const isSelected = board.some(item => item.id === b.key);
-    return `<div class="brawler-card rarity-${b.rarity.toLowerCase().replace(' ','-')} ${isSelected?'selected':''}" onclick="openBrawler('${b.key}')">
-      <img class="thumb" src="${firstPreview}" alt="${b.name}" loading="lazy" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect fill=%22%230d1b2a%22 width=%22100%22 height=%22100%22/><text x=%2250%22 y=%2255%22 text-anchor=%22middle%22 fill=%22%238899aa%22 font-size=%2210%22>${b.name[0]}</text></svg>'">
+    const dir = getPreviewDir(b);
+    const selected = board.some(item => item.brawlerKey === b.key);
+    return `<div class="brawler-card rarity-${b.rarity.replace(/ /g,'-')} ${selected?'selected':''}" onclick="openBrawler('${b.key}')">
+      <div class="rarity-bar"></div>
+      <div class="thumb-wrap">
+        <img src="${dir}/${b.name.replace(/[^a-zA-Z0-9]/g,'_')}_bordered.webp"
+             data-dir="${dir}" data-bname="${b.name}"
+             onerror="fallbackImg(this,0)" alt="${b.name}" loading="lazy">
+      </div>
       <div class="info">
         <div class="name">${b.name}</div>
-        <div class="meta"><span>${b.class}</span><span>${b.total_assets}</span></div>
+        <div class="meta"><span>${b['class']}</span><span>${b.total_assets}</span></div>
       </div>
     </div>`;
   }).join('');
 }
 
-// ── Modal ──
 function openBrawler(key) {
   const b = brawlers.find(x => x.key === key);
   if (!b) return;
 
   document.getElementById('modalTitle').textContent = b.name;
   document.getElementById('modalMeta').innerHTML = `
-    <span style="color:${b.color}">■</span> ${b.rarity} · ${b.class} · <strong>${b.total_assets}</strong> assets
-    ${b.skins && b.skins.length ? `· Skins: ${b.skins.slice(0,5).join(', ')}${b.skins.length>5?'...':''}` : ''}
+    <span style="color:${b.color}">■</span> ${b.rarity} · ${b['class']} · <strong>${b.total_assets}</strong> assets
+    ${b.skins && b.skins.length ? '· Skins: ' + b.skins.slice(0,6).join(', ') + (b.skins.length>6?'…':'') : ''}
   `;
 
-  // Get this brawler's assets
-  const bAssetIds = new Set();
-  for (const [cat, ids] of Object.entries(b.asset_types || {})) {
-    for (const id of ids) bAssetIds.add(id);
+  // Collect this brawler's asset IDs
+  const ids = new Set();
+  for (const cat of Object.values(b.asset_types || {})) cat.forEach(id => ids.add(id));
+
+  const catOrder = ['Brawlers','Portraits','Pins','Emojis','Sprays','Backgrounds','LoadingScreens','Animations','UI','Icons','Misc','Logos'];
+  const grouped = {};
+  for (const a of allAssets) {
+    if (!ids.has(a.id)) continue;
+    const cat = a.category || 'Other';
+    if (!grouped[cat]) grouped[cat] = [];
+    grouped[cat].push(a);
   }
 
   let html = '';
-  for (const a of allAssets) {
-    if (bAssetIds.has(a.id)) {
-      const previewPath = `previews/${a.category}/${a.subcategory}/${a.display_name.replace(/ /g,'_')}.webp`;
-      html += `<img src="${previewPath}" alt="${a.display_name}" loading="lazy"
-        onclick="addToBoard('${b.key}','${a.display_name.replace(/'/g,"\\'")}','${previewPath}')"
-        title="${a.display_name} (${a.category})" onerror="this.style.display='none'">`;
+  for (const cat of catOrder) {
+    const items = grouped[cat];
+    if (!items || items.length === 0) continue;
+    html += `<div class="cat-header">${cat} (${items.length})</div>`;
+    items.sort((a,b) => (a.display_name||'').localeCompare(b.display_name||''));
+
+    for (const a of items.slice(0, 24)) {
+      const stem = (a.display_name || a.id).replace(/ /g,'_');
+      const pv = `previews/${a.category}/${a.subcategory}/${stem}.webp`;
+      html += `<div class="asset-item" title="${a.display_name}">
+        <img src="${pv}" alt="${a.display_name}" loading="lazy"
+             onclick="event.stopPropagation();addToBoard('${b.key}','${(a.display_name||'').replace(/'/g,"")}','${pv}')"
+             onerror="this.parentElement.style.display='none'">
+        <div class="cat-label">${a.subcategory}</div>
+      </div>`;
     }
+    if (items.length > 24) html += `<div style="grid-column:1/-1;font-size:11px;color:var(--muted);padding:4px 0;">+${items.length-24} more</div>`;
   }
 
-  document.getElementById('modalAssets').innerHTML = html || '<p style="color:#8899aa;">No previews available</p>';
+  document.getElementById('modalAssets').innerHTML = html || '<p style="color:var(--muted);padding:20px 0;">No previews available</p>';
   document.getElementById('modal').classList.add('open');
 }
 
-function closeModal() {
-  document.getElementById('modal').classList.remove('open');
-}
+function closeModal() { document.getElementById('modal').classList.remove('open'); }
+document.getElementById('modal').addEventListener('click', function(e) { if (e.target===this) closeModal(); });
 
-// ── Composition Board ──
-function addToBoard(brawlerKey, displayName, previewPath) {
+function addToBoard(brawlerKey, name, path) {
   if (board.length >= 8) return;
-  if (board.some(item => item.path === previewPath)) return;
-  board.push({ id: brawlerKey, name: displayName, path: previewPath });
+  if (board.some(i => i.path === path)) return;
+  board.push({ brawlerKey, name, path });
   updateBoard();
 }
 
-function removeFromBoard(index) {
-  board.splice(index, 1);
-  updateBoard();
-}
-
-function clearBoard() {
-  board = [];
-  updateBoard();
-  document.getElementById('promptOutput').style.display = 'none';
-}
-
-function toggleBoard() {
-  document.getElementById('board').classList.toggle('open');
-}
+function removeBoard(i) { board.splice(i,1); updateBoard(); }
+function clearBoard() { board=[]; updateBoard(); document.getElementById('promptOut').style.display='none'; }
+function toggleBoard() { document.getElementById('board').classList.toggle('open'); }
 
 function updateBoard() {
   document.getElementById('boardCount').textContent = board.length;
-  renderGrid();
-
-  const items = document.getElementById('boardItems');
-  items.innerHTML = board.map((item, i) => `
+  render();
+  const el = document.getElementById('boardItems');
+  if (board.length === 0) { el.innerHTML = '<div style="color:var(--muted);font-size:11px;padding:8px;">Click assets in brawler detail to add here</div>'; return; }
+  el.innerHTML = board.map((item,i) => `
     <div class="board-item">
       <img src="${item.path}" alt="${item.name}" onerror="this.remove()">
-      <div style="font-size:10px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${item.name}</div>
-      <button class="remove" onclick="removeFromBoard(${i})">✕</button>
+      <div class="name">${item.name}</div>
+      <button class="remove" onclick="removeBoard(${i})">✕</button>
     </div>
   `).join('');
-
-  // Show stats
-  const stats = document.getElementById('boardStats');
-  stats.innerHTML = board.map(item => {
-    return `<div><b>${item.name}</b> → ${item.path}</div>`;
-  }).join('');
 }
 
-function generatePrompt() {
+function genPrompt() {
   if (board.length === 0) return;
-
-  let lines = [];
-  lines.push('┌─ COMPOSITION REQUEST ─────────────────────────────┐');
-  lines.push('│ Select assets and describe your composition       │');
-  lines.push('├─ Selected Assets ─────────────────────────────────┤');
-  board.forEach((item, i) => {
-    lines.push(`│ ${i+1}. ${item.name.padEnd(45)}│`);
-    lines.push(`│    ${item.path.padEnd(45)}│`);
+  const lines = [];
+  lines.push('┌─ COMPOSITION ─────────────────────────────────────────┐');
+  board.forEach((item,i) => {
+    lines.push(`│ ${i+1}. ${item.name.padEnd(46)}│`);
+    lines.push(`│    ${item.path.padEnd(46)}│`);
   });
-  lines.push('├─ Instructions ────────────────────────────────────┤');
-  lines.push('│ Create a Brawl Stars thumbnail composition using  │');
-  lines.push('│ the assets above. Follow knowledge/ rules for:    │');
-  lines.push('│  • Typography (Brawl Stars Heavy, stroke 2px)     │');
-  lines.push('│  • Lighting & depth                               │');
-  lines.push('│  • Color palette extraction                       │');
-  lines.push('│  • Anti-generic-AI rules (no glow, no sparkles)   │');
-  lines.push('└───────────────────────────────────────────────────┘');
-
-  const output = document.getElementById('promptOutput');
-  output.textContent = lines.join('\n');
-  output.style.display = 'block';
+  lines.push('├─ KNOWLEDGE RULES ────────────────────────────────────┤');
+  lines.push('│ • Selector: choose best assets for each layer        │');
+  lines.push('│ • Composer: subject 60%, bg 30%, accent 10%         │');
+  lines.push('│ • Palette engine: extract + harmonize 3 colors max   │');
+  lines.push('│ • Typography: Brawl Stars Heavy, stroke 2px black    │');
+  lines.push('│ • Anti-AI: no glow, no sparkles, no generic effects  │');
+  lines.push('│ • QC check before final render                       │');
+  lines.push('└──────────────────────────────────────────────────────┘');
+  const out = document.getElementById('promptOut');
+  out.textContent = lines.join('\n');
+  out.style.display = 'block';
+  document.getElementById('board').classList.add('open');
 }
 
-// ── Init ──
-loadData();
-
-// Close modal on overlay click
-document.getElementById('modal').addEventListener('click', function(e) {
-  if (e.target === this) closeModal();
-});
+load();
 </script>
 </body>
 </html>
