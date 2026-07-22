@@ -131,6 +131,7 @@
     <select id="classFilter" onchange="render()">
       <option value="">All classes</option>
     </select>
+    <button class="btn-primary" onclick="triggerScrape()" id="scrapeBtn" style="padding:7px 14px;font-size:12px;cursor:pointer;">🔄 Scrape Fankit</button>
   </div>
 </header>
 
@@ -440,6 +441,28 @@ async function addYtExample() {
   } catch(e) {
     status.textContent = '❌ ' + e.message;
   }
+}
+
+// ── Trigger GitHub Scrape ──
+async function triggerScrape() {
+  const btn = document.getElementById('scrapeBtn');
+  btn.textContent = '⏳ Triggering...';
+  btn.disabled = true;
+  try {
+    const r = await fetch('/api/trigger-scrape', { method: 'POST' });
+    const data = await r.json();
+    if (data.ok) {
+      btn.textContent = '✅ Scraping on GitHub!';
+      showCopied('✅ Scrape triggered! Check GitHub Actions in ~10min');
+    } else {
+      btn.textContent = '❌ Failed';
+      showCopied('❌ ' + (data.error || 'Failed'));
+    }
+  } catch(e) {
+    btn.textContent = '❌ Error';
+    showCopied('❌ ' + e.message);
+  }
+  setTimeout(() => { btn.textContent = '🔄 Scrape Fankit'; btn.disabled = false; }, 5000);
 }
 
 // ── Quick Copy ──

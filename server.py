@@ -38,6 +38,21 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                     self.send_json(500, {'error': result.stderr or result.stdout})
             except Exception as e:
                 self.send_json(500, {'error': str(e)})
+
+        elif self.path == '/api/trigger-scrape':
+            try:
+                repo = "surgeodev/brawl-assets"
+                r = subprocess.run(
+                    ["gh", "workflow", "run", "update.yml", "--repo", repo],
+                    capture_output=True, text=True, timeout=30
+                )
+                if r.returncode == 0:
+                    self.send_json(200, {"ok": True, "message": "Scrape workflow triggered on GitHub"})
+                else:
+                    self.send_json(500, {"error": r.stderr or r.stdout})
+            except Exception as e:
+                self.send_json(500, {"error": str(e)})
+
         else:
             self.send_json(404, {'error': 'not found'})
 
@@ -51,5 +66,5 @@ if __name__ == '__main__':
     import sys
     httpd = http.server.HTTPServer(('0.0.0.0', PORT), Handler)
     print(f"🌐 Brawl Assets Hub → http://localhost:{PORT}")
-    print(f"   (API endpoint: POST /api/add-example with {\"url\": \"...\"})")
+    print('   (API endpoint: POST /api/add-example with {"url": "..."})')
     httpd.serve_forever()
