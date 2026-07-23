@@ -31,39 +31,14 @@ jobs:
       - name: Install system deps
         run: |
           sudo apt-get update -qq
-          sudo apt-get install -y -qq libglib2.0-0 libnss3 libnspr4 \
-            libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 \
-            libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 \
-            libpango-1.0-0 libcairo2 curl
+          sudo apt-get install -y -qq curl
 
       - name: Install Python deps
         run: pip install Pillow
 
-      - name: Download Fankit assets from mirror (fallback)
-        run: |
-          rm -rf _raw_assets 2>/dev/null; rm -f _raw_assets 2>/dev/null
-          mkdir -p _raw_assets
-          echo "Downloading Fankit assets from mirror..."
-          curl -sL "https://github.com/LaptopCat/bs-fankit-rehosted/archive/refs/heads/main.tar.gz" \
-            -o /tmp/fankit.tar.gz
-          tar xzf /tmp/fankit.tar.gz -C /tmp
-          for d in game-assets assets; do
-            if [ -d "/tmp/bs-fankit-rehosted-main/$d" ]; then
-              cp -r "/tmp/bs-fankit-rehosted-main/$d/"* _raw_assets/ 2>/dev/null || true
-            fi
-          done
-          echo "Assets after mirror download: $(find _raw_assets -type f | wc -l)"
-          rm -f /tmp/fankit.tar.gz
-          rm -rf /tmp/bs-fankit-rehosted-main
-        continue-on-error: true
-
-      - name: Try Playwright scrape (best effort)
-        run: |
-          pip install playwright
-          playwright install chromium
-          python scripts/scrape_fankit.py || echo "Scrape failed (non-fatal)"
-        continue-on-error: true
-        timeout-minutes: 30
+      - name: Download Fankit assets via API
+        run: python scripts/scrape_fankit.py
+        timeout-minutes: 60
 
       - name: Rebuild indexes + download CDN portraits
         run: python scripts/rebuild_indexes.py

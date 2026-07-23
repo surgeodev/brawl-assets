@@ -1,164 +1,122 @@
 #!/usr/bin/env python3
-"""Playwright-based scraper for Supercell Fankit brawl stars game assets."""
-import asyncio, json, os, re, sys
+"""Download all Fankit assets using the direct Frontify API (no Playwright)."""
+import json, os, sys, time
 from pathlib import Path
 from urllib.parse import urlparse, unquote
-
-try:
-    from playwright.async_api import async_playwright, TimeoutError as PwTimeout
-except ImportError:
-    print("ERROR: pip install playwright && playwright install chromium")
-    sys.exit(1)
+import subprocess
 
 BASE = Path(__file__).parent.parent.resolve()
 RAW_DIR = BASE / "_raw_assets"
-ASSETS_JSON = BASE / "data" / "assets.json"
 MANIFEST = BASE / "data" / "fankit_manifest.json"
-DEBUG_DIR = BASE / "_debug"
 
-FANKIT_URL = "https://fankit.supercell.com/d/YvtsWV4pUQVm/game-assets"
-DOWNLOAD_WORKERS = 8
-TIMEOUT = 120_000
+FANKIT_DOMAIN = "https://fankit.supercell.com"
+BRAND_DOMAIN = "https://brand.supercell.com"
+DOCUMENTS = {
+    "game-assets": "324",
+    "logo": "325",
+    "audio": "373",
+}
 
-def safe_name(path):
-    return re.sub(r'[<>:"/\\|?*]', '_', path)
+HEADERS = [
+    "Origin: https://fankit.supercell.com",
+    "Referer: https://fankit.supercell.com/d/YvtsWV4pUQVm/game-assets",
+    "Accept: application/json",
+]
 
-async def scrape():
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-        page = await browser.new_page()
-        page.on("console", lambda msg: print(f"[browser] {msg.text}", flush=True))
-        page.on("pageerror", lambda err: print(f"[browser error] {err}", flush=True))
+def curl(url, headers=None, method="GET", output=None, timeout=30):
+    cmd = ["curl", "-s", "-m", str(timeout)]
+    if output:
+        cmd += ["-o", str(output)]
+    if method == "HEAD":
+        cmd += ["-I"]
+    cmd.append(url)
+    if headers:
+        for h in headers:
+            cmd += ["-H", h]
+    r = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
+    return r
 
+def main():
+    print("=" * 60)
+    print("Fankit API Scraper")
+    print("=" * 60)
+
+    for folder_name, doc_id in DOCUMENTS.items():
+        print(f"\n[{folder_name}] Searching document {doc_id}...")
+
+        # Step 1: Get asset count first
+        r = curl(f"{FANKIT_DOMAIN}/api/assets/search/{doc_id}?limit=1", HEADERS)
         try:
-            await page.goto(FANKIT_URL, wait_until="domcontentloaded", timeout=TIMEOUT)
-        except PwTimeout:
-            print("WARNING: initial page load timeout, continuing anyway", flush=True)
+            data = json.loads(r.stdout)
+            total = data.get("total", 0)
+        except:
+            print(f"  ERROR: Could not parse search response: {r.stdout[:200]}")
+            continue
 
-        await asyncio.sleep(5)
+        print(f"  Total assets: {total}")
 
-        DEBUG_DIR.mkdir(parents=True, exist_ok=True)
-        await page.screenshot(path=str(DEBUG_DIR / "page.png"))
-        html = await page.content()
-        (DEBUG_DIR / "page.html").write_text(html)
+        if total == 0:
+            continue
 
-        selectors = [
-            '[data-testid="asset-grid-item"]',
-            '[data-testid="asset-grid-item"] a',
-            "a[href*='/asset/']",
-            "[class*='asset-grid'] a",
-            "[class*='AssetGrid'] a",
-            ".asset-grid-item a",
-            "a[download]",
-        ]
+        # Step 2: Get all assets
+        r = curl(f"{FANKIT_DOMAIN}/api/assets/search/{doc_id}?limit={total}", HEADERS, timeout=120)
+        try:
+            data = json.loads(r.stdout)
+            tokens = [item["token"] for item in data.get("data", []) if "token" in item]
+        except:
+            print(f"  ERROR: Could not parse search response: {r.stdout[:200]}")
+            continue
 
-        found = None
-        for sel in selectors:
+        print(f"  Retrieved {len(tokens)} asset tokens")
+
+        # Step 3: Get viewer data for each and download
+        folder = RAW_DIR / folder_name
+        folder.mkdir(parents=True, exist_ok=True)
+
+        downloaded = 0
+        cached = 0
+        failed = 0
+        t0 = time.time()
+
+        for i, token in enumerate(tokens):
+            # Get viewer data
+            r = curl(f"{FANKIT_DOMAIN}/api/viewer/data/{token}?document_id={doc_id}", HEADERS)
             try:
-                el = await page.wait_for_selector(sel, timeout=5000)
-                if el:
-                    print(f"Found selector: {sel}", flush=True)
-                    found = sel
-                    break
-            except PwTimeout:
+                vd = json.loads(r.stdout)
+                if not vd.get("success"):
+                    failed += 1
+                    continue
+                asset = vd["asset"]
+                filename = asset.get("filename", f"asset_{asset['id']}.png")
+                width = asset.get("width", 0)
+                height = asset.get("height", 0)
+                filesize = asset.get("filesize", 0)
+            except:
+                failed += 1
                 continue
 
-        if not found:
-            links = await page.evaluate("""() => {
-                const all = document.querySelectorAll('a');
-                return Array.from(all).filter(a => {
-                    const h = a.href || '';
-                    return h.includes('/asset/') || h.match(/\\.(png|jpg|jpeg|webp|svg|gif)/i);
-                }).map(a => ({ href: a.href, text: a.textContent.trim().slice(0,80) }));
-            }""")
-            print(f"No known selector matched. Found {len(links)} candidate links:", flush=True)
-            for l in links[:10]:
-                print(f"  {l['text']}: {l['href']}", flush=True)
-            if links:
-                found = "manual"
+            local = folder / filename
+            if local.exists() and local.stat().st_size > 1000:
+                cached += 1
+            else:
+                # Download
+                r = curl(f"{BRAND_DOMAIN}/api/screen/download/{token}", output=local, timeout=60)
+                if r.returncode == 0 and local.exists() and local.stat().st_size > 1000:
+                    downloaded += 1
+                else:
+                    failed += 1
+                    continue
 
-        if found == "manual":
-            link_data = links
-        else:
-            link_data = await page.evaluate(f"""() => {{
-                const items = document.querySelectorAll('{found}');
-                return Array.from(items).map(el => {{
-                    const link = el.tagName === 'A' ? el : el.querySelector('a');
-                    const nameEl = el.querySelector('[data-testid="asset-name"], [class*="asset-name"], [class*="AssetName"]');
-                    return {{
-                        url: link ? link.href : '',
-                        name: nameEl ? nameEl.textContent.trim() : (link ? link.textContent.trim() : ''),
-                    }};
-                }});
-            }}""")
+            if (i + 1) % 500 == 0:
+                elapsed = time.time() - t0
+                print(f"  [{i+1}/{len(tokens)}] dl={downloaded} cached={cached} fail={failed} ({elapsed:.0f}s)")
 
-        if not link_data:
-            print("No assets found at all. Dumping page structure...", flush=True)
-            structure = await page.evaluate("""() => {
-                const walk = (el, depth) => {
-                    if (depth > 3) return '';
-                    let s = el.tagName;
-                    if (el.className) s += '.' + (typeof el.className === 'string' ? el.className.replace(/ /g,'.') : '');
-                    if (el.id) s += '#' + el.id;
-                    return s + ' > ' + Array.from(el.children).map(c => walk(c, depth+1)).join(' | ');
-                };
-                return walk(document.body, 0);
-            }""")
-            print(structure[:2000], flush=True)
-            (DEBUG_DIR / "structure.txt").write_text(structure)
-            await browser.close()
-            return []
+        elapsed = time.time() - t0
+        print(f"  DONE [{folder_name}]: {downloaded} new, {cached} cached, {failed} failed ({elapsed:.0f}s)")
 
-        assets = [a for a in link_data if a.get("url")]
-        print(f"Found {len(assets)} assets on Fankit page", flush=True)
-
-        if not assets:
-            await browser.close()
-            return []
-
-        RAW_DIR.mkdir(parents=True, exist_ok=True)
-        downloaded = []
-        sem = asyncio.Semaphore(DOWNLOAD_WORKERS)
-
-        async def download_one(asset):
-            async with sem:
-                name = asset.get("name", "")
-                url = asset.get("url", "")
-                if not url:
-                    return None
-                parsed = urlparse(url)
-                path = unquote(parsed.path)
-                ext = os.path.splitext(path)[1] or ".png"
-                fname = f"{safe_name(name)}{ext}" if name else os.path.basename(path)
-                if not fname:
-                    return None
-                local = RAW_DIR / fname
-                if local.exists():
-                    return {"name": name, "filename": fname, "url": url, "status": "cached"}
-                try:
-                    resp = await page.context.request.get(url)
-                    if resp.status == 200:
-                        data = await resp.body()
-                        if len(data) > 1000:
-                            local.write_bytes(data)
-                            return {"name": name, "filename": fname, "url": url, "status": "ok"}
-                except Exception as e:
-                    return {"name": name, "filename": fname, "url": url, "status": f"error: {e}"}
-                return None
-
-        tasks = [download_one(a) for a in assets]
-        results = await asyncio.gather(*tasks)
-        ok = sum(1 for r in results if r and r["status"] == "ok")
-        cached = sum(1 for r in results if r and r["status"] == "cached")
-        failed = sum(1 for r in results if r and r["status"] != "ok" and r["status"] != "cached")
-        print(f"Downloaded: {ok} new, {cached} cached, {failed} failed", flush=True)
-
-        manifest = [r for r in results if r]
-        with open(MANIFEST, "w") as f:
-            json.dump(manifest, f, indent=2)
-
-        await browser.close()
-        return manifest
+    print("\n" + "=" * 60)
+    print("Scrape complete!")
+    print("=" * 60)
 
 if __name__ == "__main__":
-    asyncio.run(scrape())
+    main()
