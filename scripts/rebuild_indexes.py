@@ -78,6 +78,25 @@ def classify_asset(path):
 
     return cat, sub, dn
 
+def compute_preview_dir(name, key):
+    """Map a brawler name/key to its preview directory name.
+    
+    The preview dirs on disk use various patterns — try to match by name,
+    then by key, then fall back to a cleaned version of the name.
+    """
+    previews_root = BASE / "previews" / "Brawlers"
+    if previews_root.exists():
+        candidates = {d.name.lower().replace(" ", "").replace("-", "").replace(".", "").replace("&", "and").replace("'", ""): d.name for d in previews_root.iterdir() if d.is_dir()}
+        name_clean = name.lower().replace(" ", "").replace("-", "").replace(".", "").replace("&", "and").replace("'", "")
+        key_clean = key.lower().replace("_", "")
+        # Try matching by cleaned name first, then by cleaned key
+        for clean, actual in candidates.items():
+            if clean == name_clean or clean == key_clean:
+                return actual
+    # Fallback: clean up the name (remove spaces/special chars for PascalCase dirs)
+    s = name.replace(" ", "").replace("-", "").replace(".", "").replace("&", "and").replace("'", "")
+    return s
+
 def main():
     print("=" * 60)
     print("Rebuild Indexes")
@@ -227,11 +246,14 @@ def main():
                     asset_types[cat] = []
                 asset_types[cat].append(a["id"])
 
+        pd = compute_preview_dir(name, key)
+
         new_brawlers[key] = {
             "name": name,
             "rarity": b["rarity"]["name"],
             "class": b["class"]["name"],
             "color": b["rarity"].get("color", "#888888"),
+            "preview_dir": pd,
             "total_assets": len(asset_ids),
             "skins": sorted(skin_names) if skin_names else [],
             "asset_types": {k: v for k, v in sorted(asset_types.items())},

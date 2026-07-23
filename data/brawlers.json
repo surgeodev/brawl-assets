@@ -4,6 +4,7 @@
     "rarity": "Mythic",
     "class": "Unknown",
     "color": "#fe5e72",
+    "preview_dir": "wendy",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -21,6 +22,7 @@
     "rarity": "Legendary",
     "class": "Unknown",
     "color": "#fff11ev",
+    "preview_dir": "nori",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -38,6 +40,7 @@
     "rarity": "Epic",
     "class": "Unknown",
     "color": "#d850ff",
+    "preview_dir": "bolt",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -55,6 +58,7 @@
     "rarity": "Mythic",
     "class": "Unknown",
     "color": "#fe5e72",
+    "preview_dir": "starr_nova",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -72,6 +76,7 @@
     "rarity": "Mythic",
     "class": "Unknown",
     "color": "#fe5e72",
+    "preview_dir": "damian",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -89,6 +94,7 @@
     "rarity": "Mythic",
     "class": "Unknown",
     "color": "#fe5e72",
+    "preview_dir": "najia",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -106,6 +112,7 @@
     "rarity": "Ultra Legendary",
     "class": "Unknown",
     "color": "#e1fb2a",
+    "preview_dir": "sirius",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -123,6 +130,7 @@
     "rarity": "Mythic",
     "class": "Unknown",
     "color": "#fe5e72",
+    "preview_dir": "glowy",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -140,6 +148,7 @@
     "rarity": "Mythic",
     "class": "Unknown",
     "color": "#fe5e72",
+    "preview_dir": "gigi",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -157,6 +166,7 @@
     "rarity": "Legendary",
     "class": "Unknown",
     "color": "#fff11ev",
+    "preview_dir": "pierce",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -174,6 +184,7 @@
     "rarity": "Mythic",
     "class": "Unknown",
     "color": "#fe5e72",
+    "preview_dir": "ziggy",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -191,6 +202,7 @@
     "rarity": "Mythic",
     "class": "Unknown",
     "color": "#fe5e72",
+    "preview_dir": "mina",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -208,6 +220,7 @@
     "rarity": "Epic",
     "class": "Unknown",
     "color": "#d850ff",
+    "preview_dir": "trunk",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -225,11 +238,16 @@
     "rarity": "Mythic",
     "class": "Unknown",
     "color": "#fe5e72",
-    "total_assets": 1,
+    "preview_dir": "alli",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "abcab354db41ff6e"
+        "a41b836e46b3cfd0",
+        "3af7f97eb6972303"
+      ],
+      "Emojis": [
+        "5db88ddb4cb52812"
       ]
     }
   },
@@ -238,6 +256,7 @@
     "rarity": "Ultra Legendary",
     "class": "Unknown",
     "color": "#e1fb2a",
+    "preview_dir": "kaze",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -255,6 +274,7 @@
     "rarity": "Mythic",
     "class": "Unknown",
     "color": "#fe5e72",
+    "preview_dir": "jae_yong",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -272,6 +292,7 @@
     "rarity": "Mythic",
     "class": "Unknown",
     "color": "#fe5e72",
+    "preview_dir": "finx",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -289,7 +310,8 @@
     "rarity": "Mythic",
     "class": "Damage Dealer",
     "color": "#fe5e72",
-    "total_assets": 6,
+    "preview_dir": "lumi",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -298,15 +320,6 @@
       ],
       "Emojis": [
         "d49c487e835de881"
-      ],
-      "Pins": [
-        "977da6a517783ee4"
-      ],
-      "Sprays": [
-        "be6b7786893da18d"
-      ],
-      "UI": [
-        "31e457a31828ba00"
       ]
     }
   },
@@ -315,6 +328,7 @@
     "rarity": "Mythic",
     "class": "Unknown",
     "color": "#fe5e72",
+    "preview_dir": "ollie",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -332,6 +346,7 @@
     "rarity": "Epic",
     "class": "Unknown",
     "color": "#d850ff",
+    "preview_dir": "meeple",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -349,6 +364,7 @@
     "rarity": "Legendary",
     "class": "Unknown",
     "color": "#fff11ev",
+    "preview_dir": "buzz_lightyear",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -366,6 +382,7 @@
     "rarity": "Mythic",
     "class": "Artillery",
     "color": "#fe5e72",
+    "preview_dir": "juju",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -383,6 +400,7 @@
     "rarity": "Epic",
     "class": "Assassin",
     "color": "#d850ff",
+    "preview_dir": "shade",
     "total_assets": 3,
     "skins": [],
     "asset_types": {
@@ -400,40 +418,16 @@
     "rarity": "Legendary",
     "class": "Assassin",
     "color": "#fff11ev",
-    "total_assets": 20,
+    "preview_dir": "Kenji",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "379450d708edf04f",
-        "9dbd52f3d219bf66",
-        "c18f4cb73273db6c",
-        "6975c0b8bb79213b"
+        "eb5d9ca23b72d215",
+        "df3a2d313beea145"
       ],
-      "LoadingScreens": [
-        "90427ec7ff8a8318"
-      ],
-      "Pins": [
-        "8ae21dec67255cee",
-        "f42bfc7d911789b5",
-        "2fe18746a7541df3",
-        "d055407a2a92b199",
-        "779182a0c87b23de",
-        "506afadba086b7ee",
-        "02f458e1792f99a0",
-        "b22f8a3a56a75d4c",
-        "c90ddb1b9aadcda0",
-        "393e503f1207fbc5",
-        "b8a7307cb41fdcc9",
-        "ccc928b2b3a7c033"
-      ],
-      "Portraits": [
-        "10e3bb287bb3a995"
-      ],
-      "Sprays": [
-        "053131aef8bf6e71"
-      ],
-      "UI": [
-        "751aea814d3b4f4e"
+      "Emojis": [
+        "b01e1ced081efd99"
       ]
     }
   },
@@ -442,57 +436,17 @@
     "rarity": "Mythic",
     "class": "Damage Dealer",
     "color": "#fe5e72",
-    "total_assets": 39,
+    "preview_dir": "Moe",
+    "total_assets": 4,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "0a27bc68b890cd6a",
-        "9c6cb928ba5b1060",
-        "11abf9c0e196b889",
-        "78c560bbc261f814",
-        "8fb76979b6b3b273",
-        "1b14ebeb576134c8",
-        "b672b62111962970",
-        "c65d340546b16f11",
-        "96d3335ef270e9c0",
-        "c8d3e4ed739c8ff0",
-        "747199416bd1d57d",
-        "2f8b22696b58210b",
-        "704679df8632ecba",
-        "05093cfd3692573d",
-        "bfa4ef0391b14d6b",
-        "dfbc0b35893dccee",
-        "fea361e9946c8ad6",
-        "e9552d56de2c3835"
+        "9335d56e87508ad0",
+        "17b4bcf25ba756c8"
       ],
-      "LoadingScreens": [
-        "076adcfb962f327d"
-      ],
-      "Pins": [
-        "0be733215766e381",
-        "19b4f2ecf748ad2d",
-        "003a3f2115c3b111",
-        "b9f9ef36543fab6f",
-        "a9bad97c0e3e73f6",
-        "f1035c9c64247647",
-        "6f87641ce0f18910",
-        "837002e0478d6141",
-        "df11cbb99423197f",
-        "7dc03894b33406f3",
-        "852dd93fd445d309",
-        "5837ef5808627e78",
-        "b81e946d0b8ce071",
-        "63f0827693889f16",
-        "c859a2473fe77753"
-      ],
-      "Sprays": [
-        "34831c9c7ede1980"
-      ],
-      "UI": [
-        "f881791748284845",
-        "d8357309ad6953b7",
-        "41da0a68d4576f12",
-        "8312b2b40b29a686"
+      "Emojis": [
+        "023e33d907eb889e",
+        "28e6662242604ca1"
       ]
     }
   },
@@ -501,42 +455,16 @@
     "rarity": "Mythic",
     "class": "Damage Dealer",
     "color": "#fe5e72",
-    "total_assets": 22,
+    "preview_dir": "Clancy",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "4f1e41ae4a654e1d",
-        "bc99f3aea10a9777",
-        "a780cea3571e94d7",
-        "e534cd3e263a5205",
-        "2a8b8d4fc2b06a75",
-        "e9e7ac452a9c04f9",
-        "75c33d815e39b4fd"
+        "0ed1f4ba3c3f5f51",
+        "28ab467b7efeeac5"
       ],
-      "LoadingScreens": [
-        "eb4fb066d115c771"
-      ],
-      "Pins": [
-        "735067e72d11475b",
-        "e6917569b1e3bff8",
-        "2bbd41a2ed056cf2",
-        "370f35458446d81d",
-        "b33b08ad7d28644b",
-        "449fd825f07fd9d5",
-        "b7625b80f7a9b4de",
-        "a66e63d3d79c5798",
-        "681c81007c2d501b",
-        "922ad8b7ed444c25",
-        "871fa68e3b8333fd"
-      ],
-      "Portraits": [
-        "6ab86a4bbb983588"
-      ],
-      "Sprays": [
-        "d8cd70ca3f6e1ab6"
-      ],
-      "UI": [
-        "67cf89dbfba77630"
+      "Emojis": [
+        "8b80d75d03a5e65f"
       ]
     }
   },
@@ -545,43 +473,16 @@
     "rarity": "Epic",
     "class": "Support",
     "color": "#d850ff",
-    "total_assets": 23,
+    "preview_dir": "Berry",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "3569287063e91dc1",
-        "165ee23d1f95248c",
-        "dea32b54d338493c",
-        "194ee5acd822ee6a",
-        "04cedd656dd54cd2",
-        "ed137230d56d5a79",
-        "6a9fc65ff0f2dc67"
+        "ae370402bd4dff99",
+        "bcfa0fffb27a165f"
       ],
-      "LoadingScreens": [
-        "1d313a1113e93b5b"
-      ],
-      "Pins": [
-        "105a05a69147169f",
-        "9fc295bdae44e5f3",
-        "332eeed2287b26ca",
-        "6947df079e46c010",
-        "80894b17d49d67f6",
-        "14407d955884af40",
-        "4cafc8cd21e687fa",
-        "7326b0510d27c04d",
-        "cc3e09305cf4525c",
-        "2b44750650a9de3a",
-        "6d3b59fe93276ec0",
-        "aad1b122b3f619ea"
-      ],
-      "Portraits": [
-        "49aad24abe0d7984"
-      ],
-      "Sprays": [
-        "a9c0e22937957867"
-      ],
-      "UI": [
-        "708ac79d25795a4f"
+      "Emojis": [
+        "c6c4ae5626e63db5"
       ]
     }
   },
@@ -590,36 +491,16 @@
     "rarity": "Mythic",
     "class": "Assassin",
     "color": "#fe5e72",
-    "total_assets": 18,
+    "preview_dir": "Lily",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "79e1318d2658991c",
-        "e4f8d89a3641201d",
-        "df1a4b4ca924f568",
-        "acf4a3063ace13b9"
+        "f7ad1bec5d485bf2",
+        "cc2d59f9979acb21"
       ],
-      "LoadingScreens": [
-        "f5ae4a6ec474d994"
-      ],
-      "Pins": [
-        "8ac13055778d6053",
-        "d8eeaaaa1878bbdf",
-        "0a04b2df71db4128",
-        "2981c37ec4776789",
-        "564c7e209d2a6a67",
-        "ecb7dff0264226fd",
-        "f22bb93643d91860",
-        "295b929b385b685f",
-        "b9f1837550c0b38f",
-        "fededdd82ade966f"
-      ],
-      "Portraits": [
-        "314d3987bd6d6907"
-      ],
-      "UI": [
-        "265250ed5deefd39",
-        "28c26688be33c853"
+      "Emojis": [
+        "dfd4847f898fb704"
       ]
     }
   },
@@ -628,56 +509,16 @@
     "rarity": "Legendary",
     "class": "Tank",
     "color": "#fff11ev",
-    "total_assets": 34,
+    "preview_dir": "Draco",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
-      "Backgrounds": [
-        "6430e3e8a5dcd0f6"
-      ],
       "Brawlers": [
-        "8ab28ae0e9c31363",
-        "f62d1cfa285be510",
-        "55b3d44c065956b8",
-        "6c594c4c70661b1b",
-        "3e9456cd8173b0ee",
-        "1d0bd8411f588b70"
+        "bdf3adc530d626ae",
+        "ebba48fbda099821"
       ],
-      "LoadingScreens": [
-        "e0fbfdaac94c7d5b"
-      ],
-      "Pins": [
-        "44481085ec3ac9df",
-        "8989d03c1f199dc7",
-        "cf467409ff3f0734",
-        "e68ea648e19c8b40",
-        "3459b3325ab0396d",
-        "91f5a23372014f65",
-        "6a3f0803dc16adc1",
-        "61d6a98c7b468a9a",
-        "09c0b78bb8d0da06",
-        "2de860c1a78b6f1c",
-        "11a8cd032a408851",
-        "d1702ecf8c4af1b9",
-        "22764ac6dfa80a9c",
-        "8dc8e907b567cb35",
-        "26128e2d8c381860",
-        "2f2f39bc08487a04",
-        "c67ce6c6818e5363",
-        "89fc341acafbd63d",
-        "b3e155bec8c00993",
-        "8b0e1820180f6320"
-      ],
-      "Portraits": [
-        "4b13254b98774270"
-      ],
-      "Sprays": [
-        "f606bcc6b6ec1587",
-        "1763d78b282ff403"
-      ],
-      "UI": [
-        "99edc0ee4457c9cf",
-        "b2d42f904512c0b0",
-        "26ae3f5023dc3e58"
+      "Emojis": [
+        "33dc32262e1a01b5"
       ]
     }
   },
@@ -686,42 +527,16 @@
     "rarity": "Epic",
     "class": "Marksman",
     "color": "#d850ff",
-    "total_assets": 24,
+    "preview_dir": "Angelo",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "e44facef3fb0e791",
-        "4c8e54e997c8cefb",
-        "e6497b6c08af95ef",
-        "33a9b40c1a91e29e",
-        "19c50082e259711b",
-        "ccc2b9155f0ebb3c",
-        "b237ced88c32164a"
+        "ba9c935debe58e0d",
+        "9fdc4c152c684f22"
       ],
-      "Pins": [
-        "d76707fdab4dafce",
-        "2a585a54723d489d",
-        "75d6571b820e8874",
-        "9c2f75ab18fdbb12",
-        "54f2d45cfff48196",
-        "2fa0205ab7047ca0",
-        "93f4a8f29095c745",
-        "d8b3dfbfaf46c6d7",
-        "fc7954ab8455d8bf",
-        "ecbccf50cc2927ef",
-        "68cde35ae240692f",
-        "c89f41d50e8705ef"
-      ],
-      "Portraits": [
-        "c156cb92017fd21e"
-      ],
-      "Sprays": [
-        "00a6963c2561830f",
-        "27c2d2578fb93ec9"
-      ],
-      "UI": [
-        "20f76b19898a023c",
-        "79b7fea12716f373"
+      "Emojis": [
+        "ed3da467a5eabecb"
       ]
     }
   },
@@ -730,37 +545,16 @@
     "rarity": "Mythic",
     "class": "Assassin",
     "color": "#fe5e72",
-    "total_assets": 17,
+    "preview_dir": "Melodie",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "ae6efc47e3f27ca3",
-        "3f5d25d0dcc3beeb"
+        "630cd286cce3c34f",
+        "8c8380fcfea99d75"
       ],
-      "LoadingScreens": [
-        "5cf1b8766e41fd30"
-      ],
-      "Pins": [
-        "c9bc5a79ed5b7365",
-        "26cabadef4fe2dae",
-        "fd4de61f0cf880a0",
-        "c7f3d5d8f6782596",
-        "d6d3a950b4b0190b",
-        "a19f65d04c3892c7",
-        "05f540994edffbbb",
-        "b459640e7c2fcb46",
-        "f9c04025e7a3ae3b",
-        "803e80b811591c16"
-      ],
-      "Portraits": [
-        "c3ff26db7d3ac91c"
-      ],
-      "Sprays": [
-        "de9fd9ce2c1fbe96"
-      ],
-      "UI": [
-        "3c67fad4428c0de9",
-        "8e047685f0c3cb7b"
+      "Emojis": [
+        "bcd933a356c9428c"
       ]
     }
   },
@@ -769,30 +563,16 @@
     "rarity": "Epic",
     "class": "Artillery",
     "color": "#d850ff",
-    "total_assets": 16,
+    "preview_dir": "larry_and_lawrie",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "cb335c0daa90aebd"
+        "e8ed19822ecf5d5d",
+        "800b0f72fdb2ceb7"
       ],
-      "Pins": [
-        "31062a976b6d52b5",
-        "1df1673f91343878",
-        "224b8cccf68880d0",
-        "c9fec51ca869cc4b",
-        "21e5641e38e5fcc4",
-        "53b7ef4d2d6d7d35",
-        "6d13746fb444d3e3",
-        "dad0fde5f929d754",
-        "4437cdde9bfecb9d",
-        "d694a0bce10efcaa",
-        "be138b6d2c97a533",
-        "63a77790841a936c",
-        "20f6284ea8f34800"
-      ],
-      "UI": [
-        "208ed931d69ca671",
-        "ec1f04653d77cafb"
+      "Emojis": [
+        "76265227d3173fb7"
       ]
     }
   },
@@ -801,50 +581,16 @@
     "rarity": "Legendary",
     "class": "Support",
     "color": "#fff11ev",
-    "total_assets": 30,
+    "preview_dir": "Kit",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "86f22da1102ad85d",
-        "9b9af7ae0ae6f7e5",
-        "64a26a9b9a103ba7",
-        "4e4402bc1bfd880e",
-        "4035839804f4bc77",
-        "bc1b47f8ffb7d942",
-        "e6c9b81427c7dc95",
-        "a41de3602223eda1",
-        "df0364535679ad82"
+        "085e11911bc77725",
+        "b06812b2f9a0d0af"
       ],
       "Emojis": [
-        "58e5e207745a391a",
-        "ef8c68995620691b",
-        "57bbe23f1461c05d",
-        "890f3bcb6a20d87b"
-      ],
-      "Pins": [
-        "4c18b73c5ed63988",
-        "6b2d960f00863391",
-        "215c571f6b281b9e",
-        "938847e950f5fc26",
-        "789b07e0907dad6c",
-        "8caf6ceb0c455064",
-        "f84af3537f480577",
-        "fb7c74e531013282",
-        "d8d33ae97350717f",
-        "f75a52ad1f938d7d",
-        "e483052fe28fb077",
-        "abfed9695a924af7"
-      ],
-      "Portraits": [
-        "94b093bbff50e294"
-      ],
-      "Sprays": [
-        "9c478f8424d5a24f"
-      ],
-      "UI": [
-        "dc7b897e9e30a76b",
-        "a2903f98d92e1360",
-        "4a690e7a3212735b"
+        "21d138178ab1c58b"
       ]
     }
   },
@@ -853,59 +599,16 @@
     "rarity": "Mythic",
     "class": "Assassin",
     "color": "#fe5e72",
-    "total_assets": 39,
+    "preview_dir": "Mico",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "77e96ca0a928a4ed",
-        "aead2c396eaab4ed",
-        "64aa766933bc6355",
-        "db494cb8c99aeca7",
-        "a4f7474cf6ea69a4",
-        "a6c899c74b04b323",
-        "6fa338f13a23a70f",
-        "554734243bd8c84c",
-        "620544416fa09ff6"
+        "662b7b9eb14cdeb5",
+        "dbfef63a9ae763f8"
       ],
       "Emojis": [
-        "3f3d5c1bc6a33f0a",
-        "9892894eff361e1e",
-        "ebc20b7460f05766",
-        "66f9be531e7bae08",
-        "42625766787c7f26"
-      ],
-      "Pins": [
-        "7c305cff93487708",
-        "19866720b23730fe",
-        "46d4e717ccfb6398",
-        "761f64329b72fea5",
-        "339846a7441602c8",
-        "3e04072954829388",
-        "5dd9cd776f3d2bb7",
-        "3b80886411aab8ed",
-        "b18fb52857aaf05d",
-        "fc5dbef802f8f258",
-        "30db6e8a057a486f",
-        "f202c23bbce84bfe",
-        "541d085fb7e4f6e6",
-        "3b6dd620c1320454",
-        "0ad4245d86eb2fed",
-        "405b5f3460cf0a8c",
-        "63b4532faa9bc6ce",
-        "87de29cdc4ea4b10",
-        "f93819045ab2ae4a"
-      ],
-      "Portraits": [
-        "676167da46e99405"
-      ],
-      "Sprays": [
-        "dba6af2e05da32e2",
-        "a3f1f75d638b5cd0",
-        "e98bcb9bf3a5a79e"
-      ],
-      "UI": [
-        "7b8969787a18052b",
-        "ffddfb5567604268"
+        "81ecec804b334169"
       ]
     }
   },
@@ -914,44 +617,16 @@
     "rarity": "Mythic",
     "class": "Controller",
     "color": "#fe5e72",
-    "total_assets": 26,
+    "preview_dir": "Charlie",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "f9b00377daa386f2",
-        "f69ae06b31002b55",
-        "82f3f1d66daa184c",
-        "a5ca011103dfde1c",
-        "f7f77cc0ed2c1287",
-        "3ea039f84bb17aa6",
-        "4a7d1095aee2ff72",
-        "3842b571becdf215"
+        "f524c4b307978c02",
+        "96ffeb2152779f85"
       ],
-      "Pins": [
-        "869d7721b50c1d85",
-        "bfad5a5094501f05",
-        "45d929d85732ed12",
-        "3e4be5161ca8c801",
-        "da4ce5fc1fd83f0c",
-        "9d60d9f89d22fb24",
-        "a1aaf9d50241a2a7",
-        "e57d8facdc439538",
-        "9bc1edfd5f4b34a1",
-        "248f3c1961f47077",
-        "cbfd9506d50e8568"
-      ],
-      "Portraits": [
-        "20db7914b7186618"
-      ],
-      "Sprays": [
-        "b64a7b1b50e50689",
-        "1964ed8f9a97017a"
-      ],
-      "UI": [
-        "722ea5e87dd0e58d",
-        "45052922474a992b",
-        "ccf8c867f05e0e5b",
-        "6a54bf0ed57a5dde"
+      "Emojis": [
+        "472862484d05f09b"
       ]
     }
   },
@@ -960,52 +635,16 @@
     "rarity": "Mythic",
     "class": "Damage Dealer",
     "color": "#fe5e72",
-    "total_assets": 34,
+    "preview_dir": "Chuck",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "3555dac9c1dd5d5a",
-        "3d3b03ef6c86d0f7",
-        "5502b9055417ea70",
-        "c8739c923083fae4",
-        "3da8f996cebed7b9",
-        "f1230f2c8309e794",
-        "461783a9b3c3b971",
-        "6c648448ddb075c0",
-        "b3b8d0a6299d807a",
-        "a12a01e366a42dd8"
+        "c8c61fa98db3d5d5",
+        "e1eb219a1cbeb84d"
       ],
-      "Pins": [
-        "bc1b071ae6b2ec1b",
-        "0a015f7f1dcf00b3",
-        "0ce6cf9d15bf8a3d",
-        "736d7b00e93b34cc",
-        "1b6b957b41f9f62e",
-        "ff3754d714a5928a",
-        "ee37cbd8f0b95ab9",
-        "fbd552e4b233d637",
-        "da6a019d96a037d2",
-        "d999be83bde49357",
-        "952007a19f417698",
-        "b997f77788c3e261",
-        "67b76fbe08c4623c",
-        "7c57c50d683ddf17",
-        "a50f94f683865f4f",
-        "c5b7233ea6a40be2",
-        "a76bc55d0bbecf05",
-        "ae15a4a35f6f7fcb",
-        "18bccd7f0230152b"
-      ],
-      "Portraits": [
-        "53e97d3d7b9e307d"
-      ],
-      "Sprays": [
-        "16dc13519ef8bf6d",
-        "53c9ca479fa20299"
-      ],
-      "UI": [
-        "7b5f78a86516e278",
-        "c8dd0dcc40820579"
+      "Emojis": [
+        "496dac24b59218b7"
       ]
     }
   },
@@ -1014,54 +653,16 @@
     "rarity": "Epic",
     "class": "Damage Dealer",
     "color": "#d850ff",
-    "total_assets": 36,
+    "preview_dir": "Pearl",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "da230826850d01af",
-        "c174bd14d1c0b468",
-        "5de0854808accf3e",
-        "fe994fe44dc92876",
-        "016dde2482036d3f",
-        "0b236798583c51d3",
-        "71d2f4fbcef57e12",
-        "a044b5b525a1d18b",
-        "63a2584b7b661572",
-        "7eadb01c472bc74e"
+        "5afa05ec284e2fb8",
+        "1d63ff46de20520f"
       ],
-      "Pins": [
-        "82ea6b894f551bd4",
-        "7d1484a26ba2dd08",
-        "c91e065220c165e0",
-        "dc0b97a714d50bf9",
-        "7f7f1f06ccc123ba",
-        "5d8288b14b38dd0f",
-        "7ca9f4a47ad43c71",
-        "4cda60a9ef98c8a5",
-        "a69fbf4e6a7dd268",
-        "277da709ead2cbe1",
-        "bd425b155a6c5cf0",
-        "3f296118fd17e920",
-        "820deb097126e33a",
-        "baec0572ee5ed7ee",
-        "d25c22d7979d230a",
-        "09f3d8322a849efc",
-        "6d91c69b189e7085",
-        "35172836d3b4ef45",
-        "75d4959a97c348f2",
-        "ecbf9dd8830ced17",
-        "bf330f9d87ed80fd"
-      ],
-      "Portraits": [
-        "f22a889f3b67203a"
-      ],
-      "Sprays": [
-        "b48115fb6cf2863a",
-        "dbe0564624e246cf"
-      ],
-      "UI": [
-        "9df704c4cef3b9af",
-        "88780e629ed5d74b"
+      "Emojis": [
+        "51c64e01370efa60"
       ]
     }
   },
@@ -1070,40 +671,16 @@
     "rarity": "Mythic",
     "class": "Support",
     "color": "#fe5e72",
-    "total_assets": 22,
+    "preview_dir": "Doug",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "e931835fd91b7d87",
-        "459325e3178fe186",
-        "97f4b921678a8270",
-        "f7948d058048a654",
-        "d4bfb4888c6f0f6d",
-        "1913c250cba4db4e",
-        "bf6ac9402d9fe0fb",
-        "1f677a21da61cf51"
+        "8b3dd8ba50c5e11a",
+        "9806605b2383bce8"
       ],
-      "Pins": [
-        "f48838013e7eb667",
-        "09244aab3157af16",
-        "5a290245460dc0c2",
-        "85174518bf8ef27a",
-        "bae2369815bbf222",
-        "66c309cc56eb7d46",
-        "c022377110e8eb99",
-        "994451f7a0dfa14c",
-        "802899c29befac18",
-        "7472c951f098a7f0"
-      ],
-      "Portraits": [
-        "b613aafddac2bc0a"
-      ],
-      "Sprays": [
-        "0a963651439e0385"
-      ],
-      "UI": [
-        "7d731e7c1401b2f7",
-        "1d24574119416528"
+      "Emojis": [
+        "5caea16a507dd770"
       ]
     }
   },
@@ -1112,57 +689,16 @@
     "rarity": "Legendary",
     "class": "Assassin",
     "color": "#fff11ev",
-    "total_assets": 39,
+    "preview_dir": "Cordelius",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "df803bd65484cca1",
-        "10858ed95b03a3f0",
-        "02c48b7d26077e24",
-        "292f3ecbd4137c4b",
-        "3cc6001d6dd7cee9",
-        "96e87f6915b5d6ff",
-        "560d7c9ee145a741",
-        "1634f5f9142de85d",
-        "d688173145ca081b",
-        "daee7759014a5220",
-        "7a6073611419ef90",
-        "647e2b65b10fa6a4"
+        "85a2b898719a17b6",
+        "5999ba978cf3d43b"
       ],
-      "Pins": [
-        "bb9cea92caaa9d3b",
-        "896aa57b15fe2326",
-        "7c12cbf366d5b595",
-        "b3b9c5eaebb23ec7",
-        "d1be6eeb396de399",
-        "0aedeaed2488ddee",
-        "bd47974cf50a6aa9",
-        "f6a3114db917edc0",
-        "7640bcfc2ccde552",
-        "fd0b512cfb6c8182",
-        "d51637ad7c370f51",
-        "ef29fa8f8a9f2ab2",
-        "61e6f7a25d57349a",
-        "114e959fac9c6270",
-        "2b6e0674022a7463",
-        "1a55ab4b4b2ce88e",
-        "e2c4185473b1e92e",
-        "c2b97ea067328210",
-        "ac68fe5040064229",
-        "318f86f6da244a80"
-      ],
-      "Portraits": [
-        "6117b828332df363"
-      ],
-      "Sprays": [
-        "ae0327a029d85a7a",
-        "619d4554495c3674",
-        "c13d2ea1a7810719"
-      ],
-      "UI": [
-        "edd49ee6d2159ced",
-        "c3d69b477afe952a",
-        "85388f78a8e4824a"
+      "Emojis": [
+        "4f6a0c1b03a546e3"
       ]
     }
   },
@@ -1171,167 +707,16 @@
     "rarity": "Epic",
     "class": "Tank",
     "color": "#d850ff",
-    "total_assets": 149,
+    "preview_dir": "Hank",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "bf9870f7e49ccae9",
-        "81339f736f24e501",
-        "2ef001df7613191d",
-        "fc1226691073dba0",
-        "a16dbc801b5a4862",
-        "dad856ae193d9839",
-        "c380892211bd27d7"
+        "0f82cc145329c6df",
+        "8095ff4a209dfc64"
       ],
-      "Pins": [
-        "92d0dd55c58f4b25",
-        "3868764c44aeebfb",
-        "1b4194582f44c376",
-        "02c0657aea606ad0",
-        "6c51d6489b80ea2b",
-        "35faafd6f9e26afa",
-        "5f0de1e058479639",
-        "188e9f521c85b81f",
-        "58a511b8eea5899e",
-        "28a5a765fa7ed53a",
-        "56ef0087aaaed97f",
-        "a0ab7dfa8ef35bdd",
-        "a6419c1a57c6c573",
-        "c52efff2495f42bd",
-        "9e347874eb4dedb4",
-        "159be586c39df5a5",
-        "16f94a155e92d9c3",
-        "3a91984b5f29259a",
-        "b4497446d66b0514",
-        "7c5b4ff267f149bf",
-        "b1a14a3cd44eb553",
-        "b6d75409bb9a66ea",
-        "def7a56e286e9c50",
-        "002ae7e6ade1bef7",
-        "ca746f164b45a879",
-        "9e86140b8eea2b41",
-        "48b93ac1fcfd49ee",
-        "21616a3e1df83804",
-        "0608ca827672cd03",
-        "e877cb8ff79deda9",
-        "f0684184b751a565",
-        "26b673e5fdeeb2c8",
-        "0098c5a29323508a",
-        "7e464c1e7d8cfd3c",
-        "12f8bebcb827ca0e",
-        "6c0c37728108db76",
-        "3af8c156386f7d3d",
-        "48ef37205fc34ef3",
-        "f96921412012f9d3",
-        "5558766486811a2e",
-        "16e7d5857afa5c90",
-        "c13c8e00e97f0512",
-        "a639b29750137b3c",
-        "4ea214d117bfcdfe",
-        "04c11ebc12fb7c7b",
-        "2a5e6ef6b9ec5502",
-        "b1c13ad2635ac966",
-        "1d867ff0302355c9",
-        "57300ae11dcab28d",
-        "6455e89ac32f2893",
-        "51ee022681bdff19",
-        "c9cf188a03dd253b",
-        "86e02eb531bdde5b",
-        "a2d431e93e63fd20",
-        "37f70b4c0c663c2a",
-        "1b258e584de20034",
-        "979d5c37f24d7bbf",
-        "7941e8f878eb6796",
-        "7813b76803778410",
-        "2f873e633f5e1ca9",
-        "8b85e29884388a7e",
-        "e495be20fe690c0c",
-        "e75aaef2d095788d",
-        "d348b64d99984d28",
-        "24b6bb10c60290f6",
-        "eaf4938e036381a2",
-        "017891d2fe9cfa7b",
-        "85bc02c2f8ce0a02",
-        "6ef85b53683527ea",
-        "77d63b8f6482a799",
-        "cd04fad9ca4cb674",
-        "fb0fcf4938abc079",
-        "9c442b5f28f4f238",
-        "e071c02c7fadff8f",
-        "cfb498c1186bd0f1",
-        "5a5b450a93692b50",
-        "66799964a154cd67",
-        "519aa40fbb4d7b61",
-        "04618dd160e807e8",
-        "9188a8bb2cc0e2ed",
-        "903c03e6a8cb57ec",
-        "373ac8864408680f",
-        "58113fbeef36bbd8",
-        "b514cba22baf0907",
-        "8bf934381aa07cdf",
-        "9e564fe38ece4383",
-        "a3ec63bb14dd7be0",
-        "3d1aa01fe01a31a7",
-        "abc57ae34973fe37",
-        "bb3c4f5cc0b9b422",
-        "9b58f00ace908cbb",
-        "cab736f2f4fa6ae6",
-        "0c1a64142eee8d2c",
-        "731add4632223d4f",
-        "fa351e80de75c8e0",
-        "0b599c47e0a62222",
-        "d0689d3d418180eb",
-        "260be22cce5714f1",
-        "2b79718ca19278a1",
-        "8fbced20cae7ddf2",
-        "aae643392df48dc4",
-        "b9bb36ab943c36f8",
-        "b0a66c595076b0e9",
-        "33dea4e3ed05a1fd",
-        "72b901f9521e6053",
-        "b13d3a7e3da01354",
-        "6ff102b6dd690e8d",
-        "c6a7adc564398dac",
-        "31a70ff1cdda5279",
-        "3628ab86dbd9d12a",
-        "0135cd52dff66b20",
-        "d9cdaf318bb08f85",
-        "3efa658948dad16b",
-        "5d73a405788199f4",
-        "9d37ad690e9f7f80",
-        "b172a4eaf16856aa",
-        "4c45ef23a655d818",
-        "c55e6c6468cceafc",
-        "6c7ab30e95c78c57",
-        "829c5f74e15dd410",
-        "31c798857ce8e7a3",
-        "5427fcecee9f77b0",
-        "2986b391c247b337",
-        "9c1f7f8b47350122",
-        "3f6d115561a8aa52",
-        "d3194260c576b1a6",
-        "26cb4f843c06ce27",
-        "ddc1df47b43f2125",
-        "e716d1bc8711b760",
-        "e2b6d36783750df1",
-        "0a84d1517739e4a0",
-        "083463db8030d069",
-        "392b955dc2e5f38b",
-        "4870c101eaf895bc",
-        "9e1100de53d0b5e5",
-        "9d01102ed0fa4750"
-      ],
-      "Portraits": [
-        "4a177916b9c5efa0"
-      ],
-      "Sprays": [
-        "9493000e5cd7f1d6",
-        "a055d8dce34d5f16"
-      ],
-      "UI": [
-        "ded387c51c1122dd",
-        "b4829999038379e7",
-        "513b6b4289212b63"
+      "Emojis": [
+        "681a2c60e39ca383"
       ]
     }
   },
@@ -1340,56 +725,16 @@
     "rarity": "Epic",
     "class": "Marksman",
     "color": "#d850ff",
-    "total_assets": 36,
+    "preview_dir": "Maisie",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "0e11de139c4ee95f",
-        "1d5bf3905484bdc2",
-        "9656d3ff601aa365",
-        "15981c2323d787b7",
-        "ea3be4e1f7ae46bd",
-        "8859d2e2194d5d72",
-        "2237ba9dca286bd0",
-        "224dc5f466e4743e",
-        "e867284249e592ad",
-        "dde9cc01696979f3",
-        "0caf163a2e61df46",
-        "583914501bd5cf0f"
+        "b4e7b5f3056d7b62",
+        "e41b3bc1542684a7"
       ],
       "Emojis": [
-        "b516c18c0ae4e849"
-      ],
-      "Pins": [
-        "1b97f5109d47006b",
-        "7e54627cd4a9f341",
-        "01b5818003b207f4",
-        "095ffe24c06f4ada",
-        "c7a1e8dd558f8d12",
-        "fdfdcbe0a02443c8",
-        "29014a67567dc5b6",
-        "88d36091a921c947",
-        "d94be37e5ed3d51f",
-        "659cc886f680829a",
-        "b4090a8dd89dfc2a",
-        "948c8e33c2ce8454",
-        "870e4cf6ac318f42",
-        "242c04b3e26048e0",
-        "5048a62da20a1d64",
-        "c3d4e52129ed45cb",
-        "b927110a1ad7edf3"
-      ],
-      "Portraits": [
-        "7a6670571c5d6719"
-      ],
-      "Sprays": [
-        "4c4895ff468e9e26",
-        "3241f95b24b10090",
-        "cafa120366f91ecf"
-      ],
-      "UI": [
-        "4027400ba23bb622",
-        "b66398b080720abd"
+        "baf48e90d6e8ccd8"
       ]
     }
   },
@@ -1398,47 +743,16 @@
     "rarity": "Mythic",
     "class": "Controller",
     "color": "#fe5e72",
-    "total_assets": 29,
+    "preview_dir": "Willow",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "14f56fda90be5ed8",
-        "21d97bcf1f9432e6",
-        "3b7994c642b6c904",
-        "cf8fe39b38e6e04c",
-        "3312b010dec9c7b5",
-        "06e71505faf9ac02",
-        "7acdc78a4947eb6b",
-        "276d884b7cf7c96c",
-        "90bd214c20953ada",
-        "ce5574f66f574628",
-        "d177b9422c4c0882",
-        "a0fd0698469490dc",
-        "694ed32f2675b24e",
-        "cea5497b1f16a2fe"
+        "ed6d02df58491695",
+        "a59f215c54f3bd97"
       ],
-      "Pins": [
-        "8e0d936864cbae0c",
-        "bce78e5323f2c4cb",
-        "7a2ead09cb405591",
-        "ea59b0e0c4aa51aa",
-        "cc3c7d50014f9f7e",
-        "94be065e593dbc3a",
-        "b54bb04098b8df05",
-        "3eb6db09773d5d5e",
-        "cfb169c23f94fb53",
-        "742c75df69ea0895"
-      ],
-      "Portraits": [
-        "9f05a7d8ae07e96c"
-      ],
-      "Sprays": [
-        "62299b5fd23709b7",
-        "8d10f3a49252796d"
-      ],
-      "UI": [
-        "b28f5b249c35b271",
-        "bfd224a08a4add92"
+      "Emojis": [
+        "6db0a919f3c9f69a"
       ]
     }
   },
@@ -1447,306 +761,19 @@
     "rarity": "Mythic",
     "class": "Damage Dealer",
     "color": "#fe5e72",
-    "total_assets": 275,
-    "skins": [
-      "Change",
-      "Grave",
-      "Happy",
-      "Mortis",
-      "Side",
-      "Smart"
-    ],
+    "preview_dir": "r_t",
+    "total_assets": 6,
+    "skins": [],
     "asset_types": {
-      "Backgrounds": [
-        "fa59d4e1000fa812"
-      ],
       "Brawlers": [
-        "b1eef21976eca39e",
-        "8484989c9bdae8b2",
-        "e6fabe8b4cd50028",
-        "ac9dea617a1a5c86",
-        "87e3a4245196a0df",
-        "01f532fa677adf4b",
-        "dc7d5a6fdbbe1018",
-        "1d06e0b533660a21",
-        "abd36ee1af244802",
-        "3a0ced6d4a177ede",
-        "502cab11dec58929",
-        "85174407c200341c",
-        "0bd8c8ab6bd06de5",
-        "12ea340c0ecdb297",
-        "633f83d4ad888f3a",
-        "8a5679404b1f24fa",
-        "8d415aeb1abd7207",
-        "4900fe2bcf7b683e",
-        "b554c478763cae54",
-        "80f872ad03e64572",
-        "09f8d47715cf1e4d",
-        "977fd1a53aea8b50",
-        "7274dcf431ce8185",
-        "d907f8f1541ef31b",
-        "010279cf6241ada1",
-        "98b58beeba5a63e2",
-        "08cd0f2c6a793c86",
-        "07334177916c2317",
-        "cbfb70f00000178f",
-        "c05ec70008bf7fef",
-        "a0bca17531a6e2b4",
-        "373e8026d5ce4cb0",
-        "243be172a907adec",
-        "36943e57a537ae71",
-        "078509aa1c9e7996",
-        "d8ea58be212ac734",
-        "a6b846b15f549fd1",
-        "b7aa3a57f82137f2",
-        "5c629416526b770e",
-        "96cfb7ec5882bcd2",
-        "ef40751b523505be",
-        "f598ab10e9d744e6",
-        "d482ce76e7e246c2",
-        "61f305192ccee0cc",
-        "c8168460b7fc7786",
-        "5b4934d393c705ea",
-        "d8a729a85fbf5052",
-        "2747332789ec49c2",
-        "2f7c1ba35150ceff",
-        "5bc48363176cfd1e",
-        "6d3d25e0e1f38674",
-        "ce2b9ac18f39b29e",
-        "59073b6ff8d6a6a5",
-        "d7efc1d4550cf64a",
-        "694e308d63297c04",
-        "aca44cc1c86d4340",
-        "773b768ed3dcf6cf",
-        "4b6385c47e47e7d5",
-        "23b7a31f38d414d0",
-        "45356d8bd88d672b",
-        "a26b52a61027650b",
-        "1f8a53ec2906a020",
-        "53a3f9469d16025e",
-        "55844b776bcce69e",
-        "f54e47006a404a1c",
-        "0e6c3df0ee91bf1d",
-        "12baa322fef5ed42",
-        "ff076d5869e5b382",
-        "37950fc2b64bb0c4",
-        "22d3c3d39a2b3e98",
-        "d79a27571ac7db19",
-        "55d7bd04509afc3c",
-        "879c2cc07ebee1d1",
-        "6b78706dc8ab78c3",
-        "405842b1b2093731",
-        "2a6c3e7d39fd7a0d",
-        "316724f12703683f",
-        "b290a2d969025396",
-        "32e807dceac0199e",
-        "90420540d3794325",
-        "89a22e54c9c56a29",
-        "2e26562e59f64cd5",
-        "8fe8ffbeac0254de"
+        "5d08c3e376ec4665",
+        "3d40b9948b4276c6",
+        "ff7ed31ec9df3d3a",
+        "f244463402aacab4"
       ],
       "Emojis": [
-        "a115003e0fbbddce",
-        "1b9f9ec0dc3bd54b",
-        "7ca7e9efc2b6f261",
-        "a49a963e4091db2f",
-        "594616b2b013a732",
-        "8e20dd6498b7c8fd"
-      ],
-      "LoadingScreens": [
-        "4ab260e36c4155ff"
-      ],
-      "Pins": [
-        "af13c0cdf00b4a53",
-        "6440a4345551e1ba",
-        "6653957ec7ed8d95",
-        "ec569ef271af11c1",
-        "65cf05ccf71196a8",
-        "de6d27b0206a2703",
-        "98a7c99d7f0f0adf",
-        "dda826bb2e27867a",
-        "62f820980f508558",
-        "4a28396e61a50a96",
-        "310b395f24777a20",
-        "51991aa2aa331829",
-        "d6f809684cf8a768",
-        "9e7aa6431f465ec3",
-        "ef54be7c92966fd4",
-        "64da6afef0124573",
-        "9d309a0fdb653241",
-        "030a85aed17456ea",
-        "11861ed1cb279202",
-        "757098346e4a90eb",
-        "2248da7dda8a5bdb",
-        "f84e994045ceefd4",
-        "e8fe6f35df615e08",
-        "1d5b112fdd655e8e",
-        "f03627149fdd03e2",
-        "514a4cf17578d97a",
-        "41b2cbcec500140c",
-        "5675bb22640e5478",
-        "3035e0556d007cab",
-        "3a88bb9606d5e43d",
-        "1279ba25e494aac6",
-        "c07bca23f86e6a8c",
-        "8e6ca0a8d35851d0",
-        "06b0f248e776f1da",
-        "d462a31062e46671",
-        "6ac81a53ec7227e7",
-        "9c3e3a1c5458d972",
-        "201deb2396b57a62",
-        "0eaeb9cc25d8555d",
-        "d1a8a0e7350c7a4e",
-        "c0c7af496b33ff90",
-        "10efccbd2fcf9e01",
-        "c415a40e9824006c",
-        "e0debd318c19e34e",
-        "08d4326da0a813d9",
-        "964de82da04acb86",
-        "03264f2c9952681b",
-        "bcacb700f5ed27aa",
-        "3c5849582aed932f",
-        "c09dfc0531856e0a",
-        "3ba9fbc6bdbf63f4",
-        "7563fd7add02b51f",
-        "e1b98f809fe13530",
-        "09b6aec1f2c3eb6f",
-        "2c3541685954fd35",
-        "d9e74f8749d04998",
-        "f2b58fbe6c549206",
-        "001fa6eaa1610b6a",
-        "8f57008f3fa440c3",
-        "c893d702d90e926a",
-        "2be5860a12a72a4e",
-        "e218a094e6fa92de",
-        "59e561a74f429327",
-        "9f6d215d6e9e2878",
-        "86471e42881f71d4",
-        "c9876ad0d3ebfb97",
-        "5dfd53f1ee537696",
-        "f07c6c4f4e822cac",
-        "90f08e4d19bd964e",
-        "80c7dc53fdd48e8c",
-        "3b6caf7e52cf08d1",
-        "4c736c95bad52731",
-        "53c02bc049fbcf66",
-        "5b768b3d6f286a8d",
-        "769250d35c8219bd",
-        "6e8f0b74f1c07160",
-        "d831e2f3751de384",
-        "e3b0eecb58726f2b",
-        "15d4a728a8170fb5",
-        "1437baae5241c647"
-      ],
-      "Portraits": [
-        "00994164ebba64da",
-        "7548aff360bbb7db",
-        "3d0993d66bed3391",
-        "0391fa114db47340",
-        "b34efcc62dbc7e5f",
-        "a17aca0c186fdc2a",
-        "62393f5a202a4af5",
-        "8db35191ba1ad75f",
-        "d622655f76047998",
-        "8462ff0a0f1a596a",
-        "ed3c2cb99a067093",
-        "773ee59e75a41a33",
-        "fc2dbb036bc36846",
-        "bf48c8d8af2abc3b",
-        "5551158623888cfb",
-        "76614b2908b9bc58",
-        "6724568c339a072d",
-        "9af8ce08f721b799",
-        "87e49a28185a0a65",
-        "3b1b9fd96637f657",
-        "6917ad11c2504826",
-        "5b970f785440fee7",
-        "d4df5edf3aa70b6a",
-        "13079ee131d44785",
-        "72543723f174796a",
-        "5610566d4813eb67",
-        "aefa27f9921068df",
-        "d67dadd2e0e4d941",
-        "a281386bcd7b635a",
-        "bbc61f748643b15f",
-        "2a45aefa0ed27def",
-        "3d33051455423c0d",
-        "98b2cc4c6f5b1216",
-        "a23200723ffbcfa0",
-        "d1bcdea5e3d49870",
-        "9e5442453d78ea3d",
-        "4c2469182eb6d148",
-        "a1d22017adf9cc1e",
-        "e5d5813ee9302ca4",
-        "04ff9b403a3a28c8",
-        "4f5ff5916bd0408f",
-        "14cca42d04e7dbb1",
-        "c1f1325ad41aa539",
-        "dba5d749cc62f8b2",
-        "6ab6f61e2c14d79a",
-        "4d423161f6bf6950",
-        "663c0549145dfb80",
-        "bd6aabcd62b2b954",
-        "38e8516cd6f06e48",
-        "61dddbe877073221",
-        "c7bfa2afd2797cc7",
-        "29d57e75f19fc049",
-        "feae628095ca364a",
-        "ca9b7f8715d1f67a",
-        "5c6ace2ad6a8dca7",
-        "896c98dd1107d8d8",
-        "a10e4d408c4fc73b",
-        "10f5ecdd55f4f08d",
-        "9ce0655e627e7fcd",
-        "e1146f192bec5264",
-        "5ca551485e10e800",
-        "81203d6b6609b494",
-        "54c20c3bdf36ecd6",
-        "873963bc168a4339",
-        "0b686d07c9a98a96",
-        "4aa803a6ed4f0bf0"
-      ],
-      "Sprays": [
-        "d295e2358384d93a",
-        "3656fa62b2212862",
-        "46abfa36e9bb83bd",
-        "1c0f21ddf2b2427a",
-        "fa0ca3151103306e",
-        "455ed531a8e5849e",
-        "be56dde404e528a6",
-        "39743d7c766aa2f0",
-        "37cfe48e62195479",
-        "5502f78ab27ecf8a",
-        "afd04d77af4db80f",
-        "530a7b89506bbd0a",
-        "7259faafd047e80e",
-        "a1754f26f8d6f114",
-        "f71fbb6f330a689d"
-      ],
-      "UI": [
-        "b935b4964d17ffca",
-        "858192247b001d21",
-        "c44f99b941accf08",
-        "852290bb132fc892",
-        "a05c29e8f64d8e07",
-        "78fb7098591c7603",
-        "98ffa2bf0b53706f",
-        "1bb168305708afad",
-        "2db415ead2eff882",
-        "ed0d4b6076045ab4",
-        "58389dc34f1aeb9a",
-        "8f7a13ccbeb0c398",
-        "a16cec9214b33d3e",
-        "4c5474d728ad420f",
-        "06bbfaebcd308abd",
-        "2b77e7729abc0eda",
-        "2eab0fb4e9fbb060",
-        "43bf26b85fa1dd51",
-        "745316d776e01f54",
-        "f28b7da7c4422c4e",
-        "4a9d6a526757d809",
-        "a8b89da1f8f49a41",
-        "dd6b90255e5db87e"
+        "d322e3768a64409c",
+        "43478796e72e5204"
       ]
     }
   },
@@ -1755,56 +782,16 @@
     "rarity": "Epic",
     "class": "Marksman",
     "color": "#d850ff",
-    "total_assets": 40,
+    "preview_dir": "Mandy",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "e4a27163cf0e3b11",
-        "60b0f671498a4cb8",
-        "e70d6bf9cce8d457",
-        "0b7ceb0263b477a1",
-        "63d516182f186a2e",
-        "06bccd40d4a210f1",
-        "3c4a42eacfaf8848",
-        "4cc45fcdb42663f3",
-        "091af7b01748e644",
-        "1039d4c7a49ca074",
-        "a400978ace6d1b25",
-        "bdcd15b97b60cdd1",
-        "4dbae5a09ecc7aba",
-        "6f2c69d7d9e49069",
-        "0a4db6e30380fe06"
+        "be3bd0fbbae60990",
+        "28162ac260c4a876"
       ],
-      "Pins": [
-        "6ff56d3cdebf5bac",
-        "c048eacf3c29dae4",
-        "5353f7a3ce41a14a",
-        "41f088257fa112d1",
-        "adad6fd6d56789ae",
-        "f527a840a8a3a146",
-        "567b7270cbc9fd93",
-        "0c468502ae63a815",
-        "e7f9fbf70cca8cd9",
-        "4b500806fc8d11b0",
-        "13519bbafe39a15c",
-        "27a38a717877b1b5",
-        "fba11dc00b94f35a",
-        "72328427e8acd655",
-        "faa289170c3bfd23",
-        "c59171ba9fe3320e",
-        "72a94ee220ffcb7f",
-        "b349be64a1e4c1fb",
-        "2bfd049a84dc5d8e",
-        "d613a874959f27e1"
-      ],
-      "Sprays": [
-        "a3ce6af6cc11184f",
-        "5f82d97a558349c9"
-      ],
-      "UI": [
-        "30b53b232816f668",
-        "07433bfb85150b08",
-        "7eed374aeff0a231"
+      "Emojis": [
+        "bcc8cf9e1641e27c"
       ]
     }
   },
@@ -1813,43 +800,16 @@
     "rarity": "Mythic",
     "class": "Support",
     "color": "#fe5e72",
-    "total_assets": 27,
+    "preview_dir": "Gray",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "a917f7ee3890708a",
-        "6d68573782afef5b",
-        "c460ab62a8126a9e",
-        "0d2ddadafc05fbe1",
-        "79fa8cefdf55a6f1",
-        "5b5642053e550d09",
-        "9348fd661d414b7a",
-        "6273fb2975943038",
-        "926f27e63f01a629",
-        "7132a0977e06a57e",
-        "f9d073a255ce7739",
-        "da4946bcda5274c3",
-        "4346b279a1ea005d",
-        "111200138e0dffd1",
-        "89318bb55dca0722"
+        "7214f1208cd13e1c",
+        "4562ae0bccd3e651"
       ],
-      "Pins": [
-        "7c9451b1260675e6",
-        "1ea983038c8d2e17",
-        "d55575591db2f3c1",
-        "35ced22736482331",
-        "54505206097cf1e5",
-        "40a8f5e0fa5942bf",
-        "4478ac7de7078c4b",
-        "76b2fc065fb3e358",
-        "f219713ae26ee4f6",
-        "cb4eacca7183d5dc"
-      ],
-      "Sprays": [
-        "8bd6e7df67c2ad5f"
-      ],
-      "UI": [
-        "79024cca6bb27cf5"
+      "Emojis": [
+        "69909ba0272b4e62"
       ]
     }
   },
@@ -1858,56 +818,16 @@
     "rarity": "Legendary",
     "class": "Damage Dealer",
     "color": "#fff11ev",
-    "total_assets": 38,
-    "skins": [
-      "Chester"
-    ],
+    "preview_dir": "Chester",
+    "total_assets": 3,
+    "skins": [],
     "asset_types": {
       "Brawlers": [
-        "ce9bbc2de89079fd",
-        "43ded10f345cb718",
-        "6d40a686ef79df5d",
-        "28313012deeffd24",
-        "dad4c190c594037e",
-        "769e1c89dd2e2b10",
-        "114a4b9ae87f7962",
-        "02f2a602db66fb26",
-        "08e09c26a257bbaa",
-        "a3fa9bf762fcac43",
-        "aca15a8909caf26d",
-        "122e3d910c783300",
-        "0150f3afe2639141",
-        "eaae9633ae01b157",
-        "76bffee4e25a1bfd",
-        "1a958a92ccbf14c2",
-        "0d4e76cfe0160fc1",
-        "a061b46e2cafaf65",
-        "d08c5745e9d26cc2",
-        "71cc873019b3ab21"
+        "e26ce039e3a564cc",
+        "ba6b1ec876921a59"
       ],
-      "Pins": [
-        "7274e1e509880a1c",
-        "019dd35e07f0b6c9",
-        "43d94a2a11c4c618",
-        "3c097d93f6a89177",
-        "93f8a36e5b3c0ec2",
-        "dd3ec0e91b22dbd3",
-        "e301cab1efa3a923",
-        "48b87bec777d1e21",
-        "4a936786dd3b72de",
-        "7c597cd59c55276a",
-        "a30e5a565cc7949a",
-        "cfed0b03e3f2a8c8"
-      ],
-      "Sprays": [
-        "16b5c3419c816cd1",
-        "eee7f5b680b5c231"
-      ],
-      "UI": [
-        "053a00a3733cfc87",
-        "d3672229ec566325",
-        "83df841be395a1f0",
-        "2c171595063df5be"
+      "Emojis": [
+        "f905323329ffee47"
       ]
     }
   },
@@ -1916,64 +836,16 @@
     "rarity": "Mythic",
     "class": "Tank",
     "color": "#fe5e72",
-    "total_assets": 45,
-    "skins": [
-      "&",
-      "Buffed"
-    ],
+    "preview_dir": "Buster",
+    "total_assets": 3,
+    "skins": [],
     "asset_types": {
       "Brawlers": [
-        "df022a098df8d4e3",
-        "d8a0a360fb7fb52f",
-        "34847ce392bbdbc2",
-        "285eb192d5089e47",
-        "3b3eace191bdc524",
-        "40adc1ab8e09fea7",
-        "0cafda49339a825c",
-        "02c487568365691f",
-        "604772d345cf8386",
-        "8240b962a0b72754",
-        "cc9500387cba0bde",
-        "9359d02aa1e3a14b",
-        "abe74678ee1f2437",
-        "57b1dafa1b14696f",
-        "673d17885b2e725a",
-        "406b2e99af8c12a9"
+        "3277737386e5a7bc",
+        "a0c92518dd63b2b9"
       ],
-      "Pins": [
-        "e38f884b4df870ac",
-        "9bfb6d38092aff2d",
-        "2667e16ab418c58d",
-        "abbd577bf8ef513b",
-        "714f1950bedff76f",
-        "109a8d7b502b1b3a",
-        "a33c880241d3c3e5",
-        "af45e661ccca8baf",
-        "869a867ea88ca022",
-        "8bec987a8993448b",
-        "e7889c22603a0230",
-        "e203feba186d50fb",
-        "b5f8505f8072d736",
-        "07585b1036c141c4",
-        "dc1baa6d2ffd5911",
-        "f924790edd288d1b",
-        "3bdcccec9bb2e010",
-        "feeeaf247619da98",
-        "a45721e0f426941f",
-        "30a0e1ce63bb12cb"
-      ],
-      "Sprays": [
-        "f59e7873709db635",
-        "c6141baee8aa9f3d",
-        "ec916070772cc1cc"
-      ],
-      "UI": [
-        "2ae5e5695401f5cb",
-        "0f115c5d33b10576",
-        "f0752810e3228ffb",
-        "5353e9ff2c9a95b2",
-        "9429c8ff00000b61",
-        "acfce683fde7e6c0"
+      "Emojis": [
+        "90fc1e1ac430a99f"
       ]
     }
   },
@@ -1982,40 +854,16 @@
     "rarity": "Super Rare",
     "class": "Support",
     "color": "#5ab3ff",
-    "total_assets": 26,
+    "preview_dir": "Gus",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "bb2af295d0987e7e",
-        "53e30c8708bc956e",
-        "8bbda48bfd0524ac",
-        "5e9283c76dfcb729",
-        "90b5e1e5edbe0db4",
-        "d17248c5a2f810bb",
-        "81e68871c9e4d9af",
-        "8d6894ed04fcd4d1",
-        "f4e5481366f242be",
-        "65d1dced6160806c",
-        "0f381e101df3624e",
-        "057265a5d2b5efca"
+        "d1f02e40fe4c6c73",
+        "8445ea3bffc7255f"
       ],
-      "Pins": [
-        "edec8d3736ec6988",
-        "cf33302d27055742",
-        "0eeb9af7fb1f119e",
-        "1ff8f118be312f70",
-        "39572088a7811955",
-        "223c2c64e87c4fc4",
-        "4a2bcd2a624e5e9b",
-        "7832abbfd70cb712",
-        "02060d9422080e36",
-        "705e4105f90150f7",
-        "f607f75f1873df73",
-        "4149ba28a977f127",
-        "d1b204d198d66558"
-      ],
-      "UI": [
-        "9bd708e8ada95e72"
+      "Emojis": [
+        "379879043962a1ff"
       ]
     }
   },
@@ -2024,48 +872,16 @@
     "rarity": "Epic",
     "class": "Assassin",
     "color": "#d850ff",
-    "total_assets": 30,
+    "preview_dir": "Sam",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "56716acfdbb532ef",
-        "d5c22c1210203e63",
-        "40fefbfae9c21ab1",
-        "1aa327153d496a93",
-        "a087242b6db43b59",
-        "100834b8d066153c",
-        "8856090e44604656",
-        "017d4569690d1e42",
-        "f1b17139edc38284",
-        "00755270089fa054",
-        "c04f690130725e04",
-        "e3f4c4fa6df04940",
-        "16c5f77ce077dd03",
-        "4352faa9c82f87e6",
-        "3c56d97eb79d01da",
-        "43678fac09c2c8e2",
-        "2b95c8006736dddf",
-        "07230bb41068955f"
+        "f1b8692f4c8b1be8",
+        "aa0ddd18769b0ba1"
       ],
       "Emojis": [
-        "c4d811c2bdaa9470"
-      ],
-      "Pins": [
-        "ec4e8b3c50a6b29b",
-        "155a0aeb10e0a331",
-        "898ddfd68e09e2aa",
-        "3ec2d2a876dbde4a"
-      ],
-      "Sprays": [
-        "b9bed3d569fda316"
-      ],
-      "UI": [
-        "ea762f20733d254b",
-        "890e2502576ed60a",
-        "bb6dbf09802ad543",
-        "e293e4b3df55046b",
-        "027bb31f49405eb4",
-        "2630750da8edf114"
+        "3cc2257ef7392336"
       ]
     }
   },
@@ -2074,56 +890,16 @@
     "rarity": "Mythic",
     "class": "Controller",
     "color": "#fe5e72",
-    "total_assets": 38,
+    "preview_dir": "Otis",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "fe01adebf551cec0",
-        "f934274a37ad94f5",
-        "d900737f841a50c3",
-        "2372c1ad8639d1f1",
-        "14feed1a17c79611",
-        "891bde6d61f2f690",
-        "435ba30344aa022b",
-        "d8ff10d09233a7ab",
-        "18dfdfc7fca5e47e",
-        "978066886e6aba83",
-        "02d5a6f24304d20b",
-        "bd11835c0d030c9f",
-        "a83dc5ca1ea6140e",
-        "82dcba044913bfc6"
+        "c2712bf2dd1818cb",
+        "8ece9b172dd57516"
       ],
       "Emojis": [
-        "6079d9fc12459ee5"
-      ],
-      "Pins": [
-        "3600383a9a079005",
-        "91fc30a25e4a43c9",
-        "d3898fed6ff57722",
-        "c8a8345de4c880af",
-        "c1e0c0fada4f479b",
-        "ed8f0062755ba8a5",
-        "227f890e19db4e2a",
-        "1384ed1a3f302cde",
-        "63d724943e72b44a",
-        "89cc963c841a06bc",
-        "26887c3cae352c0e",
-        "6dd465e244fc5823",
-        "8c9b857fe8175f99",
-        "74505a1c567f9b54",
-        "684b53b16ffbe9a5",
-        "10a454aa44af0818",
-        "cfde3b4743b08328",
-        "1173fbe848252287"
-      ],
-      "Sprays": [
-        "18ae08b25e8cae84",
-        "15c64cf90f75b632"
-      ],
-      "UI": [
-        "eb253fa6deacd1fe",
-        "48248995d8030f03",
-        "3504259d5be6c880"
+        "f332d8d950755aa6"
       ]
     }
   },
@@ -2132,49 +908,16 @@
     "rarity": "Epic",
     "class": "Marksman",
     "color": "#d850ff",
-    "total_assets": 31,
-    "skins": [
-      "Puking"
-    ],
+    "preview_dir": "Bonnie",
+    "total_assets": 3,
+    "skins": [],
     "asset_types": {
       "Brawlers": [
-        "1d2a8cae9d0abb9d",
-        "bddaad1e357e3613",
-        "ac57fe7fde1a22c2",
-        "5e8480ac27355682",
-        "d7106b048ac0e828",
-        "80265a9702cb69e6",
-        "735c7e3a10dff5c9",
-        "c2e9c69955d0740a",
-        "0732135d7327417a",
-        "3336bbdfd09e4a3c",
-        "7ae3d4fd64d21211",
-        "d3fc94d8ee4cb833",
-        "aa3f8361457a3301",
-        "ae4b104be175a630",
-        "0e6b5d79baec1b84",
-        "da24ac4d2d1c3aca"
+        "068c25ea254fc08a",
+        "ea8843df8ab21d4c"
       ],
-      "Pins": [
-        "cd795c090c6f56a3",
-        "274573942005db7c",
-        "696922ed714b111f",
-        "90b97162d7a9692e",
-        "c9b51c2d72447b02",
-        "3e7fc61b4ffa0fa9",
-        "14374ab4e87dc5b1",
-        "7bdf0d5f88ee3aef",
-        "0f2383ece71e31b4",
-        "708a6dd5d2ad1bd6",
-        "6cf04d7ec763c260",
-        "5dc69129eb753058"
-      ],
-      "Sprays": [
-        "d152c9a652f04aa5"
-      ],
-      "UI": [
-        "3123dee764c33477",
-        "3403203d970f609c"
+      "Emojis": [
+        "a45092202f4d5ca6"
       ]
     }
   },
@@ -2183,62 +926,16 @@
     "rarity": "Mythic",
     "class": "Marksman",
     "color": "#fe5e72",
-    "total_assets": 46,
+    "preview_dir": "Janet",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "4d5ef41949b6939c",
-        "ef238f005472fed3",
-        "a7ce531783a247f4",
-        "f083ac30ee8442f8",
-        "a1cc09bff3b73d2d",
-        "4fe9e41c85bb24ac",
-        "c706fda57df103a2",
-        "51423fcdb07ad77b",
-        "fc56466c4c3e4f3f",
-        "8fe54a517b945257",
-        "260e7d2786a91341",
-        "4ff344b5f2547b6f",
-        "7a2b2971726ea410",
-        "de554e2c49a3368d",
-        "f21e5896c6fa0b3c",
-        "60ca5b3ce6361021",
-        "c2c3cbd8064b5242"
+        "337c892b88ab6f71",
+        "49006d979803d8e5"
       ],
-      "Pins": [
-        "474e8b03889d1ab4",
-        "52fe3097c41611aa",
-        "f6702af11bef81b9",
-        "b1efe035d407be09",
-        "3ed7de25c04bb33d",
-        "0d0e357efa15b57a",
-        "e493b11aab33fcd9",
-        "b63b2ccc935c3482",
-        "567dfb277ea61b1c",
-        "acd1bfd7037afaa3",
-        "d983dfc701bf0a27",
-        "115e8d44504e598b",
-        "88d73b850c155f9a",
-        "2faa9a135064eb4d",
-        "9e054a531d716a3a",
-        "fef1f6665c48a2c1",
-        "17bdc51694578f4f",
-        "a8bcccae894d18ed",
-        "8d0ff07c6c203115",
-        "83adee098bfd78ae",
-        "1ca97ff1ec6c5207"
-      ],
-      "Sprays": [
-        "d6548f839406efef",
-        "dbc2a27fbd972656",
-        "6da8972818e05429"
-      ],
-      "UI": [
-        "6c6bbf441d745050",
-        "34de6a62123e1b4d",
-        "fd03c38c43d16430",
-        "13e2fb12d491aac5",
-        "bbf024f86faa40a4"
+      "Emojis": [
+        "02b32bff53154c88"
       ]
     }
   },
@@ -2247,97 +944,16 @@
     "rarity": "Mythic",
     "class": "Damage Dealer",
     "color": "#fe5e72",
-    "total_assets": 81,
+    "preview_dir": "Eve",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "bf7ceeb57c88d330",
-        "bf454108e7ddd658",
-        "67524988e3414835",
-        "87c7378ae431cb5d",
-        "dcefc8fb7641c06d",
-        "a69c35bb433d295c",
-        "f7b5ee62ed758494",
-        "4c19bdc76bce6216",
-        "00d172600fb2a5c2",
-        "852c9874087dc20b",
-        "b70c16ed3dff1918",
-        "0efddbabe03e7998",
-        "d52d32565c19db28",
-        "2d401de6110fc2d2",
-        "daa57d47c350a742",
-        "673d42b0b10c92a6",
-        "48a6e55fc0b43e09",
-        "0647593ff905f19e",
-        "46506acbc65f1d91",
-        "2fc8b82b2ea21d52",
-        "fc80a26d2334c3f3",
-        "be68588e49ef85c4",
-        "e41ce4d4bf687a24",
-        "9380bcaf1dd67964",
-        "9d0d279d777cfc70",
-        "29860252e5f3cbdb",
-        "32640fe93ea6de6e",
-        "2e67b6d539f0938d",
-        "db6054dea3fe8ce4",
-        "29bc9860b5889b64",
-        "cfd7b9441972bcd1",
-        "7a2fcdc0495dba4f",
-        "63777fcc70569713",
-        "75f429dbe4f37e5d",
-        "39022fbdf4e5ae96",
-        "ce4db1167d5d9a19"
+        "cf9acad09589a6c8",
+        "529995e2bfbb0734"
       ],
-      "Pins": [
-        "0472caa2f1d2eb85",
-        "8557ddf4feec300d",
-        "2b0b064c381ae87f",
-        "30667dbb7774b1c2",
-        "ecec48427efc1e8d",
-        "2ff50bbf2ae2f83e",
-        "9b72feede4beb2be",
-        "da6192113ddd5720",
-        "b6a0cd78a6245638",
-        "9dfaea5503a47cc8",
-        "669ce29efd10c34c",
-        "b12373c786e7281e",
-        "03961baa7fbe5322",
-        "0593e9f1848d24c5",
-        "a1d7db6c27de44ad",
-        "087eeebbf2b5401e",
-        "7421ebbb6bd2b7f6",
-        "bf5a9777c283438b",
-        "92e047a19200240f",
-        "caeaa404ddb0cab9",
-        "63744514a793e3c1",
-        "6c19c49825fa2c1d",
-        "68f53e27efacd668",
-        "b9b9935252cf010b",
-        "d4189159f9c31adf"
-      ],
-      "Sprays": [
-        "3984562ca9158cd8",
-        "2f7744bdf71d577b",
-        "84a9d095548df530",
-        "cdf1355d8a1c0207",
-        "658b729d3c3ecbe9",
-        "29eedd865d131268"
-      ],
-      "UI": [
-        "1abd2d9aa81a1d9d",
-        "c399c0b5fba32a7d",
-        "94e986eedbf9d36f",
-        "8afa17da614e2681",
-        "ab9eeaa7b280def9",
-        "a8ebb2b8c638d47c",
-        "05a42974bbb4254a",
-        "d81b6f5f3c78e0a9",
-        "e386ab19a9cfb208",
-        "e97d597279ddb802",
-        "d06ebe2f1d82ff86",
-        "b1aaef9d0bd451c8",
-        "d600b23098e91e64",
-        "7bab5e1577728e04"
+      "Emojis": [
+        "e58a417dd46c95ed"
       ]
     }
   },
@@ -2346,77 +962,16 @@
     "rarity": "Mythic",
     "class": "Assassin",
     "color": "#fe5e72",
-    "total_assets": 59,
+    "preview_dir": "Fang",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "0cfef0bb962bb44d",
-        "cb8ae4d1b7427d8e",
-        "c06f119dd2b3de01",
-        "fc4498081d9c0f93",
-        "a3fac3ff73c8e9c2",
-        "1c43648a337593ce",
-        "3f70780878773cc8",
-        "f41fbd59fcd1b805",
-        "b4804878fe495a5e",
-        "35f9790fc6d0396e",
-        "9b7628cb8cb312e7",
-        "4e3c75e86289eb41",
-        "307b3a1c4392a4ee",
-        "82b2c092d022591b",
-        "91b4bf3216168e4d",
-        "81cdc4b825e986d9",
-        "984f6ac337b4b953",
-        "f9da9e7eaf758a92",
-        "1b2e3cf04b033b51",
-        "0b5991f50e2b2427",
-        "8477272d2e8236d8"
+        "5fa8202e502c861e",
+        "04818773c8a238c1"
       ],
       "Emojis": [
-        "a1a57d59406e9179",
-        "8157b1aef5054e2f",
-        "9c3665c91e44e1d6"
-      ],
-      "Pins": [
-        "8f5cb8b36f2e959e",
-        "308cd3352e7671c5",
-        "ccd82a7ad388a8d2",
-        "d5017f6fd08d68ce",
-        "2d27e9d0fc1a5027",
-        "a3a304304fe759ad",
-        "8e3cfa9b0e99cfcc",
-        "234147f126971028",
-        "c70cbcb308ce2bb2",
-        "8b2b3a29c7cde32b",
-        "87a16233d12326b5",
-        "c2a4a46c5f9b57ab",
-        "439006213b49628d",
-        "c05edeaf288cadb0",
-        "fb1627d2a96423b0",
-        "4e7c9d2487073646",
-        "a766a0145cd7e5a4",
-        "3659b6904a4655ed",
-        "e3bcd38c74895f4a",
-        "c6ab8f7bbd99f484",
-        "09c826c5d0207ebb",
-        "cd4e447b29dc6291",
-        "96052e2e48023355",
-        "aa04766449dc0ac5"
-      ],
-      "Sprays": [
-        "5088834aa6af194c",
-        "9ca441d891f28093",
-        "f094962edfd4f75b"
-      ],
-      "UI": [
-        "d62a1f771d7257a4",
-        "a106aaa7d3d4748c",
-        "b686ce81f6d219f7",
-        "ba038316a81871cc",
-        "f01d67b5979b228c",
-        "acf7afafc6518cb0",
-        "58ed97169def7efb",
-        "2011c23691c5f3ca"
+        "96d2ae0720483a2b"
       ]
     }
   },
@@ -2425,51 +980,16 @@
     "rarity": "Epic",
     "class": "Damage Dealer",
     "color": "#d850ff",
-    "total_assets": 31,
-    "skins": [
-      "Calculating"
-    ],
+    "preview_dir": "Lola",
+    "total_assets": 3,
+    "skins": [],
     "asset_types": {
       "Brawlers": [
-        "8f6baf3e712b9fd0",
-        "b4ea135d8933014d",
-        "c5e947678524a151",
-        "5fcf8f2ad6a30c29",
-        "16eba90fbb9985c8",
-        "847095af7ea98b96",
-        "34ce323734b30922",
-        "d3beb6fa1d359da3",
-        "41fde120adb0e44e",
-        "d765bcc6a1fa7085",
-        "a47d4d91fbfebfe8",
-        "1b32c4934472c7fe",
-        "88f2f69856dfd601",
-        "9ffd467e7d57ee10",
-        "ca78561273c05d4b",
-        "bc1be080a8120310",
-        "fd8be11418699dcd",
-        "bd31c8ccd534f3e4"
+        "66bf94c854165511",
+        "cb188671af87961e"
       ],
       "Emojis": [
-        "e5c197066bafd4ea",
-        "cf067913b63e80e4"
-      ],
-      "Pins": [
-        "8d046a15215f01d3",
-        "f91904863d2d3338"
-      ],
-      "Sprays": [
-        "5d7d2c6b0857e0f9",
-        "1e1f3c955651f30e",
-        "99c76c405ded1209"
-      ],
-      "UI": [
-        "88766b8249766801",
-        "22f8364d7ff2eb18",
-        "0ca2140b57b0584d",
-        "e8e80c3218b1b7db",
-        "5b1a825e11113a8c",
-        "e747ce9cf0e6e1ab"
+        "f13d92b9562b3ea2"
       ]
     }
   },
@@ -2478,64 +998,16 @@
     "rarity": "Legendary",
     "class": "Tank",
     "color": "#fff11ev",
-    "total_assets": 48,
+    "preview_dir": "Meg",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "26050a5f34b2440c",
-        "89c6e30bce5dd60d",
-        "1c8aa43025460231",
-        "57f79fc278268258",
-        "0b34ff0c322750a0",
-        "89ec3796698e857f",
-        "e925b9c37fb13021",
-        "545e2caa356b88b1",
-        "3e1e923c2999100d",
-        "a75307e6d03acd40",
-        "1c41b91ad05afc0a",
-        "7e74f0a0330fa8a9",
-        "c3290806babb809d",
-        "436c5eb04b0d82ac",
-        "3e48f68e38d974dc",
-        "4dd963153a7a4d00",
-        "b0db3a33067d9d0b",
-        "f6846054a72c1c83",
-        "6bd23a7c9e613faa",
-        "c034b89b00f7f206",
-        "2d2d5f4600f233b8",
-        "7f72b21a338e8032",
-        "638aab8d8fcbd114"
+        "a9770bf49dce25b5",
+        "f2db6118b71b3525"
       ],
-      "Pins": [
-        "c36401176082ff23",
-        "cf32f6eb896a03c6",
-        "c1a0ed5f4ca63ab2",
-        "931d64688b0e6e72",
-        "fb863ccbcdfa5462",
-        "058805cfa216f1a8",
-        "6294e639da719206",
-        "a667b0eff97df4ec",
-        "a2756b6c454a816b",
-        "1273f9b7b088199e",
-        "d86f4d19c2952fca",
-        "65bf935dbcd30016",
-        "bdcced1349a8f8e8",
-        "038babceef902db2",
-        "9c619bd3c68bb1d2",
-        "258d9279881d0c76"
-      ],
-      "Sprays": [
-        "7cfff3660f63b7ed",
-        "9211fba4d5c02336",
-        "c541848a1693172b"
-      ],
-      "UI": [
-        "e3c6a08347932943",
-        "38bf1191ee13f431",
-        "154e7d8bc6bcad1e",
-        "e8d019c1e0cbe573",
-        "f205271e07cefd32",
-        "293b4a9e32e73ed8"
+      "Emojis": [
+        "cf0e9ab114dd41dd"
       ]
     }
   },
@@ -2544,80 +1016,16 @@
     "rarity": "Epic",
     "class": "Tank",
     "color": "#d850ff",
-    "total_assets": 62,
+    "preview_dir": "Ash",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "aeac14a8f1113b36",
-        "a60a3e75023e19ac",
-        "88713e673c05dbcc",
-        "5a85a32d75b5255f",
-        "425f8289678ff71f",
-        "4d4a816b5d0f1082",
-        "fcc12a88a4c7c990",
-        "582a21efdb57fed6",
-        "53ed562c3b5222bc",
-        "8849d52e3e8213d4",
-        "b4b32356c0b3e57d",
-        "e39ca5aca1c2cda8",
-        "45d07634647e034b",
-        "ea173d738e73e460",
-        "d082af194497b38d",
-        "1f2ee490d8655d61",
-        "1177da53e67fa3ae",
-        "84a736b2aa0d5238",
-        "1cbde30c08e52157",
-        "4a84f27e65e784f7",
-        "30063eb4e1fff69d",
-        "ba85477be858718a",
-        "bc11b231202388f4",
-        "c8b56b4afe82d7fb",
-        "d49fdb93ebc7170b",
-        "0d73457153218806",
-        "3443a2bfa605c7d6",
-        "24fda25414daee38"
+        "befbe6fa020fd51d",
+        "742971d9d2589bc7"
       ],
-      "LoadingScreens": [
-        "8993feb11252723a"
-      ],
-      "Pins": [
-        "71a4eb3cc34fb824",
-        "e00b062d58c2b08b",
-        "5277d10e2ebaae86",
-        "6dcef1c02c80f329",
-        "b8aaf0f8a283195f",
-        "a3dd126ccf32f22d",
-        "b07482806aad8ae6",
-        "00eb3c8a169b95ec",
-        "8f037272783b348a",
-        "41ab4bdc0fcaf1e7",
-        "f3bc4ebce03fe20b",
-        "312a53e206bf0276",
-        "4373c4e067412e07",
-        "247983a404d33daf",
-        "096e50f82e4d64ac",
-        "a4073814bdbcce2e",
-        "6375fd2c93b2f27c",
-        "547d12d610a955cd",
-        "d137e3c1d96c1016",
-        "2d3b5da7377ec9ae",
-        "44ca2ef67a6c2e33"
-      ],
-      "Sprays": [
-        "023c2725e84458fb",
-        "91281bf215015e07",
-        "1ed7090164c671eb",
-        "fcd6ce6c5d98f4b3",
-        "cfe03f37fc43132b"
-      ],
-      "UI": [
-        "c5916dd207566dc1",
-        "010009f6ac9bb411",
-        "fa13978c371f8eb9",
-        "135cd4ff2090ad31",
-        "b87167cb41f34c62",
-        "50b5ff8128ca80d8",
-        "a97cb804c1924563"
+      "Emojis": [
+        "596d19847032240c"
       ]
     }
   },
@@ -2626,46 +1034,16 @@
     "rarity": "Epic",
     "class": "Controller",
     "color": "#d850ff",
-    "total_assets": 30,
+    "preview_dir": "Griff",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "9f855dc0814cede5",
-        "5f7c731bdae672dd",
-        "14e637030119b697",
-        "14eaaf421cede040",
-        "ac0fb8043db771b6",
-        "8a39bd200eddfbb8",
-        "8be13bb3d2043a4e",
-        "2111a03d08707020",
-        "6376f8a293800f60",
-        "548eac7bedb4bc67",
-        "95776408f3e9299f",
-        "2ed1d94d2d819cc1",
-        "f5c60c3062a41397",
-        "2792dabe94d0b733",
-        "6d3dc04a6a916557"
+        "4cbbe5dbae9c5d6c",
+        "4d9f01939fe0e842"
       ],
-      "Pins": [
-        "b804ad1c3d388460",
-        "f5964efc3d313400",
-        "a1fb633fcaed434b",
-        "87d9f64db7d37fe4",
-        "c3a66d9e942d68fa",
-        "8620c8e1ffee103e",
-        "6dac97c0e08560fd",
-        "47b81bbe983eb9dc",
-        "18a7e7b18c1ef1a6",
-        "78ab099992d30486",
-        "4e392b6b9bb1e929"
-      ],
-      "Sprays": [
-        "dd41b3de93cb1860",
-        "26cffd2ad9b4d1ad"
-      ],
-      "UI": [
-        "724e9002e882186e",
-        "515afad85e1541c9"
+      "Emojis": [
+        "413d7c20c39d60a6"
       ]
     }
   },
@@ -2674,150 +1052,26 @@
     "rarity": "Mythic",
     "class": "Assassin",
     "color": "#fe5e72",
-    "total_assets": 71,
-    "skins": [
-      "Buzz"
-    ],
-    "asset_types": {
-      "Brawlers": [
-        "e17264cee0296fca",
-        "6233a64a0f21bb5f",
-        "6e9bf7ced67f2c27",
-        "0a5645069551a589",
-        "03fa0d4e194afe51",
-        "39e7f54afb5d690b",
-        "e8f4236c0bd0bf98",
-        "0b58c47db67d64de",
-        "657789ee89e791fd",
-        "4c6cd82ea53d0f87",
-        "edd943a8a6d4f2d9",
-        "d8493ea3395a3181",
-        "f030cbbe682a1c94",
-        "aebe3b9a1a65d461",
-        "641d5dd47d136aab",
-        "0379aeaa33027b7a",
-        "5deb0ab00b3b8cec",
-        "316dfe8275d14603",
-        "3f1c8cbdc737d7f5",
-        "2aee06d1e4bf9876",
-        "90a576a4026459fd",
-        "b50875b0e9c92766",
-        "ae14bf464ceb5799"
-      ],
-      "Pins": [
-        "7f1e94eb6de11879",
-        "68f30e913d47dee7",
-        "414c8a777d66d114",
-        "ec0994571aa6564e",
-        "704ad7d8494fa3d5",
-        "42ef33506fab082e",
-        "87fe7f44e441eb98",
-        "043c4644db0f2d81",
-        "9ff6aac2d1e95c46",
-        "664381ff61804d6e",
-        "b7ba1eddf3f51df3",
-        "743ee4919191dc91",
-        "354e057723d4a072",
-        "1400c5661f31799d",
-        "e8a48277018d1e4f",
-        "a132939518bb012c",
-        "f5816fc34919c2d3",
-        "c136d949ac125968",
-        "a17779045377aa70",
-        "880d90213a41170a",
-        "c602b6a837c5a71f",
-        "6af07bf4720ff551",
-        "4d5151d90a0ab0bc",
-        "a0fbaae0431390c1",
-        "dcb3b85d951ce4cf",
-        "bb7595e49e451b9b",
-        "a5bd902be71c23c5",
-        "b2af7232894511f4",
-        "d98092c8018ff839",
-        "b91e92d0c6790a47",
-        "6bb0536d3b0d5411",
-        "2dfd874b249dcfea",
-        "97afcdf65ddbc7ed",
-        "57d4e9849d0ca0b1",
-        "19fd3b4b682d5151",
-        "56f81395ab7a54fa"
-      ],
-      "Sprays": [
-        "0b9d184a1f70322f",
-        "2663296a1d43d4b5",
-        "a62f971bb8b3c69b"
-      ],
-      "UI": [
-        "7dc90e81df743413",
-        "5f326da9a30f64f6",
-        "5cd89ade3847a1bf",
-        "4ba93d48cecd599f",
-        "f6b1d0289553cbb9",
-        "83b3288820b0446b",
-        "33d9f38aa0e9bfd1",
-        "fcc200cd16d0d2dd",
-        "6f3e1168ac7b823e"
-      ]
-    }
+    "preview_dir": "Buzz",
+    "total_assets": 0,
+    "skins": [],
+    "asset_types": {}
   },
   "grom": {
     "name": "Grom",
     "rarity": "Epic",
     "class": "Artillery",
     "color": "#d850ff",
-    "total_assets": 41,
+    "preview_dir": "Grom",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "b3bec8f293a0ffa5",
-        "c1b1462621bdc6d7",
-        "155a8940a2d2b3a6",
-        "6873590afa067924",
-        "7467e10069e5093d",
-        "f7446693699ecfcf",
-        "aab23d2eed28ee7a",
-        "9684cdae27391514",
-        "7c130ec7df567efd",
-        "ad8053ee7f17f090",
-        "be0b4e399dfc218d",
-        "073beb87bf2d0b5a",
-        "beb15342b8e1a9a1",
-        "4e06b9ce74dd35d3",
-        "706828e2a6b48f35"
+        "6c5603fb7a32f767",
+        "2886625dd6155008"
       ],
       "Emojis": [
-        "71ef4c2920a52c37"
-      ],
-      "Pins": [
-        "aee8666f2857e64c",
-        "e85a14efb4c315ce",
-        "7bf5e3b6b4554eaa",
-        "10115401b26b3c3a",
-        "a4c36ac389d97192",
-        "b727872b17e5e233",
-        "833d2b8aaba0289b",
-        "4b346061233d7c3a",
-        "e81060a879ccf701",
-        "af08d6a1b90a527d",
-        "6fa9199e8c53ed85",
-        "f62baaabe55d8af1",
-        "39fcd43d5d4a3f91",
-        "0a64491ca4d419c1",
-        "05b6bf63be6baef5",
-        "170ea8d4fbef9c90",
-        "add7c135b41335f3",
-        "2eb977af952328f2",
-        "1062ec2fc8093e87",
-        "60847447deba684d"
-      ],
-      "Sprays": [
-        "2ec5c4210e61c3e6",
-        "8f5b67a358b4a446"
-      ],
-      "UI": [
-        "057432ccae762378",
-        "9dba8b0da1895fe8",
-        "22097470c2ef89bc"
+        "d237083dbfee740a"
       ]
     }
   },
@@ -2826,56 +1080,16 @@
     "rarity": "Mythic",
     "class": "Controller",
     "color": "#fe5e72",
-    "total_assets": 40,
+    "preview_dir": "Squeak",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "2762ac091956ad10",
-        "ad249cb8e4c4c6df",
-        "9a0e2fa73996f42d",
-        "dcc66ec2576f2ccf",
-        "ea70c3c7b1beb70b",
-        "f419301f2ae6326c",
-        "a4365632e4e28c05",
-        "d6854f0ce65944b3",
-        "0139117b5cffc10d",
-        "69d12318ba3d868d",
-        "6d0e4562c0bdf3df",
-        "177289844d88f490",
-        "6aef7d73b3e306f3",
-        "dbdbe54016dbcdde",
-        "b3f8b86b3e2d11b9",
-        "46ebe52d4b89470c",
-        "56a2289ad49cc2e4",
-        "d2f031e27270f64f",
-        "0ce94a0ff64e6449"
+        "c72a6d9592cb32e3",
+        "0403bd876c5883f3"
       ],
-      "Pins": [
-        "c478e1d4616f0a40",
-        "a3faf67ac75be576",
-        "e8fdfac9192f2d5d",
-        "e1f9d41e04553322",
-        "8f9f98f23da665b7",
-        "875abd6222fe3d92",
-        "5750a82f6fef884d",
-        "142671de2f345fcb",
-        "79848e6e9f2f6d11",
-        "5111a6f041b95fe9",
-        "569f918eec55ceb7",
-        "d022959f9295cd1f",
-        "5521409403e66200",
-        "5be5a568226d30d8"
-      ],
-      "Sprays": [
-        "cd31180c9157012e",
-        "14c70c1ec17d2dda",
-        "3154583978555d06"
-      ],
-      "UI": [
-        "38dfa671610b5b0a",
-        "f9abdd7b2b2f085f",
-        "e40393a7db4d97e2",
-        "4c0ff82812ccde5e"
+      "Emojis": [
+        "70fd6c19eb3a25ce"
       ]
     }
   },
@@ -2884,62 +1098,16 @@
     "rarity": "Epic",
     "class": "Marksman",
     "color": "#d850ff",
-    "total_assets": 44,
-    "skins": [
-      "Cod"
-    ],
+    "preview_dir": "Belle",
+    "total_assets": 3,
+    "skins": [],
     "asset_types": {
       "Brawlers": [
-        "5bf4aeaa5d434496",
-        "734bfa15eba82405",
-        "daab80f0d56526b4",
-        "3d13b0397f46d247",
-        "18d8c59f840422d5",
-        "fb9ca69ce57b71c9",
-        "9f602bbaf5d53c41",
-        "a93f370f4db46b0b",
-        "ed4dd4938086095d",
-        "df0b4a18e6030931",
-        "08d64792134a86b9",
-        "0a469503cd9fe7fa",
-        "989b3a996b52a752",
-        "9292ca8e4a78c14c",
-        "c50e07cdba9f60f5",
-        "cbe3c2597ec9275c",
-        "69678fd2afe48fae",
-        "67eb133e062dbd4c"
+        "e782b577b7b3e259",
+        "e9dc274511633a28"
       ],
-      "Pins": [
-        "f7b7c14e3be741c3",
-        "88f95f22bc080905",
-        "75a40d2369ffb7dc",
-        "a4df6fe10e71bce8",
-        "b98de9df90eaaf49",
-        "4bfc9dd06cb26476",
-        "2dd99ab1f03822ee",
-        "3e1b9cf272c7b00c",
-        "8bd4603375cfecfa",
-        "a448a326d3ecc0c0",
-        "af0d74c8f1eccaeb",
-        "914dbda4916030ae",
-        "bae70a6ba83f3c39",
-        "e4b3aa0c3279e4ba",
-        "2d276737c46de12b",
-        "02a509d0f9562026",
-        "9c2e619b700f17a1",
-        "2269d03cf5c53fc9",
-        "6b136e91a46d9609",
-        "b259e317a0044843",
-        "ddb87b90147e8cc5"
-      ],
-      "Sprays": [
-        "adaeaba22e0bb63c",
-        "f19bb0283cbbf5f1"
-      ],
-      "UI": [
-        "e2a206a8d09bd46e",
-        "3db09c981eee705b",
-        "7c94484b8c50f345"
+      "Emojis": [
+        "3600a86734a923db"
       ]
     }
   },
@@ -2948,64 +1116,16 @@
     "rarity": "Epic",
     "class": "Assassin",
     "color": "#d850ff",
-    "total_assets": 44,
+    "preview_dir": "Stu",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "9dc9a9a75b941a74",
-        "58941124b496eff8",
-        "058387057a5609fb",
-        "2fb6377c6c2b4505",
-        "71abcd5308439eec",
-        "8f2af88011e81b8c",
-        "e8ae79fc048ae83c",
-        "75828e56641378e0",
-        "30e645cd81d12998",
-        "0325adf837b2a3e6",
-        "a1d14582c5c354b4",
-        "2560be38b1113301",
-        "df0a00928320e40f",
-        "c393d52cf1804232",
-        "9f929d089d16b42f",
-        "10f7ac35a9041f31"
+        "36b306b1f28c67eb",
+        "92ae06739a97d374"
       ],
       "Emojis": [
-        "5ceeaacddee0108a"
-      ],
-      "LoadingScreens": [
-        "fdce0060702447f9"
-      ],
-      "Pins": [
-        "0de2aa92676f6508",
-        "8717d99671ccac68",
-        "c695f6a6e63f08f0",
-        "fe5269f813577036",
-        "966537bcf858cddc",
-        "7e82180b3d30ce33",
-        "2f7de7d044cdf590",
-        "ac74525fe96c3c4b",
-        "ef983d8b7c6016d8",
-        "bb5d15921052c061",
-        "6e33751e09c1b073",
-        "ca1ef1577beebf33",
-        "0176282b05023ccc",
-        "0f8136eda24c0607",
-        "6d3aa90f79679b68"
-      ],
-      "Sprays": [
-        "ab9d960b6fa1944d",
-        "d62c82b692a5f054",
-        "c4a5e7fa6e8de4b1",
-        "9979af9ee3a820fb"
-      ],
-      "UI": [
-        "a30e961f3d030681",
-        "efd283dc5c8aca51",
-        "cb49c505c9876feb",
-        "1ab82b9783731bcd",
-        "45cffed2c188682a",
-        "be95893e05c9dede",
-        "8dfcb62d859b4a0b"
+        "6e8922b7b4525b3a"
       ]
     }
   },
@@ -3014,57 +1134,16 @@
     "rarity": "Mythic",
     "class": "Support",
     "color": "#fe5e72",
-    "total_assets": 39,
-    "skins": [
-      "Alwayshasbeen"
-    ],
+    "preview_dir": "Ruffs",
+    "total_assets": 3,
+    "skins": [],
     "asset_types": {
       "Brawlers": [
-        "3e872ec95e8c59de",
-        "50cdf592d68a6cbd",
-        "1d384bfd7b24d149",
-        "4197485cffbd9f04",
-        "63516c93b66cccc4",
-        "b281c9d13ad3ccc8",
-        "1ee1d4de68cbca88",
-        "4512a076203d4d32",
-        "f14ecd120722cf47",
-        "0d7dffa42bc26662",
-        "5c09768b49fd63f6",
-        "eb38606ee6dcd6a7",
-        "876277cbc4b71135",
-        "a4c6fe17959bb0a0",
-        "1edbe6a63f15fbae",
-        "5a0ee912c9b5104c"
+        "6eb8f9b8be6c2c30",
+        "61febb09fbaa506c"
       ],
-      "Pins": [
-        "0ca2cbb3a7f36d59",
-        "9b728c5aeb9be74b",
-        "924a5fbba733517e",
-        "1a37ea6a722b0165",
-        "d05ffc7faa89653e",
-        "ef6e23d09cf5b3e7",
-        "627ca3e5f00d3483",
-        "c2bf2cb3a594f430",
-        "98d56dd4e3298f04",
-        "43880df16b92fd16",
-        "7087014364a09a0a",
-        "79821b316c585418",
-        "244f06410eccb1c0",
-        "42451b06186cc655",
-        "abda8985b5790069",
-        "0275a2a56baf5c38",
-        "ad45865d5c83b45a",
-        "37412392b40e2a81"
-      ],
-      "Sprays": [
-        "ad83e6d30c1229e2",
-        "531d5a227f93bbb3"
-      ],
-      "UI": [
-        "23d32d18bd614bb5",
-        "e57685703b998f8a",
-        "94838482523ad428"
+      "Emojis": [
+        "e99d93ab011d538c"
       ]
     }
   },
@@ -3073,72 +1152,16 @@
     "rarity": "Epic",
     "class": "Assassin",
     "color": "#d850ff",
-    "total_assets": 54,
+    "preview_dir": "Edgar",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "6ffa54f8e923c9e9",
-        "a16f2c95902b5c16",
-        "192961a27569db07",
-        "ae669898c6e70cb7",
-        "ee4c32708587b704",
-        "b2e85c9058f79f65",
-        "bcf7f411df742d99",
-        "2e7d4b8b9f04e086",
-        "00d67f96f9c66fd1",
-        "dc32be22cf762d7f",
-        "0dc55e18cc2202ce",
-        "6e574cf1ccfdf984",
-        "8cd857c1236ae81a",
-        "56d665ef43325611",
-        "55a17ad9de18e9d0",
-        "e40ecdd9833673f5",
-        "52b604718b29c711",
-        "1dc6ddfa8f9aa88a",
-        "a106379f98c8d12d",
-        "500ff1750e651e23"
+        "93ec8d3cf03d12b3",
+        "696658fed1d1158b"
       ],
       "Emojis": [
-        "6224ffe5b52a68a9"
-      ],
-      "Pins": [
-        "5206803db54a3e72",
-        "e03cbb2154fa10d0",
-        "667258f7e13cba52",
-        "d0bd2c571b307c32",
-        "d8a5b93a567419e5",
-        "ad8734ed914833d0",
-        "68bd7cff6a95c820",
-        "15a79fb7d1f1efae",
-        "7621fd3832a12059",
-        "98c7d2f62d84c907",
-        "d359c7e4396475cb",
-        "7edfe84e6dd31d64",
-        "4fc00d13ecba11a9",
-        "0d6b273a55f6c69f",
-        "cdac85cff28475be",
-        "714f344148f3cec4",
-        "5e95189e398b8255",
-        "a6736976288760ac",
-        "3dcc9c0183138a7e",
-        "32572b90973bc7b9",
-        "3d266a1c46baab67"
-      ],
-      "Sprays": [
-        "32260a4a79bdc5c4",
-        "25ae682e9527e6e3",
-        "5f8511e6467adb16",
-        "f73fe5b0d8c64480",
-        "4d870e3dca7e4e13"
-      ],
-      "UI": [
-        "0b012e2c1193ff23",
-        "5cb1c95f75c0c898",
-        "b8c3c9a4a556af58",
-        "76331f2d8706b478",
-        "c8636c4e5f8efcb4",
-        "0863b3506322ccd2",
-        "f5280d56eb7a160e"
+        "6ad862a1b4243c7c"
       ]
     }
   },
@@ -3147,54 +1170,16 @@
     "rarity": "Mythic",
     "class": "Support",
     "color": "#fe5e72",
-    "total_assets": 36,
+    "preview_dir": "Byron",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "8c04118f6fee63ec",
-        "eccfad4d69ceb550",
-        "068094f647cf35b2",
-        "e4cb3037dfebbdfd",
-        "a522ac507e2299f9",
-        "e8a6b768cd62e79c",
-        "03d3d728ae720a18",
-        "859d7f9291ce67a8",
-        "dd099ea999193f74",
-        "41a308dbc6c79a61",
-        "100fac000ef6d33c",
-        "03d645cf110a56da",
-        "2b650246f6a00b1a",
-        "3c76080b4b9d7bbf",
-        "3eee705b3b648339",
-        "3afd2efddd28737e"
+        "fa921440badf8683",
+        "da6be80ee075bc3f"
       ],
       "Emojis": [
-        "de0d84b2912341b0"
-      ],
-      "Pins": [
-        "95157933f1517a37",
-        "d34d00246009b697",
-        "d0ed957a5b9f5f20",
-        "d3bd3035771cbb18",
-        "10907c761e31f5d9",
-        "3e674086f34b3bb7",
-        "0c407f02052b2e85",
-        "7d9680ac4e932bff",
-        "2a58ef3b016885d4",
-        "b9a31de16c20ff85",
-        "31c86337d3bea770",
-        "1ee1113327d442e7"
-      ],
-      "Sprays": [
-        "baff149a3c06a873",
-        "70b103d895a9e306"
-      ],
-      "UI": [
-        "df260210657d010a",
-        "6d4a1232d7db44b7",
-        "2ca412a21b576b7a",
-        "34bacf5a9accac4b",
-        "a4370a12fd512c34"
+        "75ef97480c0e6a4f"
       ]
     }
   },
@@ -3203,64 +1188,16 @@
     "rarity": "Mythic",
     "class": "Controller",
     "color": "#fe5e72",
-    "total_assets": 44,
-    "skins": [
-      "copy"
-    ],
+    "preview_dir": "Lou",
+    "total_assets": 3,
+    "skins": [],
     "asset_types": {
       "Brawlers": [
-        "9dfa34b7186bc7f6",
-        "3a0c749060f36928",
-        "132259fe9e75e4df",
-        "ff536b1df5145ec9",
-        "529e5a67575f808d",
-        "e6cb74eb3efe0e27",
-        "dfa6c19f9658c40c",
-        "9d9d4ec015450043",
-        "29c67a5d89908a38",
-        "32ac80a5811fa4e3",
-        "86d73f575c607719",
-        "b6c3888d9c44df7e",
-        "dfc4f8e4e9d0c252",
-        "9a3eb07f8aec3128",
-        "7ccf14353efb87bc",
-        "6b4a021f9a3c6869",
-        "de4d5eec4f0f2687"
+        "f2e90c47d9c8716c",
+        "214545474b4d558a"
       ],
       "Emojis": [
-        "12e1bedab3841f65",
-        "1b0d80bda9cc1715"
-      ],
-      "Pins": [
-        "fa7411b68ab56ee2",
-        "0729684c8ac6e4da",
-        "cbc19e19be2cba6c",
-        "bee3997b7634eb99",
-        "dc7e4aca270ff89f",
-        "395be4e593cfd56e",
-        "8d66048e38cbe50a",
-        "d8d98d3863c48442",
-        "1183754cd11052d2",
-        "de8185dd00db3d55",
-        "c5950a2d7351e305",
-        "aa9584ecac2e59ab",
-        "73c00454928f47a8",
-        "5391d9d30ea7adec",
-        "013874c495393601",
-        "e6ab3b69b4d6e284",
-        "8cbd8321135bd752",
-        "a7d130c5c5590645",
-        "7438d0d42e96d7ad",
-        "cc82493e64eca336"
-      ],
-      "Sprays": [
-        "927e2c7a14e1e2c5",
-        "a81a61765fc01c89",
-        "e3ab79b658f22774"
-      ],
-      "UI": [
-        "5887756b0ec5a027",
-        "ab4a3e4432f4bea4"
+        "dfc551522aca2913"
       ]
     }
   },
@@ -3269,54 +1206,16 @@
     "rarity": "Legendary",
     "class": "Controller",
     "color": "#fff11ev",
-    "total_assets": 38,
+    "preview_dir": "Amber",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "578bfbacb5194f18",
-        "4beb6ce21aafb660",
-        "1d95a74bbebaf993",
-        "4146ce80945c328d",
-        "8b6fd01f509449e7",
-        "5f1a02c22a89246a",
-        "94867f153f4b8aac",
-        "9900acfeaea743bf",
-        "751acb3f1244a3c2",
-        "3ffe637c08db238d",
-        "a892be9c6073123e"
+        "2bcb2e343b5bd1e8",
+        "a8aacd0de6bb4c9b"
       ],
-      "Pins": [
-        "181662a27b0255fc",
-        "40d697a5afcaac7f",
-        "40710f2060e88241",
-        "2611fc18ba3f0268",
-        "4aef9ab23e3f5722",
-        "f620e84d43cc2f89",
-        "682cb42156620126",
-        "46cced69b4357812",
-        "154dc5b70b5169f3",
-        "9edd407763632cb6",
-        "17a3151d5480de39",
-        "58d3e81f78a01f81",
-        "9145bd39edc71064",
-        "be6f63f9b881359c",
-        "0b10c1673aa68645",
-        "e52465e88f578150",
-        "ba010cd9648da966",
-        "56ebf3fe91d125ee",
-        "ae1e5bc3cb1f3082",
-        "51cbf10a33aa2d2e"
-      ],
-      "Sprays": [
-        "d00fbc99c0575ad6",
-        "bb5e11ffe5e7ef78"
-      ],
-      "UI": [
-        "8290e0dfd0c5df02",
-        "c004d97170d22522",
-        "6fdd2f632a957292",
-        "d88ef29014b897e5",
-        "101b673d7c8c40a5"
+      "Emojis": [
+        "5f75e4edbb0ac636"
       ]
     }
   },
@@ -3325,71 +1224,16 @@
     "rarity": "Epic",
     "class": "Damage Dealer",
     "color": "#d850ff",
-    "total_assets": 51,
-    "skins": [
-      "copy"
-    ],
+    "preview_dir": "Colette",
+    "total_assets": 3,
+    "skins": [],
     "asset_types": {
       "Brawlers": [
-        "12c1a9292931187e",
-        "6e543bb9c518c6cd",
-        "199cf24210554535",
-        "bf5f4b795d4f4590",
-        "0a6e7df7fd0bad38",
-        "2810a7b97f41e175",
-        "7d3d916a9173a4e4",
-        "61b7c52d4f93aefc",
-        "e6524322851b2427",
-        "685a72679de3c73d",
-        "2ccf2947edbf8e1f",
-        "9399b644a0056a44",
-        "c3163ff970907c91",
-        "638cdfcf1a08ca36",
-        "3806ea51f37139b7",
-        "e449306840e2c37d",
-        "9b2671553cb8ac81",
-        "a846f463825d4c9d"
+        "13a3134e6d1888c9",
+        "a83a737e1ed0b76b"
       ],
       "Emojis": [
-        "07c5fe7ac8dfc9e2",
-        "d80aa0cbdb2dec02",
-        "1ee44fbd531da83b",
-        "0e681a0d69ed08da"
-      ],
-      "Pins": [
-        "425af3306f08764b",
-        "8c1494963d5d19ef",
-        "d54108fa34f449dd",
-        "c635cd34abab5b01",
-        "573f3a52210c31f2",
-        "60554c9da94ff34e",
-        "aad7a6ace23d725b",
-        "028fe7be965ea950",
-        "d1ce42e16cc4da9f",
-        "8a767750a581fdf8",
-        "23e6d5cd8b6cf4d3",
-        "208cfdeb13e1fbe1",
-        "20e538e6684b5acf",
-        "f2622d62f9c950d7",
-        "770a6c6c9160fd58",
-        "6bb7decc37178c56",
-        "8fd59f61ebd3c180",
-        "4496698622ef8e46",
-        "4393ab16a9cc6ba1",
-        "c5b66c1b80a249b0",
-        "37128e1e4a8492aa",
-        "21dba47176fcdba6",
-        "ca3a5ff915363907",
-        "1b2aef19ca6dc43e"
-      ],
-      "Sprays": [
-        "78df34ce05b10959",
-        "28cdbe1cd23ca213"
-      ],
-      "UI": [
-        "87e4d58be0340603",
-        "bd49d50a38c34a62",
-        "d207b16e50b8c833"
+        "eb9e701d43519690"
       ]
     }
   },
@@ -3398,72 +1242,16 @@
     "rarity": "Legendary",
     "class": "Damage Dealer",
     "color": "#fff11ev",
-    "total_assets": 56,
+    "preview_dir": "Surge",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "9bf0f898d4ee370d",
-        "6727dc396ad1a366",
-        "a92399a176705035",
-        "ee9bd8c9a605446d",
-        "f3276dc2f3404555",
-        "6ee6d45c91a76566",
-        "20e3ff2e7c953b1c",
-        "aff9ba0f10e8f6ca",
-        "fdde5eb3db65fd7b",
-        "8f07992f4831ace0",
-        "15a3354e7a09c95c",
-        "13b007112b43cff9",
-        "08e4ef1b2b97e5d9",
-        "6726b6400bdf8304",
-        "ecd8a4dd7c9f94c2",
-        "5bd85a1f72912da5",
-        "3d00c5e3218c30c7",
-        "46cf647ec84356be",
-        "253208a888d37f1c"
+        "459ca9c864a572a3",
+        "59389af42b1f5d03"
       ],
-      "Pins": [
-        "4d76bf5c5a2c0b26",
-        "a6025c895519c085",
-        "b1c8f21bed0b7cb3",
-        "4d398180fe92704d",
-        "b17f6a659bd2d907",
-        "69396eb0a0663960",
-        "efdf992ed67b65f8",
-        "da55a3b67c85b43f",
-        "0e06210569a2c749",
-        "0ef5c5e6ae20b27d",
-        "b125393829236028",
-        "2c46972fe3c41fc0",
-        "280805c391b03515",
-        "2676cec66aebafd2",
-        "803ecc9a31a917c9",
-        "e4e02d32909769d4",
-        "2eb705dc6b090eeb",
-        "496d32bf0e89add5",
-        "75d20a827f0dbe19",
-        "7fd2be4c12245d71",
-        "32e17c68df3ffd2a",
-        "e80ab4fe4f14c158",
-        "4130ddab279816f1",
-        "60bb090c816e4102",
-        "4bd9c7b72450a9c3",
-        "7af2a52336d7d8d0",
-        "d74c8cdd9314e9c2",
-        "93d19ea7589182dd"
-      ],
-      "Sprays": [
-        "38e08eed03015a8b",
-        "e2cf0cffc607559f",
-        "357d950c479f9306"
-      ],
-      "UI": [
-        "d2be40d619920baa",
-        "5c8a3faed6e86ad9",
-        "d1828dba378a4b21",
-        "71aa5ff4394a3504",
-        "4bbddd69a0227032",
-        "5a6fa5ff6bd84a33"
+      "Emojis": [
+        "395a2f7ce6f6fd30"
       ]
     }
   },
@@ -3472,54 +1260,16 @@
     "rarity": "Mythic",
     "class": "Artillery",
     "color": "#fe5e72",
-    "total_assets": 38,
+    "preview_dir": "Sprout",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "115b850044ccb2c7",
-        "a6d7e0f7e1b03abf",
-        "49ff792b0398f09e",
-        "6c079a89c353bfa6",
-        "d67a3c2c00b35141",
-        "4c03bc312f1dc15b",
-        "88bc36d15b58fdf7",
-        "13bca154e71be731",
-        "74538e38f86bca35",
-        "7a9fb84db97c949b",
-        "34be64f5148dbba9",
-        "702f68d560f439e1",
-        "56760d3768beb9ed",
-        "ec3a83edf02fd73e",
-        "21b4da72a8a9f76c",
-        "60fa48d1da749b58",
-        "505f05d12c8b64dd",
-        "d5eca86fae137360"
+        "523fb154cb1e09cc",
+        "bd17c5a86f9d65c0"
       ],
-      "Pins": [
-        "40ec7d17e14e602a",
-        "33d91b0a27f6648b",
-        "f25fd4bd0fcca79a",
-        "6093e0a54e8f687d",
-        "e7a6e070f1cea920",
-        "e60706941c51fe90",
-        "63b4c0cbf2da7b9f",
-        "d1d482bbaa44b4f9",
-        "3fc7deae45973cd6",
-        "1bd3c8fa2b41cdc8",
-        "e0d5e21b03f1ab17",
-        "1c609d649d0408d4",
-        "9de94d4332db9b61",
-        "76469597af622272",
-        "2a020fa7d15d093a"
-      ],
-      "Sprays": [
-        "da84cefbfd48b6af",
-        "bb45ecf10b37ccbd"
-      ],
-      "UI": [
-        "3ee2f080515c2a11",
-        "c827e65ef9233d96",
-        "724bddb84f10c81e"
+      "Emojis": [
+        "730d64d514026aa2"
       ]
     }
   },
@@ -3528,57 +1278,16 @@
     "rarity": "Epic",
     "class": "Marksman",
     "color": "#d850ff",
-    "total_assets": 41,
+    "preview_dir": "Nani",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "b883b7b678bb594f",
-        "ecc8961dd3d5e874",
-        "e18167f0ab188b63",
-        "ee964a68553f2712",
-        "8b69e22308e6249e",
-        "0e57119e3ea6b7d8",
-        "3cc4e85a795ecbf9",
-        "4c8758932c9478fd",
-        "6d2e3128d6fde489",
-        "9dbbbfd39760a634",
-        "6b31b8acabec7335",
-        "930e4a6249dca2b7",
-        "b01229838b8f95b5",
-        "ad0598644c414ab1",
-        "a4838173400473f5",
-        "304270b3af48634e",
-        "34f7e1e55750c981"
+        "97a8fe784261ad5b",
+        "b60b6bdb0ca33349"
       ],
-      "Pins": [
-        "3558efd361e3af26",
-        "148038e85792c8bf",
-        "33ca67ec5dc5dc66",
-        "51ee48127bb826ff",
-        "c27e26589df618e1",
-        "ba23720407cbc5e9",
-        "605e2749c967df5e",
-        "8d5a64cd247c444d",
-        "86261f03ca63e73f",
-        "41d4d1fe14123a0a",
-        "8b89e7128c429312",
-        "b1820ea75b2fc475",
-        "2b15fd24bf45dfcc",
-        "a999ff7595135625",
-        "440ec3375433e823"
-      ],
-      "Sprays": [
-        "4625d89ae3234e0d",
-        "3a938330290c2178",
-        "9074c2903541021d",
-        "d9a2b8a2ce7b1c4b"
-      ],
-      "UI": [
-        "74ac588bd25305e2",
-        "742cfeb18bbd2694",
-        "52cea91e0342485d",
-        "999b96eb7fde5e45",
-        "0a36581eb179f3e5"
+      "Emojis": [
+        "fdf14426d1cb6596"
       ]
     }
   },
@@ -3587,57 +1296,16 @@
     "rarity": "Epic",
     "class": "Controller",
     "color": "#d850ff",
-    "total_assets": 41,
+    "preview_dir": "Gale",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "aa0df76f79a91cab",
-        "59bb7802cc99fd00",
-        "3badc357cb3c5776",
-        "37d440fa8383ba1f",
-        "6b114d286501fbc1",
-        "2cf09a49032c5fac",
-        "2427b048dad0d03c",
-        "891c728dff85c1d8",
-        "15b258b70332305d",
-        "9b52e306f8542e49",
-        "3f4733603ef10e37",
-        "34384a697d02410f",
-        "bf5cd86442af96a5",
-        "004dbf42e75e5ff2",
-        "b45d063707be139c",
-        "5147001fa566184d"
+        "46de6d252721e23e",
+        "6d715c1462c77808"
       ],
-      "Pins": [
-        "ef781859459548b9",
-        "5d825c3d99244410",
-        "8effe701e2799350",
-        "e52fcd74ee3c7859",
-        "b6f1fe63a6f49834",
-        "16fcbfb2b2595aa1",
-        "b6d08563a06fb4ba",
-        "472b6f6e746c8f6c",
-        "0e335d52922a5442",
-        "3c5f1af30f7e9864",
-        "caf87b3b8b551aad",
-        "78c5136347cde8ac",
-        "9af599db0b080aef",
-        "1f7742feca1955dd",
-        "3c9d4a7f2e403e58",
-        "03dc979fdc450edf",
-        "f6141a03a1354dae",
-        "be66725ffd0b74a5",
-        "cfff77efd313ff2e",
-        "c59eb5ec6709cdc9"
-      ],
-      "Sprays": [
-        "512ce0397378d2f4",
-        "c62c60675e194adf"
-      ],
-      "UI": [
-        "bb2dd58712c3fc82",
-        "1789a253db32aa06",
-        "af9c50e4af5f1e4b"
+      "Emojis": [
+        "8a24ac1c00f17063"
       ]
     }
   },
@@ -3646,59 +1314,16 @@
     "rarity": "Super Rare",
     "class": "Tank",
     "color": "#5ab3ff",
-    "total_assets": 43,
+    "preview_dir": "Jacky",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "3de34cd511baf527",
-        "ff5e7b1b1c4d65ff",
-        "9c43a5b2e6bb4535",
-        "5e6bf809d969ec08",
-        "8dffd42d3728c7e1",
-        "d72c64abedfc2da0",
-        "ce022abdf423ecb7",
-        "e54c31d4a5bc38e5",
-        "dadab1bf2b6e9332",
-        "91b1a15c543602c8",
-        "e247e91548529d00",
-        "1f230a998f0e19ce",
-        "b121490ec845d076",
-        "139b981b8f10a5de",
-        "aad23056c02fca62",
-        "b62c6541984cc8d2",
-        "fdae7adca647cdda",
-        "ad254ce0a75105c0",
-        "a1c5366d47501632",
-        "7909e563fcd75a68"
+        "930d36844f6b8e11",
+        "6052e67599e790db"
       ],
-      "Pins": [
-        "07da3bbad2bec730",
-        "66db6f110e344713",
-        "03eb980a095b3f38",
-        "a9d932098aa2ff86",
-        "0ea7149b034c9e02",
-        "bd3337c24141aeab",
-        "fdc28cf456e7228a",
-        "f8e07e94d0c409a0",
-        "abbf29d45e1ce994",
-        "6106e0c0210f5fd6",
-        "4d2e0e5871e0b1cb",
-        "ccfd2b1af47cdc73",
-        "cee6b5061dde91eb",
-        "d06645b4400f7821",
-        "9a1cf7edb6e1bd05"
-      ],
-      "Sprays": [
-        "f2b2857c538922b2",
-        "4ad0ebf2c89279f4",
-        "330a26c018f5f528"
-      ],
-      "UI": [
-        "53eae121047c0bb4",
-        "2dee5bc1b7f3f539",
-        "a75ae115bc503df2",
-        "d8ed660b71b7b81a",
-        "7d883f857ea5f49f"
+      "Emojis": [
+        "958b081c84e4fd76"
       ]
     }
   },
@@ -3707,58 +1332,16 @@
     "rarity": "Mythic",
     "class": "Support",
     "color": "#fe5e72",
-    "total_assets": 40,
-    "skins": [
-      "Doppelganger"
-    ],
+    "preview_dir": "Max",
+    "total_assets": 3,
+    "skins": [],
     "asset_types": {
       "Brawlers": [
-        "5c9c11ea32c26d27",
-        "fd969037841b3ce9",
-        "485d7b8b72441b02",
-        "cc6606ca9c506b16",
-        "fc06aff2c5b51986",
-        "ab5367dcf5ed21a2",
-        "c757538918529294",
-        "433eee8bb4b54727",
-        "323352326d1298ab",
-        "7bc2d42a159ba68d",
-        "cd13a55b4f39bea1",
-        "c52fe2595f254e19",
-        "59514d4cd8c758cd",
-        "8aab5424a5af3665",
-        "1db687d7a2583654",
-        "7227d8e24b7a930b",
-        "ffc2452467fab847",
-        "c45899ccf8830a30",
-        "4ec2efe804086af9",
-        "3c154685c5239ebc"
+        "8f27012f60cfbaca",
+        "6f1b9052b61af560"
       ],
-      "Pins": [
-        "cf812c65df79e223",
-        "9bdc7a86ef7aa1fe",
-        "b430a765a2b1c021",
-        "04915b0c1a9f0a9c",
-        "fab493e7beb4d0d0",
-        "00be0446e07ba8b1",
-        "82f213fa95fb5e34",
-        "5964321828e2e59b",
-        "0bf0ab36566edda7",
-        "f653cb06cac686c7",
-        "48e78f02c55dc7d7",
-        "cb700f716b0a11eb",
-        "83ecd48aa169a8c3",
-        "ed55c0b72899bba5"
-      ],
-      "Sprays": [
-        "3ac3e56b8f97aef7",
-        "c59c066323d03281",
-        "edf3926dc472d6bc"
-      ],
-      "UI": [
-        "388844efaa323b5c",
-        "de964d44267cdfe5",
-        "1eacb8338b122313"
+      "Emojis": [
+        "33cd4565cb92c8ab"
       ]
     }
   },
@@ -3767,50 +1350,16 @@
     "rarity": "Mythic",
     "class": "Controller",
     "color": "#fe5e72",
-    "total_assets": 34,
+    "preview_dir": "mr_p",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "45b1597d545139e5",
-        "6c388371e978e1ad",
-        "d0621827844ec022",
-        "5aeb32cda944ebc8",
-        "7192a8509bc323a0",
-        "3ec0bae927b26933",
-        "5456ae6d505a2897",
-        "0d3746c50377082e",
-        "b4050513b2adeec8",
-        "a0a753085ef0cbc8",
-        "f0290b86288b3bbe",
-        "ca72b600ea583967",
-        "0cddf3204476ccbb",
-        "b0a19f836aea0ca1",
-        "e650883cb49387e6",
-        "3892a41b335f1c88"
+        "a9812dc83e2db8a9",
+        "77e8eda9425610b1"
       ],
-      "Pins": [
-        "b6ae783a8ca2e890",
-        "57e359d42de0e805",
-        "3db4caf4a67ec735",
-        "28530a32c0e6ed0c",
-        "c96f6adfba4f05ef",
-        "c49082776178945f",
-        "471eae1b74603f69",
-        "dff599c7090bd02b",
-        "2f3a37aacfa0ba19",
-        "fbfbd14473c45191",
-        "1aab9833d48072cd",
-        "20327acabde5d9d5",
-        "62701e445ddfcbf6",
-        "84bc03459dbde827"
-      ],
-      "Sprays": [
-        "781b74f2acfe9f18",
-        "11497b95fd2ddca9"
-      ],
-      "UI": [
-        "f6a84ceb3338166b",
-        "191510ab650ded49"
+      "Emojis": [
+        "d4ef2df8693272cd"
       ]
     }
   },
@@ -3819,62 +1368,16 @@
     "rarity": "Epic",
     "class": "Controller",
     "color": "#d850ff",
-    "total_assets": 46,
+    "preview_dir": "Emz",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "0718f61607073d76",
-        "624d00f352375617",
-        "5c8a494b73553087",
-        "62aac250f1db15f6",
-        "8231fe9855ce1e9c",
-        "d087573ab8fcc14f",
-        "ffa97874eb76da22",
-        "58c656175e2aee1d",
-        "a48f6cccb2910285",
-        "59d5a800624da6cc",
-        "cb1ec651c5691ffb",
-        "fcc9030d45b0b91b",
-        "cb50e2eba6a5c0b2",
-        "2a4215bbc0463b45",
-        "c09231501b1aaf27",
-        "c02104238d1797e8",
-        "0773a8e1c74be75a",
-        "5ae6f3f04a36a8df",
-        "890c9956df5c8674"
+        "e5e9bb919539d2fd",
+        "58e68ec9f3bf3046"
       ],
-      "Pins": [
-        "e3c2bfe025278dd2",
-        "55d9563009d71bf7",
-        "f6c34b1cc59042ed",
-        "34afe0d536d4eb45",
-        "2982b9a078336746",
-        "c3e96df8240fcf37",
-        "4a96bee602361db1",
-        "e52ac6451a7eb15e",
-        "62084a37c4f7e2ea",
-        "ccdde9f05b48c6d4",
-        "e79bce9aa50d4b9b",
-        "4c25721d2807cee5",
-        "2132bbd52491b3da",
-        "4b2e93eafd3b8fb2",
-        "02e9fdef6dd76dda",
-        "771abaf397e282dd",
-        "d53355bd636c44c2"
-      ],
-      "Sprays": [
-        "9510160175202418",
-        "9d8df6021ec07d7f",
-        "1903c664db176d87"
-      ],
-      "UI": [
-        "0da526f02f35c19a",
-        "14dc3737863fad34",
-        "baa470335e3a04ea",
-        "fea136f4fa22d624",
-        "a99380a9a445857d",
-        "9b915e4ac3d8c076",
-        "c75edcb2829c8b45"
+      "Emojis": [
+        "41efd1222e493cf3"
       ]
     }
   },
@@ -3883,54 +1386,16 @@
     "rarity": "Epic",
     "class": "Marksman",
     "color": "#d850ff",
-    "total_assets": 38,
+    "preview_dir": "Bea",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "ea95b205cff73bb3",
-        "b5c987cb6fb3fd79",
-        "f7b88492fef5d0c2",
-        "fcdb4c634ea97f06",
-        "444b82e88b3a5458",
-        "b9006ff0a230b041",
-        "25de642044fd31bc",
-        "7738909ad29ca3e7",
-        "8da43fafd896e33e",
-        "4e8242bb25079415",
-        "a7e6db8abc5a8a15",
-        "b11acb76a70a13c7",
-        "7f594e50c7c8d600",
-        "b298b1fee35f6602",
-        "1d53653f49537e76",
-        "ff5b2f2c33bd2fd4",
-        "afede6671c1e0657",
-        "31ab6593417ad3aa",
-        "bb9cd2ee82e1d13d",
-        "cbc285b542a2ee87",
-        "75e91427cd715833"
+        "26b3ad2c985d0f95",
+        "d104486ba1a4549b"
       ],
-      "Pins": [
-        "8d807466601f2c13",
-        "49c90e9838c8f6a9",
-        "05faf3c1c1fab086",
-        "98021e324141aaca",
-        "c7818413c3156eff",
-        "9494a6cb05f18943",
-        "b2205e6395f35dd3",
-        "6582e4b312d113a3",
-        "d58de422c95fb0b6",
-        "db143130316c5bbe",
-        "6f3b2990affe7e47",
-        "0b77dee0aac9b87f",
-        "7ec906477a1dcd3e",
-        "8ec81b341bbac870"
-      ],
-      "Sprays": [
-        "2e70ba8074dab6b2"
-      ],
-      "UI": [
-        "7046545e14802902",
-        "74d3fdd6bbcc9f31"
+      "Emojis": [
+        "d53d0344d826e6bf"
       ]
     }
   },
@@ -3939,65 +1404,16 @@
     "rarity": "Legendary",
     "class": "Controller",
     "color": "#fff11ev",
-    "total_assets": 45,
-    "skins": [
-      "Sleep"
-    ],
+    "preview_dir": "Sandy",
+    "total_assets": 3,
+    "skins": [],
     "asset_types": {
       "Brawlers": [
-        "1f9166bb7b701a87",
-        "663cfe0ad707e7ca",
-        "60cdbeced6ee7b91",
-        "0212a42d22625b30",
-        "d3b03477af05a25b",
-        "7688e828b281da6f",
-        "033890f241ac7239",
-        "a998efe705836dab",
-        "b061bcf57be4347a",
-        "56f6544e4c9217be",
-        "a9a81e31b58b7a90",
-        "1574c155fa19f62c",
-        "fec05142bcc86f15",
-        "14c11288dfc33b6c",
-        "247bee4d80cd3a96",
-        "b412881095cb3bac",
-        "408ea2617ebf895b",
-        "4972ace82f4284ac",
-        "b83f19d884e1579c"
+        "101f23f1545fdb14",
+        "7af8023435593082"
       ],
       "Emojis": [
-        "d72caa1247d3b477"
-      ],
-      "Pins": [
-        "48479291d30ecb56",
-        "a785da3a2aafb3fb",
-        "9d996989b8046dd0",
-        "4ac4d3eab7a495f9",
-        "c53b5ce98802156c",
-        "98f36901e4534fb3",
-        "e24d712a2336d7d8",
-        "25fd8aa428fcca37",
-        "41155a009f86a683",
-        "28160968c8f1346d",
-        "9f5a5e0c2646fec5",
-        "c61bd3a96e7161cd",
-        "a2e0db6a74724ec0",
-        "376bed3677783f7b",
-        "f7b55479b518ab29",
-        "96659c95ce2ebd5e"
-      ],
-      "Sprays": [
-        "820b1114da38a874",
-        "a58ee48f97299e8d",
-        "3814ee65e735dd6c"
-      ],
-      "UI": [
-        "b67c6762ca9754ca",
-        "d8552a5125b983ca",
-        "235d87a838fdf70b",
-        "88d808f735b3a562",
-        "e021702bca700b49",
-        "647a850c3a139ef0"
+        "cb3e53ad34054d08"
       ]
     }
   },
@@ -4006,59 +1422,16 @@
     "rarity": "Super Rare",
     "class": "Damage Dealer",
     "color": "#5ab3ff",
-    "total_assets": 43,
+    "preview_dir": "8bit",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "49a542bfd01a347f",
-        "ec00759ed616684f",
-        "f485fc6fb9c3227e",
-        "1c6e18c21d843bbc",
-        "a4951cbace7c75bd",
-        "1dcd5788692b0d0b",
-        "dac453e5d38102d8",
-        "50c12d20b96852d3",
-        "1dad12d25208b6a8",
-        "f772c1f048dae012",
-        "acd504c5669404c2",
-        "f2ff55382266d833",
-        "ad5be83336411c1a",
-        "615e5abbc29fbad3",
-        "cac629f584ddf628",
-        "87ffa62dd5f2b0d0",
-        "5d8c30db74a23c64",
-        "5c8dc6d580e950b3",
-        "03f1b0219b8eacf8"
+        "3c5513356dd034bb",
+        "2311d610b2860770"
       ],
-      "Pins": [
-        "497c9fc041efeeaf",
-        "766b638171fb2dba",
-        "0fdcf502a2be9108",
-        "e1573b8b80f58aee",
-        "fa2ca0914c8f7405",
-        "ee9499a269ca5305",
-        "b052b30919369aff",
-        "7ff510de4082532e",
-        "27d65f7a5a5cc0a1",
-        "ffd51e5cfb5f47d4",
-        "a346120aba0690b8",
-        "d2ec632cd1e24b58",
-        "93382c765e13907d",
-        "12f0e9ce2f1832f9",
-        "9a3fda505b86c360"
-      ],
-      "Sprays": [
-        "d9edf75b6ee6210c",
-        "a2e2f24eefbda3f2",
-        "b87149b69438b4bd"
-      ],
-      "UI": [
-        "6c6ba7337f922d0a",
-        "8245383e67e12d61",
-        "991c3393734416ff",
-        "286798ed3e0fc5bd",
-        "1d47ce85791638cd",
-        "22ade477cbf94950"
+      "Emojis": [
+        "de9ba41faf6f3f38"
       ]
     }
   },
@@ -4067,73 +1440,16 @@
     "rarity": "Epic",
     "class": "Tank",
     "color": "#d850ff",
-    "total_assets": 57,
+    "preview_dir": "Bibi",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "a049da7cef43c6d0",
-        "eb08aaa5fd078ac8",
-        "6d99e77d933f4e26",
-        "92319e4a2aa45eb6",
-        "99b8186a8b9038f8",
-        "68505f94c8ebd9cc",
-        "c229ca84af20b2b9",
-        "e82dd73708d4653c",
-        "7ec4e25734aace41",
-        "89d9c5b288c3e17d",
-        "8c221566738030eb",
-        "8388b4f2ff7c7ba4",
-        "5836e92cb748499a",
-        "9e86e8605a7e2be5",
-        "f37440e79d3f760e",
-        "174d7b6de441648d",
-        "d6319f2d350ef308",
-        "0d730df61f0b71e3",
-        "a41783998291aa76",
-        "9ab0c0be971ae425",
-        "9f0790e24e41d67b",
-        "f3b2b4afc056c455"
+        "de792fcacb1f2082",
+        "6cc145d07c81bc17"
       ],
-      "Pins": [
-        "50c6fa48a2af64bd",
-        "07f8a10ed6e2ab0a",
-        "f3d5fb745e9a01d8",
-        "d87c8dcddb2b7312",
-        "37c9f515bcb48055",
-        "099536a71be1c235",
-        "b33d51aa5cef0014",
-        "0569dedd6b3e13f0",
-        "abd597215cb52e26",
-        "d77bf6def65adfe0",
-        "c96d81b4e291f1c4",
-        "54fd146bf536f170",
-        "6c4c50776b812c8d",
-        "a382e53132f258ef",
-        "9fc2d3368e37ded9",
-        "6f3fab7e4510bc35",
-        "e2de4d2b8b8dc563",
-        "0bb597fe694bbc32",
-        "83b1fb0cfb097eee",
-        "c4b7a555eece5daf",
-        "a350fe776f282d20",
-        "c7b0101ecf15931f"
-      ],
-      "Sprays": [
-        "3a57081809e2bf6f",
-        "b47f2af6383229f0",
-        "c04c9d3f77905a64",
-        "1c1e2a510e46f5d8",
-        "88ba5cfdd95f0876",
-        "54279466c7aec924"
-      ],
-      "UI": [
-        "0a3b729bf6906766",
-        "ddda0ff48fd46ccd",
-        "7c26ce472e858a48",
-        "60f1008d0b983f77",
-        "8259a45c5477ce4f",
-        "83d6c24b8fa82b74",
-        "8b3f2af67c8031dc"
+      "Emojis": [
+        "171d3bc01bd452b7"
       ]
     }
   },
@@ -4142,55 +1458,16 @@
     "rarity": "Super Rare",
     "class": "Damage Dealer",
     "color": "#5ab3ff",
-    "total_assets": 37,
-    "skins": [
-      "Glasses"
-    ],
+    "preview_dir": "Carl",
+    "total_assets": 3,
+    "skins": [],
     "asset_types": {
       "Brawlers": [
-        "94966b4b9a403f6e",
-        "3661896ae7583233",
-        "5e4d649a9d7e7b99",
-        "16c261eb35388e53",
-        "4c7b9b60fb993e1f",
-        "4d6236e5e12c1149",
-        "4663dfe684a3bae3",
-        "f9677b9e950a3bd1",
-        "31bee7b9ceb1dea2",
-        "24242e02adf2b173",
-        "3449fb4b11a998a1",
-        "1ea8bc003517bcf8",
-        "530beb7c74553157",
-        "d64d7bb304dae8bf",
-        "ed5f319a0676f5b9",
-        "53b0a2b99919776d",
-        "b658ea90c8bbc8f2",
-        "fbb0712737cafa12",
-        "7ea697aaaee4e9b6",
-        "d5c5c80d12fc186f",
-        "fa940b286d82d938",
-        "0a307c026356d163"
+        "4f30ab37c45bc928",
+        "c9e579c59678bfb9"
       ],
-      "Pins": [
-        "4b4a6f2b3eff7de7",
-        "0e3252e2721e84b2",
-        "e6e17d771e2bfb69",
-        "0c952bae76860ca2",
-        "0757d3f5d8fd2d06",
-        "346c715236cf3d35",
-        "19467d091373a956",
-        "7653014970a48b95",
-        "232e7bc24001526b",
-        "d9dda22e0b1385e1",
-        "2c80c099d39372ba"
-      ],
-      "Sprays": [
-        "db0b35e897b6aec6",
-        "9f43eda220ec0c0f"
-      ],
-      "UI": [
-        "7d57e3322776ad3b",
-        "b1d5eaf7956f68ad"
+      "Emojis": [
+        "f6fc221d8d0cb186"
       ]
     }
   },
@@ -4199,68 +1476,16 @@
     "rarity": "Rare",
     "class": "Tank",
     "color": "#68fd58",
-    "total_assets": 48,
-    "skins": [
-      "x"
-    ],
+    "preview_dir": "Rosa",
+    "total_assets": 3,
+    "skins": [],
     "asset_types": {
       "Brawlers": [
-        "922cb946775f18b1",
-        "c384b1f8b9b5e33a",
-        "fefbbd297c75f3b5",
-        "131556985a0ea5c9",
-        "882d78b3f2c1475d",
-        "f5691a0b570eae9f",
-        "8cb81ee0871ff50b",
-        "279f7d24e1ddbad3",
-        "870f4006dd386440",
-        "4c306fe92bfd1f51",
-        "de78b5913522db5f",
-        "50ba4a2275ab0ad2",
-        "a8b613b006693b89",
-        "7f4a872805bb004a",
-        "51de607c2555667f",
-        "9b78bb351ebcb774",
-        "88767793f0db9830",
-        "5a8fa8cd65843eb3"
+        "53b788fdb18bef90",
+        "7be9cbab797623ed"
       ],
       "Emojis": [
-        "6968918c99f0d63b"
-      ],
-      "Pins": [
-        "ec9eba7407dd113c",
-        "ddada6041b66905e",
-        "3f7613d5209b4f5d",
-        "5b49ebfe1ff45e51",
-        "22a38db7eadfc863",
-        "2c44339b01ceb92d",
-        "74ca31de076957f8",
-        "32231c24119589b5",
-        "ba1c01fef1213e70",
-        "7d40dc4ad7d295bb",
-        "7dab3f8a8ad5c743",
-        "5d08859d1cd368ea",
-        "c62e548885ff7b60",
-        "f4f8c1a96d72fc59",
-        "fcb198ded9249393",
-        "72bf9da087875e2c",
-        "17f4c2642dfe0d5f",
-        "5b52df4a79617c41",
-        "6115ec585d97aa33",
-        "031af4444352dcb5",
-        "f8239c05e576fad9",
-        "7a435d80c822d34c"
-      ],
-      "Sprays": [
-        "2fc861a8eeb7c371",
-        "8e3606df0f895f91",
-        "f5e0cb88a9b416c0"
-      ],
-      "UI": [
-        "f8883ff6370d4439",
-        "768d4d14a1bde739",
-        "f2774ca5b7b8c2ad",
-        "45536d7578a12de2"
+        "cefc013d7b638954"
       ]
     }
   },
@@ -4269,82 +1494,16 @@
     "rarity": "Legendary",
     "class": "Assassin",
     "color": "#fff11ev",
-    "total_assets": 62,
+    "preview_dir": "Leon",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "1bf64559354bd712",
-        "b5bd36b05d7a3f87",
-        "ff5663cb9963afa3",
-        "40ab4e18954314b1",
-        "5e6917291e30c8e9",
-        "6de8837c3f422be0",
-        "277d90f5124321cf",
-        "91b4ccb35c5f8a8e",
-        "97e3bfc0453fb3bb",
-        "862a5b48d590f970",
-        "c7dd95d0e6c0c576",
-        "f3dd683db925bd49",
-        "c7e1c3b9b5be44c1",
-        "91b5434943b5afd4",
-        "a59c3f074a6d23e8",
-        "e007193eaad623a2",
-        "13234eee93cc5497",
-        "f8db0732deb3dd8e",
-        "98607fa58d2df18a",
-        "cbcd58f9aca39cbb",
-        "a9fd895a08fcf6d0",
-        "b63b3571bda67c0a",
-        "2a16fb2c90fb1692",
-        "6af7fb14dfe116b4",
-        "ddf4ab4281466ff6"
+        "71356d12b4db9667",
+        "b6a38010d0665e99"
       ],
       "Emojis": [
-        "d5a8bec66f96b7ed",
-        "3dcb681ea3eed855"
-      ],
-      "LoadingScreens": [
-        "5ff15aa4b44102ff"
-      ],
-      "Pins": [
-        "b1d71a45892daba8",
-        "e1e9575301ed8242",
-        "393a309bf4cb60c0",
-        "a03f123f58fc5e62",
-        "fc5290aa8d6781ab",
-        "16febd17d6f9ee8c",
-        "ef63106fb06f1815",
-        "1fc9d932f82f11a4",
-        "bef79e815da25e32",
-        "73fecf4c114c2612",
-        "cd60d87ba03dfe8c",
-        "ee0e4f6aa7577e2c",
-        "1a60563af1b107f3",
-        "1fd305d5df5ac546",
-        "81b5c4086de1f0b0",
-        "239fe2b2ca1a8f93",
-        "ff3374fe08567cc9",
-        "0843e0964e33da33",
-        "c4c57d7f5c92b8aa",
-        "7151628e8b28c249",
-        "86516231a5828173",
-        "da3e674a8a3c3fe1",
-        "22f78da3db12b972"
-      ],
-      "Sprays": [
-        "114c12bf229615b0",
-        "93205bc45b816205",
-        "6cad6daa7d543b54",
-        "20f25d416acc1994"
-      ],
-      "UI": [
-        "ba21885ae539f74a",
-        "271de86b440b039a",
-        "472b0548c79c0c81",
-        "e69ed5dc2da30dca",
-        "4e72d07c566bd60d",
-        "ed3ef014193689fa",
-        "ea29e6a8931827cb"
+        "3b4798de307f6089"
       ]
     }
   },
@@ -4353,63 +1512,16 @@
     "rarity": "Super Rare",
     "class": "Artillery",
     "color": "#5ab3ff",
-    "total_assets": 47,
+    "preview_dir": "Tick",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "2236d94a84fc0069",
-        "c3d2b2a40812009b",
-        "a5038677cd31acc3",
-        "49838f6d1dd298f1",
-        "240ce7e33dc15744",
-        "86b0a914728544d1",
-        "2266e3f265d25497",
-        "aca5a75524f04b33",
-        "c10ba2f5c7956af3",
-        "539d53051c6f6624",
-        "383b79daba1c8130",
-        "d24cd5d58f692bc1",
-        "fd852726b9b2165b",
-        "f6768008dc951214",
-        "c66967164bbf14e1",
-        "0698f22ae60051a2",
-        "6e9c35ff3de249e6",
-        "03ac505ac887f640",
-        "5bf05a07f1250a75",
-        "7c17262c2e926ceb"
+        "acf53cd7c93819d5",
+        "14b835723710698b"
       ],
-      "Pins": [
-        "23785ca7d655062a",
-        "82af9f97c84f9e48",
-        "9e0cebb8288202c8",
-        "9dae7e1b02252fbc",
-        "f06b5dae4fc64687",
-        "79bcbf1f4fa64068",
-        "e1cd8cc34a2329a2",
-        "4ab337284c482cc3",
-        "62256aef958b322b",
-        "d256b178148260c5",
-        "bf476f5f3049dc34",
-        "014de2397a86083a",
-        "0489f679aa07bccd",
-        "26b169f84ff0b27b",
-        "211b8c7bb85ce445",
-        "f619073c4ce01c29",
-        "cc1db08651af17b8"
-      ],
-      "Sprays": [
-        "ffaf04e89d06de5b",
-        "f7b8a5755597e3be",
-        "c380aa202cdf9c5f",
-        "8dacc5812411fae8"
-      ],
-      "UI": [
-        "2262c186fd89d984",
-        "e2aa0640835f2f60",
-        "59bb1f8e7841e8f8",
-        "f981e8baee7bb772",
-        "8eaa56769823740d",
-        "93754bf38e6353d8"
+      "Emojis": [
+        "97b6a4c864fa697d"
       ]
     }
   },
@@ -4418,49 +1530,16 @@
     "rarity": "Mythic",
     "class": "Controller",
     "color": "#fe5e72",
-    "total_assets": 33,
+    "preview_dir": "Gene",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "aa93f24d67335ceb",
-        "1f6f08cd6ee2924e",
-        "2de380861ef06da6",
-        "6d209498171cd980",
-        "2a9e9d52616ade46",
-        "bbbb54a631d96ac8",
-        "0a3707e94502f94b",
-        "39ba0fe12668d0b7",
-        "12d7871bd3e032a5",
-        "fb25aa5649f8c0b8",
-        "49d4d24fafeb16a5",
-        "97de8fbc33c37341",
-        "7161ea8de22cb5af",
-        "28731e4bb6b6d7cd",
-        "fc25340126516681",
-        "9564743a1f24fed5",
-        "bdb45cf2e4df65c2"
+        "ee6f73e8fde12ed1",
+        "c051484dcc865feb"
       ],
-      "Pins": [
-        "dd8f045c65502b7e",
-        "186a6591a01b9bc5",
-        "8efc58cb9d5f4264",
-        "6ec8c4a09c709709",
-        "6418c5a8a3a979bd",
-        "31f162bd2c01b06b",
-        "56abd03c7efe3d0a",
-        "8896a55074cf62ca",
-        "a505edb0ebf38a1c",
-        "cf4808956387971c",
-        "2f8d3a80bc3883ad",
-        "51c7f1da25f1dd86"
-      ],
-      "Sprays": [
-        "498b1843b271c1b0",
-        "6eba38b272d6db68"
-      ],
-      "UI": [
-        "1220bfea0a8cc4a1",
-        "fa094093d7d796a9"
+      "Emojis": [
+        "7e0d16f429db33f4"
       ]
     }
   },
@@ -4469,79 +1548,16 @@
     "rarity": "Epic",
     "class": "Tank",
     "color": "#d850ff",
-    "total_assets": 61,
+    "preview_dir": "Frank",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "e849359f27dec222",
-        "4bfd1c654387075a",
-        "b5ad4acde4f5667c",
-        "cad8b4d213d331ed",
-        "c4f36c54f504398f",
-        "af022c711ac76085",
-        "4f3b2a6e59330bc9",
-        "e1ea1b946cdbe055",
-        "00bd2ce3266987ec",
-        "49aa1fe528674b11",
-        "9305286892514cd5",
-        "a5b2266fe2e49688",
-        "38dc5c9a1365626c",
-        "2e4d4ffb6d26fbb4",
-        "c5356fb960cddeba",
-        "75516674744b91df",
-        "18538948eef38340",
-        "21bfd8d1836b489d",
-        "276f9d9f7a60ddbb"
+        "01acd203cab36445",
+        "f8da76c0e447f6a2"
       ],
       "Emojis": [
-        "4f705bf19f0b950e",
-        "7a7bf084f0fb7c49",
-        "f635d0b72bae2d64"
-      ],
-      "Pins": [
-        "77ee02bafe1a8de7",
-        "557f77668a3ebd52",
-        "9a3f03b36b41ad4d",
-        "cc500a390f47ff58",
-        "f6e8544f4968368b",
-        "fa5c5d6a2c878522",
-        "42d6eab223f1d205",
-        "f3994079e50e70ae",
-        "6f1986e03af246e0",
-        "5ebed241429ec09e",
-        "de3cabd6e9d914ae",
-        "fa56b7d09327eed3",
-        "6d9b76c85305653e",
-        "03d094e4fcf5da75",
-        "aa65ae7970370c90",
-        "3cac214541ed3440",
-        "b9e94c29959a09a0",
-        "9001de9e8d3488fa",
-        "ce7bf0695459938d",
-        "73b780f3e4dad942",
-        "3c80ce6f43f66441",
-        "f8b2199802412e59",
-        "d61ca78fc4c1f0e9",
-        "5ad517b28d4f5401",
-        "ed024f6d3246a9c1",
-        "2a31e3ded347bde8",
-        "d8852aff58d77d99",
-        "7696f979507c0726",
-        "e6758150f87161e1",
-        "df2dbcb2622262bc"
-      ],
-      "Sprays": [
-        "ca514e7aaa9ed667",
-        "c146ad1d0d710fe8",
-        "cc42a7aef0abac60"
-      ],
-      "UI": [
-        "988c5afcc91fb02f",
-        "81bc47a9521458ac",
-        "fb59776c89efa88c",
-        "1c694f6edce03fa0",
-        "165edba0a1349fe6",
-        "d14c7091f366009a"
+        "f2fbed3831f4c42d"
       ]
     }
   },
@@ -4550,59 +1566,16 @@
     "rarity": "Super Rare",
     "class": "Artillery",
     "color": "#5ab3ff",
-    "total_assets": 41,
+    "preview_dir": "Penny",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "00aa01c616b16400",
-        "2135360491a06908",
-        "93f96917c46dd95f",
-        "100c39539ab7e9e0",
-        "1ac585865c863bfd",
-        "29ab468ed252e06c",
-        "32a77ee1fdace71e",
-        "890b0839bc58157d",
-        "7cb2d8352923a41e",
-        "b2d20e2dbfcbadce",
-        "801b90fd1f994095",
-        "cf0a221b2f07714d",
-        "a55e42b9d44c4385",
-        "612dcad6a0c3a02d",
-        "c68a8b17b696e0af",
-        "15df21fae5c9b76c",
-        "d193e6b9d75be44a"
+        "da47ca43795ea6af",
+        "9a7bdfd9e87f63ae"
       ],
       "Emojis": [
-        "a3ddce929d30c01a",
-        "50f2fabb5c15a5e2",
-        "1c7d81a31ee22ef0",
-        "d0048641fe4a0b96"
-      ],
-      "Pins": [
-        "9d8b350edc32d4ad",
-        "8e3130252a56bb73",
-        "7408963bde47a0c0",
-        "ce76a1652dd53cd8",
-        "8ec6706d50bcec22",
-        "1b45c9e9e99d9f8c",
-        "3457777d15355d2c",
-        "d31ff8d54dce002c",
-        "5ff3548db739cc07",
-        "8a240b401381a366",
-        "50ef28fec6a7d3d1",
-        "761a80d190b05a8f",
-        "43f164f4953746ec",
-        "95fff78baf3e5b11",
-        "6987c6c6264cba4a"
-      ],
-      "Sprays": [
-        "007327db5f19aad6"
-      ],
-      "UI": [
-        "a929f063c4067ea8",
-        "00750e9bcca92a23",
-        "79fb38569e460d77",
-        "1fcfb4527cb6191d"
+        "b91bfa3c56a12250"
       ]
     }
   },
@@ -4611,50 +1584,16 @@
     "rarity": "Super Rare",
     "class": "Tank",
     "color": "#5ab3ff",
-    "total_assets": 34,
+    "preview_dir": "Darryl",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "e906296da714246a",
-        "733d31213c5fd567",
-        "35b1614090676e5e",
-        "d26e84a93c1d8766",
-        "88aaaca84bd48061",
-        "3e356e74e44e6d94",
-        "fbe41535ea3f8f26",
-        "33524b3af7e32b18",
-        "5b037807cdb1371e",
-        "efad04a516e062a3",
-        "6a691940e353ccec",
-        "b0cbf8aa6d104d12",
-        "4c0e0d6348ac647e",
-        "ea184065a676ce54",
-        "3fc3b2083bc5cfe3",
-        "1ac5c148ffe76cd1"
+        "96ec66f35782fbb6",
+        "3b3201360fa2b2e4"
       ],
-      "Pins": [
-        "75e30acac37e8630",
-        "47091376ee35fbb3",
-        "ea32c99ca8571829",
-        "fe613301b5bbca10",
-        "0b6311dcbe951486",
-        "aacdeee8df43199d",
-        "6309b4005605fe35",
-        "90d17907c249d4fb",
-        "00861643f09b477f",
-        "1d2053d5a459708d",
-        "0be43d02fbf1768d",
-        "6786582d36e2ffb9",
-        "3a0e88bc1e66d9b1",
-        "339672752dea0456"
-      ],
-      "Sprays": [
-        "76a5dad318c5d606"
-      ],
-      "UI": [
-        "c557229590a8aa0c",
-        "bc07b92f94c05901",
-        "9708ad25a35e5cd6"
+      "Emojis": [
+        "841e96ddb0a6ae98"
       ]
     }
   },
@@ -4663,56 +1602,16 @@
     "rarity": "Mythic",
     "class": "Damage Dealer",
     "color": "#fe5e72",
-    "total_assets": 38,
+    "preview_dir": "Tara",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "143aa23d66ec54cc",
-        "ccf5b0f6b713133f",
-        "17ede3dfa66f15d6",
-        "fd1d5cd63afa808d",
-        "acd2a18e9db72020",
-        "741f9da52680627a",
-        "21ec95e858d1621f",
-        "b46f0b17812c5e3b",
-        "3a806eb72f514b80",
-        "a9f6ebf240729997",
-        "13bb0a21fcafc406",
-        "25751c45194759ac",
-        "c2fdf478754ecdb8",
-        "2509a8168ef2beff",
-        "bdadfe2a96f7b111",
-        "e084f00894c93a88",
-        "f5d973b996f77de0",
-        "8695f27e4b02ea04"
+        "966c73a2b4cb8c6d",
+        "fb3b0d9ab0698092"
       ],
-      "LoadingScreens": [
-        "af8b89e55a376e20"
-      ],
-      "Pins": [
-        "d7ac563939891355",
-        "842be498205de3ae",
-        "06aa8f486d591692",
-        "d5f13f32c18438fc",
-        "e23ac5ad409fa5fe",
-        "a65494806f7d54e0",
-        "08217382dc7614f8",
-        "48b348f9edae26dd",
-        "c9f978583c9ec931",
-        "fc2463e1b742a62d",
-        "4c02cd43a47a790c",
-        "129390deb80be0ec"
-      ],
-      "Sprays": [
-        "188bac636dba2974",
-        "0ff5e747e5081228",
-        "0be869ea129eb0e5"
-      ],
-      "UI": [
-        "57f955efc311153e",
-        "3512d744dc6e1aad",
-        "35f8dfa6cbcecd3e",
-        "78d0aa5c708a9911"
+      "Emojis": [
+        "11cb2877b2a43610"
       ]
     }
   },
@@ -4721,62 +1620,16 @@
     "rarity": "Epic",
     "class": "Support",
     "color": "#d850ff",
-    "total_assets": 42,
-    "skins": [
-      "Pam"
-    ],
+    "preview_dir": "Pam",
+    "total_assets": 3,
+    "skins": [],
     "asset_types": {
       "Brawlers": [
-        "2b2e281eb3d2c7bc",
-        "02b868b4689b5112",
-        "31c97956bf96ea77",
-        "aa7b27a398c3abe2",
-        "8b8d5491b10621a0",
-        "0d879557e59121c2",
-        "8c3d2022bc4e0b68",
-        "d08ff1ae95b73857",
-        "60aabe06d5f7ccbb",
-        "af51e833ddec0961",
-        "f87edbeb2e84bc43",
-        "68042c21dd4d2dff",
-        "8f427fc34a8758ab",
-        "b87116e0330e19d9",
-        "c8f6964be7118658",
-        "b7e4e07fba03cd3c",
-        "38587e61baab0bcc"
+        "4189c23dc227f19e",
+        "faa971d3eb85b9cc"
       ],
       "Emojis": [
-        "c831e64db13ccec9"
-      ],
-      "Pins": [
-        "3bcfad133f9f48ca",
-        "07ed011e7f6aa04f",
-        "927335befbb64912",
-        "f30502bd23c97c6b",
-        "7a5d6aefc55f9ac1",
-        "626635c620a5fe49",
-        "d11ceef57dac4650",
-        "00d1cbebc2d64475",
-        "337a9912dde90475",
-        "6bdcb4c2853879c5",
-        "1733496a9854b605",
-        "fc180c9825bc7e43",
-        "35ad017ab108e2d5",
-        "6a6b187749b55873",
-        "8559eeba2fcbf99a",
-        "af1097881e815136",
-        "d180eab1f2fcf119",
-        "7e1f0dd18706de45",
-        "bc168331ba8758cb"
-      ],
-      "Sprays": [
-        "208fd4706f82db30",
-        "d4f34814a0f5409a"
-      ],
-      "UI": [
-        "ca0dacda4acfb65e",
-        "0ebc432e3486cde5",
-        "c58baad0148c8231"
+        "08d04bddb439809f"
       ]
     }
   },
@@ -4785,61 +1638,16 @@
     "rarity": "Epic",
     "class": "Marksman",
     "color": "#d850ff",
-    "total_assets": 43,
+    "preview_dir": "Piper",
+    "total_assets": 3,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "ff12c9b6d25bbb9b",
-        "e06590c74f37ed35",
-        "42baf67054f82406",
-        "8b9b17aafc718ef8",
-        "2e7d49648d2c5729",
-        "5843716a9b7a9edb",
-        "d97eef5065728b47",
-        "901f8c72b7cbbc1f",
-        "7a5ce06c0efc5a12",
-        "cbf1d1374b164826",
-        "dcd04cf77fb31791",
-        "1a965b15e3d84e8a",
-        "53b06ae6f9544442",
-        "fdb90a56bd839b3c",
-        "c992615139a45ad9",
-        "73d3d4984fffd226"
+        "556b49b0b757fd38",
+        "7bb906949c10c36c"
       ],
       "Emojis": [
-        "22488652971515f0"
-      ],
-      "Pins": [
-        "27a91de14346b649",
-        "6abfcbb047283ac3",
-        "ea7e345912232804",
-        "4778a43988bfe5d5",
-        "3d23271b8aa06d64",
-        "431c860e8718a355",
-        "bacfdefd61ead978",
-        "ad56e493a8db4435",
-        "957a6fbb66cd77a0",
-        "1843e8304c24bd69",
-        "d0844d0d955345d3",
-        "19b7c35557a50d87",
-        "e8fec176dce6aaac",
-        "f922352f05dd8f78",
-        "0de73c818f5dc930"
-      ],
-      "Sprays": [
-        "d6f6a6717478ac2a",
-        "5e5032f7f4ec8706",
-        "9e685bebd93450a9"
-      ],
-      "UI": [
-        "65f7f0d8b45d5b67",
-        "b7e55874a8c13c52",
-        "e175cfc50d43f36d",
-        "7eaa7be5ab5615cc",
-        "493b9d57c1d56fd8",
-        "75ad838243005b8e",
-        "140877815308a9cf",
-        "d23efcbd216628f8"
+        "a90322f91d7dce9e"
       ]
     }
   },
@@ -4848,169 +1656,37 @@
     "rarity": "Epic",
     "class": "Controller",
     "color": "#d850ff",
-    "total_assets": 149,
+    "preview_dir": "Bo",
+    "total_assets": 26,
     "skins": [],
     "asset_types": {
       "Brawlers": [
-        "345e36ed20214256",
-        "3615cab2c190de4e",
-        "5c2274a086266837",
-        "eb6b4ccb36b77b94",
-        "8413abaf85ef19dc",
-        "4edd8376065870e2",
-        "600954aa22e13cee",
-        "da7bfe910c3ce8bf",
-        "394eade1cb04c97b",
-        "4c612c6acf1a6667",
-        "97e3169598e717c4",
-        "67900f3ab47a1dd8",
-        "76c4a42103283a80",
-        "e1958984afe5281f",
-        "02dc7b9590a9229d",
-        "644c769044e0ae09",
-        "f383656b246bc544",
-        "3917ff02090033fd",
-        "ff25854f68ee92a1",
-        "cf2d57e8a086ced4",
-        "5c5eb2bac43cf4b8",
-        "1f0543f4904518f4",
-        "390a8780fe304f44",
-        "565724b969b6db09",
-        "54629c26430eff29",
-        "b2f36a8a0919c8f0",
-        "3a683f6976c3120f",
-        "2f907f2f452c1af9",
-        "aaf9765d32ec9f8a",
-        "78cfe6c2d8db19a9",
-        "b7d60f1825c9717e",
-        "8240d7270e57cf29",
-        "e5b31511986ce7b1",
-        "a12f2faaca78c58a",
-        "d286649d315e5ff4",
-        "8a41fb8fbb2ffa51",
-        "93a5c8ddc750dee5",
-        "d33964623040a753",
-        "0f5492751f3995b0",
-        "fef2f0384467a135",
-        "90aebb97fd6c4b4a",
-        "066e390b39f893a3",
-        "96593b7d2ec18c63",
-        "5829ccbd1503a2f7",
-        "04472b28f0652251",
-        "f1177dbde2870de2",
-        "093d392b1403615b",
-        "09ffe733b1c7ec57",
-        "9cbb587da83fe33b",
-        "57459e848d3baa2f",
-        "0c46018aef614774",
-        "d793d965e913512c",
-        "2ad4ad3825bd098a",
-        "e9f23fd4dcbc4b2c",
-        "cb4f41d2b598310b",
-        "a299836197697a90",
-        "172712ddfb3da31f",
-        "dcdc241c74c8c109",
-        "fe33f35157d1a6de"
-      ],
-      "Emojis": [
-        "894dad07907c187e",
-        "8c8f38984bf9ff6a",
-        "8d9e4ce2d2c2cb0e",
-        "30e8637ee9419dc0",
-        "c287fde87e030fbd",
-        "6012ac6687d3284c"
-      ],
-      "LoadingScreens": [
-        "f70c075f58ad367f",
-        "b45ab396f72a969c"
-      ],
-      "Pins": [
-        "71ba7fd42de537bc",
-        "ae66096c0ca9c0f5",
-        "5a5aed4fc8fba7bf",
-        "44476daac3adc1a4",
-        "7baa8c62660cc582",
-        "2ac5d0686c3feb33",
-        "40b852ce34b1688e",
-        "b8f7aae7b8df9a54",
-        "443a00d73e3381cd",
-        "558d19a4e3977006",
-        "a5d2cbc253a7db76",
-        "370abdc34c7c925e",
-        "16d9331d3445e397",
-        "6a4a4dc15bfcc1d8",
-        "813001f028240e01",
-        "e2ba6ad4127580d5",
-        "9952a78e41fece0c",
-        "a0b3dc6b55d756e1",
-        "b00a300cb0fc764c",
-        "17231df607fa3738",
-        "24849ad51088277c",
-        "6384ab93813baf78",
-        "ff11f043d307cfeb",
-        "b5691a288cf448c3",
-        "e22e480d5a828f80",
-        "5532ee435155355a",
-        "04dbaa16fe1029eb",
-        "7f1dbfcff336d4fe",
-        "dc352dd13a830a5c",
-        "896d3134262db44b",
-        "fc0e0ecc15653f4e",
-        "b2ca99d000e0b040",
-        "8059a5265060b005",
-        "9ef6d0c62afc57ce",
-        "82635f94b3d67a68",
-        "ae2eda0ee4db7e51",
-        "20d36889c37dd5b2",
-        "45a4a243141db059",
-        "149c2ddce0efa245",
-        "415ab25e70f75261",
-        "a07e6c39ebe77c55",
-        "5568d74dc40dfac1",
-        "57d8d4b61270d61a",
-        "054d6577abffa9ec",
-        "5b2309156c06df06",
-        "c905ba1c3f35af4c",
-        "fdd52f39feffff3a",
-        "0569801831a96049",
-        "0a89662ef09f3cce",
-        "33fce15a52db6a01",
-        "cea5e0b7d6507683",
-        "a8398a57b71857c4",
-        "7f6af7802f1ea808"
-      ],
-      "Sprays": [
-        "9a92e130c5284d1f",
-        "0e27dba6d6afac46",
-        "fd25edaeb864c43d",
-        "29e93fdae01dfd0c",
-        "74e0576ca4c646bc",
-        "cc7911da997fd6bc",
-        "acd0f638a8294bd6",
-        "376772c197f150f8",
-        "7648a1681965faf7",
-        "a92a778fb9872364",
-        "aa9f820acea96624"
-      ],
-      "UI": [
-        "29dc7abf18fa2176",
-        "2ab7693c92a4df0b",
-        "bd8de3eabc429f73",
-        "ce112eb97c36fe4c",
-        "de33f800237726ce",
-        "8b394f66847badfa",
-        "99acd91f2fff1365",
-        "d5359374d8b87d47",
-        "9b0e6379f5472681",
-        "e52b87b75320249c",
-        "bc00ddc72fe57a8e",
-        "eb1e9172bc3a1a07",
-        "172065c13005fa12",
-        "7c31678f75ced5f7",
-        "04da34cb753d7208",
-        "1b3955eff9c3af9f",
-        "cae5506e1246146d",
-        "352db78696a1a76c"
+        "21029ed919838ca3",
+        "0951a0bb127dd3bf",
+        "d9d74a23db61184e",
+        "d019b72cd9718a0e",
+        "c7c7b29284fa6f4b",
+        "02154e221b707ac5",
+        "412c3f9b2e415a73",
+        "7f75554070ae25db",
+        "1ce229641db8e8e4",
+        "06293a7f97eff09d",
+        "84f64b6e3f34a5d9",
+        "4ce57be2ddfa6440",
+        "b150cf37ffd1d2c6",
+        "b8ad54c6cb4e5792",
+        "6f55f3fcf1d279f8",
+        "f898749da2da9f2e",
+        "a9217ff373a4a866",
+        "cc4363b544acf7cb",
+        "e2e81adb5fb94a3f",
+        "ade18588a52bfedf",
+        "20054624427703f7",
+        "884adb51c5f66a13",
+        "80ba20fa5574e42b",
+        "bcf8245b25ea5a9d",
+        "b87f005d2bc6f4e7",
+        "1c0e95ed0f36b491"
       ]
     }
   },
@@ -5019,59 +1695,12 @@
     "rarity": "Rare",
     "class": "Support",
     "color": "#68fd58",
-    "total_assets": 41,
+    "preview_dir": "Poco",
+    "total_assets": 1,
     "skins": [],
     "asset_types": {
-      "Brawlers": [
-        "8bf2281876e006da",
-        "e1461ad4a5495808",
-        "708650b0f9723cd3",
-        "fc5b17814ece143a",
-        "91e146a66c1443db",
-        "755516ad892280e4",
-        "a4d09b482c00de77",
-        "93a5433534331426",
-        "92343a63f1ca8bce",
-        "55ee458727d7dc5c",
-        "a21e32c7089e9609",
-        "f77334b41803a31d",
-        "3847d6eb8626f7ad",
-        "1461a7ad3da49342",
-        "64f4a924f4848402"
-      ],
       "Emojis": [
-        "be371fb7466e125f"
-      ],
-      "Pins": [
-        "77feb585de790e0a",
-        "9f543d4d461aec4f",
-        "6e7426a5ed7c6145",
-        "2aab915c3e363217",
-        "d39168a695edcc6e",
-        "aa73fbc495e86e07",
-        "46e13de15077de02",
-        "36c675a09a99cb1a",
-        "f60abd8501cbc13a",
-        "7a0c94f8a8f4b47e",
-        "9d6735625a9e7448",
-        "83f7d82bf1fc8daf",
-        "8bfdf8ee2aabaad0",
-        "9039e73605c681ac",
-        "5451a4bfe02c2574",
-        "e7356e0795f0a7e0"
-      ],
-      "Sprays": [
-        "f2cdeb335f83c150",
-        "8c414a0261c09a19",
-        "be03e29490b0cddd"
-      ],
-      "UI": [
-        "e57f2cd5fd147e17",
-        "bdf27a20b7835eb2",
-        "0c53792463368718",
-        "55127849df3078b5",
-        "d42f29e326add8ec",
-        "b508662532cfef93"
+        "77e112adb80fd192"
       ]
     }
   },
@@ -5080,80 +1709,12 @@
     "rarity": "Legendary",
     "class": "Assassin",
     "color": "#fff11ev",
-    "total_assets": 62,
+    "preview_dir": "Crow",
+    "total_assets": 1,
     "skins": [],
     "asset_types": {
-      "Brawlers": [
-        "db58bc1d5ae4baa7",
-        "4d2dd1ba4a3cb86a",
-        "86340eb109377cac",
-        "121cfe921f56717c",
-        "f497d9b83d5814dd",
-        "5e2bb26cb4e2e9c7",
-        "5d61370b2ca30057",
-        "b6b15fd8971a4a0f",
-        "9e35a406d6d55e39",
-        "5c9bba9fac53de57",
-        "f8fb1b107eb044bb",
-        "ec108b0d824eaba3",
-        "2635e9ce52ce5d54",
-        "77325cf6396ae681",
-        "40187c28978beecc",
-        "0aef35fd9c555013",
-        "94a2a408fd02d0f1",
-        "2b064c191c95f499",
-        "d94fecc9628df3b1"
-      ],
       "Emojis": [
-        "e3869bfab1eeaad2"
-      ],
-      "Pins": [
-        "b433bc46df82058b",
-        "974f30e9baed43df",
-        "3ba4a0ec23a637f1",
-        "6ac48105ee7f531f",
-        "6d4652ee2c96eeae",
-        "7694ed0aabd078fd",
-        "b9e22cf26f9fa2f4",
-        "fcc5fd8f0cf0a73b",
-        "8ac5dfce86d7deb6",
-        "e6d6b90111afefc3",
-        "1fb9fe58196127c3",
-        "4b47f4dc64a21453",
-        "0286e9b0d4ab9f53",
-        "79116bacc1996cde",
-        "e3a0a26ae7793d07",
-        "8bbafafe416955a5",
-        "df9d7e582881a941",
-        "b43313ee512cf391",
-        "b0f62bd24962dc3f",
-        "606e5187af987c8b",
-        "0c799aa69bd0c5de",
-        "fcaec58cf51753f1",
-        "cb12d8faf6904a7c",
-        "2c7b34c729ef3108",
-        "3ba55f883dc8e7fb",
-        "03efdcbebacb046f",
-        "74914416cf64934f",
-        "ef60c815bd6272d2",
-        "2f5aaf9658b4bac7",
-        "1a46c2f5886dadb3",
-        "feed41dc092269fe"
-      ],
-      "Sprays": [
-        "2135de969419b241",
-        "93365d44edf203b2",
-        "6477f01557a04dc2",
-        "ae3479b39e247767",
-        "661462289023c98f"
-      ],
-      "UI": [
-        "0eb7806b70a5cd32",
-        "fb780eefb0c178fa",
-        "f83ebcbbe9194851",
-        "f72bb5db52beffeb",
-        "309d2536ff3e77a3",
-        "1d76f9854bcaedfd"
+        "38cc6cb880dd8e9b"
       ]
     }
   },
@@ -5162,6 +1723,7 @@
     "rarity": "Mythic",
     "class": "Assassin",
     "color": "#fe5e72",
+    "preview_dir": "Mortis",
     "total_assets": 0,
     "skins": [],
     "asset_types": {}
@@ -5171,102 +1733,22 @@
     "rarity": "Rare",
     "class": "Tank",
     "color": "#68fd58",
-    "total_assets": 14,
-    "skins": [
-      "Primo"
-    ],
-    "asset_types": {
-      "Brawlers": [
-        "e3ce26620f078a84",
-        "e68710bb415bf1c5",
-        "19834983519d6adf",
-        "55522b61424fa447",
-        "f2bca93f5efe1373",
-        "cd232183315c2140",
-        "a24a766bff9950dc",
-        "ae40568e9a2a2987"
-      ],
-      "Pins": [
-        "0c0d5b8c31e3a7ae",
-        "80c419e5868457f2"
-      ],
-      "Sprays": [
-        "7f4b0f37d880431c",
-        "3b9981f30f31a66e"
-      ],
-      "UI": [
-        "5f40061ad4af62ad",
-        "cc1fa1eed9f06259"
-      ]
-    }
+    "preview_dir": "Elprimo",
+    "total_assets": 0,
+    "skins": [],
+    "asset_types": {}
   },
   "dynamike": {
     "name": "Dynamike",
     "rarity": "Super Rare",
     "class": "Artillery",
     "color": "#5ab3ff",
-    "total_assets": 52,
+    "preview_dir": "Dynamike",
+    "total_assets": 1,
     "skins": [],
     "asset_types": {
-      "Brawlers": [
-        "2c85e594041d3d78",
-        "6e9691a0126b467e",
-        "78c2311376653b51",
-        "271b706514995367",
-        "8d8eac3dfe44f992",
-        "daa5c27aa27145e1",
-        "f26cf15bf0593e0c",
-        "3eddcc8cf31c7c96",
-        "f4869ff62eed35cd",
-        "6bc0f833faa7662b",
-        "a4d6852e37bbe93f",
-        "e41ba0b3d0281370",
-        "c2ef6c0b04d0b8bf",
-        "edbeb1aa92a82f9d",
-        "09aac019320cb6ca",
-        "5f0b4c8b39c3d4b8",
-        "97087d6ed46274b7",
-        "ff6e29629fe1e3ff",
-        "19cec393f232115d",
-        "e2a66f74670abdfa",
-        "f7fc5b1d7aef4957",
-        "d4be155fd7584e54",
-        "6f2cb91f45e94c27",
-        "a7eccb19c37ba6d7",
-        "31d626b8c3ef2eb7"
-      ],
-      "Pins": [
-        "3f58b090eb2169eb",
-        "af0321b018e4f15c",
-        "ceeff3d3070002a9",
-        "1986974e267e5c8b",
-        "0a2fda753481abfc",
-        "409b1f03e070c8b7",
-        "afb2ef0f23069332",
-        "68500ae2596a89e0",
-        "bcbdda2d3a82cc98",
-        "b68db5c57eed7ea8",
-        "36d2f110e94dfff6",
-        "eed20b153e4319d8",
-        "6701b24f3eb370db",
-        "6561543e7565b1f4",
-        "8f9a09122946e85d"
-      ],
-      "Sprays": [
-        "be89ac1425883847",
-        "bfe92181bc740fc3",
-        "586b8f03de812675",
-        "67dc51a533992068"
-      ],
-      "UI": [
-        "f50ecccbf2530224",
-        "31308b9ca6ec43c3",
-        "92f151e196dbffad",
-        "81b3c7627a719cee",
-        "65d2555e7e4c2bcd",
-        "a5a8c847597f19d5",
-        "f9026487bfa511f1",
-        "1b1b4b3ab559b067"
+      "Emojis": [
+        "7950dc7787057771"
       ]
     }
   },
@@ -5275,72 +1757,12 @@
     "rarity": "Rare",
     "class": "Damage Dealer",
     "color": "#68fd58",
-    "total_assets": 54,
+    "preview_dir": "Nita",
+    "total_assets": 1,
     "skins": [],
     "asset_types": {
-      "Brawlers": [
-        "bb9f86cb40445d69",
-        "a289e49fc0a8ca02",
-        "a4b40669b78c5df8",
-        "99ffa05067650e2c",
-        "e82205ba9a717562",
-        "580043d4cfd741c9",
-        "dc7a4008b573231d",
-        "5c29fa1026c1240d",
-        "bc320f83a93fd59d",
-        "c084728e8e8bf5a2",
-        "74050aa8d1408daa",
-        "28d832484559b4ec",
-        "636950e0fb7977e2",
-        "ae5af97733f63061",
-        "d76de6e763443326",
-        "67b48a1c9ca53771",
-        "ee84f6229c567484",
-        "64082ff812e10bde",
-        "8ceaf6afb9366888",
-        "a293a2e4d6df5eeb",
-        "9636be21881bc9d9"
-      ],
       "Emojis": [
-        "982a9862e282ca22"
-      ],
-      "Pins": [
-        "26a72936f34e38a9",
-        "33b99e50ec0a6569",
-        "1c26f5956b73ca6b",
-        "231f2ce20f228368",
-        "0f5fe151f8cd9dc2",
-        "d626809ca9cf4a97",
-        "01b8394cffa2e2d4",
-        "b4f8038d3c07a612",
-        "9ff9c6e703c11d94",
-        "ea0858c470561cf0",
-        "bd2bcc0136753637",
-        "1a15f0aca019163f",
-        "5cbb3588ed20dd9c",
-        "14e5afff54b06a34",
-        "d820c06284649b0b",
-        "cd01b2699439bdc9",
-        "fabc8748002992bf",
-        "4cd20a1d33e3159c",
-        "effc128f4fecc9f0",
-        "cc9d8b3bcf5e154c",
-        "fe7ae8bea7dde1dd"
-      ],
-      "Sprays": [
-        "d8fee2dd66369ead",
-        "72818cb8d0e16660",
-        "37b72f1245918462",
-        "c064e356ffaed728"
-      ],
-      "UI": [
-        "6cc4aa3694e51f28",
-        "a759ec382d3688c7",
-        "7ca702bdd2e4226e",
-        "4a61983e6444b829",
-        "d46d7261917d775c",
-        "9c26d59f3cb4acc5",
-        "7eccd02ff27700d3"
+        "ca18bb0ea126b884"
       ]
     }
   },
@@ -5349,77 +1771,12 @@
     "rarity": "Super Rare",
     "class": "Controller",
     "color": "#5ab3ff",
-    "total_assets": 57,
-    "skins": [
-      "x"
-    ],
+    "preview_dir": "Jessie",
+    "total_assets": 1,
+    "skins": [],
     "asset_types": {
-      "Brawlers": [
-        "25062575f45351c6",
-        "7cbefe0367582962",
-        "f444fa41217d6035",
-        "4a6f5b85cbc2d8de",
-        "d8b0ef106dc04841",
-        "a66fed955c618643",
-        "dac463d2e4fea939",
-        "b07012353b9c3176",
-        "9bf96ab7c4e44324",
-        "804c6c8cde247ad6",
-        "eef4f6a5ba1b6aa9",
-        "78255fcccb7dfdea",
-        "f5c760cf03ba364b",
-        "9eda81b45715744d",
-        "83c253f45ca9b704",
-        "713c0a903de86f24",
-        "4a5c90d34f012b5c",
-        "69956ea547f60d2e",
-        "b15c889d7c594f41",
-        "c9ea093457a716ad",
-        "ddb7eee070d7a676",
-        "50b8b4a6502217e0"
-      ],
       "Emojis": [
-        "791d901a018c64b9",
-        "f5b72fdc2a85e6c2",
-        "814b9a83f2ec91ca"
-      ],
-      "Pins": [
-        "cefae401c6f0c9e3",
-        "c9088a9a7009a41d",
-        "e14699fa6d52ceeb",
-        "3a98af43d4b4e7f3",
-        "c9f2a75ccb4fc7be",
-        "6a8576e6dcfbb8f5",
-        "7ec20a35c0038e87",
-        "ccd49d9c2edd8818",
-        "3fcc2b907d47b905",
-        "afa45f9bc5be1e69",
-        "1e0ea64465405d0c",
-        "9223fa49b8362273",
-        "a7fb4d9313eb47cd",
-        "f2e68e05d7f46268",
-        "a82ead82bf0daf30",
-        "529c9295fce7541a",
-        "f74f8512d5d608f6",
-        "cf47f334b7b001bd",
-        "411b3a448db2adea",
-        "d38ee729b4a7ff85",
-        "3b490f132acb42ab",
-        "6eccdd12d1762bed",
-        "0ca36e3a055a8ca6",
-        "f3d72a2e1da81953"
-      ],
-      "Sprays": [
-        "f7e7c2478d3872b8",
-        "f3deeebc03b05652",
-        "5ed0f7d6519a1038"
-      ],
-      "UI": [
-        "e17fca8825f3dea2",
-        "0f3dfd04e7a4d2c5",
-        "b64ca9e3c8c1ac24",
-        "a65ed6ff08feb70f",
-        "88544ff4ea8d4683"
+        "dc8bbb7e6bd5d3e0"
       ]
     }
   },
@@ -5428,57 +1785,12 @@
     "rarity": "Rare",
     "class": "Artillery",
     "color": "#68fd58",
-    "total_assets": 41,
+    "preview_dir": "Barley",
+    "total_assets": 1,
     "skins": [],
     "asset_types": {
-      "Brawlers": [
-        "6523e250b1f47243",
-        "7803fad010c9bdb3",
-        "415ee40486701697",
-        "a4554a548bbfbc6b",
-        "5dd074ac868133d3",
-        "d40d510e8d9822d8",
-        "58eabda28ae80bd3",
-        "b808a7175d2b17e2",
-        "ca8cd0918024fce5",
-        "4e5c15da7c16f4ac",
-        "0967d24d70c803b3",
-        "652d0b149a6aaf2d",
-        "68cfc685e93a83de",
-        "22d6106babcf52b8",
-        "6845450557cc86b0",
-        "58da5d095dbb9aca",
-        "08bd9a14402eaa36",
-        "95486b451b11dabc",
-        "f3e9b10e917783b5",
-        "307a2a4f26e895c6",
-        "762ca7fb74661d51"
-      ],
-      "Pins": [
-        "6ccb599c13b5a38b",
-        "a54cef0539c65f16",
-        "42802739b546c708",
-        "aca94c776472e6db",
-        "ad3c221f8bb70e1d",
-        "88fb2084f3f2ac58",
-        "2504016c3ccdc1cf",
-        "9ac72a6aa0f7f700",
-        "b4569a6cc0ab4f73",
-        "c53b32102adee401",
-        "07f7b74e44c45325",
-        "1dbbdc26c9bb04e8",
-        "009bfadac496ef34",
-        "0ebffc458d050c0f"
-      ],
-      "Sprays": [
-        "f4e16409a9489618",
-        "94892f40d938b9d4"
-      ],
-      "UI": [
-        "c78fde939692ee58",
-        "a9766f9b34ee419c",
-        "4d446dd687073028",
-        "01999c4b507fa70e"
+      "Emojis": [
+        "b633cfc99569b7f3"
       ]
     }
   },
@@ -5487,65 +1799,12 @@
     "rarity": "Legendary",
     "class": "Damage Dealer",
     "color": "#fff11ev",
-    "total_assets": 46,
-    "skins": [
-      "Is",
-      "Spike"
-    ],
+    "preview_dir": "Spike",
+    "total_assets": 1,
+    "skins": [],
     "asset_types": {
-      "Brawlers": [
-        "1d40fe242cf4e4a8",
-        "51e217f839acb6d8",
-        "8955d264f27f864b",
-        "2dc021706bd0babf",
-        "eb5ed9ee2bd550bc",
-        "23a11cf2094f5c5e",
-        "a675c87f301ee386",
-        "fa4510063f4390e6",
-        "c8cc1aa045cc64df",
-        "ac39c30343ea8258",
-        "e8d9a27948f814fc",
-        "3b32c531971e0b15",
-        "f0243039f69ab6db",
-        "301126d99c0e8379",
-        "984e4494f1368e43",
-        "4f0d814cd9ae1554",
-        "140f4af5a4e72148",
-        "aa3c7695d1b3f074",
-        "70bfe91fb3318524",
-        "b04bfbd865cbc046",
-        "c80a87722b747c05",
-        "bbdce939225220bd",
-        "318ff0909198e2a9"
-      ],
-      "Pins": [
-        "87c83258b273a2ee",
-        "8e0d9f9711c11320",
-        "454b9f13d95d94cb",
-        "c62de97bb306846b",
-        "57dfdcc1979f1a9b",
-        "597bac655b2889a6",
-        "bc1f98154762d67e",
-        "a8b4f04f29617db7",
-        "98ae2d0d49a3d00b",
-        "f1a0d7686605a2b8",
-        "559f16736d435b12",
-        "e73f04f6ae429c0e",
-        "c73542b283db607f",
-        "d72aa2f7f07e2e52",
-        "6ee7ba0f82c95046",
-        "8ca863a4dce01111"
-      ],
-      "Sprays": [
-        "0fa3d5c628493519",
-        "790e9f4c4fe7c8fd",
-        "b404752e9fb188e6"
-      ],
-      "UI": [
-        "72cbcfa140c7fbb4",
-        "5ea6669c90d694ee",
-        "5fa8e0e52d4d6cb6",
-        "8307aa564adacf18"
+      "Emojis": [
+        "564e3f0953107a53"
       ]
     }
   },
@@ -5554,141 +1813,12 @@
     "rarity": "Super Rare",
     "class": "Damage Dealer",
     "color": "#5ab3ff",
-    "total_assets": 125,
+    "preview_dir": "Rico",
+    "total_assets": 1,
     "skins": [],
     "asset_types": {
-      "Brawlers": [
-        "5dbd314cc180ed6e",
-        "04581dd9522d46d6",
-        "2fdce577b8131842",
-        "e77a9479ab132b5d",
-        "2dfede86796f8278",
-        "b7d1348d094183d3",
-        "be7066f540567f9b",
-        "b396b2f02d066536",
-        "47676baa11c75381",
-        "07fcd04bcdaee97e",
-        "4ef69f292da1d241",
-        "b9e7aa8db6e9185f",
-        "517cb9743581086d",
-        "bcf50a54d48ae882",
-        "d29e5f0789ddfe47",
-        "d14449f81c09f953",
-        "dbf3b9c38c3a02a2",
-        "9375d7c10f9eab71",
-        "f7f0b69b758bb30b",
-        "3d13e184de2ed6a8",
-        "404a9d81fb488efa",
-        "9987d3d9ac31ca20",
-        "079aa5b172138ab7"
-      ],
-      "Pins": [
-        "67dc3fc97467d6cf",
-        "a2a991caf45aa6b7",
-        "165f30e0dd3f7e53",
-        "3dc7c95401ead856",
-        "3a63d717b1a91c15",
-        "2d193776e016b5b4",
-        "adf8afb15f29c8f7",
-        "ac5c053c85d1bcda",
-        "f67d2f92a82474f6",
-        "76636fe74f45715a",
-        "b6cd904ad3ede05a",
-        "83fdaf1b0893c71d",
-        "8ceaf7a8c0da6bdb",
-        "339a78e3df829613",
-        "309583f3cdd91b55",
-        "123a59db5f4f7fd9",
-        "743460282d582158",
-        "4e5271adb0f01620",
-        "5c6ad72bc9deb782",
-        "4ecae0684315c1ad",
-        "dc76e9cf1e1873d6",
-        "ffc4b2ec6f7aca86",
-        "ff93f7efb0c6bf57",
-        "a7df454eb5eabc23",
-        "2bd7a6d847d7485d",
-        "5c4df7d4c4494baa"
-      ],
-      "Sprays": [
-        "0f2d9741ca4cb383",
-        "2c39779e5f0f7cc3",
-        "f02551d92cf80abd"
-      ],
-      "UI": [
-        "05f1126cce063f8c",
-        "aff5a7a51004bcf2",
-        "860de128c52a959d",
-        "31fa44b875519496",
-        "dde9a03c43447f58",
-        "231551d3fadb27b3",
-        "88b0d55e82c895a4",
-        "99f4921c0ea1af1d",
-        "359c32c22d1bd1f9",
-        "8c373062db183afa",
-        "4656374240f54c78",
-        "2724a82c93c23766",
-        "44417f2e6bc02789",
-        "206cff6d6759ed93",
-        "f06bf5189d465e18",
-        "05e51bb0eb8655d4",
-        "cdf8b115e14dee4a",
-        "f2debb738a2450fa",
-        "0915d92f41d5466c",
-        "26e5b441a1855bfe",
-        "7eafe9f46922902d",
-        "38127dba5b5a4a33",
-        "a81961accdeb2855",
-        "e4eed1db2855c777",
-        "b0e50924adc6a8ac",
-        "76f9ff2d26a7a664",
-        "dd259df13c60a1ad",
-        "6fd625324a6036c5",
-        "411ca731e852faca",
-        "5dc307dd097b4a07",
-        "001c8a3ac31e032c",
-        "8ac0c631739d7062",
-        "a8be37564ac4e05a",
-        "ed76a1a5f6e842ae",
-        "0d729f02fa297af8",
-        "5a88287f1b4d6582",
-        "e8bae8e95d8c4c11",
-        "25da85bb6475f9f1",
-        "a4b44bc2e8d04813",
-        "e01dea0466c736d8",
-        "97d11a88a4581c5d",
-        "0ae071f07445e919",
-        "bca1b285cadcaa27",
-        "e39f97bc72881d0a",
-        "219016964f1a6d23",
-        "f2d9609d53ce1742",
-        "613453f350436188",
-        "3a8003b9e05ea171",
-        "efd9f50e19d79877",
-        "ba0c56ca82ce9b57",
-        "990d9bc7864e4c1d",
-        "21d2dee3f5f2c031",
-        "86bf3ef985321b04",
-        "831e58c1b23d24d3",
-        "13bb72a855e2bf8b",
-        "148029bf9b31ec16",
-        "4ff552c85b532601",
-        "64d816fff0dc55cc",
-        "367737db6f14989a",
-        "ef226b44565c22bd",
-        "1ccb1394c690b03e",
-        "cef62ef743f6be93",
-        "4ed1f7823b0d9401",
-        "d04f74a863f821e5",
-        "d192f28099b5e851",
-        "3bcac2325f7731d3",
-        "1d386bd27dc97da6",
-        "7ec28d7cd9331ded",
-        "a11d945edd722496",
-        "049b8e2ebf7c6be0",
-        "35a71d30f08b6fe1",
-        "3a058d6cc90796b9",
-        "cd33ea32582eecfb"
+      "Emojis": [
+        "d93556f4ece2a65d"
       ]
     }
   },
@@ -5697,87 +1827,12 @@
     "rarity": "Rare",
     "class": "Marksman",
     "color": "#68fd58",
-    "total_assets": 67,
-    "skins": [
-      "Button",
-      "Matrix",
-      "Why"
-    ],
+    "preview_dir": "Brock",
+    "total_assets": 1,
+    "skins": [],
     "asset_types": {
-      "Brawlers": [
-        "f0f87096132ab6b3",
-        "8f4abfe993f86364",
-        "0045901de021f36e",
-        "6777ea6eaa585058",
-        "bbe75f6671341ef5",
-        "bdebb999ff8796b0",
-        "b606cac3180b26d4",
-        "62805ed4b243761b",
-        "e63973c940d64acf",
-        "e751a4cedf5a29d0",
-        "96d0352bd1b317e5",
-        "727cea0994e74f8b",
-        "c0ca27e617aa188b",
-        "95613079de5be6cd",
-        "5dfdd0c0a6105dc7",
-        "f50121cc2af95e4c",
-        "74d29a6cf5df024c",
-        "541b80c7b21b7183",
-        "fa5931b27d77473e",
-        "275e96acb6610690",
-        "500264a563c3e393",
-        "2b48c20e094a5a3f",
-        "c7320b238bbe712c",
-        "0212abe1c786fed0",
-        "9a82ea0a8dbe75bb",
-        "d130927babf8ceb8",
-        "4d945f08c13f656a",
-        "825cbae4fb8daca4",
-        "f1b7d7227a34f452",
-        "552f78a6e41fb157",
-        "85579a3cce041f0d",
-        "6496bb8bdc5fe33b",
-        "19402140ecd0ac33"
-      ],
-      "Pins": [
-        "5d9096f5e0438b33",
-        "db5fbe759e1230ad",
-        "4b4c07a083fd9f82",
-        "1b7137fa44ad46dc",
-        "7d053441d001166d",
-        "7cbe08339860a32f",
-        "e58918e306880532",
-        "899776474b9c9748",
-        "ef99087f189b88c4",
-        "c50c426d4fb356c7",
-        "6880ca3b3fa91855",
-        "71c02737559991f3",
-        "d1dfe3431f0bd265",
-        "05ae46a2957bd764",
-        "19e846f97772d998",
-        "a1febfedb117cd9c",
-        "e1f3782db820c4b7",
-        "bf53470ee33c545c",
-        "eac87d6a7d70e541",
-        "013cff4483d79ac3",
-        "c3e983caf7fb4636",
-        "d18150ece3654f4b",
-        "2407abaa636ba3c2"
-      ],
-      "Sprays": [
-        "b215779962fee27f",
-        "18e23143336d8c63",
-        "d77120dd45306b6a"
-      ],
-      "UI": [
-        "2f30eba4b683db25",
-        "d62e803ab0487d40",
-        "f5de487c2acc3ab5",
-        "79cdb0a84c87c008",
-        "d6ad66e2070f5e04",
-        "f39313a972d77485",
-        "0210748c2f3e9e6e",
-        "4a94a0718ce54539"
+      "Emojis": [
+        "cdbbd3dc4e47d015"
       ]
     }
   },
@@ -5786,62 +1841,12 @@
     "rarity": "Rare",
     "class": "Tank",
     "color": "#68fd58",
-    "total_assets": 46,
+    "preview_dir": "Bull",
+    "total_assets": 1,
     "skins": [],
     "asset_types": {
-      "Brawlers": [
-        "55d1feab74876d54",
-        "b290c3c3c3e1ba55",
-        "52af2965053e96c8",
-        "59c54245bdcad879",
-        "5df3bfaa2464bb85",
-        "34206b2dde1b4a0f",
-        "df859649428c0881",
-        "0ab5bffc1a3eef5c",
-        "412d8ece70854469",
-        "4f2f7ce4dc2cb7d9",
-        "5d3fc03084f6a998",
-        "0f481f22494dd66a",
-        "7c382f372caf6e41",
-        "5551298b3ed407c4",
-        "d431faad7ac3fc9d",
-        "b5e90394c1b4a8d2",
-        "63020eb73c48497c",
-        "23b8f2fd3fa4b2f2",
-        "dc942f5b0da9c126",
-        "30697f9546596db5",
-        "a9b37865f8911159",
-        "1a0f58d3b7327476",
-        "fb0e284c7d7370da",
-        "744edc92d4cecd98"
-      ],
-      "Pins": [
-        "fe11b07c02820baa",
-        "8f1d943731b2b172",
-        "36e0dc1d53e50e29",
-        "0c843cb91d248587",
-        "0e2fa8d77baafdc8",
-        "9ecfafd6346acbad",
-        "1734bb61763bd604",
-        "5807d49bf72aa0e7",
-        "7e0d9c68c23cfeb1",
-        "cd4d28c0b3bb6c4e",
-        "d72cffa28c4931eb",
-        "21d3b09bbf28fe98",
-        "f11815751b4fdf76",
-        "1ce12484e71785d6"
-      ],
-      "Sprays": [
-        "109da1122ce26a62",
-        "e93e5ebdd35c1f28",
-        "be645824ba2f59a5",
-        "10ac7d9c4f868eb7"
-      ],
-      "UI": [
-        "bd83289845450361",
-        "59364898707a77b4",
-        "baafe3a77b3ff434",
-        "d4fa7eb72f68685c"
+      "Emojis": [
+        "9a5ee19aadc827aa"
       ]
     }
   },
@@ -5850,86 +1855,12 @@
     "rarity": "Rare",
     "class": "Damage Dealer",
     "color": "#68fd58",
-    "total_assets": 65,
-    "skins": [
-      "Take",
-      "x"
-    ],
+    "preview_dir": "Colt",
+    "total_assets": 1,
+    "skins": [],
     "asset_types": {
-      "Brawlers": [
-        "6946dc2c1002435d",
-        "a491c4b49f7fe996",
-        "aa4689ddaf2c235e",
-        "5e9994ab584acd87",
-        "35b998324f07c80f",
-        "78393650c6a84be1",
-        "755dd525415ce30a",
-        "b2cf16988520bde0",
-        "e2a665cdbe2dd72f",
-        "e74f19d8a99b2fc3",
-        "90ba97ee7a27dd17",
-        "2e61d305b82ab2b8",
-        "69781a4c8b2fb8b4",
-        "81c77fc227f60753",
-        "c45fe7a4e5e82fbf",
-        "c6864f438a94d3cd",
-        "4d3498447a2aae62",
-        "b50acaf98a9d81c3",
-        "9a9b108d01ede47a",
-        "3335fc8f23c01f57",
-        "b67d49c31110ceec",
-        "923c3cfb31c25166",
-        "791edf969cd7128a",
-        "d1a62ef6d8e98e5c",
-        "e0c903ab3b943a36",
-        "2251dda1816c08ce",
-        "3c306389673a1c86",
-        "260e62ec1614e28a",
-        "fdd587dd0619c079",
-        "0aa62c45bfee2aac",
-        "d6edd7fd6319d95f"
-      ],
       "Emojis": [
-        "b9676fb68cf708c1"
-      ],
-      "Pins": [
-        "574f5c6d79e96d01",
-        "6a776b951733167c",
-        "c182e88d4b68e7dd",
-        "42b30dedfcaef07f",
-        "1f99c64a3fa5fc8a",
-        "2de504f3c03c499e",
-        "f12c63870b244929",
-        "a0f5609f76673312",
-        "6959bc013bee8cc8",
-        "3791533402c73f0f",
-        "d0e4f069de5ba596",
-        "8107d2b0f37ed3e4",
-        "f51ff08ff7d47bb4",
-        "04cf86e762f56c68",
-        "1141482b11209981",
-        "efb8a2d849195e74",
-        "2408d57f177a1f79",
-        "17c91bc28df328ce",
-        "beaa4f1543f99ae2",
-        "e964f324d44a9a97",
-        "98dd807e8763ec3a",
-        "bb197ed6a279cc2b",
-        "81e83a23d051d5af",
-        "842ca66eb0a33f04",
-        "a59be3fcaac02f06"
-      ],
-      "Sprays": [
-        "2a944919a7f7c714",
-        "738a4b35d25083f2",
-        "013e74a2ba97ee0c",
-        "c6737ccdad379aa2"
-      ],
-      "UI": [
-        "72fc7279235dc4e3",
-        "108f21a3bae6eb10",
-        "653322a61f3d9e82",
-        "54d58df8c121ed28"
+        "586b42812db0fec6"
       ]
     }
   },
@@ -5938,69 +1869,12 @@
     "rarity": "Common",
     "class": "Damage Dealer",
     "color": "#b9eaff",
-    "total_assets": 51,
+    "preview_dir": "Shelly",
+    "total_assets": 1,
     "skins": [],
     "asset_types": {
-      "Brawlers": [
-        "e947adac1c5b8244",
-        "f2a3c935a4184492",
-        "1f3c283279a55899",
-        "c6a4ddec06ad3094",
-        "9bdd22b638bfd8ad",
-        "c9a477415a350329",
-        "9c73675400d0b575",
-        "8b2a7a5ab9aaa601",
-        "5459c09fa06f1aff",
-        "cea79432938cfdf4",
-        "03df25002cb35d62",
-        "d871789ebdd57e68",
-        "eb6fe058f832e538",
-        "07915f076c6f8266",
-        "fec53f299c3e0641",
-        "9ebb6c4c164c1409",
-        "ec975aa008ba1db1",
-        "05ed64639e1e501d",
-        "0bcfd6154835acef",
-        "4de1d89985c6ff60",
-        "61823c85506fdd3f",
-        "6cacdbacc0bcdd15",
-        "42de9f4792742845",
-        "1828441079fb75a9",
-        "5f489ed1d888d9c7",
-        "9b8191b6b773ff9c"
-      ],
       "Emojis": [
-        "3b3d07c8d49d1b40"
-      ],
-      "Pins": [
-        "5f98373d1d757375",
-        "963ad45e8387b0bc",
-        "8ed492114a5bc673",
-        "137e9a2533b89213",
-        "4c77dd9b0bbe800e",
-        "728721cb012c3a63",
-        "1c7ff03d8abe6bea",
-        "d9fc90c1a6620864",
-        "819c666049dd4174",
-        "b37d9b0f60111cb5",
-        "62793a6eaa46a299",
-        "ee73e9ee55675d39",
-        "7c751b3bf30540b4",
-        "15649f74663ba657",
-        "4eb60cc77d425862",
-        "b0cec3eac1a548b0",
-        "c3cbf5a2547c4c1f"
-      ],
-      "Sprays": [
-        "bbd27ac46911e4bf",
-        "f42922bf71aef3cd",
-        "086d9635848aa7e8"
-      ],
-      "UI": [
-        "5cd38ae0d13e677a",
-        "642af6de640e6ff6",
-        "1a7664900afe67c1",
-        "2dadaba89983f193"
+        "3e69e8bd99643524"
       ]
     }
   }

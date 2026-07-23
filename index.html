@@ -230,18 +230,24 @@ function renderTab() {
   else renderCategory(activeTab, q);
 }
 
-function getThumbUrl(name, dir) {
-  const safe = name.replace(/[^a-zA-Z0-9]/g,'_');
-  const first = name.split(' ')[0];
-  return [`${dir}/${safe}_Default_001.webp`,`${dir}/${first}_Default_001.webp`,`${dir}/${safe}_bordered.webp`,`${dir}/${safe}_Classic_001.webp`];
+function getBrawlerPreview(name, brawlerKey) {
+  const b = brawlers.find(x => x.key === brawlerKey);
+  if (!b) return null;
+  const ids = new Set();
+  for (const cat of Object.values(b.asset_types||{})) cat.forEach(id => ids.add(id));
+  const firstBrawlerAsset = allAssets.find(a => ids.has(a.id) && a.category === 'Brawlers');
+  if (firstBrawlerAsset) {
+    const m = manifest.find(x => x.id === firstBrawlerAsset.id);
+    if (m && m.preview_path) return m.preview_path;
+  }
+  return null;
 }
 
-function fallbackImg(img, patterns, idx) {
-  if (idx < patterns.length - 1) { img.src = patterns[idx+1]; img.onerror = () => fallbackImg(img, patterns, idx+1); }
-  else { img.style.display = 'none'; img.parentElement.innerHTML = '<div style="color:#445;font-size:20px;">?</div>'; }
+function renderThumb(b, img) {
+  const p = getBrawlerPreview(b.name, b.key);
+  if (p) { img.src = p; img.onerror = () => { img.style.display='none'; img.parentElement.innerHTML='<div style="color:#445;font-size:20px;">?</div>'; }; }
+  else { img.style.display='none'; img.parentElement.innerHTML='<div style="color:#445;font-size:20px;">?</div>'; }
 }
-
-function getPreviewDir(b) { return `previews/Brawlers/${b.preview_dir || b.key}`; }
 
 function renderBrawlers(q) {
   const r = document.getElementById('rarityFilter').value;
@@ -252,12 +258,12 @@ function renderBrawlers(q) {
   grid.style.gridTemplateColumns = '';
   grid.className = 'brawler-grid';
   grid.innerHTML = filtered.map(b => {
-    const dir = getPreviewDir(b);
-    const urls = getThumbUrl(b.name, dir);
+    const p = getBrawlerPreview(b.name, b.key);
     const sel = board.some(i => i.brawlerKey === b.key);
+    const thumbHtml = p ? `<img src="${p}" alt="${b.name}" loading="lazy" onerror="this.style.display='none';this.parentElement.innerHTML='<div style=\\'color:#445;font-size:20px;\\'>?</div>'">` : '<div style="color:#445;font-size:20px;">?</div>';
     return `<div class="brawler-card rarity-${b.rarity.replace(/ /g,'-')} ${sel?'selected':''}" onclick="openBrawler('${b.key}')">
       <div class="rarity-bar"></div>
-      <div class="thumb-wrap"><img src="${urls[0]}" data-p='${JSON.stringify(urls).replace(/'/g,"&apos;")}' onerror="fallbackImg(this,JSON.parse(this.dataset.p),0)" alt="${b.name}" loading="lazy"></div>
+      <div class="thumb-wrap">${thumbHtml}</div>
       <div class="info"><div class="name">${b.name}</div><div class="meta"><span>${b['class']}</span><span>${b.total_assets}</span></div></div>
     </div>`;
   }).join('');
@@ -270,9 +276,10 @@ function renderCategory(cat, q) {
   if (!items.length) { grid.innerHTML = '<div class="empty">No assets in this category</div>'; return; }
   grid.style.gridTemplateColumns = '';
   grid.className = 'cat-grid';
+  const manifestMap = {};
+  for (const m of manifest) manifestMap[m.id] = m.preview_path;
   grid.innerHTML = items.sort((a,b)=>(a.display_name||'').localeCompare(b.display_name||'')).map(a => {
-    const stem = (a.display_name||a.id).replace(/ /g,'_');
-    const pv = `previews/${a.category}/${a.subcategory}/${stem}.webp`;
+    const pv = manifestMap[a.id] || `previews/${a.category}/${a.subcategory}/${(a.display_name||a.id).replace(/ /g,'_')}.webp`;
     return `<div class="cat-asset" title="${a.display_name} (${a.subcategory})">
       <img src="${pv}" alt="${a.display_name}" loading="lazy" onclick="addToBoard('${a.brawler||a.category}','${(a.display_name||'').replace(/'/g,"")}','${pv}')" onerror="this.parentElement.style.display='none'">
       <div class="label">${a.display_name||'?'}</div>
@@ -291,14 +298,16 @@ function openBrawler(key) {
   for (const a of allAssets) { if (ids.has(a.id)) { const c = a.category||'Other'; if (!grouped[c]) grouped[c]=[]; grouped[c].push(a); } }
   document.getElementById('modalMeta').innerHTML = `<span style="color:${b.color}">■</span> ${b.rarity} · ${b['class']} · ${b.total_assets} assets${b.skins?.length ? ' · Skins: '+b.skins.slice(0,6).join(', ')+(b.skins.length>6?'…':''):''}
     <button class="btn-secondary" onclick="copyBrawlerContext(brawlers.find(x=>x.key==='${b.key}'))" style="margin-left:6px;padding:2px 6px;font-size:10px;">📋 Copy</button>`;
+  const manifestMap = {};
+  for (const m of manifest) manifestMap[m.id] = m.preview_path;
+
   let html = '';
   for (const cat of CAT_ORDER) {
     const items = grouped[cat]; if (!items?.length) continue;
     html += `<div class="cat-header">${cat} (${items.length})</div>`;
     items.sort((a,b)=>(a.display_name||'').localeCompare(b.display_name||''));
     for (const a of items.slice(0,30)) {
-      const stem = (a.display_name||a.id).replace(/ /g,'_');
-      const pv = `previews/${a.category}/${a.subcategory}/${stem}.webp`;
+      const pv = manifestMap[a.id] || `previews/${a.category}/${a.subcategory}/${(a.display_name||a.id).replace(/ /g,'_')}.webp`;
       const dn = (a.display_name||'').replace(/'/g,"");
       html += `<div class="asset-item" title="${a.display_name}"><img src="${pv}" alt="${a.display_name}" loading="lazy" onclick="event.stopPropagation();addToBoard('${b.key}','${dn}','${pv}')" onerror="this.parentElement.style.display='none'"><button class="copy-btn" onclick="event.stopPropagation();copyUrl('${pv}')">📋</button><div class="cat-label">${a.subcategory||''}</div></div>`;
     }
@@ -340,7 +349,7 @@ function genPrompt() {
 let copiedTimer;
 function showCopied(m) { const e=document.getElementById('copiedMsg'); e.textContent=m; e.style.opacity='1'; clearTimeout(copiedTimer); copiedTimer=setTimeout(()=>e.style.opacity='0',2000); }
 function copyUrl(path) { const u=window.location.origin+'/'+path; navigator.clipboard.writeText(u).then(()=>showCopied('📋 URL copied')).catch(()=>{const ta=document.createElement('textarea');ta.value=u;document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove();showCopied('📋 URL copied');}); }
-function copyBrawlerContext(b) { if(!b)return; const dir=getPreviewDir(b); const firstUrl=window.location.origin+'/'+getThumbUrl(b.name,dir)[0]; let ctx=`Brawler: ${b.name}\nRarity: ${b.rarity} | Class: ${b['class']}\nAssets: ${b.total_assets}`; if(b.skins?.length) ctx+=`\nSkins: ${b.skins.slice(0,5).join(', ')}`; ctx+=`\nPreview: ${firstUrl}\nProfile: ${window.location.origin}/data/brawler_profiles/${b.key}.md`; navigator.clipboard.writeText(ctx).then(()=>showCopied('📋 Brawler context copied')); }
+function copyBrawlerContext(b) { if(!b)return; const p=getBrawlerPreview(b.name,b.key); const previewUrl=p?window.location.origin+'/'+p:''; let ctx=`Brawler: ${b.name}\nRarity: ${b.rarity} | Class: ${b['class']}\nAssets: ${b.total_assets}`; if(b.skins?.length) ctx+=`\nSkins: ${b.skins.slice(0,5).join(', ')}`; if(previewUrl) ctx+=`\nPreview: ${previewUrl}`; ctx+=`\nProfile: ${window.location.origin}/data/brawler_profiles/${b.key}.md`; navigator.clipboard.writeText(ctx).then(()=>showCopied('📋 Brawler context copied')); }
 
 // ── GitHub Actions ──
 async function triggerScrape() {
