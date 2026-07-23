@@ -1,30 +1,31 @@
 #!/usr/bin/env python3
-"""Scrape Fankit assets using Playwright to bypass AWS WAF challenge."""
-import json, sys, time, os
+"""Scrape Fankit assets using Playwright (WAF bypass) + curl (fast downloads)."""
+import json, sys, time, os, subprocess
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
 BASE = Path(__file__).parent.parent.resolve()
-RAW_DIR = BASE / "_fankit_data"
-RAW_DIR.mkdir(parents=True, exist_ok=True)
-META_FILE = RAW_DIR / "fankit_metadata.json"
+RAW_DIR = BASE / "_raw_assets"
+FANKIT_DATA = BASE / "_fankit_data"
+FANKIT_DATA.mkdir(parents=True, exist_ok=True)
+META_FILE = FANKIT_DATA / "fankit_metadata.json"
+COOKIE_FILE = FANKIT_DATA / "aws_waf_token.txt"
 
 URL = "https://fankit.supercell.com/d/YvtsWV4pUQVm/game-assets"
 FANKIT = "https://fankit.supercell.com"
 BRAND = "https://brand.supercell.com"
 DOC_ID = "324"
+TOKEN_NAME = "aws-waf-token"
 
 def main():
     print("=" * 60, flush=True)
-    print("Fankit Scraper (Playwright)", flush=True)
+    print("Fankit Scraper (Playwright + curl)", flush=True)
     print("=" * 60, flush=True)
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True, args=[
-            "--no-sandbox",
-            "--disable-setuid-sandbox",
-            "--disable-dev-shm-usage",
-            "--disable-web-security",
+            "--no-sandbox", "--disable-setuid-sandbox",
+            "--disable-dev-shm-usage", "--disable-web-security",
         ])
         context = browser.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -33,12 +34,23 @@ def main():
         )
         page = context.new_page()
 
-        # Track API responses
+        print(f"[1] Opening {URL} ...", flush=True)
+        page.goto(URL, wait_until="networkidle", timeout=120000)
+        print(f"    Loaded: {page.title()}", flush=True)
+        time.sleep(5)
+
+        # Scroll to trigger lazy-loaded assets
+        for _ in range(3):
+            page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            time.sleep(3)
+            page.evaluate("window.scrollTo(0, 0)")
+            time.sleep(2)
+
+        # Collect tokens from intercepted API responses
         tokens = []
         api_responses = []
 
         def on_response(response):
-            # Capture search API responses
             if "/api/assets/search" in response.url:
                 try:
                     data = response.json()
@@ -52,59 +64,35 @@ def main():
 
         page.on("response", on_response)
 
-        print(f"[1] Opening {URL} ...", flush=True)
+        # Re-navigate so we capture fresh responses
         page.goto(URL, wait_until="networkidle", timeout=120000)
-        print(f"    Page loaded: {page.title()}", flush=True)
+        time.sleep(8)
 
-        # Wait a bit for React to render and API calls to complete
-        time.sleep(5)
+        total = api_responses[-1].get("total", 0) if api_responses else 0
+        print(f"    Total: {total}, tokens collected: {len(tokens)}", flush=True)
 
-        # Try to get more assets by scrolling
-        for _ in range(3):
-            page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-            time.sleep(3)
-            page.evaluate("window.scrollTo(0, 0)")
-            time.sleep(2)
-
-        # Get the total from search response
-        total = 0
-        if api_responses:
-            total = api_responses[-1].get("total", 0)
-        print(f"    Total from API: {total}", flush=True)
-        print(f"    Tokens collected: {len(tokens)}", flush=True)
-
-        # If we have a total > tokens, make a direct API call through the page
+        # Fetch all tokens via page.evaluate (browser handles WAF)
         if total > len(tokens) and total > 0:
-            print(f"    Fetching all {total} assets via page JS...", flush=True)
-            # Use page.evaluate to make a fetch call (browser handles WAF auth)
             result = page.evaluate(f"""
                 async () => {{
-                    try {{
-                        const r = await fetch('{FANKIT}/api/assets/search/{DOC_ID}?limit={total}');
-                        const d = await r.json();
-                        return d;
-                    }} catch(e) {{
-                        return {{error: e.message}};
-                    }}
+                    const r = await fetch('{FANKIT}/api/assets/search/{DOC_ID}?limit={total}');
+                    const d = await r.json();
+                    return d;
                 }}
             """)
             if result and "data" in result:
                 for item in result["data"]:
                     if "token" in item:
                         tokens.append(item["token"])
-                print(f"    Extended tokens: {len(tokens)}", flush=True)
 
-        # Deduplicate
         tokens = list(dict.fromkeys(tokens))
         print(f"    Unique tokens: {len(tokens)}", flush=True)
 
-        # Now fetch viewer metadata for each token via page JS
+        # Fetch viewer metadata for ALL tokens
         print(f"\n[2] Fetching viewer metadata for {len(tokens)} tokens...", flush=True)
         all_assets = []
-        batch_size = 50
-
-        for i in range(0, len(tokens), batch_size):
-            batch = tokens[i:i+batch_size]
+        for i in range(0, len(tokens), 50):
+            batch = tokens[i:i+50]
             batch_assets = page.evaluate(f"""
                 async (tokens) => {{
                     const results = [];
@@ -115,73 +103,110 @@ def main():
                             if (d.success && d.asset) {{
                                 results.push(d.asset);
                             }}
-                        }} catch(e) {{
-                            // ignore
-                        }}
+                        }} catch(e) {{}}
                     }}
                     return results;
                 }}
             """, batch)
             if batch_assets:
                 all_assets.extend(batch_assets)
-            if (i + batch_size) % 500 == 0 or i + batch_size >= len(tokens):
-                print(f"    [{min(i+batch_size, len(tokens))}/{len(tokens)}] got={len(all_assets)}", flush=True)
+            if (i + 50) % 500 == 0 or i + 50 >= len(tokens):
+                print(f"    [{min(i+50, len(tokens))}/{len(tokens)}] got={len(all_assets)}", flush=True)
 
         # Save metadata
         with open(META_FILE, "w") as f:
             json.dump({
-                "total": total,
-                "tokens_count": len(tokens),
-                "assets_count": len(all_assets),
-                "assets": all_assets,
+                "total": total, "tokens_count": len(tokens),
+                "assets_count": len(all_assets), "assets": all_assets,
                 "fetched_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
             }, f, indent=2)
-        print(f"\n    Saved {len(all_assets)} asset metadata to {META_FILE}", flush=True)
+        print(f"\n    Saved {len(all_assets)} asset metadata", flush=True)
 
-        # Optionally download files (only new ones, current existing count)
-        EXISTING = RAW_DIR / ".." / "_raw_assets"
-        EXISTING.mkdir(parents=True, exist_ok=True)
-        existing_count = len(list(EXISTING.glob("*.png"))) + len(list(EXISTING.glob("*.jpg")))
-        print(f"\n[3] Existing downloaded files: {existing_count}", flush=True)
+        # Extract WAF token cookie for curl downloads
+        cookies = context.cookies()
+        waf_token = None
+        for c in cookies:
+            if c["name"] == TOKEN_NAME:
+                waf_token = c["value"]
+                break
+        if waf_token:
+            COOKIE_FILE.write_text(waf_token)
+            print(f"    AWS WAF token: {waf_token[:20]}... (saved to {COOKIE_FILE.name})", flush=True)
 
-        downloaded = 0
-        for a in all_assets:
-            code = a.get("code") or a.get("download_code") or ""
-            if not code:
-                continue
-            fn = a.get("filename", f"asset_{a['id']}.png")
-            ext = Path(fn).suffix.lstrip(".") or "png"
-            local = EXISTING / f"{code}.{ext}"
-            if local.exists() and local.stat().st_size > 1000:
-                continue
-            # Download via page JS (browser handles WAF)
-            result = page.evaluate(f"""
-                async () => {{
-                    try {{
-                        const r = await fetch('{BRAND}/api/screen/download/{code}');
-                        if (!r.ok) return 'err';
-                        const blob = await r.blob();
-                        const buf = await blob.arrayBuffer();
-                        return Array.from(new Uint8Array(buf));
-                    }} catch(e) {{
-                        return 'err';
-                    }}
-                }}
-            """)
-            if result and result != "err":
-                local.write_bytes(bytes(result))
-                downloaded += 1
-            if downloaded % 50 == 0 and downloaded > 0:
-                print(f"    Downloaded: {downloaded}", flush=True)
+        # Check existing files
+        RAW_DIR.mkdir(parents=True, exist_ok=True)
+        existing = {}
+        for s in ["*.png", "*.jpg", "*.jpeg", "*.webp", "*.gif", "*.svg"]:
+            for f in RAW_DIR.glob(s):
+                existing[f.stem] = f
+        print(f"\n[3] Existing raw files: {len(existing)}", flush=True)
 
-        print(f"\n    Downloaded new files: {downloaded}", flush=True)
-        print(f"\n    Total in _raw_assets: {len(list(EXISTING.glob('*.png'))) + len(list(EXISTING.glob('*.jpg')))}", flush=True)
+        # Download files using curl with WAF token (muuuuch faster than CDP)
+        if waf_token:
+            print(f"    Downloading new files via curl...", flush=True)
+            COOKIES = f"{TOKEN_NAME}={waf_token}"
+            downloaded = 0
+            skipped = 0
+            t0 = time.time()
+            refresh_interval = 180  # refresh WAF token every 3 min
+            last_refresh = time.time()
+
+            for idx, a in enumerate(all_assets):
+                # Refresh WAF token periodically
+                if time.time() - last_refresh > refresh_interval:
+                    page.goto(URL, wait_until="networkidle", timeout=60000)
+                    time.sleep(3)
+                    cookies = context.cookies()
+                    for c in cookies:
+                        if c["name"] == TOKEN_NAME:
+                            waf_token = c["value"]
+                            COOKIES = f"{TOKEN_NAME}={waf_token}"
+                            break
+                    last_refresh = time.time()
+                    print(f"    [refresh] WAF token renewed at {time.time()-t0:.0f}s", flush=True)
+
+                code = a.get("code") or a.get("download_code") or ""
+                if not code:
+                    skipped += 1
+                    continue
+                fn = a.get("filename") or f"asset_{a['id']}.png"
+                ext = Path(fn).suffix.lstrip(".") or "png"
+                local = RAW_DIR / f"{code}.{ext}"
+                if local.exists() and local.stat().st_size > 1000:
+                    skipped += 1
+                    continue
+
+                # curl with WAF cookie
+                dl_url = f"{BRAND}/api/screen/download/{code}"
+                r = subprocess.run([
+                    "curl", "-sL", "-m", "30",
+                    "-H", f"Cookie: {COOKIES}",
+                    "-H", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                    "-H", "Referer: https://fankit.supercell.com/",
+                    "-o", str(local), dl_url,
+                ], capture_output=True, timeout=35)
+
+                if r.returncode == 0 and local.exists() and local.stat().st_size > 1000:
+                    downloaded += 1
+                else:
+                    if local.exists():
+                        local.unlink()
+                    skipped += 1
+
+                if (idx + 1) % 200 == 0:
+                    elapsed = time.time() - t0
+                    rate = downloaded / elapsed if elapsed > 0 else 0
+                    print(f"    [{idx+1}/{len(all_assets)}] dl={downloaded} skip={skipped} ({elapsed:.0f}s, {rate:.1f}/s)", flush=True)
+
+            elapsed = time.time() - t0
+            print(f"\n    Downloaded: {downloaded}, skipped: {skipped} ({elapsed:.0f}s)", flush=True)
 
         browser.close()
 
     print(f"\n{'='*60}", flush=True)
-    print(f"DONE: {len(all_assets)} assets metadata saved", flush=True)
-    print(f"       {downloaded} new files downloaded", flush=True)
+    print(f"DONE: {len(all_assets)} assets metadata", flush=True)
+    total_now = len(list(RAW_DIR.glob("*.png"))) + len(list(RAW_DIR.glob("*.jpg"))) + len(list(RAW_DIR.glob("*.webp"))) + len(list(RAW_DIR.glob("*.gif"))) + len(list(RAW_DIR.glob("*.svg")))
+    print(f"       {total_now} files in _raw_assets", flush=True)
     print(f"{'='*60}", flush=True)
 
 if __name__ == "__main__":
