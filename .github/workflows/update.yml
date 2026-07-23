@@ -1,8 +1,8 @@
 name: Monthly Brawl Assets Update
 on:
   schedule:
-    - cron: '0 0 1 * *'  # 1st of every month
-  workflow_dispatch:       # Manual trigger
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -28,11 +28,6 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
       - name: Install system deps
         run: |
           sudo apt-get update -qq
@@ -42,15 +37,36 @@ jobs:
             libpango-1.0-0 libcairo2 curl
 
       - name: Install Python deps
-        run: |
-          pip install playwright Pillow
-          playwright install chromium
+        run: pip install Pillow
 
-      - name: Scrape Fankit (Playwright)
-        run: python scripts/scrape_fankit.py
+      - name: Download Fankit assets from mirror (fallback)
+        run: |
+          mkdir -p _raw_assets
+          if [ -d _raw_assets ] && [ "$(ls -A _raw_assets 2>/dev/null)" ]; then
+            echo "Assets already present, skipping download"
+          else
+            echo "Downloading Fankit assets from mirror..."
+            curl -sL "https://github.com/LaptopCat/bs-fankit-rehosted/archive/refs/heads/main.tar.gz" \
+              -o /tmp/fankit.tar.gz
+            tar xzf /tmp/fankit.tar.gz -C /tmp
+            if [ -d "/tmp/bs-fankit-rehosted-main/assets" ]; then
+              cp -r /tmp/bs-fankit-rehosted-main/assets/* _raw_assets/ 2>/dev/null || true
+            fi
+            echo "Assets after mirror download: $(find _raw_assets -type f | wc -l)"
+            rm -f /tmp/fankit.tar.gz
+            rm -rf /tmp/bs-fankit-rehosted-main
+          fi
+        continue-on-error: true
+
+      - name: Try Playwright scrape (best effort)
+        run: |
+          pip install playwright
+          playwright install chromium
+          python scripts/scrape_fankit.py || echo "Scrape failed (non-fatal)"
+        continue-on-error: true
         timeout-minutes: 30
 
-      - name: Rebuild indexes + download CDN
+      - name: Rebuild indexes + download CDN portraits
         run: python scripts/rebuild_indexes.py
         timeout-minutes: 30
 
@@ -59,6 +75,7 @@ jobs:
           mkdir -p previews
           python scripts/build_previews.py
         timeout-minutes: 60
+        continue-on-error: true
 
       - name: Generate brawler profiles
         run: python scripts/rebuild_indexes.py --profiles-only
@@ -72,12 +89,13 @@ jobs:
       - name: Create download zip
         run: |
           mkdir -p download
-          cd previews && find . -name '*.webp' | head -1 && cd ..
           cd data && zip -r ../download/brawl_stars_vision_pack.zip \
             assets.json brawlers.json search_index.json preview_manifest.json \
             brawler_profiles/ ../master_prompt.md 2>/dev/null; cd ..
-          zip -r download/brawl_stars_vision_pack.zip previews/ \
-            -x "*/BrawlAssets/*" -x "*/_raw_assets/*" -x "*/_cdn_brawlers/*"
+          if [ -d previews ] && [ "$(ls -A previews 2>/dev/null)" ]; then
+            zip -r download/brawl_stars_vision_pack.zip previews/ \
+              -x "*/BrawlAssets/*" -x "*/_raw_assets/*" -x "*/_cdn_brawlers/*"
+          fi
           echo "Zip size: $(du -sh download/brawl_stars_vision_pack.zip | cut -f1)"
 
       - name: Setup Pages
@@ -87,7 +105,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: '.'
-          exclusion: '**/BrawlAssets/** **/_raw_assets/** **/_cdn_brawlers/** **/.git/**'
+          exclusion: '**/BrawlAssets/** **/_raw_assets/** **/_cdn_brawlers/** **/.git/** **/.github/** **/node_modules/**'
 
       - name: Deploy to Pages
         id: deployment
@@ -97,7 +115,7 @@ jobs:
         run: |
           git config user.name "brawl-bot"
           git config user.email "bot@brawl-assets"
-          git add data/ preview_manifest.json
+          git add data/ preview_manifest.json previews/ 2>/dev/null || true
           git diff --quiet && git diff --staged --quiet || \
             git commit -m "auto: monthly asset update ($(date +%Y-%m-%d))"
           git push
