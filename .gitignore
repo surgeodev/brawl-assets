@@ -5,6 +5,9 @@
 BrawlAssets/
 __pycache__/
 _raw/
+_raw_assets/
+_cdn_brawlers/
+_debug/
 cdn_brawlers/
 contact_sheets/
 download/*.zip

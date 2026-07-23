@@ -115,7 +115,11 @@ jobs:
         run: |
           git config user.name "brawl-bot"
           git config user.email "bot@brawl-assets"
-          git add data/ preview_manifest.json previews/ 2>/dev/null || true
-          git diff --quiet && git diff --staged --quiet || \
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git add data/ 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
             git commit -m "auto: monthly asset update ($(date +%Y-%m-%d))"
-          git push
+            git push
+          fi
