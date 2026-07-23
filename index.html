@@ -178,7 +178,7 @@
 <div class="copied-msg" id="copiedMsg"></div>
 
 <script>
-let brawlers = [], allAssets = [], manifest = [], ytExamples = [], board = [];
+let brawlers = [], allAssets = [], manifest = [], manifestPaths = new Set(), ytExamples = [], board = [];
 let activeTab = 'brawlers';
 
 const CAT_ORDER = ['Brawlers','Portraits','Pins','Emojis','Sprays','Backgrounds','LoadingScreens','Animations','UI','Icons','Misc','Logos'];
@@ -194,6 +194,7 @@ async function load() {
     brawlers = Object.entries(await bRes.json()).map(([k,v])=>({key:k,...v}));
     allAssets = await aRes.json();
     manifest = await mRes.json();
+    manifestPaths = new Set(manifest.map(m => m.preview_path));
     document.getElementById('totalBrawlers').textContent = brawlers.length;
     document.getElementById('totalAssets').textContent = allAssets.length;
     renderTabs();
@@ -233,20 +234,37 @@ function renderTab() {
 function getBrawlerPreview(name, brawlerKey) {
   const b = brawlers.find(x => x.key === brawlerKey);
   if (!b) return null;
-  const ids = new Set();
-  for (const cat of Object.values(b.asset_types||{})) cat.forEach(id => ids.add(id));
-  const firstBrawlerAsset = allAssets.find(a => ids.has(a.id) && a.category === 'Brawlers');
-  if (firstBrawlerAsset) {
-    const m = manifest.find(x => x.id === firstBrawlerAsset.id);
-    if (m && m.preview_path) return m.preview_path;
+  const dir = b.preview_dir || b.key;
+  const nameSafe = name.replace(/[^a-zA-Z0-9]/g,'_');
+  const patterns = [
+    `previews/Brawlers/${dir}/${nameSafe}_Default_001.webp`,
+    `previews/Brawlers/${dir}/${nameSafe}_default_001.webp`,
+    `previews/Brawlers/${dir}/${nameSafe}_bordered.webp`,
+    `previews/Brawlers/${dir}/${nameSafe}_borderless.webp`,
+    `previews/Brawlers/${dir}/${nameSafe}_Classic_001.webp`,
+    `previews/Brawlers/${dir}/${nameSafe}_classic_001.webp`,
+  ];
+  for (const p of patterns) {
+    if (manifestPaths.has(p)) return p;
   }
-  return null;
+  if (manifest.length) {
+    const first = manifest.find(m => m.preview_path.startsWith(`previews/Brawlers/${dir}/`));
+    if (first) return first.preview_path;
+  }
+  return patterns[0];
 }
 
-function renderThumb(b, img) {
-  const p = getBrawlerPreview(b.name, b.key);
-  if (p) { img.src = p; img.onerror = () => { img.style.display='none'; img.parentElement.innerHTML='<div style="color:#445;font-size:20px;">?</div>'; }; }
-  else { img.style.display='none'; img.parentElement.innerHTML='<div style="color:#445;font-size:20px;">?</div>'; }
+function findAssetPreview(a) {
+  const stem = (a.display_name||a.id).replace(/ /g,'_');
+  const guess = `previews/${a.category}/${a.subcategory||'General'}/${stem}.webp`;
+  if (manifestPaths.has(guess)) return guess;
+  const lower = `previews/${(a.category||'').toLowerCase()}/${(a.subcategory||'').toLowerCase()}/${stem.toLowerCase()}.webp`;
+  if (manifestPaths.has(lower)) return lower;
+  for (const m of manifest) {
+    if (m.id === a.id) return m.preview_path;
+    if (m.display_name === a.display_name) return m.preview_path;
+  }
+  return guess;
 }
 
 function renderBrawlers(q) {
@@ -276,10 +294,8 @@ function renderCategory(cat, q) {
   if (!items.length) { grid.innerHTML = '<div class="empty">No assets in this category</div>'; return; }
   grid.style.gridTemplateColumns = '';
   grid.className = 'cat-grid';
-  const manifestMap = {};
-  for (const m of manifest) manifestMap[m.id] = m.preview_path;
   grid.innerHTML = items.sort((a,b)=>(a.display_name||'').localeCompare(b.display_name||'')).map(a => {
-    const pv = manifestMap[a.id] || `previews/${a.category}/${a.subcategory}/${(a.display_name||a.id).replace(/ /g,'_')}.webp`;
+    const pv = findAssetPreview(a);
     return `<div class="cat-asset" title="${a.display_name} (${a.subcategory})">
       <img src="${pv}" alt="${a.display_name}" loading="lazy" onclick="addToBoard('${a.brawler||a.category}','${(a.display_name||'').replace(/'/g,"")}','${pv}')" onerror="this.parentElement.style.display='none'">
       <div class="label">${a.display_name||'?'}</div>
@@ -298,16 +314,13 @@ function openBrawler(key) {
   for (const a of allAssets) { if (ids.has(a.id)) { const c = a.category||'Other'; if (!grouped[c]) grouped[c]=[]; grouped[c].push(a); } }
   document.getElementById('modalMeta').innerHTML = `<span style="color:${b.color}">■</span> ${b.rarity} · ${b['class']} · ${b.total_assets} assets${b.skins?.length ? ' · Skins: '+b.skins.slice(0,6).join(', ')+(b.skins.length>6?'…':''):''}
     <button class="btn-secondary" onclick="copyBrawlerContext(brawlers.find(x=>x.key==='${b.key}'))" style="margin-left:6px;padding:2px 6px;font-size:10px;">📋 Copy</button>`;
-  const manifestMap = {};
-  for (const m of manifest) manifestMap[m.id] = m.preview_path;
-
   let html = '';
   for (const cat of CAT_ORDER) {
     const items = grouped[cat]; if (!items?.length) continue;
     html += `<div class="cat-header">${cat} (${items.length})</div>`;
     items.sort((a,b)=>(a.display_name||'').localeCompare(b.display_name||''));
     for (const a of items.slice(0,30)) {
-      const pv = manifestMap[a.id] || `previews/${a.category}/${a.subcategory}/${(a.display_name||a.id).replace(/ /g,'_')}.webp`;
+      const pv = findAssetPreview(a);
       const dn = (a.display_name||'').replace(/'/g,"");
       html += `<div class="asset-item" title="${a.display_name}"><img src="${pv}" alt="${a.display_name}" loading="lazy" onclick="event.stopPropagation();addToBoard('${b.key}','${dn}','${pv}')" onerror="this.parentElement.style.display='none'"><button class="copy-btn" onclick="event.stopPropagation();copyUrl('${pv}')">📋</button><div class="cat-label">${a.subcategory||''}</div></div>`;
     }

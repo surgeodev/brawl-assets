@@ -1,62 +1,54 @@
 # Lola
 Rarity: Epic | Class: Damage Dealer
-Total assets: 31
-Skins: Calculating
+Total assets: 21
 
 
-## Brawlers (18)
-  - Lola Calculating Meme
-    preview: previews/Brawlers/lola_calculating_meme/Lola_Calculating_Meme.webp
-  - lola1_mastery
-    preview: previews/Brawlers/lola1/lola1_mastery.webp
-  - lola2_mastery
-    preview: previews/Brawlers/lola2/lola2_mastery.webp
-  - lola3_mastery
-    preview: previews/Brawlers/lola3/lola3_mastery.webp
-  - lola4_mastery
-    preview: previews/Brawlers/lola4/lola4_mastery.webp
-  - lola5_mastery
-    preview: previews/Brawlers/lola5/lola5_mastery.webp
-  - lola_cobra_lola_150
-    preview: previews/Brawlers/lola/lola_cobra_lola_150.webp
-  - lola_default_001
-    preview: previews/Brawlers/lola/lola_default_001.webp
-  - lola_gadget_01
-    preview: previews/Brawlers/lola/lola_gadget_01.webp
-  - lola_gadget_02
-    preview: previews/Brawlers/lola/lola_gadget_02.webp
-    ... +8 more
+## Brawlers (9)
+  - Lola_Cobra_Lola_150
+    preview: previews/Brawlers/Lola/Lola_Cobra_Lola_150.webp
+  - Lola_Default_001
+    preview: previews/Brawlers/Lola/Lola_Default_001.webp
+  - Lola_Galaxy_Storm_Lola_001
+    preview: previews/Brawlers/Lola/Lola_Galaxy_Storm_Lola_001.webp
+  - Lola_Kitsune_Lola_001
+    preview: previews/Brawlers/Lola/Lola_Kitsune_Lola_001.webp
+  - Lola_Lavish_Lola_143
+    preview: previews/Brawlers/Lola/Lola_Lavish_Lola_143.webp
+  - Lola_Lawless_Lola_001
+    preview: previews/Brawlers/Lola/Lola_Lawless_Lola_001.webp
+  - Lola_Rebel_Lola_001
+    preview: previews/Brawlers/Lola/Lola_Rebel_Lola_001.webp
+  - Lola_True_Gold_Lola_001
+    preview: previews/Brawlers/Lola/Lola_True_Gold_Lola_001.webp
+  - Lola_True_Silver_Lola_001
+    preview: previews/Brawlers/Lola/Lola_True_Silver_Lola_001.webp
+
+## Portraits (1)
+  - Portraits_Lola_Portrait
+    preview: previews/Portraits/Lola/Portraits_Lola_Portrait.webp
 
 ## Pins (2)
-  - lola_facepalm_pin
-    preview: previews/Pins/Default/lola_facepalm_pin.webp
-  - lola_mask_pin
-    preview: previews/Pins/Default/lola_mask_pin.webp
+  - Lola_Facepalm_Pin
+    preview: previews/Pins/Facepalm/Lola_Facepalm_Pin.webp
+  - Lola_Mask_Pin
+    preview: previews/Pins/Default/Lola_Mask_Pin.webp
 
-## Emojis (2)
-  - emoji_lola_circus
-    preview: previews/Emojis/All/emoji_lola_circus.webp
-  - emoji_lola_retropolis
-    preview: previews/Emojis/All/emoji_lola_retropolis.webp
-
-## Sprays (3)
-  - spray_lola
-    preview: previews/Sprays/All/spray_lola.webp
-  - spray_lola_circus
-    preview: previews/Sprays/All/spray_lola_circus.webp
-  - spray_lola_mask
-    preview: previews/Sprays/All/spray_lola_mask.webp
-
-## UI (6)
-  - player_icon_lola1
-    preview: previews/UI/Icons/player_icon_lola1.webp
-  - player_icon_lola_circus
-    preview: previews/UI/Icons/player_icon_lola_circus.webp
-  - player_icon_pl_lola_outlaw_1
-    preview: previews/UI/Icons/player_icon_pl_lola_outlaw_1.webp
-  - player_icon_pl_lola_outlaw_2
-    preview: previews/UI/Icons/player_icon_pl_lola_outlaw_2.webp
-  - player_icon_rebel_lola
-    preview: previews/UI/Icons/player_icon_rebel_lola.webp
-  - profile_icon_mask_lola
-    preview: previews/UI/Icons/profile_icon_mask_lola.webp
+## UI (9)
+  - Lola1_Mastery
+    preview: previews/UI/Mastery/Lola1_Mastery.webp
+  - Lola2_Mastery
+    preview: previews/UI/Mastery/Lola2_Mastery.webp
+  - Lola3_Mastery
+    preview: previews/UI/Mastery/Lola3_Mastery.webp
+  - Lola4_Mastery
+    preview: previews/UI/Mastery/Lola4_Mastery.webp
+  - Lola5_Mastery
+    preview: previews/UI/Mastery/Lola5_Mastery.webp
+  - Lola_Gadget_01
+    preview: previews/UI/Gadgets/Lola_Gadget_01.webp
+  - Lola_Gadget_02
+    preview: previews/UI/Gadgets/Lola_Gadget_02.webp
+  - Lola_Starpower_01
+    preview: previews/UI/StarPowers/Lola_Starpower_01.webp
+  - Lola_Starpower_02
+    preview: previews/UI/StarPowers/Lola_Starpower_02.webp

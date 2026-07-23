@@ -1,77 +1,74 @@
 # Brock
 Rarity: Rare | Class: Marksman
-Total assets: 67
-Skins: Button, Matrix, Why
+Total assets: 57
 
 
-## Brawlers (33)
-  - Brock Button Meme
-    preview: previews/Brawlers/brock_button_meme/Brock_Button_Meme.webp
-  - Brock Matrix Meme
-    preview: previews/Brawlers/brock_matrix_meme/Brock_Matrix_Meme.webp
-  - Brock Why Not This Meme
-    preview: previews/Brawlers/brock_why_not_this_meme/Brock_Why_Not_This_Meme.webp
-  - _0036_brock_true_silver_fresh_cut_brock_001
-    preview: previews/Brawlers//_0036_brock_true_silver_fresh_cut_brock_001.webp
-  - _0037_brock_true_gold_fresh_cut_brock_001
-    preview: previews/Brawlers//_0037_brock_true_gold_fresh_cut_brock_001.webp
-  - brock1_mastery
-    preview: previews/Brawlers/brock1/brock1_mastery.webp
-  - brock2_mastery
-    preview: previews/Brawlers/brock2/brock2_mastery.webp
-  - brock3_mastery
-    preview: previews/Brawlers/brock3/brock3_mastery.webp
-  - brock4_mastery
-    preview: previews/Brawlers/brock4/brock4_mastery.webp
-  - brock5_mastery
-    preview: previews/Brawlers/brock5/brock5_mastery.webp
-    ... +23 more
+## Brawlers (22)
+  - Brock_Beach_Brock_001
+    preview: previews/Brawlers/Brock/Brock_Beach_Brock_001.webp
+  - Brock_Boom_Box_Brock_001
+    preview: previews/Brawlers/Brock/Brock_Boom_Box_Brock_001.webp
+  - Brock_Default_001
+    preview: previews/Brawlers/Brock/Brock_Default_001.webp
+  - Brock_Gold_Hacker_Brock_450
+    preview: previews/Brawlers/Brock/Brock_Gold_Hacker_Brock_450.webp
+  - Brock_Hacker_Brock_450
+    preview: previews/Brawlers/Brock/Brock_Hacker_Brock_450.webp
+  - Brock_Hot_Rod_Brock_001
+    preview: previews/Brawlers/Brock/Brock_Hot_Rod_Brock_001.webp
+  - Brock_Lion_Dance_Brock_001
+    preview: previews/Brawlers/Brock/Brock_Lion_Dance_Brock_001.webp
+  - Brock_Old_School_Brock_001
+    preview: previews/Brawlers/Brock/Brock_Old_School_Brock_001.webp
+  - Brock_Postal_Brock_001
+    preview: previews/Brawlers/Brock/Brock_Postal_Brock_001.webp
+  - Brock_Rgb_Hacker_Brock_450
+    preview: previews/Brawlers/Brock/Brock_Rgb_Hacker_Brock_450.webp
+    ... +12 more
 
-## Pins (23)
-  - brock_angry_pin
-    preview: previews/Pins/Default/brock_angry_pin.webp
-  - brock_clap_pin
-    preview: previews/Pins/Default/brock_clap_pin.webp
-  - brock_facepalm_pin
-    preview: previews/Pins/Default/brock_facepalm_pin.webp
-  - brock_gg_pin
-    preview: previews/Pins/Default/brock_gg_pin.webp
-  - brock_hacker_pin
-    preview: previews/Pins/Default/brock_hacker_pin.webp
-  - brock_happy_pin
-    preview: previews/Pins/Default/brock_happy_pin.webp
-  - brock_hypercharge_pin
-    preview: previews/Pins/Default/brock_hypercharge_pin.webp
-  - brock_master_hacker_pin
-    preview: previews/Pins/Default/brock_master_hacker_pin.webp
-  - brock_phew_pin
-    preview: previews/Pins/Default/brock_phew_pin.webp
-  - brock_pin
-    preview: previews/Pins/Default/brock_pin.webp
-    ... +13 more
+## Portraits (1)
+  - Brock_Portrait
+    preview: previews/Portraits/Brock/Brock_Portrait.webp
 
-## Sprays (3)
-  - spray_brock
-    preview: previews/Sprays/All/spray_brock.webp
-  - spray_brock_hypercharge
-    preview: previews/Sprays/All/spray_brock_hypercharge.webp
-  - spray_brock_olympus
-    preview: previews/Sprays/All/spray_brock_olympus.webp
+## Pins (25)
+  - Brock_Angry_Pin
+    preview: previews/Pins/Angry/Brock_Angry_Pin.webp
+  - Brock_Boom_Box_Pin
+    preview: previews/Pins/Default/Brock_Boom_Box_Pin.webp
+  - Brock_Clap_Pin
+    preview: previews/Pins/Clap/Brock_Clap_Pin.webp
+  - Brock_Facepalm_Pin
+    preview: previews/Pins/Facepalm/Brock_Facepalm_Pin.webp
+  - Brock_Gg_Pin
+    preview: previews/Pins/GG/Brock_Gg_Pin.webp
+  - Brock_Hacker_Pin
+    preview: previews/Pins/Default/Brock_Hacker_Pin.webp
+  - Brock_Happy_Pin
+    preview: previews/Pins/Happy/Brock_Happy_Pin.webp
+  - Brock_Hypercharge_Pin
+    preview: previews/Pins/Default/Brock_Hypercharge_Pin.webp
+  - Brock_Master_Hacker_Pin
+    preview: previews/Pins/Default/Brock_Master_Hacker_Pin.webp
+  - Brock_Phew_Pin
+    preview: previews/Pins/Phew/Brock_Phew_Pin.webp
+    ... +15 more
 
-## UI (8)
-  - profile_icon_brock_line
-    preview: previews/UI/Icons/profile_icon_brock_line.webp
-  - profile_icon_brock_olympus
-    preview: previews/UI/Icons/profile_icon_brock_olympus.webp
-  - profile_icon_brock_super_ranger_black
-    preview: previews/UI/Icons/profile_icon_brock_super_ranger_black.webp
-  - profile_icon_brock_super_ranger_blue
-    preview: previews/UI/Icons/profile_icon_brock_super_ranger_blue.webp
-  - profile_icon_brock_super_ranger_pink
-    preview: previews/UI/Icons/profile_icon_brock_super_ranger_pink.webp
-  - profile_icon_brock_super_ranger_red
-    preview: previews/UI/Icons/profile_icon_brock_super_ranger_red.webp
-  - profile_icon_brock_super_ranger_yellow
-    preview: previews/UI/Icons/profile_icon_brock_super_ranger_yellow.webp
-  - profile_icon_brock_virus
-    preview: previews/UI/Icons/profile_icon_brock_virus.webp
+## UI (9)
+  - Brock1_Mastery
+    preview: previews/UI/Mastery/Brock1_Mastery.webp
+  - Brock2_Mastery
+    preview: previews/UI/Mastery/Brock2_Mastery.webp
+  - Brock3_Mastery
+    preview: previews/UI/Mastery/Brock3_Mastery.webp
+  - Brock4_Mastery
+    preview: previews/UI/Mastery/Brock4_Mastery.webp
+  - Brock5_Mastery
+    preview: previews/UI/Mastery/Brock5_Mastery.webp
+  - Brock_Gadget_01
+    preview: previews/UI/Gadgets/Brock_Gadget_01.webp
+  - Brock_Gadget_02
+    preview: previews/UI/Gadgets/Brock_Gadget_02.webp
+  - Brock_Starpower_01
+    preview: previews/UI/StarPowers/Brock_Starpower_01.webp
+  - Brock_Starpower_02
+    preview: previews/UI/StarPowers/Brock_Starpower_02.webp

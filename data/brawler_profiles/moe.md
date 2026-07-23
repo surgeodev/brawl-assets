@@ -1,64 +1,50 @@
 # Moe
 Rarity: Mythic | Class: Damage Dealer
-Total assets: 39
+Total assets: 19
 
 
-## Brawlers (18)
-  - el_primo_el_atÓmico_001
-    preview: previews/Brawlers/el/el_primo_el_atÓmico_001.webp
-  - el_primo_el_baby_shark_516
-    preview: previews/Brawlers/el/el_primo_el_baby_shark_516.webp
-  - el_primo_el_brown_001
-    preview: previews/Brawlers/el/el_primo_el_brown_001.webp
-  - el_primo_el_corazÓn_001
-    preview: previews/Brawlers/el/el_primo_el_corazÓn_001.webp
-  - el_primo_el_dragÓn_verdoso_001
-    preview: previews/Brawlers/el/el_primo_el_dragÓn_verdoso_001.webp
-  - el_primo_el_mayordomo_001
-    preview: previews/Brawlers/el/el_primo_el_mayordomo_001.webp
-  - el_primo_el_primo_club_nacional_001
-    preview: previews/Brawlers/el/el_primo_el_primo_club_nacional_001.webp
-  - el_primo_el_primo_corinthians_001
-    preview: previews/Brawlers/el/el_primo_el_primo_corinthians_001.webp
-  - el_primo_el_primo_universitario_001
-    preview: previews/Brawlers/el/el_primo_el_primo_universitario_001.webp
-  - el_primo_el_rey_primo_001
-    preview: previews/Brawlers/el/el_primo_el_rey_primo_001.webp
-    ... +8 more
+## Brawlers (2)
+  - _0012_Moe_Monterey_Moe_Happy_236
+    preview: previews/Brawlers/Moe/_0012_Moe_Monterey_Moe_Happy_236.webp
+  - _0013_Moe_Default_Happy_174
+    preview: previews/Brawlers/Moe/_0013_Moe_Default_Happy_174.webp
 
-## Pins (15)
-  - _0012_moe_monterey_moe_happy_236
-    preview: previews/Pins/Default/_0012_moe_monterey_moe_happy_236.webp
-  - _0013_moe_default_happy_174
-    preview: previews/Pins/Default/_0013_moe_default_happy_174.webp
-  - el_primo_el_dragÓn_rosado_001
-    preview: previews/Pins/Default/el_primo_el_dragÓn_rosado_001.webp
-  - el_primo_el_quarterback_happy_220
-    preview: previews/Pins/Default/el_primo_el_quarterback_happy_220.webp
-  - moe_GG_pin
-    preview: previews/Pins/Default/moe_GG_pin.webp
-  - moe_angry_pin
-    preview: previews/Pins/Default/moe_angry_pin.webp
-  - moe_clap_pin
-    preview: previews/Pins/Default/moe_clap_pin.webp
-  - moe_facepalm_pin
-    preview: previews/Pins/Default/moe_facepalm_pin.webp
-  - moe_happy_pin
-    preview: previews/Pins/Default/moe_happy_pin.webp
-  - moe_phew_pin
-    preview: previews/Pins/Default/moe_phew_pin.webp
-    ... +5 more
+## Pins (10)
+  - Moe_Angry_Pin
+    preview: previews/Pins/Angry/Moe_Angry_Pin.webp
+  - Moe_Clap_Pin
+    preview: previews/Pins/Clap/Moe_Clap_Pin.webp
+  - Moe_Facepalm_Pin
+    preview: previews/Pins/Facepalm/Moe_Facepalm_Pin.webp
+  - Moe_Gg_Pin
+    preview: previews/Pins/GG/Moe_Gg_Pin.webp
+  - Moe_Happy_Pin
+    preview: previews/Pins/Happy/Moe_Happy_Pin.webp
+  - Moe_Phew_Pin
+    preview: previews/Pins/Phew/Moe_Phew_Pin.webp
+  - Moe_Pin
+    preview: previews/Pins/Default/Moe_Pin.webp
+  - Moe_Sad_Pin
+    preview: previews/Pins/Sad/Moe_Sad_Pin.webp
+  - Moe_Special_Pin
+    preview: previews/Pins/Special/Moe_Special_Pin.webp
+  - Moe_Thanks_Pin
+    preview: previews/Pins/Thanks/Moe_Thanks_Pin.webp
 
 ## Sprays (1)
-  - moe_spray
-    preview: previews/Sprays/All/moe_spray.webp
+  - Moe_Spray
+    preview: previews/Sprays/All/Moe_Spray.webp
 
-## UI (4)
-  - player_icon_moe
-    preview: previews/UI/Icons/player_icon_moe.webp
-  - profile_icon_elprimo_el_brown
-    preview: previews/UI/Icons/profile_icon_elprimo_el_brown.webp
-  - profile_icon_elprimo_el_rey
-    preview: previews/UI/Icons/profile_icon_elprimo_el_rey.webp
-  - profile_icon_elprimo_el_tigro
-    preview: previews/UI/Icons/profile_icon_elprimo_el_tigro.webp
+## UI (6)
+  - Moe_Gadget_1
+    preview: previews/UI/Gadgets/Moe_Gadget_1.webp
+  - Moe_Gadget_2
+    preview: previews/UI/Gadgets/Moe_Gadget_2.webp
+  - Moe_Starpower_1
+    preview: previews/UI/StarPowers/Moe_Starpower_1.webp
+  - Moe_Starpower_2
+    preview: previews/UI/StarPowers/Moe_Starpower_2.webp
+  - Moe_Ulti_Button
+    preview: previews/UI/Buttons/Moe_Ulti_Button.webp
+  - Moe_Ulti_Button_Blue
+    preview: previews/UI/Buttons/Moe_Ulti_Button_Blue.webp

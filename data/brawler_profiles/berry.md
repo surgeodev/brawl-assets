@@ -1,55 +1,40 @@
 # Berry
 Rarity: Epic | Class: Support
-Total assets: 23
+Total assets: 15
 
 
-## Brawlers (7)
-  - _0038_berry_true_silver_berry_001
-    preview: previews/Brawlers//_0038_berry_true_silver_berry_001.webp
-  - _0040_berry_true_gold_berry_001
-    preview: previews/Brawlers//_0040_berry_true_gold_berry_001.webp
-  - icon_item_berry_1
-    preview: previews/Brawlers/icon/icon_item_berry_1.webp
-  - icon_item_berry_2
-    preview: previews/Brawlers/icon/icon_item_berry_2.webp
-  - icon_sp_berry_1
-    preview: previews/Brawlers/icon/icon_sp_berry_1.webp
-  - icon_sp_berry_2
-    preview: previews/Brawlers/icon/icon_sp_berry_2.webp
-  - lily_strawberry_lily_296
-    preview: previews/Brawlers/lily/lily_strawberry_lily_296.webp
+## Brawlers (4)
+  - _0038_Berry_True_Silver_Berry_001
+    preview: previews/Brawlers/Berry/_0038_Berry_True_Silver_Berry_001.webp
+  - _0040_Berry_True_Gold_Berry_001
+    preview: previews/Brawlers/Berry/_0040_Berry_True_Gold_Berry_001.webp
+  - _0042_Berry_Default_Happy_232
+    preview: previews/Brawlers/Berry/_0042_Berry_Default_Happy_232.webp
+  - _0043_Berry_Dark_Horse_Berry_Happy_232
+    preview: previews/Brawlers/Berry/_0043_Berry_Dark_Horse_Berry_Happy_232.webp
 
 ## Portraits (1)
-  - berry_portrait
-    preview: previews/Portraits/Unknown/berry_portrait.webp
+  - Berry_Portrait
+    preview: previews/Portraits/Berry/Berry_Portrait.webp
 
-## Pins (12)
-  - _0042_berry_default_happy_232
-    preview: previews/Pins/Default/_0042_berry_default_happy_232.webp
-  - _0043_berry_dark_horse_berry_happy_232
-    preview: previews/Pins/Default/_0043_berry_dark_horse_berry_happy_232.webp
-  - berry_angry_pin
-    preview: previews/Pins/Default/berry_angry_pin.webp
-  - berry_clap_pin
-    preview: previews/Pins/Default/berry_clap_pin.webp
-  - berry_facepalm_pin
-    preview: previews/Pins/Default/berry_facepalm_pin.webp
-  - berry_gg_pin
-    preview: previews/Pins/Default/berry_gg_pin.webp
-  - berry_happy_pin
-    preview: previews/Pins/Default/berry_happy_pin.webp
-  - berry_phew_pin
-    preview: previews/Pins/Default/berry_phew_pin.webp
-  - berry_pin
-    preview: previews/Pins/Default/berry_pin.webp
-  - berry_sad_pin
-    preview: previews/Pins/Default/berry_sad_pin.webp
-    ... +2 more
-
-## Sprays (1)
-  - spray_berry
-    preview: previews/Sprays/All/spray_berry.webp
-
-## UI (1)
-  - profile_icon_berry
-    preview: previews/UI/Icons/profile_icon_berry.webp
+## Pins (10)
+  - Berry_Angry_Pin
+    preview: previews/Pins/Angry/Berry_Angry_Pin.webp
+  - Berry_Clap_Pin
+    preview: previews/Pins/Clap/Berry_Clap_Pin.webp
+  - Berry_Facepalm_Pin
+    preview: previews/Pins/Facepalm/Berry_Facepalm_Pin.webp
+  - Berry_Gg_Pin
+    preview: previews/Pins/GG/Berry_Gg_Pin.webp
+  - Berry_Happy_Pin
+    preview: previews/Pins/Happy/Berry_Happy_Pin.webp
+  - Berry_Phew_Pin
+    preview: previews/Pins/Phew/Berry_Phew_Pin.webp
+  - Berry_Pin
+    preview: previews/Pins/Default/Berry_Pin.webp
+  - Berry_Sad_Pin
+    preview: previews/Pins/Sad/Berry_Sad_Pin.webp
+  - Berry_Special_Pin
+    preview: previews/Pins/Special/Berry_Special_Pin.webp
+  - Berry_Thanks_Pin
+    preview: previews/Pins/Thanks/Berry_Thanks_Pin.webp

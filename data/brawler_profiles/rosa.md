@@ -1,73 +1,71 @@
 # Rosa
 Rarity: Rare | Class: Tank
-Total assets: 48
-Skins: x
+Total assets: 41
 
 
-## Brawlers (18)
-  - Rosa x Primo Predator Meme
-    preview: previews/Brawlers/rosa_x_primo_predator_meme/Rosa_x_Primo_Predator_Meme.webp
-  - icon_ulti_oc_rosa.png
-    preview: previews/Brawlers/icon/icon_ulti_oc_rosa.png.webp
-  - icon_ulti_oc_rosa.png copy
-    preview: previews/Brawlers/icon/icon_ulti_oc_rosa.png_copy.webp
-  - rosa1_mastery
-    preview: previews/Brawlers/rosa1/rosa1_mastery.webp
-  - rosa2_mastery
-    preview: previews/Brawlers/rosa2/rosa2_mastery.webp
-  - rosa3_mastery
-    preview: previews/Brawlers/rosa3/rosa3_mastery.webp
-  - rosa4_mastery
-    preview: previews/Brawlers/rosa4/rosa4_mastery.webp
-  - rosa5_mastery
-    preview: previews/Brawlers/rosa5/rosa5_mastery.webp
-  - rosa_brawl-o-ween_rosa_001
-    preview: previews/Brawlers/rosa/rosa_brawl-o-ween_rosa_001.webp
-  - rosa_cheerleader_rosa_001
-    preview: previews/Brawlers/rosa/rosa_cheerleader_rosa_001.webp
-    ... +8 more
+## Brawlers (9)
+  - Pin_Esports_Rosa
+    preview: previews/Brawlers/Rosa/Pin_Esports_Rosa.webp
+  - Rosa_Brawl_O_Ween_Rosa_001
+    preview: previews/Brawlers/Rosa/Rosa_Brawl_O_Ween_Rosa_001.webp
+  - Rosa_Cheerleader_Rosa_001
+    preview: previews/Brawlers/Rosa/Rosa_Cheerleader_Rosa_001.webp
+  - Rosa_Coco_Rosa_001
+    preview: previews/Brawlers/Rosa/Rosa_Coco_Rosa_001.webp
+  - Rosa_Default_001
+    preview: previews/Brawlers/Rosa/Rosa_Default_001.webp
+  - Rosa_Major_Rosa_001
+    preview: previews/Brawlers/Rosa/Rosa_Major_Rosa_001.webp
+  - Rosa_Mantis_Rosa_001
+    preview: previews/Brawlers/Rosa/Rosa_Mantis_Rosa_001.webp
+  - Rosa_True_Gold_Rosa_001
+    preview: previews/Brawlers/Rosa/Rosa_True_Gold_Rosa_001.webp
+  - Rosa_True_Silver_Rosa_001
+    preview: previews/Brawlers/Rosa/Rosa_True_Silver_Rosa_001.webp
+
+## Portraits (1)
+  - Rosa_Portrait
+    preview: previews/Portraits/Rosa/Rosa_Portrait.webp
 
 ## Pins (22)
-  - biodome_rosa_pin
-    preview: previews/Pins/Default/biodome_rosa_pin.webp
-  - rosa_angry_pin
-    preview: previews/Pins/Default/rosa_angry_pin.webp
-  - rosa_brawloween_pin
-    preview: previews/Pins/Default/rosa_brawloween_pin.webp
-  - rosa_clap_pin
-    preview: previews/Pins/Default/rosa_clap_pin.webp
-  - rosa_coco_pin
-    preview: previews/Pins/Default/rosa_coco_pin.webp
-  - rosa_facepalm_pin
-    preview: previews/Pins/Default/rosa_facepalm_pin.webp
-  - rosa_gg_pin
-    preview: previews/Pins/Default/rosa_gg_pin.webp
-  - rosa_halloween_angry_pin
-    preview: previews/Pins/Default/rosa_halloween_angry_pin.webp
-  - rosa_halloween_clap_pin
-    preview: previews/Pins/Default/rosa_halloween_clap_pin.webp
-  - rosa_halloween_happy_pin
-    preview: previews/Pins/Default/rosa_halloween_happy_pin.webp
+  - Rosa_Angry_Pin
+    preview: previews/Pins/Angry/Rosa_Angry_Pin.webp
+  - Rosa_Brawloween_Pin
+    preview: previews/Pins/Default/Rosa_Brawloween_Pin.webp
+  - Rosa_Clap_Pin
+    preview: previews/Pins/Clap/Rosa_Clap_Pin.webp
+  - Rosa_Coco_Pin
+    preview: previews/Pins/Default/Rosa_Coco_Pin.webp
+  - Rosa_Facepalm_Pin
+    preview: previews/Pins/Facepalm/Rosa_Facepalm_Pin.webp
+  - Rosa_Gg_Pin
+    preview: previews/Pins/GG/Rosa_Gg_Pin.webp
+  - Rosa_Halloween_Angry_Pin
+    preview: previews/Pins/Angry/Rosa_Halloween_Angry_Pin.webp
+  - Rosa_Halloween_Clap_Pin
+    preview: previews/Pins/Clap/Rosa_Halloween_Clap_Pin.webp
+  - Rosa_Halloween_Happy_Pin
+    preview: previews/Pins/Happy/Rosa_Halloween_Happy_Pin.webp
+  - Rosa_Halloween_Phew_Pin
+    preview: previews/Pins/Phew/Rosa_Halloween_Phew_Pin.webp
     ... +12 more
 
-## Emojis (1)
-  - emoji_rosa_oc
-    preview: previews/Emojis/All/emoji_rosa_oc.webp
-
-## Sprays (3)
-  - spray_overcharge_rosa
-    preview: previews/Sprays/All/spray_overcharge_rosa.webp
-  - spray_rosa
-    preview: previews/Sprays/All/spray_rosa.webp
-  - spray_rosa_university
-    preview: previews/Sprays/All/spray_rosa_university.webp
-
-## UI (4)
-  - player_icon_rosa1
-    preview: previews/UI/Icons/player_icon_rosa1.webp
-  - player_icon_rosa_coco
-    preview: previews/UI/Icons/player_icon_rosa_coco.webp
-  - player_icon_rosa_university
-    preview: previews/UI/Icons/player_icon_rosa_university.webp
-  - profile_icon_elprimo_dragon_rosado
-    preview: previews/UI/Icons/profile_icon_elprimo_dragon_rosado.webp
+## UI (9)
+  - Rosa1_Mastery
+    preview: previews/UI/Mastery/Rosa1_Mastery.webp
+  - Rosa2_Mastery
+    preview: previews/UI/Mastery/Rosa2_Mastery.webp
+  - Rosa3_Mastery
+    preview: previews/UI/Mastery/Rosa3_Mastery.webp
+  - Rosa4_Mastery
+    preview: previews/UI/Mastery/Rosa4_Mastery.webp
+  - Rosa5_Mastery
+    preview: previews/UI/Mastery/Rosa5_Mastery.webp
+  - Rosa_Gadget_01
+    preview: previews/UI/Gadgets/Rosa_Gadget_01.webp
+  - Rosa_Gadget_02
+    preview: previews/UI/Gadgets/Rosa_Gadget_02.webp
+  - Rosa_Starpower_01
+    preview: previews/UI/StarPowers/Rosa_Starpower_01.webp
+  - Rosa_Starpower_02
+    preview: previews/UI/StarPowers/Rosa_Starpower_02.webp

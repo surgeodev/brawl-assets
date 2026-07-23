@@ -1,68 +1,65 @@
 # Grom
 Rarity: Epic | Class: Artillery
-Total assets: 41
+Total assets: 38
 
 
-## Brawlers (15)
-  - grom1_mastery
-    preview: previews/Brawlers/grom1/grom1_mastery.webp
-  - grom2_mastery
-    preview: previews/Brawlers/grom2/grom2_mastery.webp
-  - grom3_mastery
-    preview: previews/Brawlers/grom3/grom3_mastery.webp
-  - grom4_mastery
-    preview: previews/Brawlers/grom4/grom4_mastery.webp
-  - grom5_mastery
-    preview: previews/Brawlers/grom5/grom5_mastery.webp
-  - grom_01
-    preview: previews/Brawlers/grom/grom_01.webp
-  - grom_02
-    preview: previews/Brawlers/grom/grom_02.webp
-  - grom_bunny_grom_001
-    preview: previews/Brawlers/grom/grom_bunny_grom_001.webp
-  - grom_dasis_grom_169
-    preview: previews/Brawlers/grom/grom_dasis_grom_169.webp
-  - grom_default_001
-    preview: previews/Brawlers/grom/grom_default_001.webp
-    ... +5 more
+## Brawlers (8)
+  - Grom_01
+    preview: previews/Brawlers/Grom/Grom_01.webp
+  - Grom_02
+    preview: previews/Brawlers/Grom/Grom_02.webp
+  - Grom_Bunny_Grom_001
+    preview: previews/Brawlers/Grom/Grom_Bunny_Grom_001.webp
+  - Grom_Dasis_Grom_169
+    preview: previews/Brawlers/Grom/Grom_Dasis_Grom_169.webp
+  - Grom_Default_001
+    preview: previews/Brawlers/Grom/Grom_Default_001.webp
+  - Grom_Frankengrom_001
+    preview: previews/Brawlers/Grom/Grom_Frankengrom_001.webp
+  - Grom_True_Gold_Grom_001
+    preview: previews/Brawlers/Grom/Grom_True_Gold_Grom_001.webp
+  - Grom_True_Silver_Grom_001
+    preview: previews/Brawlers/Grom/Grom_True_Silver_Grom_001.webp
 
-## Pins (20)
-  - grom_angry_pin
-    preview: previews/Pins/Default/grom_angry_pin.webp
-  - grom_challenge_angry_pin
-    preview: previews/Pins/Default/grom_challenge_angry_pin.webp
-  - grom_challenge_special_pin
-    preview: previews/Pins/Default/grom_challenge_special_pin.webp
-  - grom_clap_pin
-    preview: previews/Pins/Default/grom_clap_pin.webp
-  - grom_easter_pin
-    preview: previews/Pins/Default/grom_easter_pin.webp
-  - grom_facepalm_pin
-    preview: previews/Pins/Default/grom_facepalm_pin.webp
-  - grom_franken_angry_pin
-    preview: previews/Pins/Default/grom_franken_angry_pin.webp
-  - grom_franken_clap_pin
-    preview: previews/Pins/Default/grom_franken_clap_pin.webp
-  - grom_franken_gg_pin
-    preview: previews/Pins/Default/grom_franken_gg_pin.webp
-  - grom_franken_happy_pin
-    preview: previews/Pins/Default/grom_franken_happy_pin.webp
-    ... +10 more
+## Portraits (1)
+  - Grom_Portrait
+    preview: previews/Portraits/Grom/Grom_Portrait.webp
 
-## Emojis (1)
-  - emoji_grom_hindu
-    preview: previews/Emojis/All/emoji_grom_hindu.webp
+## Pins (22)
+  - Grom_Angry_Pin
+    preview: previews/Pins/Angry/Grom_Angry_Pin.webp
+  - Grom_Challenge_Angry_Pin
+    preview: previews/Pins/Angry/Grom_Challenge_Angry_Pin.webp
+  - Grom_Challenge_Special_Pin
+    preview: previews/Pins/Special/Grom_Challenge_Special_Pin.webp
+  - Grom_Clap_Pin
+    preview: previews/Pins/Clap/Grom_Clap_Pin.webp
+  - Grom_Easter_Pin
+    preview: previews/Pins/Default/Grom_Easter_Pin.webp
+  - Grom_Facepalm_Pin
+    preview: previews/Pins/Facepalm/Grom_Facepalm_Pin.webp
+  - Grom_Franken_Angry_Pin
+    preview: previews/Pins/Angry/Grom_Franken_Angry_Pin.webp
+  - Grom_Franken_Clap_Pin
+    preview: previews/Pins/Clap/Grom_Franken_Clap_Pin.webp
+  - Grom_Franken_Gg_Pin
+    preview: previews/Pins/GG/Grom_Franken_Gg_Pin.webp
+  - Grom_Franken_Happy_Pin
+    preview: previews/Pins/Happy/Grom_Franken_Happy_Pin.webp
+    ... +12 more
 
-## Sprays (2)
-  - spray_grom
-    preview: previews/Sprays/All/spray_grom.webp
-  - spray_grom_hindu
-    preview: previews/Sprays/All/spray_grom_hindu.webp
-
-## UI (3)
-  - player_icon_grom1
-    preview: previews/UI/Icons/player_icon_grom1.webp
-  - player_icon_grom_frankengrom
-    preview: previews/UI/Icons/player_icon_grom_frankengrom.webp
-  - player_icon_grom_hindu
-    preview: previews/UI/Icons/player_icon_grom_hindu.webp
+## UI (7)
+  - Grom1_Mastery
+    preview: previews/UI/Mastery/Grom1_Mastery.webp
+  - Grom2_Mastery
+    preview: previews/UI/Mastery/Grom2_Mastery.webp
+  - Grom3_Mastery
+    preview: previews/UI/Mastery/Grom3_Mastery.webp
+  - Grom4_Mastery
+    preview: previews/UI/Mastery/Grom4_Mastery.webp
+  - Grom5_Mastery
+    preview: previews/UI/Mastery/Grom5_Mastery.webp
+  - Grom_Gadget_01
+    preview: previews/UI/Gadgets/Grom_Gadget_01.webp
+  - Grom_Gadget_02
+    preview: previews/UI/Gadgets/Grom_Gadget_02.webp

@@ -1,72 +1,55 @@
 # Maisie
 Rarity: Epic | Class: Marksman
-Total assets: 36
+Total assets: 30
 
 
-## Brawlers (12)
-  - icon_ulti_oc_maisie.png
-    preview: previews/Brawlers/icon/icon_ulti_oc_maisie.png.webp
-  - icon_ulti_oc_maisie.png copy
-    preview: previews/Brawlers/icon/icon_ulti_oc_maisie.png_copy.webp
-  - maisie_default_002
-    preview: previews/Brawlers/maisie/maisie_default_002.webp
-  - maisie_gadget_01
-    preview: previews/Brawlers/maisie/maisie_gadget_01.webp
-  - maisie_gadget_02
-    preview: previews/Brawlers/maisie/maisie_gadget_02.webp
-  - maisie_jungle_queen_maisie_001
-    preview: previews/Brawlers/maisie/maisie_jungle_queen_maisie_001.webp
-  - maisie_marauder_maisie_001
-    preview: previews/Brawlers/maisie/maisie_marauder_maisie_001.webp
-  - maisie_starpower_01
-    preview: previews/Brawlers/maisie/maisie_starpower_01.webp
-  - maisie_starpower_02
-    preview: previews/Brawlers/maisie/maisie_starpower_02.webp
-  - maisie_tech_maisie_001
-    preview: previews/Brawlers/maisie/maisie_tech_maisie_001.webp
-    ... +2 more
+## Brawlers (6)
+  - Maisie_Default_002
+    preview: previews/Brawlers/Maisie/Maisie_Default_002.webp
+  - Maisie_Jungle_Queen_Maisie_001
+    preview: previews/Brawlers/Maisie/Maisie_Jungle_Queen_Maisie_001.webp
+  - Maisie_Marauder_Maisie_001
+    preview: previews/Brawlers/Maisie/Maisie_Marauder_Maisie_001.webp
+  - Maisie_Tech_Maisie_001
+    preview: previews/Brawlers/Maisie/Maisie_Tech_Maisie_001.webp
+  - Maisie_True_Gold_Maisie_001
+    preview: previews/Brawlers/Maisie/Maisie_True_Gold_Maisie_001.webp
+  - Maisie_True_Silver_Maisie_001
+    preview: previews/Brawlers/Maisie/Maisie_True_Silver_Maisie_001.webp
 
 ## Portraits (1)
-  - maisie_portrait
-    preview: previews/Portraits/Unknown/maisie_portrait.webp
+  - Maisie_Portrait
+    preview: previews/Portraits/Maisie/Maisie_Portrait.webp
 
-## Pins (17)
-  - Maisie_pin
-    preview: previews/Pins/Default/Maisie_pin.webp
-  - maisie_angry_pin
-    preview: previews/Pins/Default/maisie_angry_pin.webp
-  - maisie_clap_pin
-    preview: previews/Pins/Default/maisie_clap_pin.webp
-  - maisie_cry_pin
-    preview: previews/Pins/Default/maisie_cry_pin.webp
-  - maisie_gg_pin
-    preview: previews/Pins/Default/maisie_gg_pin.webp
-  - maisie_happy_pin
-    preview: previews/Pins/Default/maisie_happy_pin.webp
-  - maisie_jungle_angry_pin
-    preview: previews/Pins/Default/maisie_jungle_angry_pin.webp
-  - maisie_jungle_clap_pin
-    preview: previews/Pins/Default/maisie_jungle_clap_pin.webp
-  - maisie_jungle_gg_pin
-    preview: previews/Pins/Default/maisie_jungle_gg_pin.webp
-  - maisie_jungle_happy_pin
-    preview: previews/Pins/Default/maisie_jungle_happy_pin.webp
-    ... +7 more
+## Pins (19)
+  - Maisie_Angry_Pin
+    preview: previews/Pins/Angry/Maisie_Angry_Pin.webp
+  - Maisie_Clap_Pin
+    preview: previews/Pins/Clap/Maisie_Clap_Pin.webp
+  - Maisie_Cry_Pin
+    preview: previews/Pins/Default/Maisie_Cry_Pin.webp
+  - Maisie_Gg_Pin
+    preview: previews/Pins/GG/Maisie_Gg_Pin.webp
+  - Maisie_Happy_Pin
+    preview: previews/Pins/Happy/Maisie_Happy_Pin.webp
+  - Maisie_Jungle_Angry_Pin
+    preview: previews/Pins/Angry/Maisie_Jungle_Angry_Pin.webp
+  - Maisie_Jungle_Clap_Pin
+    preview: previews/Pins/Clap/Maisie_Jungle_Clap_Pin.webp
+  - Maisie_Jungle_Gg_Pin
+    preview: previews/Pins/GG/Maisie_Jungle_Gg_Pin.webp
+  - Maisie_Jungle_Happy_Pin
+    preview: previews/Pins/Happy/Maisie_Jungle_Happy_Pin.webp
+  - Maisie_Jungle_Phew_Pin
+    preview: previews/Pins/Phew/Maisie_Jungle_Phew_Pin.webp
+    ... +9 more
 
-## Emojis (1)
-  - emoji_maisie_oc
-    preview: previews/Emojis/All/emoji_maisie_oc.webp
-
-## Sprays (3)
-  - spray_maisie
-    preview: previews/Sprays/All/spray_maisie.webp
-  - spray_maisie_wasteland
-    preview: previews/Sprays/All/spray_maisie_wasteland.webp
-  - spray_overcharge_maisie
-    preview: previews/Sprays/All/spray_overcharge_maisie.webp
-
-## UI (2)
-  - player_icon_maisie_wasteland
-    preview: previews/UI/Icons/player_icon_maisie_wasteland.webp
-  - profile_icon_maisie1
-    preview: previews/UI/Icons/profile_icon_maisie1.webp
+## UI (4)
+  - Maisie_Gadget_01
+    preview: previews/UI/Gadgets/Maisie_Gadget_01.webp
+  - Maisie_Gadget_02
+    preview: previews/UI/Gadgets/Maisie_Gadget_02.webp
+  - Maisie_Starpower_01
+    preview: previews/UI/StarPowers/Maisie_Starpower_01.webp
+  - Maisie_Starpower_02
+    preview: previews/UI/StarPowers/Maisie_Starpower_02.webp

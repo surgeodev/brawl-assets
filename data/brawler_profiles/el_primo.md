@@ -1,41 +1,53 @@
 # El Primo
 Rarity: Rare | Class: Tank
-Total assets: 14
-Skins: Primo
+Total assets: 24
 
 
-## Brawlers (8)
-  - El Primo Not this this Meme
-    preview: previews/Brawlers/el_primo_not_this_this_meme/El_Primo_Not_this_this_Meme.webp
-  - el_primo_default_001
-    preview: previews/Brawlers/el/el_primo_default_001.webp
-  - el_primo_true_gold_el_primo_001
-    preview: previews/Brawlers/el/el_primo_true_gold_el_primo_001.webp
-  - el_primo_true_silver_el_primo_001
-    preview: previews/Brawlers/el/el_primo_true_silver_el_primo_001.webp
-  - elprimo_gadget_01
-    preview: previews/Brawlers/elprimo/elprimo_gadget_01.webp
-  - elprimo_gadget_02
-    preview: previews/Brawlers/elprimo/elprimo_gadget_02.webp
-  - elprimo_starpower_01
-    preview: previews/Brawlers/elprimo/elprimo_starpower_01.webp
-  - elprimo_starpower_02
-    preview: previews/Brawlers/elprimo/elprimo_starpower_02.webp
+## Brawlers (15)
+  - El_Primo_Default_001
+    preview: previews/Brawlers/Elprimo/El_Primo_Default_001.webp
+  - El_Primo_El_Baby_Shark_516
+    preview: previews/Brawlers/Elprimo/El_Primo_El_Baby_Shark_516.webp
+  - El_Primo_El_Brown_001
+    preview: previews/Brawlers/Elprimo/El_Primo_El_Brown_001.webp
+  - El_Primo_El_Mayordomo_001
+    preview: previews/Brawlers/Elprimo/El_Primo_El_Mayordomo_001.webp
+  - El_Primo_El_Primo_Club_Nacional_001
+    preview: previews/Brawlers/Elprimo/El_Primo_El_Primo_Club_Nacional_001.webp
+  - El_Primo_El_Primo_Corinthians_001
+    preview: previews/Brawlers/Elprimo/El_Primo_El_Primo_Corinthians_001.webp
+  - El_Primo_El_Primo_Universitario_001
+    preview: previews/Brawlers/Elprimo/El_Primo_El_Primo_Universitario_001.webp
+  - El_Primo_El_Quarterback_Happy_220
+    preview: previews/Brawlers/Elprimo/El_Primo_El_Quarterback_Happy_220.webp
+  - El_Primo_El_Rey_Primo_001
+    preview: previews/Brawlers/Elprimo/El_Primo_El_Rey_Primo_001.webp
+  - El_Primo_El_Rudo_Primo_001
+    preview: previews/Brawlers/Elprimo/El_Primo_El_Rudo_Primo_001.webp
+    ... +5 more
+
+## Portraits (1)
+  - Primo_Portrait
+    preview: previews/Portraits/Elprimo/Primo_Portrait.webp
 
 ## Pins (2)
-  - _0023_el_primo_vamprimo_happy_220
-    preview: previews/Pins/Default/_0023_el_primo_vamprimo_happy_220.webp
-  - el_primo_hypercharge_pin
-    preview: previews/Pins/Default/el_primo_hypercharge_pin.webp
+  - El_Primo_Hypercharge_Pin
+    preview: previews/Pins/Default/El_Primo_Hypercharge_Pin.webp
+  - Elprimo_Spongebob_Pin
+    preview: previews/Pins/Default/Elprimo_Spongebob_Pin.webp
 
 ## Sprays (2)
-  - elprimo_spray_hypercharge
-    preview: previews/Sprays/All/elprimo_spray_hypercharge.webp
-  - spray_elprimo
-    preview: previews/Sprays/All/spray_elprimo.webp
+  - Elprimo_Spray_Hypercharge
+    preview: previews/Sprays/All/Elprimo_Spray_Hypercharge.webp
+  - Elprimo_Spray_Spongebob
+    preview: previews/Sprays/All/Elprimo_Spray_Spongebob.webp
 
-## UI (2)
-  - profile_icon_el_primo_baby_shark
-    preview: previews/UI/Icons/profile_icon_el_primo_baby_shark.webp
-  - profile_icon_elprimo_dragon_verdoso
-    preview: previews/UI/Icons/profile_icon_elprimo_dragon_verdoso.webp
+## UI (4)
+  - Elprimo_Gadget_01
+    preview: previews/UI/Gadgets/Elprimo_Gadget_01.webp
+  - Elprimo_Gadget_02
+    preview: previews/UI/Gadgets/Elprimo_Gadget_02.webp
+  - Elprimo_Starpower_01
+    preview: previews/UI/StarPowers/Elprimo_Starpower_01.webp
+  - Elprimo_Starpower_02
+    preview: previews/UI/StarPowers/Elprimo_Starpower_02.webp

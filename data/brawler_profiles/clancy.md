@@ -1,55 +1,40 @@
 # Clancy
 Rarity: Mythic | Class: Damage Dealer
-Total assets: 22
+Total assets: 15
 
 
-## Brawlers (7)
-  - _0031_clancy_true_silver_clancy_001
-    preview: previews/Brawlers//_0031_clancy_true_silver_clancy_001.webp
-  - _0032_clancy_high_stakes_clancy_walk_046
-    preview: previews/Brawlers//_0032_clancy_high_stakes_clancy_walk_046.webp
-  - _0032_clancy_true_gold_clancy_001
-    preview: previews/Brawlers//_0032_clancy_true_gold_clancy_001.webp
-  - icon_item_clancy_1
-    preview: previews/Brawlers/icon/icon_item_clancy_1.webp
-  - icon_item_clancy_2
-    preview: previews/Brawlers/icon/icon_item_clancy_2.webp
-  - icon_sp_clancy_1
-    preview: previews/Brawlers/icon/icon_sp_clancy_1.webp
-  - icon_sp_clancy_2
-    preview: previews/Brawlers/icon/icon_sp_clancy_2.webp
+## Brawlers (4)
+  - _0031_Clancy_True_Silver_Clancy_001
+    preview: previews/Brawlers/Clancy/_0031_Clancy_True_Silver_Clancy_001.webp
+  - _0032_Clancy_High_Stakes_Clancy_Walk_046
+    preview: previews/Brawlers/Clancy/_0032_Clancy_High_Stakes_Clancy_Walk_046.webp
+  - _0032_Clancy_True_Gold_Clancy_001
+    preview: previews/Brawlers/Clancy/_0032_Clancy_True_Gold_Clancy_001.webp
+  - _0033_Clancy_Default_Happy_458
+    preview: previews/Brawlers/Clancy/_0033_Clancy_Default_Happy_458.webp
 
 ## Portraits (1)
-  - clancy_portrait
-    preview: previews/Portraits/Unknown/clancy_portrait.webp
+  - Clancy_Portrait
+    preview: previews/Portraits/Clancy/Clancy_Portrait.webp
 
-## Pins (11)
-  - _0033_clancy_default_happy_458
-    preview: previews/Pins/Default/_0033_clancy_default_happy_458.webp
-  - clancy_angry_pin
-    preview: previews/Pins/Default/clancy_angry_pin.webp
-  - clancy_clap_pin
-    preview: previews/Pins/Default/clancy_clap_pin.webp
-  - clancy_facepalm_pin
-    preview: previews/Pins/Default/clancy_facepalm_pin.webp
-  - clancy_gg_pin
-    preview: previews/Pins/Default/clancy_gg_pin.webp
-  - clancy_happy_pin
-    preview: previews/Pins/Default/clancy_happy_pin.webp
-  - clancy_phew_pin
-    preview: previews/Pins/Default/clancy_phew_pin.webp
-  - clancy_pin
-    preview: previews/Pins/Default/clancy_pin.webp
-  - clancy_sad_pin
-    preview: previews/Pins/Default/clancy_sad_pin.webp
-  - clancy_special_pin
-    preview: previews/Pins/Default/clancy_special_pin.webp
-    ... +1 more
-
-## Sprays (1)
-  - spray_clancy
-    preview: previews/Sprays/All/spray_clancy.webp
-
-## UI (1)
-  - profile_icon_clancy
-    preview: previews/UI/Icons/profile_icon_clancy.webp
+## Pins (10)
+  - Clancy_Angry_Pin
+    preview: previews/Pins/Angry/Clancy_Angry_Pin.webp
+  - Clancy_Clap_Pin
+    preview: previews/Pins/Clap/Clancy_Clap_Pin.webp
+  - Clancy_Facepalm_Pin
+    preview: previews/Pins/Facepalm/Clancy_Facepalm_Pin.webp
+  - Clancy_Gg_Pin
+    preview: previews/Pins/GG/Clancy_Gg_Pin.webp
+  - Clancy_Happy_Pin
+    preview: previews/Pins/Happy/Clancy_Happy_Pin.webp
+  - Clancy_Phew_Pin
+    preview: previews/Pins/Phew/Clancy_Phew_Pin.webp
+  - Clancy_Pin
+    preview: previews/Pins/Default/Clancy_Pin.webp
+  - Clancy_Sad_Pin
+    preview: previews/Pins/Sad/Clancy_Sad_Pin.webp
+  - Clancy_Special_Pin
+    preview: previews/Pins/Special/Clancy_Special_Pin.webp
+  - Clancy_Thanks_Pin
+    preview: previews/Pins/Thanks/Clancy_Thanks_Pin.webp

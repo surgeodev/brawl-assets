@@ -1,65 +1,75 @@
 # Belle
 Rarity: Epic | Class: Marksman
-Total assets: 44
-Skins: Cod
+Total assets: 41
 
 
-## Brawlers (18)
-  - Belle Cod Meme 1
-    preview: previews/Brawlers/belle_cod_meme_1/Belle_Cod_Meme_1.webp
-  - Belle Cod Meme 2
-    preview: previews/Brawlers/belle_cod_meme_2/Belle_Cod_Meme_2.webp
-  - belle1_mastery
-    preview: previews/Brawlers/belle1/belle1_mastery.webp
-  - belle2_mastery
-    preview: previews/Brawlers/belle2/belle2_mastery.webp
-  - belle3_mastery
-    preview: previews/Brawlers/belle3/belle3_mastery.webp
-  - belle4_mastery
-    preview: previews/Brawlers/belle4/belle4_mastery.webp
-  - belle5_mastery
-    preview: previews/Brawlers/belle5/belle5_mastery.webp
-  - belle_belle_goldhand_001
-    preview: previews/Brawlers/belle/belle_belle_goldhand_001.webp
-  - belle_coral_belle_001
-    preview: previews/Brawlers/belle/belle_coral_belle_001.webp
-  - belle_default_001
-    preview: previews/Brawlers/belle/belle_default_001.webp
-    ... +8 more
+## Brawlers (8)
+  - Belle_Belle_Goldhand_001
+    preview: previews/Brawlers/Belle/Belle_Belle_Goldhand_001.webp
+  - Belle_Coral_Belle_001
+    preview: previews/Brawlers/Belle/Belle_Coral_Belle_001.webp
+  - Belle_Default_001
+    preview: previews/Brawlers/Belle/Belle_Default_001.webp
+  - Belle_Ivy_Belle_001
+    preview: previews/Brawlers/Belle/Belle_Ivy_Belle_001.webp
+  - Belle_True_Gold_Belle_001
+    preview: previews/Brawlers/Belle/Belle_True_Gold_Belle_001.webp
+  - Belle_True_Silver_Belle_001
+    preview: previews/Brawlers/Belle/Belle_True_Silver_Belle_001.webp
+  - Pin_Esports_Belle
+    preview: previews/Brawlers/Belle/Pin_Esports_Belle.webp
+  - _0039_Belle_Dragoon_Belle_Happy_296
+    preview: previews/Brawlers/Belle/_0039_Belle_Dragoon_Belle_Happy_296.webp
+
+## Portraits (1)
+  - Belle_Portrait
+    preview: previews/Portraits/Belle/Belle_Portrait.webp
 
 ## Pins (21)
-  - _0039_belle_dragoon_belle_happy_296
-    preview: previews/Pins/Default/_0039_belle_dragoon_belle_happy_296.webp
-  - belle_angry_pin
-    preview: previews/Pins/Default/belle_angry_pin.webp
-  - belle_boss_angry_pin
-    preview: previews/Pins/Default/belle_boss_angry_pin.webp
-  - belle_boss_clap_pin
-    preview: previews/Pins/Default/belle_boss_clap_pin.webp
-  - belle_boss_gg_pin
-    preview: previews/Pins/Default/belle_boss_gg_pin.webp
-  - belle_boss_happy_pin
-    preview: previews/Pins/Default/belle_boss_happy_pin.webp
-  - belle_boss_phew_pin
-    preview: previews/Pins/Default/belle_boss_phew_pin.webp
-  - belle_boss_pin
-    preview: previews/Pins/Default/belle_boss_pin.webp
-  - belle_boss_sad_pin
-    preview: previews/Pins/Default/belle_boss_sad_pin.webp
-  - belle_boss_special_pin
-    preview: previews/Pins/Default/belle_boss_special_pin.webp
+  - Belle_Angry_Pin
+    preview: previews/Pins/Angry/Belle_Angry_Pin.webp
+  - Belle_Boss_Angry_Pin
+    preview: previews/Pins/Angry/Belle_Boss_Angry_Pin.webp
+  - Belle_Boss_Clap_Pin
+    preview: previews/Pins/Clap/Belle_Boss_Clap_Pin.webp
+  - Belle_Boss_Gg_Pin
+    preview: previews/Pins/GG/Belle_Boss_Gg_Pin.webp
+  - Belle_Boss_Happy_Pin
+    preview: previews/Pins/Happy/Belle_Boss_Happy_Pin.webp
+  - Belle_Boss_Phew_Pin
+    preview: previews/Pins/Phew/Belle_Boss_Phew_Pin.webp
+  - Belle_Boss_Pin
+    preview: previews/Pins/Default/Belle_Boss_Pin.webp
+  - Belle_Boss_Sad_Pin
+    preview: previews/Pins/Sad/Belle_Boss_Sad_Pin.webp
+  - Belle_Boss_Special_Pin
+    preview: previews/Pins/Special/Belle_Boss_Special_Pin.webp
+  - Belle_Boss_Thanks_Pin
+    preview: previews/Pins/Thanks/Belle_Boss_Thanks_Pin.webp
     ... +11 more
 
-## Sprays (2)
-  - belle_spray_hypercharge
-    preview: previews/Sprays/All/belle_spray_hypercharge.webp
-  - spray_belle
-    preview: previews/Sprays/All/spray_belle.webp
+## Sprays (1)
+  - Belle_Spray_Hypercharge
+    preview: previews/Sprays/All/Belle_Spray_Hypercharge.webp
 
-## UI (3)
-  - player_icon_belle1
-    preview: previews/UI/Icons/player_icon_belle1.webp
-  - player_icon_belle_scmake
-    preview: previews/UI/Icons/player_icon_belle_scmake.webp
-  - profile_icon_belle_coral
-    preview: previews/UI/Icons/profile_icon_belle_coral.webp
+## UI (10)
+  - Belle1_Mastery
+    preview: previews/UI/Mastery/Belle1_Mastery.webp
+  - Belle2_Mastery
+    preview: previews/UI/Mastery/Belle2_Mastery.webp
+  - Belle3_Mastery
+    preview: previews/UI/Mastery/Belle3_Mastery.webp
+  - Belle4_Mastery
+    preview: previews/UI/Mastery/Belle4_Mastery.webp
+  - Belle5_Mastery
+    preview: previews/UI/Mastery/Belle5_Mastery.webp
+  - Belle_Gadget_01
+    preview: previews/UI/Gadgets/Belle_Gadget_01.webp
+  - Belle_Gadget_02
+    preview: previews/UI/Gadgets/Belle_Gadget_02.webp
+  - Belle_Hypercharge
+    preview: previews/UI/Hypercharge/Belle_Hypercharge.webp
+  - Belle_Starpower_01
+    preview: previews/UI/StarPowers/Belle_Starpower_01.webp
+  - Belle_Starpower_02
+    preview: previews/UI/StarPowers/Belle_Starpower_02.webp

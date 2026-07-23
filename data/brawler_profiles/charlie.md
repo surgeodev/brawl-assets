@@ -1,65 +1,48 @@
 # Charlie
 Rarity: Mythic | Class: Controller
-Total assets: 26
+Total assets: 19
 
 
-## Brawlers (8)
-  - Charlie_hypercharge.png copy
-    preview: previews/Brawlers/charlie/Charlie_hypercharge.png_copy.webp
-  - GD_charlie_01
-    preview: previews/Brawlers/gd/GD_charlie_01.webp
-  - GD_charlie_02
-    preview: previews/Brawlers/gd/GD_charlie_02.webp
-  - SP_charlie_01
-    preview: previews/Brawlers/sp/SP_charlie_01.webp
-  - SP_charlie_02
-    preview: previews/Brawlers/sp/SP_charlie_02.webp
-  - charlie_true_gold_charlie_001
-    preview: previews/Brawlers/charlie/charlie_true_gold_charlie_001.webp
-  - charlie_true_silver_charlie_001
-    preview: previews/Brawlers/charlie/charlie_true_silver_charlie_001.webp
-  - charlie_virus_charlie_234
-    preview: previews/Brawlers/charlie/charlie_virus_charlie_234.webp
+## Brawlers (9)
+  - Charlie_Amazing_Charlie_Happy_148
+    preview: previews/Brawlers/Charlie/Charlie_Amazing_Charlie_Happy_148.webp
+  - Charlie_Rosie_Charlie_Happy_124
+    preview: previews/Brawlers/Charlie/Charlie_Rosie_Charlie_Happy_124.webp
+  - Charlie_True_Gold_Charlie_001
+    preview: previews/Brawlers/Charlie/Charlie_True_Gold_Charlie_001.webp
+  - Charlie_True_Silver_Charlie_001
+    preview: previews/Brawlers/Charlie/Charlie_True_Silver_Charlie_001.webp
+  - Charlie_Virus_Charlie_234
+    preview: previews/Brawlers/Charlie/Charlie_Virus_Charlie_234.webp
+  - Gd_Charlie_01
+    preview: previews/Brawlers/Charlie/Gd_Charlie_01.webp
+  - Gd_Charlie_02
+    preview: previews/Brawlers/Charlie/Gd_Charlie_02.webp
+  - Sp_Charlie_01
+    preview: previews/Brawlers/Charlie/Sp_Charlie_01.webp
+  - Sp_Charlie_02
+    preview: previews/Brawlers/Charlie/Sp_Charlie_02.webp
 
 ## Portraits (1)
-  - portrait_charlie
-    preview: previews/Portraits/Unknown/portrait_charlie.webp
+  - Portrait_Charlie
+    preview: previews/Portraits/Charlie/Portrait_Charlie.webp
 
-## Pins (11)
-  - charlie_amazing_charlie_happy_148
-    preview: previews/Pins/Default/charlie_amazing_charlie_happy_148.webp
-  - charlie_rosie_charlie_happy_124
-    preview: previews/Pins/Default/charlie_rosie_charlie_happy_124.webp
-  - charlie_virus_angry_pin
-    preview: previews/Pins/Default/charlie_virus_angry_pin.webp
-  - charlie_virus_clap_pin
-    preview: previews/Pins/Default/charlie_virus_clap_pin.webp
-  - charlie_virus_gg_pin
-    preview: previews/Pins/Default/charlie_virus_gg_pin.webp
-  - charlie_virus_happy_pin
-    preview: previews/Pins/Default/charlie_virus_happy_pin.webp
-  - charlie_virus_phew_pin
-    preview: previews/Pins/Default/charlie_virus_phew_pin.webp
-  - charlie_virus_pin
-    preview: previews/Pins/Default/charlie_virus_pin.webp
-  - charlie_virus_sad_pin
-    preview: previews/Pins/Default/charlie_virus_sad_pin.webp
-  - charlie_virus_special_pin
-    preview: previews/Pins/Default/charlie_virus_special_pin.webp
-    ... +1 more
-
-## Sprays (2)
-  - spray_charlie
-    preview: previews/Sprays/All/spray_charlie.webp
-  - spray_charlie_virus
-    preview: previews/Sprays/All/spray_charlie_virus.webp
-
-## UI (4)
-  - player_icon_charlie_1
-    preview: previews/UI/Icons/player_icon_charlie_1.webp
-  - player_icon_charlie_rose
-    preview: previews/UI/Icons/player_icon_charlie_rose.webp
-  - player_icon_charlie_virus
-    preview: previews/UI/Icons/player_icon_charlie_virus.webp
-  - profile_icon_charlie_virus
-    preview: previews/UI/Icons/profile_icon_charlie_virus.webp
+## Pins (9)
+  - Charlie_Virus_Angry_Pin
+    preview: previews/Pins/Angry/Charlie_Virus_Angry_Pin.webp
+  - Charlie_Virus_Clap_Pin
+    preview: previews/Pins/Clap/Charlie_Virus_Clap_Pin.webp
+  - Charlie_Virus_Gg_Pin
+    preview: previews/Pins/GG/Charlie_Virus_Gg_Pin.webp
+  - Charlie_Virus_Happy_Pin
+    preview: previews/Pins/Happy/Charlie_Virus_Happy_Pin.webp
+  - Charlie_Virus_Phew_Pin
+    preview: previews/Pins/Phew/Charlie_Virus_Phew_Pin.webp
+  - Charlie_Virus_Pin
+    preview: previews/Pins/Virus/Charlie_Virus_Pin.webp
+  - Charlie_Virus_Sad_Pin
+    preview: previews/Pins/Sad/Charlie_Virus_Sad_Pin.webp
+  - Charlie_Virus_Special_Pin
+    preview: previews/Pins/Special/Charlie_Virus_Special_Pin.webp
+  - Charlie_Virus_Thanks_Pin
+    preview: previews/Pins/Thanks/Charlie_Virus_Thanks_Pin.webp

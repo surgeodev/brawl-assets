@@ -1,69 +1,78 @@
 # Spike
 Rarity: Legendary | Class: Damage Dealer
-Total assets: 46
-Skins: Is, Spike
+Total assets: 40
 
 
-## Brawlers (23)
-  - Baby Spike Meme
-    preview: previews/Brawlers/baby_spike_meme/Baby_Spike_Meme.webp
-  - This Is Fine Spike
-    preview: previews/Brawlers/this_is_fine_spike/This_Is_Fine_Spike.webp
-  - button_hypercharge_spike
-    preview: previews/Brawlers/button/button_hypercharge_spike.webp
-  - gear_mythic_spike
-    preview: previews/Brawlers/gear/gear_mythic_spike.webp
-  - items_hypercharge_spike
-    preview: previews/Brawlers/items/items_hypercharge_spike.webp
-  - spike1_mastery
-    preview: previews/Brawlers/spike1/spike1_mastery.webp
-  - spike2_mastery
-    preview: previews/Brawlers/spike2/spike2_mastery.webp
-  - spike3_mastery
-    preview: previews/Brawlers/spike3/spike3_mastery.webp
-  - spike4_mastery
-    preview: previews/Brawlers/spike4/spike4_mastery.webp
-  - spike5_mastery
-    preview: previews/Brawlers/spike5/spike5_mastery.webp
-    ... +13 more
+## Brawlers (12)
+  - Gear_Mythic_Spike
+    preview: previews/Brawlers/Spike/Gear_Mythic_Spike.webp
+  - Spike_Dark_Lord_Spike_001
+    preview: previews/Brawlers/Spike/Spike_Dark_Lord_Spike_001.webp
+  - Spike_Default_001
+    preview: previews/Brawlers/Spike/Spike_Default_001.webp
+  - Spike_Logmas_Spike_001
+    preview: previews/Brawlers/Spike/Spike_Logmas_Spike_001.webp
+  - Spike_Mask_Spike_001
+    preview: previews/Brawlers/Spike/Spike_Mask_Spike_001.webp
+  - Spike_Poop_Spike_376
+    preview: previews/Brawlers/Spike/Spike_Poop_Spike_376.webp
+  - Spike_Pyro_Spike_001
+    preview: previews/Brawlers/Spike/Spike_Pyro_Spike_001.webp
+  - Spike_Robo_Spike_001
+    preview: previews/Brawlers/Spike/Spike_Robo_Spike_001.webp
+  - Spike_Sakura_Spike_001
+    preview: previews/Brawlers/Spike/Spike_Sakura_Spike_001.webp
+  - Spike_Toon_Spike_Happy_336
+    preview: previews/Brawlers/Spike/Spike_Toon_Spike_Happy_336.webp
+    ... +2 more
 
-## Pins (16)
-  - champie_spike_pin
-    preview: previews/Pins/Default/champie_spike_pin.webp
-  - spike_angry_pin
-    preview: previews/Pins/Default/spike_angry_pin.webp
-  - spike_clap_pin
-    preview: previews/Pins/Default/spike_clap_pin.webp
-  - spike_dark_lord_button_happy_pin
-    preview: previews/Pins/Default/spike_dark_lord_button_happy_pin.webp
-  - spike_facepalm_pin
-    preview: previews/Pins/Default/spike_facepalm_pin.webp
-  - spike_gg_pin
-    preview: previews/Pins/Default/spike_gg_pin.webp
-  - spike_happy_pin
-    preview: previews/Pins/Default/spike_happy_pin.webp
-  - spike_hypercharge_pin
-    preview: previews/Pins/Default/spike_hypercharge_pin.webp
-  - spike_phew_pin
-    preview: previews/Pins/Default/spike_phew_pin.webp
-  - spike_pin
-    preview: previews/Pins/Default/spike_pin.webp
-    ... +6 more
+## Portraits (1)
+  - Spike_Portrait
+    preview: previews/Portraits/Spike/Spike_Portrait.webp
 
-## Sprays (3)
-  - spike_spray_poop
-    preview: previews/Sprays/All/spike_spray_poop.webp
-  - spray_spike
-    preview: previews/Sprays/All/spray_spike.webp
-  - spray_spike_overcharge
-    preview: previews/Sprays/All/spray_spike_overcharge.webp
+## Pins (17)
+  - Spike_Angry_Pin
+    preview: previews/Pins/Angry/Spike_Angry_Pin.webp
+  - Spike_Clap_Pin
+    preview: previews/Pins/Clap/Spike_Clap_Pin.webp
+  - Spike_Dark_Lord_Button_Happy_Pin
+    preview: previews/Pins/Happy/Spike_Dark_Lord_Button_Happy_Pin.webp
+  - Spike_Facepalm_Pin
+    preview: previews/Pins/Facepalm/Spike_Facepalm_Pin.webp
+  - Spike_Gg_Pin
+    preview: previews/Pins/GG/Spike_Gg_Pin.webp
+  - Spike_Happy_Pin
+    preview: previews/Pins/Happy/Spike_Happy_Pin.webp
+  - Spike_Hypercharge_Pin
+    preview: previews/Pins/Default/Spike_Hypercharge_Pin.webp
+  - Spike_Phew_Pin
+    preview: previews/Pins/Phew/Spike_Phew_Pin.webp
+  - Spike_Pin
+    preview: previews/Pins/Default/Spike_Pin.webp
+  - Spike_Poop_Pin
+    preview: previews/Pins/Default/Spike_Poop_Pin.webp
+    ... +7 more
 
-## UI (4)
-  - player_icon_spike1
-    preview: previews/UI/Icons/player_icon_spike1.webp
-  - player_icons_hypercharge_spike
-    preview: previews/UI/Icons/player_icons_hypercharge_spike.webp
-  - profile_icon_spike_darklord
-    preview: previews/UI/Icons/profile_icon_spike_darklord.webp
-  - profile_icon_spike_poop
-    preview: previews/UI/Icons/profile_icon_spike_poop.webp
+## Sprays (1)
+  - Spike_Spray_Poop
+    preview: previews/Sprays/All/Spike_Spray_Poop.webp
+
+## UI (9)
+  - Spike1_Mastery
+    preview: previews/UI/Mastery/Spike1_Mastery.webp
+  - Spike2_Mastery
+    preview: previews/UI/Mastery/Spike2_Mastery.webp
+  - Spike3_Mastery
+    preview: previews/UI/Mastery/Spike3_Mastery.webp
+  - Spike4_Mastery
+    preview: previews/UI/Mastery/Spike4_Mastery.webp
+  - Spike5_Mastery
+    preview: previews/UI/Mastery/Spike5_Mastery.webp
+  - Spike_Gadget_01
+    preview: previews/UI/Gadgets/Spike_Gadget_01.webp
+  - Spike_Gadget_02
+    preview: previews/UI/Gadgets/Spike_Gadget_02.webp
+  - Spike_Starpower_01
+    preview: previews/UI/StarPowers/Spike_Starpower_01.webp
+  - Spike_Starpower_02
+    preview: previews/UI/StarPowers/Spike_Starpower_02.webp

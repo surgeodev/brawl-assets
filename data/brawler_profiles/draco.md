@@ -1,63 +1,57 @@
 # Draco
 Rarity: Legendary | Class: Tank
-Total assets: 34
+Total assets: 29
 
 
-## Brawlers (6)
-  - doug_draco_doug_001
-    preview: previews/Brawlers/doug/doug_draco_doug_001.webp
-  - draco_dark_knight_draco_368
-    preview: previews/Brawlers/draco/draco_dark_knight_draco_368.webp
-  - draco_gadget_01
-    preview: previews/Brawlers/draco/draco_gadget_01.webp
-  - draco_gadget_02
-    preview: previews/Brawlers/draco/draco_gadget_02.webp
-  - draco_starpower_01
-    preview: previews/Brawlers/draco/draco_starpower_01.webp
-  - draco_starpower_02
-    preview: previews/Brawlers/draco/draco_starpower_02.webp
+## Brawlers (3)
+  - Doug_Draco_Doug_001
+    preview: previews/Brawlers/Draco/Doug_Draco_Doug_001.webp
+  - Draco_Dark_Knight_Draco_368
+    preview: previews/Brawlers/Draco/Draco_Dark_Knight_Draco_368.webp
+  - _0027_Draco_Dread_Knight_Draco_Happy_458
+    preview: previews/Brawlers/Draco/_0027_Draco_Dread_Knight_Draco_Happy_458.webp
 
 ## Portraits (1)
-  - draco_portrait
-    preview: previews/Portraits/Unknown/draco_portrait.webp
+  - Draco_Portrait
+    preview: previews/Portraits/Draco/Draco_Portrait.webp
 
-## Pins (20)
-  - _0027_draco_dread_knight_draco_happy_458
-    preview: previews/Pins/Default/_0027_draco_dread_knight_draco_happy_458.webp
-  - draco_angry_pin
-    preview: previews/Pins/Default/draco_angry_pin.webp
-  - draco_clap_pin
-    preview: previews/Pins/Default/draco_clap_pin.webp
-  - draco_darkonceupon_angry_pin
-    preview: previews/Pins/Default/draco_darkonceupon_angry_pin.webp
-  - draco_darkonceupon_clap_pin
-    preview: previews/Pins/Default/draco_darkonceupon_clap_pin.webp
-  - draco_darkonceupon_gg_pin
-    preview: previews/Pins/Default/draco_darkonceupon_gg_pin.webp
-  - draco_darkonceupon_happy_pin
-    preview: previews/Pins/Default/draco_darkonceupon_happy_pin.webp
-  - draco_darkonceupon_phew_pin
-    preview: previews/Pins/Default/draco_darkonceupon_phew_pin.webp
-  - draco_darkonceupon_pin
-    preview: previews/Pins/Default/draco_darkonceupon_pin.webp
-  - draco_darkonceupon_sad_pin
-    preview: previews/Pins/Default/draco_darkonceupon_sad_pin.webp
-    ... +10 more
+## Pins (19)
+  - Draco_Angry_Pin
+    preview: previews/Pins/Angry/Draco_Angry_Pin.webp
+  - Draco_Clap_Pin
+    preview: previews/Pins/Clap/Draco_Clap_Pin.webp
+  - Draco_Darkonceupon_Angry_Pin
+    preview: previews/Pins/Angry/Draco_Darkonceupon_Angry_Pin.webp
+  - Draco_Darkonceupon_Clap_Pin
+    preview: previews/Pins/Clap/Draco_Darkonceupon_Clap_Pin.webp
+  - Draco_Darkonceupon_Gg_Pin
+    preview: previews/Pins/GG/Draco_Darkonceupon_Gg_Pin.webp
+  - Draco_Darkonceupon_Happy_Pin
+    preview: previews/Pins/Happy/Draco_Darkonceupon_Happy_Pin.webp
+  - Draco_Darkonceupon_Phew_Pin
+    preview: previews/Pins/Phew/Draco_Darkonceupon_Phew_Pin.webp
+  - Draco_Darkonceupon_Pin
+    preview: previews/Pins/Default/Draco_Darkonceupon_Pin.webp
+  - Draco_Darkonceupon_Sad_Pin
+    preview: previews/Pins/Sad/Draco_Darkonceupon_Sad_Pin.webp
+  - Draco_Darkonceupon_Special_Pin
+    preview: previews/Pins/Special/Draco_Darkonceupon_Special_Pin.webp
+    ... +9 more
 
-## Sprays (2)
-  - draco_spray_darkonce
-    preview: previews/Sprays/All/draco_spray_darkonce.webp
-  - spray_draco
-    preview: previews/Sprays/All/spray_draco.webp
+## Sprays (1)
+  - Draco_Spray_Darkonce
+    preview: previews/Sprays/All/Draco_Spray_Darkonce.webp
 
 ## Backgrounds (1)
-  - background_draco
-    preview: previews/Backgrounds/General/background_draco.webp
+  - Background_Draco
+    preview: previews/Backgrounds/Draco/Background_Draco.webp
 
-## UI (3)
-  - player_icon_draco
-    preview: previews/UI/Icons/player_icon_draco.webp
-  - player_icon_draco_special
-    preview: previews/UI/Icons/player_icon_draco_special.webp
-  - player_icon_dracoredknight
-    preview: previews/UI/Icons/player_icon_dracoredknight.webp
+## UI (4)
+  - Draco_Gadget_01
+    preview: previews/UI/Gadgets/Draco_Gadget_01.webp
+  - Draco_Gadget_02
+    preview: previews/UI/Gadgets/Draco_Gadget_02.webp
+  - Draco_Starpower_01
+    preview: previews/UI/StarPowers/Draco_Starpower_01.webp
+  - Draco_Starpower_02
+    preview: previews/UI/StarPowers/Draco_Starpower_02.webp

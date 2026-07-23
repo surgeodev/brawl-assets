@@ -1,61 +1,65 @@
 # Bonnie
 Rarity: Epic | Class: Marksman
-Total assets: 31
-Skins: Puking
+Total assets: 29
 
 
-## Brawlers (16)
-  - Bonnie Puking Rainbows Meme
-    preview: previews/Brawlers/bonnie_puking_rainbows_meme/Bonnie_Puking_Rainbows_Meme.webp
-  - bonnie1_mastery
-    preview: previews/Brawlers/bonnie1/bonnie1_mastery.webp
-  - bonnie2_mastery
-    preview: previews/Brawlers/bonnie2/bonnie2_mastery.webp
-  - bonnie3_mastery
-    preview: previews/Brawlers/bonnie3/bonnie3_mastery.webp
-  - bonnie4_mastery
-    preview: previews/Brawlers/bonnie4/bonnie4_mastery.webp
-  - bonnie5_mastery
-    preview: previews/Brawlers/bonnie5/bonnie5_mastery.webp
-  - bonnie_default_001
-    preview: previews/Brawlers/bonnie/bonnie_default_001.webp
-  - bonnie_empress_bonnie_001
-    preview: previews/Brawlers/bonnie/bonnie_empress_bonnie_001.webp
-  - bonnie_footbonnie_001
-    preview: previews/Brawlers/bonnie/bonnie_footbonnie_001.webp
-  - bonnie_gadget_01
-    preview: previews/Brawlers/bonnie/bonnie_gadget_01.webp
-    ... +6 more
+## Brawlers (6)
+  - Bonnie_Default_001
+    preview: previews/Brawlers/Bonnie/Bonnie_Default_001.webp
+  - Bonnie_Empress_Bonnie_001
+    preview: previews/Brawlers/Bonnie/Bonnie_Empress_Bonnie_001.webp
+  - Bonnie_Footbonnie_001
+    preview: previews/Brawlers/Bonnie/Bonnie_Footbonnie_001.webp
+  - Bonnie_True_Gold_Bonnie_001
+    preview: previews/Brawlers/Bonnie/Bonnie_True_Gold_Bonnie_001.webp
+  - Bonnie_True_Silver_Bonnie_001
+    preview: previews/Brawlers/Bonnie/Bonnie_True_Silver_Bonnie_001.webp
+  - Bonnie_Unicorn_001
+    preview: previews/Brawlers/Bonnie/Bonnie_Unicorn_001.webp
 
-## Pins (12)
-  - bonnie_angry_pin
-    preview: previews/Pins/Default/bonnie_angry_pin.webp
-  - bonnie_clap_pin
-    preview: previews/Pins/Default/bonnie_clap_pin.webp
-  - bonnie_clyde_pin
-    preview: previews/Pins/Default/bonnie_clyde_pin.webp
-  - bonnie_facepalm_pin
-    preview: previews/Pins/Default/bonnie_facepalm_pin.webp
-  - bonnie_gg_pin
-    preview: previews/Pins/Default/bonnie_gg_pin.webp
-  - bonnie_happy_pin
-    preview: previews/Pins/Default/bonnie_happy_pin.webp
-  - bonnie_phew_pin
-    preview: previews/Pins/Default/bonnie_phew_pin.webp
-  - bonnie_pin
-    preview: previews/Pins/Default/bonnie_pin.webp
-  - bonnie_sad_pin
-    preview: previews/Pins/Default/bonnie_sad_pin.webp
-  - bonnie_special_pin
-    preview: previews/Pins/Default/bonnie_special_pin.webp
-    ... +2 more
+## Portraits (1)
+  - Bonnie_Portrait
+    preview: previews/Portraits/Bonnie/Bonnie_Portrait.webp
 
-## Sprays (1)
-  - spray_bonnie
-    preview: previews/Sprays/All/spray_bonnie.webp
+## Pins (13)
+  - Bonnie_Angry_Pin
+    preview: previews/Pins/Angry/Bonnie_Angry_Pin.webp
+  - Bonnie_Clap_Pin
+    preview: previews/Pins/Clap/Bonnie_Clap_Pin.webp
+  - Bonnie_Clyde_Pin
+    preview: previews/Pins/Default/Bonnie_Clyde_Pin.webp
+  - Bonnie_Facepalm_Pin
+    preview: previews/Pins/Facepalm/Bonnie_Facepalm_Pin.webp
+  - Bonnie_Gg_Pin
+    preview: previews/Pins/GG/Bonnie_Gg_Pin.webp
+  - Bonnie_Happy_Pin
+    preview: previews/Pins/Happy/Bonnie_Happy_Pin.webp
+  - Bonnie_Phew_Pin
+    preview: previews/Pins/Phew/Bonnie_Phew_Pin.webp
+  - Bonnie_Pin
+    preview: previews/Pins/Default/Bonnie_Pin.webp
+  - Bonnie_Sad_Pin
+    preview: previews/Pins/Sad/Bonnie_Sad_Pin.webp
+  - Bonnie_Special_Pin
+    preview: previews/Pins/Special/Bonnie_Special_Pin.webp
+    ... +3 more
 
-## UI (2)
-  - player_icon_bonnie1
-    preview: previews/UI/Icons/player_icon_bonnie1.webp
-  - profile_icon_bonnie_empress
-    preview: previews/UI/Icons/profile_icon_bonnie_empress.webp
+## UI (9)
+  - Bonnie1_Mastery
+    preview: previews/UI/Mastery/Bonnie1_Mastery.webp
+  - Bonnie2_Mastery
+    preview: previews/UI/Mastery/Bonnie2_Mastery.webp
+  - Bonnie3_Mastery
+    preview: previews/UI/Mastery/Bonnie3_Mastery.webp
+  - Bonnie4_Mastery
+    preview: previews/UI/Mastery/Bonnie4_Mastery.webp
+  - Bonnie5_Mastery
+    preview: previews/UI/Mastery/Bonnie5_Mastery.webp
+  - Bonnie_Gadget_01
+    preview: previews/UI/Gadgets/Bonnie_Gadget_01.webp
+  - Bonnie_Gadget_02
+    preview: previews/UI/Gadgets/Bonnie_Gadget_02.webp
+  - Bonnie_Starpower_01
+    preview: previews/UI/StarPowers/Bonnie_Starpower_01.webp
+  - Bonnie_Starpower_02
+    preview: previews/UI/StarPowers/Bonnie_Starpower_02.webp

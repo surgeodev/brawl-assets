@@ -1,63 +1,74 @@
 # Carl
 Rarity: Super Rare | Class: Damage Dealer
-Total assets: 37
-Skins: Glasses
+Total assets: 35
 
 
-## Brawlers (22)
-  - Carl Glasses Meme
-    preview: previews/Brawlers/carl_glasses_meme/Carl_Glasses_Meme.webp
-  - carl1_mastery
-    preview: previews/Brawlers/carl1/carl1_mastery.webp
-  - carl2_mastery
-    preview: previews/Brawlers/carl2/carl2_mastery.webp
-  - carl3_mastery
-    preview: previews/Brawlers/carl3/carl3_mastery.webp
-  - carl4_mastery
-    preview: previews/Brawlers/carl4/carl4_mastery.webp
-  - carl5_mastery
-    preview: previews/Brawlers/carl5/carl5_mastery.webp
-  - carl_biker_carl_001
-    preview: previews/Brawlers/carl/carl_biker_carl_001.webp
-  - carl_captain_carl_001
-    preview: previews/Brawlers/carl/carl_captain_carl_001.webp
-  - carl_dark_tide_001
-    preview: previews/Brawlers/carl/carl_dark_tide_001.webp
-  - carl_default_001
-    preview: previews/Brawlers/carl/carl_default_001.webp
-    ... +12 more
+## Brawlers (12)
+  - Carl_Biker_Carl_001
+    preview: previews/Brawlers/Carl/Carl_Biker_Carl_001.webp
+  - Carl_Captain_Carl_001
+    preview: previews/Brawlers/Carl/Carl_Captain_Carl_001.webp
+  - Carl_Dark_Tide_001
+    preview: previews/Brawlers/Carl/Carl_Dark_Tide_001.webp
+  - Carl_Default_001
+    preview: previews/Brawlers/Carl/Carl_Default_001.webp
+  - Carl_Goblin_Carl_001
+    preview: previews/Brawlers/Carl/Carl_Goblin_Carl_001.webp
+  - Carl_Hog_Rider_Carl_001
+    preview: previews/Brawlers/Carl/Carl_Hog_Rider_Carl_001.webp
+  - Carl_Leonard_Carl_001
+    preview: previews/Brawlers/Carl/Carl_Leonard_Carl_001.webp
+  - Carl_Road_Rage_Carl_001
+    preview: previews/Brawlers/Carl/Carl_Road_Rage_Carl_001.webp
+  - Carl_Sultan_Carl_001
+    preview: previews/Brawlers/Carl/Carl_Sultan_Carl_001.webp
+  - Carl_Surfer_Carl_001
+    preview: previews/Brawlers/Carl/Carl_Surfer_Carl_001.webp
+    ... +2 more
 
-## Pins (11)
-  - carl_angry_pin
-    preview: previews/Pins/Default/carl_angry_pin.webp
-  - carl_carpet_pin
-    preview: previews/Pins/Default/carl_carpet_pin.webp
-  - carl_clap_pin
-    preview: previews/Pins/Default/carl_clap_pin.webp
-  - carl_facepalm_pin
-    preview: previews/Pins/Default/carl_facepalm_pin.webp
-  - carl_gg_pin
-    preview: previews/Pins/Default/carl_gg_pin.webp
-  - carl_happy_pin
-    preview: previews/Pins/Default/carl_happy_pin.webp
-  - carl_phew_pin
-    preview: previews/Pins/Default/carl_phew_pin.webp
-  - carl_pin
-    preview: previews/Pins/Default/carl_pin.webp
-  - carl_retro_pin
-    preview: previews/Pins/Default/carl_retro_pin.webp
-  - carl_sad_pin
-    preview: previews/Pins/Default/carl_sad_pin.webp
-    ... +1 more
+## Portraits (1)
+  - Carl_Portrait
+    preview: previews/Portraits/Carl/Carl_Portrait.webp
 
-## Sprays (2)
-  - spray_carl
-    preview: previews/Sprays/All/spray_carl.webp
-  - spray_carl_carpet
-    preview: previews/Sprays/All/spray_carl_carpet.webp
+## Pins (13)
+  - Carl_Angry_Pin
+    preview: previews/Pins/Angry/Carl_Angry_Pin.webp
+  - Carl_Carpet_Pin
+    preview: previews/Pins/Default/Carl_Carpet_Pin.webp
+  - Carl_Clap_Pin
+    preview: previews/Pins/Clap/Carl_Clap_Pin.webp
+  - Carl_Facepalm_Pin
+    preview: previews/Pins/Facepalm/Carl_Facepalm_Pin.webp
+  - Carl_Gg_Pin
+    preview: previews/Pins/GG/Carl_Gg_Pin.webp
+  - Carl_Happy_Pin
+    preview: previews/Pins/Happy/Carl_Happy_Pin.webp
+  - Carl_Phew_Pin
+    preview: previews/Pins/Phew/Carl_Phew_Pin.webp
+  - Carl_Pin
+    preview: previews/Pins/Default/Carl_Pin.webp
+  - Carl_Retro_Pin
+    preview: previews/Pins/Retro/Carl_Retro_Pin.webp
+  - Carl_Sad_Pin
+    preview: previews/Pins/Sad/Carl_Sad_Pin.webp
+    ... +3 more
 
-## UI (2)
-  - player_icon_carl1
-    preview: previews/UI/Icons/player_icon_carl1.webp
-  - profile_icon_carl
-    preview: previews/UI/Icons/profile_icon_carl.webp
+## UI (9)
+  - Carl1_Mastery
+    preview: previews/UI/Mastery/Carl1_Mastery.webp
+  - Carl2_Mastery
+    preview: previews/UI/Mastery/Carl2_Mastery.webp
+  - Carl3_Mastery
+    preview: previews/UI/Mastery/Carl3_Mastery.webp
+  - Carl4_Mastery
+    preview: previews/UI/Mastery/Carl4_Mastery.webp
+  - Carl5_Mastery
+    preview: previews/UI/Mastery/Carl5_Mastery.webp
+  - Carl_Gadget_01
+    preview: previews/UI/Gadgets/Carl_Gadget_01.webp
+  - Carl_Gadget_02
+    preview: previews/UI/Gadgets/Carl_Gadget_02.webp
+  - Carl_Starpower_01
+    preview: previews/UI/StarPowers/Carl_Starpower_01.webp
+  - Carl_Starpower_02
+    preview: previews/UI/StarPowers/Carl_Starpower_02.webp

@@ -1,75 +1,78 @@
 # Colt
 Rarity: Rare | Class: Damage Dealer
-Total assets: 65
-Skins: Take, x
+Total assets: 55
 
 
-## Brawlers (31)
-  - Colt Take My Money Meme
-    preview: previews/Brawlers/colt_take_my_money_meme/Colt_Take_My_Money_Meme.webp
-  - Colt x Shelly Anakin Meme
-    preview: previews/Brawlers/colt_x_shelly_anakin_meme/Colt_x_Shelly_Anakin_Meme.webp
-  - button_hypercharge_colt
-    preview: previews/Brawlers/button/button_hypercharge_colt.webp
-  - colt1_mastery
-    preview: previews/Brawlers/colt1/colt1_mastery.webp
-  - colt2_mastery
-    preview: previews/Brawlers/colt2/colt2_mastery.webp
-  - colt3_mastery
-    preview: previews/Brawlers/colt3/colt3_mastery.webp
-  - colt4_mastery
-    preview: previews/Brawlers/colt4/colt4_mastery.webp
-  - colt5_mastery
-    preview: previews/Brawlers/colt5/colt5_mastery.webp
-  - colt_atl._nacional_colt_001
-    preview: previews/Brawlers/colt/colt_atl._nacional_colt_001.webp
-  - colt_bananas_colt_001
-    preview: previews/Brawlers/colt/colt_bananas_colt_001.webp
-    ... +21 more
+## Brawlers (19)
+  - Colt_Atl._Nacional_Colt_001
+    preview: previews/Brawlers/Colt/Colt_Atl._Nacional_Colt_001.webp
+  - Colt_Bananas_Colt_001
+    preview: previews/Brawlers/Colt/Colt_Bananas_Colt_001.webp
+  - Colt_Challenger_Colt_001
+    preview: previews/Brawlers/Colt/Colt_Challenger_Colt_001.webp
+  - Colt_Club_America_Colt_001
+    preview: previews/Brawlers/Colt/Colt_Club_America_Colt_001.webp
+  - Colt_Corsair_Colt_001
+    preview: previews/Brawlers/Colt/Colt_Corsair_Colt_001.webp
+  - Colt_Dark_Angel_Colt_Happy_296
+    preview: previews/Brawlers/Colt/Colt_Dark_Angel_Colt_Happy_296.webp
+  - Colt_Default_001
+    preview: previews/Brawlers/Colt/Colt_Default_001.webp
+  - Colt_Gunslinger_Colt_001
+    preview: previews/Brawlers/Colt/Colt_Gunslinger_Colt_001.webp
+  - Colt_Handsome_Colt_001
+    preview: previews/Brawlers/Colt/Colt_Handsome_Colt_001.webp
+  - Colt_Mecha_Colt_458
+    preview: previews/Brawlers/Colt/Colt_Mecha_Colt_458.webp
+    ... +9 more
+
+## Portraits (1)
+  - Colt_Portrait
+    preview: previews/Portraits/Colt/Colt_Portrait.webp
 
 ## Pins (25)
-  - colt_angry_pin
-    preview: previews/Pins/Default/colt_angry_pin.webp
-  - colt_challenger_pin
-    preview: previews/Pins/Default/colt_challenger_pin.webp
-  - colt_clap_pin
-    preview: previews/Pins/Default/colt_clap_pin.webp
-  - colt_dark_angel_colt_happy_296
-    preview: previews/Pins/Default/colt_dark_angel_colt_happy_296.webp
-  - colt_facepalm_pin
-    preview: previews/Pins/Default/colt_facepalm_pin.webp
-  - colt_gg_pin
-    preview: previews/Pins/Default/colt_gg_pin.webp
-  - colt_handsome_pin
-    preview: previews/Pins/Default/colt_handsome_pin.webp
-  - colt_happy_pin
-    preview: previews/Pins/Default/colt_happy_pin.webp
-  - colt_hypercharge_pin
-    preview: previews/Pins/Default/colt_hypercharge_pin.webp
-  - colt_jungle_pin
-    preview: previews/Pins/Default/colt_jungle_pin.webp
+  - Colt_Angry_Pin
+    preview: previews/Pins/Angry/Colt_Angry_Pin.webp
+  - Colt_Challenger_Pin
+    preview: previews/Pins/Default/Colt_Challenger_Pin.webp
+  - Colt_Clap_Pin
+    preview: previews/Pins/Clap/Colt_Clap_Pin.webp
+  - Colt_Facepalm_Pin
+    preview: previews/Pins/Facepalm/Colt_Facepalm_Pin.webp
+  - Colt_Gg_Pin
+    preview: previews/Pins/GG/Colt_Gg_Pin.webp
+  - Colt_Handsome_Pin
+    preview: previews/Pins/Default/Colt_Handsome_Pin.webp
+  - Colt_Happy_Pin
+    preview: previews/Pins/Happy/Colt_Happy_Pin.webp
+  - Colt_Hypercharge_Pin
+    preview: previews/Pins/Default/Colt_Hypercharge_Pin.webp
+  - Colt_Jungle_Pin
+    preview: previews/Pins/Default/Colt_Jungle_Pin.webp
+  - Colt_Mecha_Angry_Pin
+    preview: previews/Pins/Angry/Colt_Mecha_Angry_Pin.webp
     ... +15 more
 
-## Emojis (1)
-  - emoji_colt_dark_angel
-    preview: previews/Emojis/All/emoji_colt_dark_angel.webp
+## Sprays (1)
+  - Colt_Spray_Mecha
+    preview: previews/Sprays/All/Colt_Spray_Mecha.webp
 
-## Sprays (4)
-  - colt_spray_mecha
-    preview: previews/Sprays/All/colt_spray_mecha.webp
-  - spray_bananas_colt_
-    preview: previews/Sprays/All/spray_bananas_colt_.webp
-  - spray_colt
-    preview: previews/Sprays/All/spray_colt.webp
-  - spray_colt_overcharge
-    preview: previews/Sprays/All/spray_colt_overcharge.webp
-
-## UI (4)
-  - profile_icon_colt1
-    preview: previews/UI/Icons/profile_icon_colt1.webp
-  - profile_icon_colt_classic
-    preview: previews/UI/Icons/profile_icon_colt_classic.webp
-  - profile_icon_colt_jungle
-    preview: previews/UI/Icons/profile_icon_colt_jungle.webp
-  - profile_icon_colt_mecha
-    preview: previews/UI/Icons/profile_icon_colt_mecha.webp
+## UI (9)
+  - Colt1_Mastery
+    preview: previews/UI/Mastery/Colt1_Mastery.webp
+  - Colt2_Mastery
+    preview: previews/UI/Mastery/Colt2_Mastery.webp
+  - Colt3_Mastery
+    preview: previews/UI/Mastery/Colt3_Mastery.webp
+  - Colt4_Mastery
+    preview: previews/UI/Mastery/Colt4_Mastery.webp
+  - Colt5_Mastery
+    preview: previews/UI/Mastery/Colt5_Mastery.webp
+  - Colt_Gadget_01
+    preview: previews/UI/Gadgets/Colt_Gadget_01.webp
+  - Colt_Gadget_02
+    preview: previews/UI/Gadgets/Colt_Gadget_02.webp
+  - Colt_Starpower_01
+    preview: previews/UI/StarPowers/Colt_Starpower_01.webp
+  - Colt_Starpower_02
+    preview: previews/UI/StarPowers/Colt_Starpower_02.webp

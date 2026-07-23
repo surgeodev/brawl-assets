@@ -3,35 +3,35 @@ Rarity: Epic | Class: Artillery
 Total assets: 16
 
 
-## Brawlers (1)
-  - larry_&_lawrie_glitch_larry_&_lawrie_2086
-    preview: previews/Brawlers/larry/larry_&_lawrie_glitch_larry_&_lawrie_2086.webp
+## Brawlers (2)
+  - Larry-&-Lawrie_bordered
+    preview: previews/Brawlers/larry_and_lawrie/Larry-&-Lawrie_bordered.webp
+  - Larry-&-Lawrie_borderless
+    preview: previews/Brawlers/larry_and_lawrie/Larry-&-Lawrie_borderless.webp
 
-## Pins (13)
-  - larry&lawrie_angry_pin
-    preview: previews/Pins/Default/larry&lawrie_angry_pin.webp
-  - larry&lawrie_base_pin
-    preview: previews/Pins/Default/larry&lawrie_base_pin.webp
-  - larry&lawrie_clap_pin
-    preview: previews/Pins/Default/larry&lawrie_clap_pin.webp
-  - larry&lawrie_facepalm_pin
-    preview: previews/Pins/Default/larry&lawrie_facepalm_pin.webp
-  - larry&lawrie_gg_pin
-    preview: previews/Pins/Default/larry&lawrie_gg_pin.webp
-  - larry&lawrie_glitch_pin
-    preview: previews/Pins/Default/larry&lawrie_glitch_pin.webp
-  - larry&lawrie_happy_pin
-    preview: previews/Pins/Default/larry&lawrie_happy_pin.webp
-  - larry&lawrie_sad_pin
-    preview: previews/Pins/Default/larry&lawrie_sad_pin.webp
-  - larry&lawrie_special _angry_pin
-    preview: previews/Pins/Default/larry&lawrie_special__angry_pin.webp
-  - larry&lawrie_special_pin
-    preview: previews/Pins/Default/larry&lawrie_special_pin.webp
-    ... +3 more
+## Pins (11)
+  - Larry&Lawrie_Angry_Pin
+    preview: previews/Pins/Angry/Larry&Lawrie_Angry_Pin.webp
+  - Larry&Lawrie_Base_Pin
+    preview: previews/Pins/Default/Larry&Lawrie_Base_Pin.webp
+  - Larry&Lawrie_Clap_Pin
+    preview: previews/Pins/Clap/Larry&Lawrie_Clap_Pin.webp
+  - Larry&Lawrie_Facepalm_Pin
+    preview: previews/Pins/Facepalm/Larry&Lawrie_Facepalm_Pin.webp
+  - Larry&Lawrie_Gg_Pin
+    preview: previews/Pins/GG/Larry&Lawrie_Gg_Pin.webp
+  - Larry&Lawrie_Glitch_Pin
+    preview: previews/Pins/Default/Larry&Lawrie_Glitch_Pin.webp
+  - Larry&Lawrie_Happy_Pin
+    preview: previews/Pins/Happy/Larry&Lawrie_Happy_Pin.webp
+  - Larry&Lawrie_Sad_Pin
+    preview: previews/Pins/Sad/Larry&Lawrie_Sad_Pin.webp
+  - Larry&Lawrie_Special_Pin
+    preview: previews/Pins/Special/Larry&Lawrie_Special_Pin.webp
+  - Larry&Lawrie_Stop_Pin
+    preview: previews/Pins/Default/Larry&Lawrie_Stop_Pin.webp
+    ... +1 more
 
-## UI (2)
-  - player_icon_larry&lawrie_glitch
-    preview: previews/UI/Icons/player_icon_larry&lawrie_glitch.webp
-  - profile_icon_larry&lawrie_glitch
-    preview: previews/UI/Icons/profile_icon_larry&lawrie_glitch.webp
+## Emojis (1)
+  - Larry-&-Lawrie_emoji
+    preview: previews/Emojis/larry_and_lawrie/Larry-&-Lawrie_emoji.webp

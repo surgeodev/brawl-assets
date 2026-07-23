@@ -1,46 +1,44 @@
 # Lily
 Rarity: Mythic | Class: Assassin
-Total assets: 18
+Total assets: 16
 
 
-## Brawlers (4)
-  - lily_gadget_01
-    preview: previews/Brawlers/lily/lily_gadget_01.webp
-  - lily_gadget_02
-    preview: previews/Brawlers/lily/lily_gadget_02.webp
-  - lily_starpower_01
-    preview: previews/Brawlers/lily/lily_starpower_01.webp
-  - lily_starpower_02
-    preview: previews/Brawlers/lily/lily_starpower_02.webp
+## Brawlers (1)
+  - Lily_Strawberry_Lily_296
+    preview: previews/Brawlers/Lily/Lily_Strawberry_Lily_296.webp
 
 ## Portraits (1)
-  - lily_portrait
-    preview: previews/Portraits/Unknown/lily_portrait.webp
+  - Lily_Portrait
+    preview: previews/Portraits/Lily/Lily_Portrait.webp
 
 ## Pins (10)
-  - lily_GG_pin
-    preview: previews/Pins/Default/lily_GG_pin.webp
-  - lily_angry_pin
-    preview: previews/Pins/Default/lily_angry_pin.webp
-  - lily_clap_pin
-    preview: previews/Pins/Default/lily_clap_pin.webp
-  - lily_cry_pin
-    preview: previews/Pins/Default/lily_cry_pin.webp
-  - lily_facepalm_pin
-    preview: previews/Pins/Default/lily_facepalm_pin.webp
-  - lily_happy_pin
-    preview: previews/Pins/Default/lily_happy_pin.webp
-  - lily_phew_pin
-    preview: previews/Pins/Default/lily_phew_pin.webp
-  - lily_pin
-    preview: previews/Pins/Default/lily_pin.webp
-  - lily_special_pin
-    preview: previews/Pins/Default/lily_special_pin.webp
-  - lily_thanks_pin
-    preview: previews/Pins/Default/lily_thanks_pin.webp
+  - Lily_Angry_Pin
+    preview: previews/Pins/Angry/Lily_Angry_Pin.webp
+  - Lily_Clap_Pin
+    preview: previews/Pins/Clap/Lily_Clap_Pin.webp
+  - Lily_Cry_Pin
+    preview: previews/Pins/Default/Lily_Cry_Pin.webp
+  - Lily_Facepalm_Pin
+    preview: previews/Pins/Facepalm/Lily_Facepalm_Pin.webp
+  - Lily_Gg_Pin
+    preview: previews/Pins/GG/Lily_Gg_Pin.webp
+  - Lily_Happy_Pin
+    preview: previews/Pins/Happy/Lily_Happy_Pin.webp
+  - Lily_Phew_Pin
+    preview: previews/Pins/Phew/Lily_Phew_Pin.webp
+  - Lily_Pin
+    preview: previews/Pins/Default/Lily_Pin.webp
+  - Lily_Special_Pin
+    preview: previews/Pins/Special/Lily_Special_Pin.webp
+  - Lily_Thanks_Pin
+    preview: previews/Pins/Thanks/Lily_Thanks_Pin.webp
 
-## UI (2)
-  - player_icon_lily
-    preview: previews/UI/Icons/player_icon_lily.webp
-  - profile_icon_lily
-    preview: previews/UI/Icons/profile_icon_lily.webp
+## UI (4)
+  - Lily_Gadget_01
+    preview: previews/UI/Gadgets/Lily_Gadget_01.webp
+  - Lily_Gadget_02
+    preview: previews/UI/Gadgets/Lily_Gadget_02.webp
+  - Lily_Starpower_01
+    preview: previews/UI/StarPowers/Lily_Starpower_01.webp
+  - Lily_Starpower_02
+    preview: previews/UI/StarPowers/Lily_Starpower_02.webp

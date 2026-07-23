@@ -1,49 +1,46 @@
 # Kenji
 Rarity: Legendary | Class: Assassin
-Total assets: 20
+Total assets: 17
 
 
-## Brawlers (4)
-  - kenji_gadget_1
-    preview: previews/Brawlers/kenji/kenji_gadget_1.webp
-  - kenji_gadget_2
-    preview: previews/Brawlers/kenji/kenji_gadget_2.webp
-  - kenji_starpower_1
-    preview: previews/Brawlers/kenji/kenji_starpower_1.webp
-  - kenji_starpower_2
-    preview: previews/Brawlers/kenji/kenji_starpower_2.webp
+## Brawlers (2)
+  - _0017_Kenji_Fruit_Samurai_Kenji_Happy_358
+    preview: previews/Brawlers/Kenji/_0017_Kenji_Fruit_Samurai_Kenji_Happy_358.webp
+  - _0018_Kenji_Default_Happy_360
+    preview: previews/Brawlers/Kenji/_0018_Kenji_Default_Happy_360.webp
 
 ## Portraits (1)
-  - kenji_portrait
-    preview: previews/Portraits/Unknown/kenji_portrait.webp
+  - Kenji_Portrait
+    preview: previews/Portraits/Kenji/Kenji_Portrait.webp
 
-## Pins (12)
-  - _0017_kenji_fruit_samurai_kenji_happy_358
-    preview: previews/Pins/Default/_0017_kenji_fruit_samurai_kenji_happy_358.webp
-  - _0018_kenji_default_happy_360
-    preview: previews/Pins/Default/_0018_kenji_default_happy_360.webp
-  - kenji_GG_pin
-    preview: previews/Pins/Default/kenji_GG_pin.webp
-  - kenji_angry_pin
-    preview: previews/Pins/Default/kenji_angry_pin.webp
-  - kenji_clap_pin
-    preview: previews/Pins/Default/kenji_clap_pin.webp
-  - kenji_facepalm_pin
-    preview: previews/Pins/Default/kenji_facepalm_pin.webp
-  - kenji_happy_pin
-    preview: previews/Pins/Default/kenji_happy_pin.webp
-  - kenji_phew_pin
-    preview: previews/Pins/Default/kenji_phew_pin.webp
-  - kenji_pin
-    preview: previews/Pins/Default/kenji_pin.webp
-  - kenji_sad_pin
-    preview: previews/Pins/Default/kenji_sad_pin.webp
-    ... +2 more
+## Pins (10)
+  - Kenji_Angry_Pin
+    preview: previews/Pins/Angry/Kenji_Angry_Pin.webp
+  - Kenji_Clap_Pin
+    preview: previews/Pins/Clap/Kenji_Clap_Pin.webp
+  - Kenji_Facepalm_Pin
+    preview: previews/Pins/Facepalm/Kenji_Facepalm_Pin.webp
+  - Kenji_Gg_Pin
+    preview: previews/Pins/GG/Kenji_Gg_Pin.webp
+  - Kenji_Happy_Pin
+    preview: previews/Pins/Happy/Kenji_Happy_Pin.webp
+  - Kenji_Phew_Pin
+    preview: previews/Pins/Phew/Kenji_Phew_Pin.webp
+  - Kenji_Pin
+    preview: previews/Pins/Default/Kenji_Pin.webp
+  - Kenji_Sad_Pin
+    preview: previews/Pins/Sad/Kenji_Sad_Pin.webp
+  - Kenji_Special_Pin
+    preview: previews/Pins/Special/Kenji_Special_Pin.webp
+  - Kenji_Thanks_Pin
+    preview: previews/Pins/Thanks/Kenji_Thanks_Pin.webp
 
-## Sprays (1)
-  - spray_kenji
-    preview: previews/Sprays/All/spray_kenji.webp
-
-## UI (1)
-  - player_icon_kenji
-    preview: previews/UI/Icons/player_icon_kenji.webp
+## UI (4)
+  - Kenji_Gadget_1
+    preview: previews/UI/Gadgets/Kenji_Gadget_1.webp
+  - Kenji_Gadget_2
+    preview: previews/UI/Gadgets/Kenji_Gadget_2.webp
+  - Kenji_Starpower_1
+    preview: previews/UI/StarPowers/Kenji_Starpower_1.webp
+  - Kenji_Starpower_2
+    preview: previews/UI/StarPowers/Kenji_Starpower_2.webp
