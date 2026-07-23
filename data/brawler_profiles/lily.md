@@ -1,37 +1,46 @@
 # Lily
 Rarity: Mythic | Class: Assassin
-Total assets: 21
-Skins: Gadget, Icon, Screen, Starpower, Strawberry
-
-`previews/Brawlers/lily/` — mythic brawler
+Total assets: 18
 
 
-## Brawlers (1)
-- **Lily Strawberry Lily 296** → `previews/Brawlers/Lily/Lily_Strawberry_Lily_296.webp` 296 · brawler: lily · brawler_render · brawlers
+## Brawlers (4)
+  - lily_gadget_01
+    preview: previews/Brawlers/lily/lily_gadget_01.webp
+  - lily_gadget_02
+    preview: previews/Brawlers/lily/lily_gadget_02.webp
+  - lily_starpower_01
+    preview: previews/Brawlers/lily/lily_starpower_01.webp
+  - lily_starpower_02
+    preview: previews/Brawlers/lily/lily_starpower_02.webp
 
 ## Portraits (1)
-- **Lily Portrait** → `previews/Portraits/Lily/Lily_Portrait.webp` brawler: lily · lily · png · portrait
+  - lily_portrait
+    preview: previews/Portraits/Unknown/lily_portrait.webp
 
 ## Pins (10)
-- **Lily Angry Pin** → `previews/Pins/Angry/Lily_Angry_Pin.webp` anger · angry · brawler: lily · lily
-- **Lily Clap Pin** → `previews/Pins/Clap/Lily_Clap_Pin.webp` approval · brawler: lily · clap · lily
-- **Lily Cry Pin** → `previews/Pins/Default/Lily_Cry_Pin.webp` brawler: lily · cry · lily · pin
-- **Lily Facepalm Pin** → `previews/Pins/Facepalm/Lily_Facepalm_Pin.webp` brawler: lily · facepalm · frustration · lily
-- **Lily Gg Pin** → `previews/Pins/GG/Lily_Gg_Pin.webp` brawler: lily · gg · lily · pin
-- **Lily Happy Pin** → `previews/Pins/Happy/Lily_Happy_Pin.webp` brawler: lily · happy · joy · lily
-- **Lily Phew Pin** → `previews/Pins/Phew/Lily_Phew_Pin.webp` brawler: lily · lily · phew · pin
-- **Lily Pin** → `previews/Pins/Default/Lily_Pin.webp` brawler: lily · lily · pin · pins
-- **Lily Special Pin** → `previews/Pins/Special/Lily_Special_Pin.webp` brawler: lily · lily · pin · pin_special
-- **Lily Thanks Pin** → `previews/Pins/Thanks/Lily_Thanks_Pin.webp` brawler: lily · gratitude · lily · pin
+  - lily_GG_pin
+    preview: previews/Pins/Default/lily_GG_pin.webp
+  - lily_angry_pin
+    preview: previews/Pins/Default/lily_angry_pin.webp
+  - lily_clap_pin
+    preview: previews/Pins/Default/lily_clap_pin.webp
+  - lily_cry_pin
+    preview: previews/Pins/Default/lily_cry_pin.webp
+  - lily_facepalm_pin
+    preview: previews/Pins/Default/lily_facepalm_pin.webp
+  - lily_happy_pin
+    preview: previews/Pins/Default/lily_happy_pin.webp
+  - lily_phew_pin
+    preview: previews/Pins/Default/lily_phew_pin.webp
+  - lily_pin
+    preview: previews/Pins/Default/lily_pin.webp
+  - lily_special_pin
+    preview: previews/Pins/Default/lily_special_pin.webp
+  - lily_thanks_pin
+    preview: previews/Pins/Default/lily_thanks_pin.webp
 
-## Animations (2)
-- **Lily Lose** → `previews/Animations/Lily/Lily_Lose.webp` animated · animation · animations · brawler: lily
-- **Lily Win** → `previews/Animations/Lily/Lily_Win.webp` animated · animation · animations · brawler: lily
-
-## UI (6)
-- **Lily Gadget 01** → `previews/UI/Gadgets/Lily_Gadget_01.webp` brawler: lily · gadget · gadget_icon · lily
-- **Lily Gadget 02** → `previews/UI/Gadgets/Lily_Gadget_02.webp` brawler: lily · gadget · gadget_icon · lily
-- **Lily Starpower 01** → `previews/UI/StarPowers/Lily_Starpower_01.webp` brawler: lily · lily · png · sci-fi
-- **Lily Starpower 02** → `previews/UI/StarPowers/Lily_Starpower_02.webp` brawler: lily · lily · png · sci-fi
-- **Player Icon Lily** → `previews/UI/Icons/Player_Icon_Lily.webp` brawler: lily · icon · lily · player
-- **Profile Icon Lily** → `previews/UI/Icons/Profile_Icon_Lily.webp` brawler: lily · icon · lily · png
+## UI (2)
+  - player_icon_lily
+    preview: previews/UI/Icons/player_icon_lily.webp
+  - profile_icon_lily
+    preview: previews/UI/Icons/profile_icon_lily.webp

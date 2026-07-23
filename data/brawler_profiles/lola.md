@@ -1,56 +1,62 @@
 # Lola
 Rarity: Epic | Class: Damage Dealer
-Total assets: 35
-Skins: Calculating, Cobra, Default, Gadget, Galaxy, Icon, Kitsune, Lavish, Lawless, Lola, Rebel, Starpower, True
-
-`previews/Brawlers/lola/` — epic brawler
+Total assets: 31
+Skins: Calculating
 
 
-## Brawlers (9)
-- **Lola Cobra Lola 150** → `previews/Brawlers/Lola/Lola_Cobra_Lola_150.webp` 150 · brawler: lola · brawler_render · brawlers
-- **Lola Default 001** → `previews/Brawlers/Lola/Lola_Default_001.webp` brawler: lola · brawler_render · brawlers · default
-- **Lola Galaxy Storm Lola 001** → `previews/Brawlers/Lola/Lola_Galaxy_Storm_Lola_001.webp` brawler: lola · brawler_render · brawlers · galaxy
-- **Lola Kitsune Lola 001** → `previews/Brawlers/Lola/Lola_Kitsune_Lola_001.webp` brawler: lola · brawler_render · brawlers · kitsune
-- **Lola Lavish Lola 143** → `previews/Brawlers/Lola/Lola_Lavish_Lola_143.webp` 143 · brawler: lola · brawler_render · brawlers
-- **Lola Lawless Lola 001** → `previews/Brawlers/Lola/Lola_Lawless_Lola_001.webp` brawler: lola · brawler_render · brawlers · lawless
-- **Lola Rebel Lola 001** → `previews/Brawlers/Lola/Lola_Rebel_Lola_001.webp` brawler: lola · brawler_render · brawlers · lola
-- **Lola True Gold Lola 001** → `previews/Brawlers/Lola/Lola_True_Gold_Lola_001.webp` brawler: lola · brawler_render · brawlers · gold
-- **Lola True Silver Lola 001** → `previews/Brawlers/Lola/Lola_True_Silver_Lola_001.webp` brawler: lola · brawler_render · brawlers · lola
-
-## Portraits (1)
-- **Portraits Lola Portrait** → `previews/Portraits/Lola/Portraits_Lola_Portrait.webp` brawler: lola · lola · png · portrait
+## Brawlers (18)
+  - Lola Calculating Meme
+    preview: previews/Brawlers/lola_calculating_meme/Lola_Calculating_Meme.webp
+  - lola1_mastery
+    preview: previews/Brawlers/lola1/lola1_mastery.webp
+  - lola2_mastery
+    preview: previews/Brawlers/lola2/lola2_mastery.webp
+  - lola3_mastery
+    preview: previews/Brawlers/lola3/lola3_mastery.webp
+  - lola4_mastery
+    preview: previews/Brawlers/lola4/lola4_mastery.webp
+  - lola5_mastery
+    preview: previews/Brawlers/lola5/lola5_mastery.webp
+  - lola_cobra_lola_150
+    preview: previews/Brawlers/lola/lola_cobra_lola_150.webp
+  - lola_default_001
+    preview: previews/Brawlers/lola/lola_default_001.webp
+  - lola_gadget_01
+    preview: previews/Brawlers/lola/lola_gadget_01.webp
+  - lola_gadget_02
+    preview: previews/Brawlers/lola/lola_gadget_02.webp
+    ... +8 more
 
 ## Pins (2)
-- **Lola Facepalm Pin** → `previews/Pins/Facepalm/Lola_Facepalm_Pin.webp` brawler: lola · facepalm · frustration · lola
-- **Lola Mask Pin** → `previews/Pins/Default/Lola_Mask_Pin.webp` brawler: lola · lola · mask · pin
+  - lola_facepalm_pin
+    preview: previews/Pins/Default/lola_facepalm_pin.webp
+  - lola_mask_pin
+    preview: previews/Pins/Default/lola_mask_pin.webp
 
 ## Emojis (2)
-- **Emoji Lola Circus** → `previews/Emojis/All/Emoji_Lola_Circus.webp` brawler: lola · circus · emoji · emojis
-- **Emoji Lola Retropolis** → `previews/Emojis/All/Emoji_Lola_Retropolis.webp` brawler: lola · emoji · emojis · futuristic
+  - emoji_lola_circus
+    preview: previews/Emojis/All/emoji_lola_circus.webp
+  - emoji_lola_retropolis
+    preview: previews/Emojis/All/emoji_lola_retropolis.webp
 
 ## Sprays (3)
-- **Spray Lola** → `previews/Sprays/All/Spray_Lola.webp` brawler: lola · lola · png · spray
-- **Spray Lola Circus** → `previews/Sprays/All/Spray_Lola_Circus.webp` brawler: lola · circus · entertainment · lola
-- **Spray Lola Mask** → `previews/Sprays/All/Spray_Lola_Mask.webp` brawler: lola · lola · mask · png
+  - spray_lola
+    preview: previews/Sprays/All/spray_lola.webp
+  - spray_lola_circus
+    preview: previews/Sprays/All/spray_lola_circus.webp
+  - spray_lola_mask
+    preview: previews/Sprays/All/spray_lola_mask.webp
 
-## Animations (2)
-- **Lola Lose** → `previews/Animations/Defeat/Lola_Lose.webp` animated · animations · brawler: lola · defeat
-- **Lola Win** → `previews/Animations/Victory/Lola_Win.webp` animated · animations · brawler: lola · gif
-
-## UI (15)
-- **Lola Gadget 01** → `previews/UI/Gadgets/Lola_Gadget_01.webp` brawler: lola · gadget · gadget_icon · lola
-- **Lola Gadget 02** → `previews/UI/Gadgets/Lola_Gadget_02.webp` brawler: lola · gadget · gadget_icon · lola
-- **Lola Starpower 01** → `previews/UI/StarPowers/Lola_Starpower_01.webp` brawler: lola · lola · png · sci-fi
-- **Lola Starpower 02** → `previews/UI/StarPowers/Lola_Starpower_02.webp` brawler: lola · lola · png · sci-fi
-- **Lola1 Mastery** → `previews/UI/Mastery/Lola1_Mastery.webp` brawler: lola · lola · lola1 · mastery
-- **Lola2 Mastery** → `previews/UI/Mastery/Lola2_Mastery.webp` brawler: lola · lola · lola2 · mastery
-- **Lola3 Mastery** → `previews/UI/Mastery/Lola3_Mastery.webp` brawler: lola · lola · lola3 · mastery
-- **Lola4 Mastery** → `previews/UI/Mastery/Lola4_Mastery.webp` brawler: lola · lola · lola4 · mastery
-- **Lola5 Mastery** → `previews/UI/Mastery/Lola5_Mastery.webp` brawler: lola · lola · lola5 · mastery
-- **Player Icon Lola Circus** → `previews/UI/Icons/Player_Icon_Lola_Circus.webp` brawler: lola · circus · entertainment · icon
-- **Player Icon Lola1** → `previews/UI/Icons/Player_Icon_Lola1.webp` icon · lola1 · player · png
-- **Player Icon Pl Lola Outlaw 1** → `previews/UI/Icons/Player_Icon_Pl_Lola_Outlaw_1.webp` brawler: lola · icon · lola · outlaw
-  ... +3 more
-
-## Misc (1)
-- **Lola Calculating Meme** → `previews/Misc/Memes/Lola_Calculating_Meme.webp` calculating · lola · meme · misc
+## UI (6)
+  - player_icon_lola1
+    preview: previews/UI/Icons/player_icon_lola1.webp
+  - player_icon_lola_circus
+    preview: previews/UI/Icons/player_icon_lola_circus.webp
+  - player_icon_pl_lola_outlaw_1
+    preview: previews/UI/Icons/player_icon_pl_lola_outlaw_1.webp
+  - player_icon_pl_lola_outlaw_2
+    preview: previews/UI/Icons/player_icon_pl_lola_outlaw_2.webp
+  - player_icon_rebel_lola
+    preview: previews/UI/Icons/player_icon_rebel_lola.webp
+  - profile_icon_mask_lola
+    preview: previews/UI/Icons/profile_icon_mask_lola.webp

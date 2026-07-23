@@ -1,72 +1,75 @@
 # Colt
 Rarity: Rare | Class: Damage Dealer
-Total assets: 75
-Skins: Atl., Bananas, Cerro, Challenger, Club, Colt, Corsair, Dark, Default, Gadget, Gunslinger, Handsome, Hypercharge, Icon, Icons, Mecha, Outlaw, Paragon, Renegade, River, Rockstar, Royal, Sharktooth, Spray, Starpower, Take, True, X
-
-`previews/Brawlers/colt/` — rare brawler
+Total assets: 65
+Skins: Take, x
 
 
-## Brawlers (20)
-- **Colt Atl. Nacional Colt 001** → `previews/Brawlers/Colt/Colt_Atl._Nacional_Colt_001.webp` atl · brawler: colt · brawler_render · brawlers
-- **Colt Bananas Colt 001** → `previews/Brawlers/Colt/Colt_Bananas_Colt_001.webp` bananas · brawler: colt · brawler_render · brawlers
-- **Colt Cerro Porteño Colt 001** → `previews/Brawlers/Colt/Colt_Cerro_Porteño_Colt_001.webp` brawler: colt · brawler_render · brawlers · cerro
-- **Colt Challenger Colt 001** → `previews/Brawlers/Colt/Colt_Challenger_Colt_001.webp` brawler: colt · brawler_render · brawlers · challenger
-- **Colt Club America Colt 001** → `previews/Brawlers/Colt/Colt_Club_America_Colt_001.webp` america · brawler: colt · brawler_render · brawlers
-- **Colt Corsair Colt 001** → `previews/Brawlers/Colt/Colt_Corsair_Colt_001.webp` brawler: colt · brawler_render · brawlers · colt
-- **Colt Dark Angel Colt Happy 296** → `previews/Brawlers/Colt/Colt_Dark_Angel_Colt_Happy_296.webp` 296 · angel · brawler: colt · brawler_render
-- **Colt Default 001** → `previews/Brawlers/Colt/Colt_Default_001.webp` brawler: colt · brawler_render · brawlers · colt
-- **Colt Gunslinger Colt 001** → `previews/Brawlers/Colt/Colt_Gunslinger_Colt_001.webp` brawler: colt · brawler_render · brawlers · colt
-- **Colt Handsome Colt 001** → `previews/Brawlers/Colt/Colt_Handsome_Colt_001.webp` brawler: colt · brawler_render · brawlers · colt
-- **Colt Mecha Colt 458** → `previews/Brawlers/Colt/Colt_Mecha_Colt_458.webp` 458 · brawler: colt · brawler_render · brawlers
-- **Colt Outlaw Colt 001** → `previews/Brawlers/Colt/Colt_Outlaw_Colt_001.webp` brawler: colt · brawler_render · brawlers · colt
-  ... +8 more
+## Brawlers (31)
+  - Colt Take My Money Meme
+    preview: previews/Brawlers/colt_take_my_money_meme/Colt_Take_My_Money_Meme.webp
+  - Colt x Shelly Anakin Meme
+    preview: previews/Brawlers/colt_x_shelly_anakin_meme/Colt_x_Shelly_Anakin_Meme.webp
+  - button_hypercharge_colt
+    preview: previews/Brawlers/button/button_hypercharge_colt.webp
+  - colt1_mastery
+    preview: previews/Brawlers/colt1/colt1_mastery.webp
+  - colt2_mastery
+    preview: previews/Brawlers/colt2/colt2_mastery.webp
+  - colt3_mastery
+    preview: previews/Brawlers/colt3/colt3_mastery.webp
+  - colt4_mastery
+    preview: previews/Brawlers/colt4/colt4_mastery.webp
+  - colt5_mastery
+    preview: previews/Brawlers/colt5/colt5_mastery.webp
+  - colt_atl._nacional_colt_001
+    preview: previews/Brawlers/colt/colt_atl._nacional_colt_001.webp
+  - colt_bananas_colt_001
+    preview: previews/Brawlers/colt/colt_bananas_colt_001.webp
+    ... +21 more
 
-## Portraits (1)
-- **Colt Portrait** → `previews/Portraits/Colt/Colt_Portrait.webp` brawler: colt · colt · png · portrait
-
-## Pins (26)
-- **Colt Angry Pin** → `previews/Pins/Angry/Colt_Angry_Pin.webp` anger · angry · brawler: colt · colt
-- **Colt Challenger Pin** → `previews/Pins/Default/Colt_Challenger_Pin.webp` brawler: colt · challenger · colt · pin
-- **Colt Clap Pin** → `previews/Pins/Clap/Colt_Clap_Pin.webp` approval · brawler: colt · clap · colt
-- **Colt Facepalm Pin** → `previews/Pins/Facepalm/Colt_Facepalm_Pin.webp` brawler: colt · colt · facepalm · frustration
-- **Colt Gg Pin** → `previews/Pins/GG/Colt_Gg_Pin.webp` brawler: colt · colt · gg · pin
-- **Colt Handsome Pin** → `previews/Pins/Default/Colt_Handsome_Pin.webp` brawler: colt · colt · handsome · pin
-- **Colt Happy Pin** → `previews/Pins/Happy/Colt_Happy_Pin.webp` brawler: colt · colt · happy · joy
-- **Colt Hypercharge Pin** → `previews/Pins/Default/Colt_Hypercharge_Pin.webp` brawler: colt · colt · hypercharge · pin
-- **Colt Jungle Pin** → `previews/Pins/Default/Colt_Jungle_Pin.webp` brawler: colt · colt · jungle · nature
-- **Colt Mecha Angry Pin** → `previews/Pins/Angry/Colt_Mecha_Angry_Pin.webp` anger · angry · brawler: colt · colt
-- **Colt Mecha Clap Pin** → `previews/Pins/Clap/Colt_Mecha_Clap_Pin.webp` approval · brawler: colt · clap · colt
-- **Colt Mecha Gg Pin** → `previews/Pins/GG/Colt_Mecha_Gg_Pin.webp` brawler: colt · colt · gg · mecha
-  ... +14 more
+## Pins (25)
+  - colt_angry_pin
+    preview: previews/Pins/Default/colt_angry_pin.webp
+  - colt_challenger_pin
+    preview: previews/Pins/Default/colt_challenger_pin.webp
+  - colt_clap_pin
+    preview: previews/Pins/Default/colt_clap_pin.webp
+  - colt_dark_angel_colt_happy_296
+    preview: previews/Pins/Default/colt_dark_angel_colt_happy_296.webp
+  - colt_facepalm_pin
+    preview: previews/Pins/Default/colt_facepalm_pin.webp
+  - colt_gg_pin
+    preview: previews/Pins/Default/colt_gg_pin.webp
+  - colt_handsome_pin
+    preview: previews/Pins/Default/colt_handsome_pin.webp
+  - colt_happy_pin
+    preview: previews/Pins/Default/colt_happy_pin.webp
+  - colt_hypercharge_pin
+    preview: previews/Pins/Default/colt_hypercharge_pin.webp
+  - colt_jungle_pin
+    preview: previews/Pins/Default/colt_jungle_pin.webp
+    ... +15 more
 
 ## Emojis (1)
-- **Emoji Colt Dark Angel** → `previews/Emojis/All/Emoji_Colt_Dark_Angel.webp` angel · brawler: colt · colt · dark
+  - emoji_colt_dark_angel
+    preview: previews/Emojis/All/emoji_colt_dark_angel.webp
 
 ## Sprays (4)
-- **Colt Spray Mecha** → `previews/Sprays/All/Colt_Spray_Mecha.webp` brawler: colt · colt · mecha · png
-- **Spray Bananas Colt ** → `previews/Sprays/All/Spray_Bananas_Colt_.webp` bananas · brawler: colt · colt · png
-- **Spray Colt** → `previews/Sprays/All/Spray_Colt.webp` brawler: colt · colt · png · spray
-- **Spray Colt Overcharge** → `previews/Sprays/All/Spray_Colt_Overcharge.webp` brawler: colt · colt · overcharge · png
+  - colt_spray_mecha
+    preview: previews/Sprays/All/colt_spray_mecha.webp
+  - spray_bananas_colt_
+    preview: previews/Sprays/All/spray_bananas_colt_.webp
+  - spray_colt
+    preview: previews/Sprays/All/spray_colt.webp
+  - spray_colt_overcharge
+    preview: previews/Sprays/All/spray_colt_overcharge.webp
 
-## Animations (2)
-- **Colt Lose** → `previews/Animations/Defeat/Colt_Lose.webp` animated · animations · brawler: colt · colt
-- **Colt Win** → `previews/Animations/Victory/Colt_Win.webp` animated · animations · brawler: colt · colt
-
-## UI (19)
-- **Button Hypercharge Colt** → `previews/UI/Hypercharge/Button_Hypercharge_Colt.webp` brawler: colt · button · colt · hypercharge
-- **Colt Gadget 01** → `previews/UI/Gadgets/Colt_Gadget_01.webp` brawler: colt · colt · gadget · gadget_icon
-- **Colt Gadget 02** → `previews/UI/Gadgets/Colt_Gadget_02.webp` brawler: colt · colt · gadget · gadget_icon
-- **Colt Starpower 01** → `previews/UI/StarPowers/Colt_Starpower_01.webp` brawler: colt · colt · png · sci-fi
-- **Colt Starpower 02** → `previews/UI/StarPowers/Colt_Starpower_02.webp` brawler: colt · colt · png · sci-fi
-- **Colt1 Mastery** → `previews/UI/Mastery/Colt1_Mastery.webp` brawler: colt · colt · colt1 · mastery
-- **Colt2 Mastery** → `previews/UI/Mastery/Colt2_Mastery.webp` brawler: colt · colt · colt2 · mastery
-- **Colt3 Mastery** → `previews/UI/Mastery/Colt3_Mastery.webp` brawler: colt · colt · colt3 · mastery
-- **Colt4 Mastery** → `previews/UI/Mastery/Colt4_Mastery.webp` brawler: colt · colt · colt4 · mastery
-- **Colt5 Mastery** → `previews/UI/Mastery/Colt5_Mastery.webp` brawler: colt · colt · colt5 · mastery
-- **Items Hypercharge Colt** → `previews/UI/Hypercharge/Items_Hypercharge_Colt.webp` brawler: colt · colt · hypercharge · hypercharge_icon
-- **Player Icon Colt Make** → `previews/UI/Icons/Player_Icon_Colt_Make.webp` brawler: colt · colt · icon · make
-  ... +7 more
-
-## Misc (2)
-- **Colt Take My Money Meme** → `previews/Misc/Memes/Colt_Take_My_Money_Meme.webp` colt · jpg · meme · misc
-- **Colt X Shelly Anakin Meme** → `previews/Misc/Memes/Colt_X_Shelly_Anakin_Meme.webp` anakin · colt · meme · misc
+## UI (4)
+  - profile_icon_colt1
+    preview: previews/UI/Icons/profile_icon_colt1.webp
+  - profile_icon_colt_classic
+    preview: previews/UI/Icons/profile_icon_colt_classic.webp
+  - profile_icon_colt_jungle
+    preview: previews/UI/Icons/profile_icon_colt_jungle.webp
+  - profile_icon_colt_mecha
+    preview: previews/UI/Icons/profile_icon_colt_mecha.webp

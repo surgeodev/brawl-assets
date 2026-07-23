@@ -1,60 +1,62 @@
 # Mr. P
 Rarity: Mythic | Class: Controller
-Total assets: 40
-Skins: Gadget, Icon, Mrp, P, Starpower
-
-`previews/Brawlers/mr_p/` — mythic brawler
+Total assets: 34
 
 
-## Brawlers (2)
-- **Mr-P_bordered** → `previews/Brawlers/mr_p/Mr-P_bordered.webp` mr. p · bordered · brawlify
-- **Mr-P_borderless** → `previews/Brawlers/mr_p/Mr-P_borderless.webp` mr. p · borderless · brawlify
+## Brawlers (16)
+  - mr._p_agent_p_001
+    preview: previews/Brawlers/mr./mr._p_agent_p_001.webp
+  - mr._p_count_pengula_001
+    preview: previews/Brawlers/mr./mr._p_count_pengula_001.webp
+  - mr._p_daruma_mr._p_001
+    preview: previews/Brawlers/mr./mr._p_daruma_mr._p_001.webp
+  - mr._p_default_001
+    preview: previews/Brawlers/mr./mr._p_default_001.webp
+  - mr._p_mr._fly_001
+    preview: previews/Brawlers/mr./mr._p_mr._fly_001.webp
+  - mr._p_true_gold_mr._p_001
+    preview: previews/Brawlers/mr./mr._p_true_gold_mr._p_001.webp
+  - mr._p_true_silver_mr._p_001
+    preview: previews/Brawlers/mr./mr._p_true_silver_mr._p_001.webp
+  - mrp1_mastery
+    preview: previews/Brawlers/mrp1/mrp1_mastery.webp
+  - mrp2_mastery
+    preview: previews/Brawlers/mrp2/mrp2_mastery.webp
+  - mrp3_mastery
+    preview: previews/Brawlers/mrp3/mrp3_mastery.webp
+    ... +6 more
 
 ## Pins (14)
-- **Biodome Mrp Pin** → `previews/Pins/Default/Biodome_Mrp_Pin.webp` biodome · brawler: mr.p · mr.p · mrp
-- **Mrp Angry Pin** → `previews/Pins/Angry/Mrp_Angry_Pin.webp` anger · angry · brawler: mr.p · mr.p
-- **Mrp Brawloween Pin** → `previews/Pins/Default/Mrp_Brawloween_Pin.webp` brawl-o-ween · brawler: mr.p · brawloween · costume
-- **Mrp Clap Pin** → `previews/Pins/Clap/Mrp_Clap_Pin.webp` approval · brawler: mr.p · clap · mr.p
-- **Mrp Dragonfruit Pin** → `previews/Pins/Default/Mrp_Dragonfruit_Pin.webp` brawler: mr.p · dragon · dragonfruit · fantasy
-- **Mrp Facepalm Pin** → `previews/Pins/Facepalm/Mrp_Facepalm_Pin.webp` brawler: mr.p · facepalm · frustration · mr.p
-- **Mrp Gg Pin** → `previews/Pins/GG/Mrp_Gg_Pin.webp` brawler: mr.p · gg · mr.p · mrp
-- **Mrp Goldenweek Pin** → `previews/Pins/Default/Mrp_Goldenweek_Pin.webp` brawler: mr.p · goldenweek · mr.p · mrp
-- **Mrp Goldenweek Special Pin** → `previews/Pins/Special/Mrp_Goldenweek_Special_Pin.webp` brawler: mr.p · goldenweek · mr.p · mrp
-- **Mrp Happy Pin** → `previews/Pins/Happy/Mrp_Happy_Pin.webp` brawler: mr.p · happy · joy · mr.p
-- **Mrp Phew Pin** → `previews/Pins/Phew/Mrp_Phew_Pin.webp` brawler: mr.p · mr.p · mrp · phew
-- **Mrp Pin** → `previews/Pins/Default/Mrp_Pin.webp` brawler: mr.p · mr.p · mrp · pin
-  ... +2 more
-
-## Emojis (1)
-- **Mr-P_emoji** → `previews/Emojis/mr_p/Mr-P_emoji.webp` mr. p · emoji · brawlify
+  - biodome_mrp_pin
+    preview: previews/Pins/Default/biodome_mrp_pin.webp
+  - mrp_angry_pin
+    preview: previews/Pins/Default/mrp_angry_pin.webp
+  - mrp_brawloween_pin
+    preview: previews/Pins/Default/mrp_brawloween_pin.webp
+  - mrp_clap_pin
+    preview: previews/Pins/Default/mrp_clap_pin.webp
+  - mrp_dragonfruit_pin
+    preview: previews/Pins/Default/mrp_dragonfruit_pin.webp
+  - mrp_facepalm_pin
+    preview: previews/Pins/Default/mrp_facepalm_pin.webp
+  - mrp_gg_pin
+    preview: previews/Pins/Default/mrp_gg_pin.webp
+  - mrp_goldenweek_pin
+    preview: previews/Pins/Default/mrp_goldenweek_pin.webp
+  - mrp_goldenweek_special_pin
+    preview: previews/Pins/Default/mrp_goldenweek_special_pin.webp
+  - mrp_happy_pin
+    preview: previews/Pins/Default/mrp_happy_pin.webp
+    ... +4 more
 
 ## Sprays (2)
-- **Spray Mrp** → `previews/Sprays/All/Spray_Mrp.webp` brawler: mr.p · mr.p · mrp · png
-- **Spray Mrp Goldenweekx** → `previews/Sprays/All/Spray_Mrp_Goldenweekx.webp` brawler: mr.p · goldenweekx · mr.p · mrp
+  - spray_mrp
+    preview: previews/Sprays/All/spray_mrp.webp
+  - spray_mrp_goldenweekx
+    preview: previews/Sprays/All/spray_mrp_goldenweekx.webp
 
-## Animations (3)
-- **Mr P Stonks Meme** → `previews/Animations/Unknown/Mr_P_Stonks_Meme.webp` animated · animation · animations · gif
-- **Mrp Lose** → `previews/Animations/Defeat/Mrp_Lose.webp` animated · animations · brawler: mr.p · defeat
-- **Mrp Win** → `previews/Animations/Victory/Mrp_Win.webp` animated · animations · brawler: mr.p · gif
-
-## UI (11)
-- **Mrp Gadget 01** → `previews/UI/Gadgets/Mrp_Gadget_01.webp` brawler: mr.p · gadget · gadget_icon · mr.p
-- **Mrp Gadget 02** → `previews/UI/Gadgets/Mrp_Gadget_02.webp` brawler: mr.p · gadget · gadget_icon · mr.p
-- **Mrp Starpower 01** → `previews/UI/StarPowers/Mrp_Starpower_01.webp` brawler: mr.p · mr.p · mrp · png
-- **Mrp Starpower 02** → `previews/UI/StarPowers/Mrp_Starpower_02.webp` brawler: mr.p · mr.p · mrp · png
-- **Mrp1 Mastery** → `previews/UI/Mastery/Mrp1_Mastery.webp` brawler: mr.p · mastery · mastery_icon · mr.p
-- **Mrp2 Mastery** → `previews/UI/Mastery/Mrp2_Mastery.webp` brawler: mr.p · mastery · mastery_icon · mr.p
-- **Mrp3 Mastery** → `previews/UI/Mastery/Mrp3_Mastery.webp` brawler: mr.p · mastery · mastery_icon · mr.p
-- **Mrp4 Mastery** → `previews/UI/Mastery/Mrp4_Mastery.webp` brawler: mr.p · mastery · mastery_icon · mr.p
-- **Mrp5 Mastery** → `previews/UI/Mastery/Mrp5_Mastery.webp` brawler: mr.p · mastery · mastery_icon · mr.p
-- **Player Icon Mrp Scmake** → `previews/UI/Icons/Player_Icon_Mrp_Scmake.webp` brawler: mr.p · icon · mr.p · mrp
-- **Player Icon Mrp1** → `previews/UI/Icons/Player_Icon_Mrp1.webp` icon · mrp1 · player · png
-
-## Misc (7)
-- **Mr. P Agent P 001** → `previews/Misc/Other/Mr._P_Agent_P_001.webp` agent · misc · mr · png
-- **Mr. P Count Pengula 001** → `previews/Misc/Other/Mr._P_Count_Pengula_001.webp` count · misc · mr · pengula
-- **Mr. P Daruma Mr. P 001** → `previews/Misc/Other/Mr._P_Daruma_Mr._P_001.webp` daruma · misc · mr · png
-- **Mr. P Default 001** → `previews/Misc/Other/Mr._P_Default_001.webp` default · misc · mr · png
-- **Mr. P Mr. Fly 001** → `previews/Misc/Other/Mr._P_Mr._Fly_001.webp` fly · misc · mr · png
-- **Mr. P True Gold Mr. P 001** → `previews/Misc/Other/Mr._P_True_Gold_Mr._P_001.webp` gold · misc · mr · png
-- **Mr. P True Silver Mr. P 001** → `previews/Misc/Other/Mr._P_True_Silver_Mr._P_001.webp` misc · mr · png · silver
+## UI (2)
+  - player_icon_mrp1
+    preview: previews/UI/Icons/player_icon_mrp1.webp
+  - player_icon_mrp_scmake
+    preview: previews/UI/Icons/player_icon_mrp_scmake.webp

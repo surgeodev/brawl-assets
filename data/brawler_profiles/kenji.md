@@ -1,40 +1,49 @@
 # Kenji
 Rarity: Legendary | Class: Assassin
-Total assets: 22
-Skins: Gadget, Icon, Kenji, Screen, Starpower
-
-`previews/Brawlers/kenji/` — legendary brawler
+Total assets: 20
 
 
-## Brawlers (2)
-- ** 0017 Kenji Fruit Samurai Kenji Happy 358** → `previews/Brawlers/Kenji/_0017_Kenji_Fruit_Samurai_Kenji_Happy_358.webp` 0017 · 358 · brawler: kenji · brawler_render
-- ** 0018 Kenji Default Happy 360** → `previews/Brawlers/Kenji/_0018_Kenji_Default_Happy_360.webp` 0018 · 360 · brawler: kenji · brawler_render
+## Brawlers (4)
+  - kenji_gadget_1
+    preview: previews/Brawlers/kenji/kenji_gadget_1.webp
+  - kenji_gadget_2
+    preview: previews/Brawlers/kenji/kenji_gadget_2.webp
+  - kenji_starpower_1
+    preview: previews/Brawlers/kenji/kenji_starpower_1.webp
+  - kenji_starpower_2
+    preview: previews/Brawlers/kenji/kenji_starpower_2.webp
 
 ## Portraits (1)
-- **Kenji Portrait** → `previews/Portraits/Kenji/Kenji_Portrait.webp` brawler: kenji · kenji · png · portrait
+  - kenji_portrait
+    preview: previews/Portraits/Unknown/kenji_portrait.webp
 
-## Pins (10)
-- **Kenji Angry Pin** → `previews/Pins/Angry/Kenji_Angry_Pin.webp` anger · angry · brawler: kenji · kenji
-- **Kenji Clap Pin** → `previews/Pins/Clap/Kenji_Clap_Pin.webp` approval · brawler: kenji · clap · kenji
-- **Kenji Facepalm Pin** → `previews/Pins/Facepalm/Kenji_Facepalm_Pin.webp` brawler: kenji · facepalm · frustration · kenji
-- **Kenji Gg Pin** → `previews/Pins/GG/Kenji_Gg_Pin.webp` brawler: kenji · gg · kenji · pin
-- **Kenji Happy Pin** → `previews/Pins/Happy/Kenji_Happy_Pin.webp` brawler: kenji · happy · joy · kenji
-- **Kenji Phew Pin** → `previews/Pins/Phew/Kenji_Phew_Pin.webp` brawler: kenji · kenji · phew · pin
-- **Kenji Pin** → `previews/Pins/Default/Kenji_Pin.webp` brawler: kenji · kenji · pin · pins
-- **Kenji Sad Pin** → `previews/Pins/Sad/Kenji_Sad_Pin.webp` brawler: kenji · kenji · pin · pin_sad
-- **Kenji Special Pin** → `previews/Pins/Special/Kenji_Special_Pin.webp` brawler: kenji · kenji · pin · pin_special
-- **Kenji Thanks Pin** → `previews/Pins/Thanks/Kenji_Thanks_Pin.webp` brawler: kenji · gratitude · kenji · pin
+## Pins (12)
+  - _0017_kenji_fruit_samurai_kenji_happy_358
+    preview: previews/Pins/Default/_0017_kenji_fruit_samurai_kenji_happy_358.webp
+  - _0018_kenji_default_happy_360
+    preview: previews/Pins/Default/_0018_kenji_default_happy_360.webp
+  - kenji_GG_pin
+    preview: previews/Pins/Default/kenji_GG_pin.webp
+  - kenji_angry_pin
+    preview: previews/Pins/Default/kenji_angry_pin.webp
+  - kenji_clap_pin
+    preview: previews/Pins/Default/kenji_clap_pin.webp
+  - kenji_facepalm_pin
+    preview: previews/Pins/Default/kenji_facepalm_pin.webp
+  - kenji_happy_pin
+    preview: previews/Pins/Default/kenji_happy_pin.webp
+  - kenji_phew_pin
+    preview: previews/Pins/Default/kenji_phew_pin.webp
+  - kenji_pin
+    preview: previews/Pins/Default/kenji_pin.webp
+  - kenji_sad_pin
+    preview: previews/Pins/Default/kenji_sad_pin.webp
+    ... +2 more
 
 ## Sprays (1)
-- **Spray Kenji** → `previews/Sprays/All/Spray_Kenji.webp` brawler: kenji · kenji · png · spray
+  - spray_kenji
+    preview: previews/Sprays/All/spray_kenji.webp
 
-## Animations (2)
-- **Kenji Lose** → `previews/Animations/Kenji/Kenji_Lose.webp` animated · animation · animations · brawler: kenji
-- **Kenji Win** → `previews/Animations/Kenji/Kenji_Win.webp` animated · animation · animations · brawler: kenji
-
-## UI (5)
-- **Kenji Gadget 1** → `previews/UI/Gadgets/Kenji_Gadget_1.webp` brawler: kenji · gadget · gadget_icon · kenji
-- **Kenji Gadget 2** → `previews/UI/Gadgets/Kenji_Gadget_2.webp` brawler: kenji · gadget · gadget_icon · kenji
-- **Kenji Starpower 1** → `previews/UI/StarPowers/Kenji_Starpower_1.webp` brawler: kenji · kenji · png · sci-fi
-- **Kenji Starpower 2** → `previews/UI/StarPowers/Kenji_Starpower_2.webp` brawler: kenji · kenji · png · sci-fi
-- **Player Icon Kenji** → `previews/UI/Icons/Player_Icon_Kenji.webp` brawler: kenji · icon · kenji · player
+## UI (1)
+  - player_icon_kenji
+    preview: previews/UI/Icons/player_icon_kenji.webp

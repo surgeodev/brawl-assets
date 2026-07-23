@@ -1,54 +1,73 @@
 # Kit
 Rarity: Legendary | Class: Support
-Total assets: 31
-Skins: Billy, Default, Icon, Kit
-
-`previews/Brawlers/kit/` — legendary brawler
+Total assets: 30
 
 
-## Brawlers (7)
-- ** 0016 Kit Lockpickit Happy 228** → `previews/Brawlers/Kit/_0016_Kit_Lockpickit_Happy_228.webp` 0016 · 228 · brawler: kit · brawler_render
-- **Gd Kit 01** → `previews/Brawlers/Kit/Gd_Kit_01.webp` brawler: kit · brawler_render · brawlers · gd
-- **Gd Kit 02.Png** → `previews/Brawlers/Kit/Gd_Kit_02.Png.webp` brawler: kit · brawler_render · brawlers · gd
-- **Kit Billy The Kit Happy 404** → `previews/Brawlers/Kit/Kit_Billy_The_Kit_Happy_404.webp` 404 · billy · brawler: kit · brawler_render
-- **Kit Kitboxer** → `previews/Brawlers/Kit/Kit_Kitboxer.webp` brawler: kit · brawler_render · brawlers · kit
-- **Sp Kit 01** → `previews/Brawlers/Kit/Sp_Kit_01.webp` brawler: kit · brawler_render · brawlers · kit
-- **Sp Kit 02** → `previews/Brawlers/Kit/Sp_Kit_02.webp` brawler: kit · brawler_render · brawlers · kit
+## Brawlers (9)
+  - GD_kit_01
+    preview: previews/Brawlers/gd/GD_kit_01.webp
+  - GD_kit_02.png
+    preview: previews/Brawlers/gd/GD_kit_02.png.webp
+  - Kit Meme
+    preview: previews/Brawlers/kit_meme/Kit_Meme.webp
+  - Kit_Kitboxer
+    preview: previews/Brawlers/kit/Kit_Kitboxer.webp
+  - Kitboxer_Darkpaw
+    preview: previews/Brawlers/kitboxer/Kitboxer_Darkpaw.webp
+  - Kitboxer_Goldpaw
+    preview: previews/Brawlers/kitboxer/Kitboxer_Goldpaw.webp
+  - SP_kit_01
+    preview: previews/Brawlers/sp/SP_kit_01.webp
+  - SP_kit_02
+    preview: previews/Brawlers/sp/SP_kit_02.webp
+  - lola_kitsune_lola_001
+    preview: previews/Brawlers/lola/lola_kitsune_lola_001.webp
 
 ## Portraits (1)
-- **Portrait Brawler Kit** → `previews/Portraits/Kit/Portrait_Brawler_Kit.webp` brawler · brawler: kit · kit · png
+  - portrait_brawler_kit
+    preview: previews/Portraits/Unknown/portrait_brawler_kit.webp
 
-## Pins (1)
-- **Kit Thief Pin** → `previews/Pins/Default/Kit_Thief_Pin.webp` brawler: kit · kit · pin · pins
+## Pins (12)
+  - _0016_kit_lockpickit_happy_228
+    preview: previews/Pins/Default/_0016_kit_lockpickit_happy_228.webp
+  - emoji_Kit_angry
+    preview: previews/Pins/Angry/emoji_Kit_angry.webp
+  - emoji_Kit_clap
+    preview: previews/Pins/Clap/emoji_Kit_clap.webp
+  - emoji_Kit_facepalm
+    preview: previews/Pins/Facepalm/emoji_Kit_facepalm.webp
+  - emoji_Kit_gg
+    preview: previews/Pins/Gg/emoji_Kit_gg.webp
+  - emoji_Kit_happy
+    preview: previews/Pins/Happy/emoji_Kit_happy.webp
+  - emoji_Kit_phew
+    preview: previews/Pins/Phew/emoji_Kit_phew.webp
+  - emoji_Kit_sad
+    preview: previews/Pins/Sad/emoji_Kit_sad.webp
+  - emoji_Kit_thanks
+    preview: previews/Pins/Thanks/emoji_Kit_thanks.webp
+  - kit_billy_the_kit_happy_404
+    preview: previews/Pins/Default/kit_billy_the_kit_happy_404.webp
+    ... +2 more
 
-## Emojis (12)
-- **Emoji Kit Angry** → `previews/Emojis/All/Emoji_Kit_Angry.webp` anger · angry · brawler: kit · emoji
-- **Emoji Kit Base** → `previews/Emojis/All/Emoji_Kit_Base.webp` base · brawler: kit · emoji · emojis
-- **Emoji Kit Boxer** → `previews/Emojis/All/Emoji_Kit_Boxer.webp` boxer · brawler: kit · emoji · emojis
-- **Emoji Kit Boxer Darkpaw** → `previews/Emojis/All/Emoji_Kit_Boxer_Darkpaw.webp` boxer · brawler: kit · darkpaw · emoji
-- **Emoji Kit Boxer Goldpaw** → `previews/Emojis/All/Emoji_Kit_Boxer_Goldpaw.webp` boxer · brawler: kit · emoji · emojis
-- **Emoji Kit Clap** → `previews/Emojis/All/Emoji_Kit_Clap.webp` approval · brawler: kit · clap · emoji
-- **Emoji Kit Facepalm** → `previews/Emojis/All/Emoji_Kit_Facepalm.webp` brawler: kit · emoji · emojis · facepalm
-- **Emoji Kit Gg** → `previews/Emojis/All/Emoji_Kit_Gg.webp` brawler: kit · emoji · emojis · gg
-- **Emoji Kit Happy** → `previews/Emojis/All/Emoji_Kit_Happy.webp` brawler: kit · emoji · emojis · happy
-- **Emoji Kit Phew** → `previews/Emojis/All/Emoji_Kit_Phew.webp` brawler: kit · emoji · emojis · kit
-- **Emoji Kit Sad** → `previews/Emojis/All/Emoji_Kit_Sad.webp` brawler: kit · emoji · emojis · kit
-- **Emoji Kit Thanks** → `previews/Emojis/All/Emoji_Kit_Thanks.webp` brawler: kit · emoji · emojis · gratitude
+## Emojis (4)
+  - emoji_Kit_base
+    preview: previews/Emojis/All/emoji_Kit_base.webp
+  - emoji_Kit_boxer_goldpaw
+    preview: previews/Emojis/All/emoji_Kit_boxer_goldpaw.webp
+  - emoji_kit_boxer
+    preview: previews/Emojis/All/emoji_kit_boxer.webp
+  - emoji_kit_boxer_darkpaw
+    preview: previews/Emojis/All/emoji_kit_boxer_darkpaw.webp
 
 ## Sprays (1)
-- **Spray Kit** → `previews/Sprays/All/Spray_Kit.webp` brawler: kit · kit · png · spray
-
-## Animations (2)
-- **Kit Default Happy** → `previews/Animations/Kit/Kit_Default_Happy.webp` animated · animation · animations · brawler: kit
-- **Kit Default Sad** → `previews/Animations/Kit/Kit_Default_Sad.webp` animated · animation · animations · brawler: kit
+  - spray_kit
+    preview: previews/Sprays/All/spray_kit.webp
 
 ## UI (3)
-- **Player Icon Kit 1** → `previews/UI/Icons/Player_Icon_Kit_1.webp` brawler: kit · icon · kit · player
-- **Player Icon Kit Lny** → `previews/UI/Icons/Player_Icon_Kit_Lny.webp` brawler: kit · icon · kit · lny
-- **Player Icon Kit Lockpickit** → `previews/UI/Icons/Player_Icon_Kit_Lockpickit.webp` brawler: kit · icon · kit · lockpickit
-
-## Misc (4)
-- **Kit Meme** → `previews/Misc/Memes/Kit_Meme.webp` kit · meme · misc · png
-- **Kitboxer Darkpaw** → `previews/Misc/Other/Kitboxer_Darkpaw.webp` darkpaw · kitboxer · misc · png
-- **Kitboxer Goldpaw** → `previews/Misc/Other/Kitboxer_Goldpaw.webp` goldpaw · kitboxer · misc · png
-- **Pin Lny Kite** → `previews/Misc/Other/Pin_Lny_Kite.webp` kite · lny · lunar new year · misc
+  - player_icon_kit_1
+    preview: previews/UI/Icons/player_icon_kit_1.webp
+  - player_icon_kit_lny
+    preview: previews/UI/Icons/player_icon_kit_lny.webp
+  - player_icon_kit_lockpickit
+    preview: previews/UI/Icons/player_icon_kit_lockpickit.webp

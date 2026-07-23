@@ -1,60 +1,72 @@
 # Nani
 Rarity: Epic | Class: Marksman
-Total assets: 45
-Skins: Ares, Bell, Default, Gadget, Icon, Nani, Retro, Sally, Spray, Starpower, True, Ulti
-
-`previews/Brawlers/nani/` — epic brawler
+Total assets: 41
 
 
-## Brawlers (8)
-- ** 0008 Nani Knightmare Nani Happy 380** → `previews/Brawlers/Nani/_0008_Nani_Knightmare_Nani_Happy_380.webp` 0008 · 380 · brawler: nani · brawler_render
-- **Nani Ares Nani 001** → `previews/Brawlers/Nani/Nani_Ares_Nani_001.webp` ares · brawler: nani · brawler_render · brawlers
-- **Nani Bell Nani 001** → `previews/Brawlers/Nani/Nani_Bell_Nani_001.webp` bell · brawler: nani · brawler_render · brawlers
-- **Nani Default 001** → `previews/Brawlers/Nani/Nani_Default_001.webp` brawler: nani · brawler_render · brawlers · default
-- **Nani Retro Nani 001** → `previews/Brawlers/Nani/Nani_Retro_Nani_001.webp` brawler: nani · brawler_render · brawlers · nani
-- **Nani Sally Nani 002** → `previews/Brawlers/Nani/Nani_Sally_Nani_002.webp` brawler: nani · brawler_render · brawlers · nani
-- **Nani True Gold Nani 001** → `previews/Brawlers/Nani/Nani_True_Gold_Nani_001.webp` brawler: nani · brawler_render · brawlers · gold
-- **Nani True Silver Nani 001** → `previews/Brawlers/Nani/Nani_True_Silver_Nani_001.webp` brawler: nani · brawler_render · brawlers · nani
-
-## Portraits (1)
-- **Nani Portrait** → `previews/Portraits/Nani/Nani_Portrait.webp` brawler: nani · nani · png · portrait
+## Brawlers (17)
+  - icon_ulti_hypercharge_nani
+    preview: previews/Brawlers/icon/icon_ulti_hypercharge_nani.webp
+  - nani1_mastery
+    preview: previews/Brawlers/nani1/nani1_mastery.webp
+  - nani2_mastery
+    preview: previews/Brawlers/nani2/nani2_mastery.webp
+  - nani3_mastery
+    preview: previews/Brawlers/nani3/nani3_mastery.webp
+  - nani4_mastery
+    preview: previews/Brawlers/nani4/nani4_mastery.webp
+  - nani5_mastery
+    preview: previews/Brawlers/nani5/nani5_mastery.webp
+  - nani_ares_nani_001
+    preview: previews/Brawlers/nani/nani_ares_nani_001.webp
+  - nani_bell_nani_001
+    preview: previews/Brawlers/nani/nani_bell_nani_001.webp
+  - nani_default_001
+    preview: previews/Brawlers/nani/nani_default_001.webp
+  - nani_gadget_01
+    preview: previews/Brawlers/nani/nani_gadget_01.webp
+    ... +7 more
 
 ## Pins (15)
-- **Nani Angry Pin** → `previews/Pins/Angry/Nani_Angry_Pin.webp` anger · angry · brawler: nani · nani
-- **Nani Ares Pin** → `previews/Pins/Default/Nani_Ares_Pin.webp` ares · brawler: nani · nani · pin
-- **Nani Dark Knight Pin** → `previews/Pins/Default/Nani_Dark_Knight_Pin.webp` brawler: nani · dark · knight · nani
-- **Nani Easter Pin** → `previews/Pins/Default/Nani_Easter_Pin.webp` brawler: nani · easter · nani · pin
-- **Nani Facepalm Pin** → `previews/Pins/Facepalm/Nani_Facepalm_Pin.webp` brawler: nani · facepalm · frustration · nani
-- **Nani Gg Pin** → `previews/Pins/GG/Nani_Gg_Pin.webp` brawler: nani · gg · nani · pin
-- **Nani Happy Pin** → `previews/Pins/Happy/Nani_Happy_Pin.webp` brawler: nani · happy · joy · nani
-- **Nani Hypercharge Pin** → `previews/Pins/Default/Nani_Hypercharge_Pin.webp` brawler: nani · hypercharge · nani · pin
-- **Nani Phew Pin** → `previews/Pins/Phew/Nani_Phew_Pin.webp` brawler: nani · nani · phew · pin
-- **Nani Pin** → `previews/Pins/Default/Nani_Pin.webp` brawler: nani · nani · pin · pins
-- **Nani Sad Pin** → `previews/Pins/Sad/Nani_Sad_Pin.webp` brawler: nani · nani · pin · pin_sad
-- **Nani Sally Pin** → `previews/Pins/Default/Nani_Sally_Pin.webp` brawler: nani · nani · pin · pins
-  ... +3 more
+  - _0008_nani_knightmare_nani_happy_380
+    preview: previews/Pins/Default/_0008_nani_knightmare_nani_happy_380.webp
+  - nani_angry_pin
+    preview: previews/Pins/Default/nani_angry_pin.webp
+  - nani_ares_pin
+    preview: previews/Pins/Default/nani_ares_pin.webp
+  - nani_dark_knight_pin
+    preview: previews/Pins/Default/nani_dark_knight_pin.webp
+  - nani_easter_pin
+    preview: previews/Pins/Default/nani_easter_pin.webp
+  - nani_facepalm_pin
+    preview: previews/Pins/Default/nani_facepalm_pin.webp
+  - nani_gg_pin
+    preview: previews/Pins/Default/nani_gg_pin.webp
+  - nani_happy_pin
+    preview: previews/Pins/Default/nani_happy_pin.webp
+  - nani_hypercharge_pin
+    preview: previews/Pins/Default/nani_hypercharge_pin.webp
+  - nani_phew_pin
+    preview: previews/Pins/Default/nani_phew_pin.webp
+    ... +5 more
 
 ## Sprays (4)
-- **Nani Spray Hypercharge** → `previews/Sprays/All/Nani_Spray_Hypercharge.webp` brawler: nani · hypercharge · nani · png
-- **Spray Nani** → `previews/Sprays/All/Spray_Nani.webp` brawler: nani · nani · png · spray
-- **Spray Nani Easter** → `previews/Sprays/All/Spray_Nani_Easter.webp` brawler: nani · easter · nani · png
-- **Spray Nani Olympus** → `previews/Sprays/All/Spray_Nani_Olympus.webp` brawler: nani · mythology · nani · olympus
+  - nani_spray_hypercharge
+    preview: previews/Sprays/All/nani_spray_hypercharge.webp
+  - spray_nani
+    preview: previews/Sprays/All/spray_nani.webp
+  - spray_nani_easter
+    preview: previews/Sprays/All/spray_nani_easter.webp
+  - spray_nani_olympus
+    preview: previews/Sprays/All/spray_nani_olympus.webp
 
-## Animations (2)
-- **Nani Lose** → `previews/Animations/Defeat/Nani_Lose.webp` animated · animations · brawler: nani · defeat
-- **Nani Win** → `previews/Animations/Victory/Nani_Win.webp` animated · animations · brawler: nani · gif
-
-## UI (15)
-- **Icon Ulti Hypercharge Nani** → `previews/UI/Hypercharge/Icon_Ulti_Hypercharge_Nani.webp` brawler: nani · hypercharge · hypercharge_icon · icon
-- **Nani Gadget 01** → `previews/UI/Gadgets/Nani_Gadget_01.webp` brawler: nani · gadget · gadget_icon · nani
-- **Nani Gadget 02** → `previews/UI/Gadgets/Nani_Gadget_02.webp` brawler: nani · gadget · gadget_icon · nani
-- **Nani Starpower 01** → `previews/UI/StarPowers/Nani_Starpower_01.webp` brawler: nani · nani · png · sci-fi
-- **Nani Starpower 02** → `previews/UI/StarPowers/Nani_Starpower_02.webp` brawler: nani · nani · png · sci-fi
-- **Nani1 Mastery** → `previews/UI/Mastery/Nani1_Mastery.webp` brawler: nani · mastery · mastery_icon · nani
-- **Nani2 Mastery** → `previews/UI/Mastery/Nani2_Mastery.webp` brawler: nani · mastery · mastery_icon · nani
-- **Nani3 Mastery** → `previews/UI/Mastery/Nani3_Mastery.webp` brawler: nani · mastery · mastery_icon · nani
-- **Nani4 Mastery** → `previews/UI/Mastery/Nani4_Mastery.webp` brawler: nani · mastery · mastery_icon · nani
-- **Nani5 Mastery** → `previews/UI/Mastery/Nani5_Mastery.webp` brawler: nani · mastery · mastery_icon · nani
-- **Player Icon Nani Knightmare** → `previews/UI/Icons/Player_Icon_Nani_Knightmare.webp` brawler: nani · icon · knight · knightmare
-- **Player Icon Nani1** → `previews/UI/Icons/Player_Icon_Nani1.webp` icon · nani1 · player · png
-  ... +3 more
+## UI (5)
+  - player_icon_nani1
+    preview: previews/UI/Icons/player_icon_nani1.webp
+  - player_icon_nani_knightmare
+    preview: previews/UI/Icons/player_icon_nani_knightmare.webp
+  - profile_icon_easter_nani
+    preview: previews/UI/Icons/profile_icon_easter_nani.webp
+  - profile_icon_nani_olympus
+    preview: previews/UI/Icons/profile_icon_nani_olympus.webp
+  - profile_icon_nani_sally
+    preview: previews/UI/Icons/profile_icon_nani_sally.webp

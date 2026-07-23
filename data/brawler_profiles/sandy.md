@@ -1,66 +1,77 @@
 # Sandy
 Rarity: Legendary | Class: Controller
-Total assets: 49
-Skins: Default, Gadget, Icon, Lantern, Mythic, Nightmare, Sandy, Sleep, Sleepy, Starpower, Sugar, True
-
-`previews/Brawlers/sandy/` — legendary brawler
+Total assets: 45
+Skins: Sleep
 
 
-## Brawlers (9)
-- **Gear Mythic Sandy** → `previews/Brawlers/Sandy/Gear_Mythic_Sandy.webp` brawler: sandy · brawler_render · brawlers · gear
-- **Sandy Default 001** → `previews/Brawlers/Sandy/Sandy_Default_001.webp` brawler: sandy · brawler_render · brawlers · default
-- **Sandy Lantern Sandy 001** → `previews/Brawlers/Sandy/Sandy_Lantern_Sandy_001.webp` brawler: sandy · brawler_render · brawlers · chinese new year
-- **Sandy Nightmare Sandy 718** → `previews/Brawlers/Sandy/Sandy_Nightmare_Sandy_718.webp` 718 · brawler: sandy · brawler_render · brawlers
-- **Sandy Sandy Koya 001** → `previews/Brawlers/Sandy/Sandy_Sandy_Koya_001.webp` brawler: sandy · brawler_render · brawlers · koya
-- **Sandy Sleepy Sandy 001** → `previews/Brawlers/Sandy/Sandy_Sleepy_Sandy_001.webp` brawler: sandy · brawler_render · brawlers · png
-- **Sandy Sugar Rush Sandy 001** → `previews/Brawlers/Sandy/Sandy_Sugar_Rush_Sandy_001.webp` brawler: sandy · brawler_render · brawlers · png
-- **Sandy True Gold Sandy 001** → `previews/Brawlers/Sandy/Sandy_True_Gold_Sandy_001.webp` brawler: sandy · brawler_render · brawlers · gold
-- **Sandy True Silver Sandy 001** → `previews/Brawlers/Sandy/Sandy_True_Silver_Sandy_001.webp` brawler: sandy · brawler_render · brawlers · png
+## Brawlers (19)
+  - Sandy Sleep Awake Meme
+    preview: previews/Brawlers/sandy_sleep_awake_meme/Sandy_Sleep_Awake_Meme.webp
+  - gear_mythic_sandy
+    preview: previews/Brawlers/gear/gear_mythic_sandy.webp
+  - sandy1_mastery
+    preview: previews/Brawlers/sandy1/sandy1_mastery.webp
+  - sandy2_mastery
+    preview: previews/Brawlers/sandy2/sandy2_mastery.webp
+  - sandy3_mastery
+    preview: previews/Brawlers/sandy3/sandy3_mastery.webp
+  - sandy4_mastery
+    preview: previews/Brawlers/sandy4/sandy4_mastery.webp
+  - sandy5_mastery
+    preview: previews/Brawlers/sandy5/sandy5_mastery.webp
+  - sandy_default_001
+    preview: previews/Brawlers/sandy/sandy_default_001.webp
+  - sandy_gadget_01
+    preview: previews/Brawlers/sandy/sandy_gadget_01.webp
+  - sandy_gadget_02
+    preview: previews/Brawlers/sandy/sandy_gadget_02.webp
+    ... +9 more
 
-## Portraits (1)
-- **Sandy Portrait** → `previews/Portraits/Sandy/Sandy_Portrait.webp` brawler: sandy · png · portrait · portraits
-
-## Pins (17)
-- **Event Sandy Sb Pin** → `previews/Pins/Default/Event_Sandy_Sb_Pin.webp` brawler: sandy · event · pin · pins
-- **Sandy Angry Pin** → `previews/Pins/Angry/Sandy_Angry_Pin.webp` anger · angry · brawler: sandy · pin
-- **Sandy Clap Pin** → `previews/Pins/Clap/Sandy_Clap_Pin.webp` approval · brawler: sandy · clap · pin
-- **Sandy Facepalm Pin** → `previews/Pins/Facepalm/Sandy_Facepalm_Pin.webp` brawler: sandy · facepalm · frustration · pin
-- **Sandy Gg Pin** → `previews/Pins/GG/Sandy_Gg_Pin.webp` brawler: sandy · gg · pin · pin_gg
-- **Sandy Glowing Jellyfish Pin** → `previews/Pins/Default/Sandy_Glowing_Jellyfish_Pin.webp` brawler: sandy · glowing · jellyfish · pin
-- **Sandy Happy Pin** → `previews/Pins/Happy/Sandy_Happy_Pin.webp` brawler: sandy · happy · joy · pin
-- **Sandy Hypercharge Pin** → `previews/Pins/Default/Sandy_Hypercharge_Pin.webp` brawler: sandy · hypercharge · pin · pins
-- **Sandy Jellyfish Pin** → `previews/Pins/Default/Sandy_Jellyfish_Pin.webp` brawler: sandy · jellyfish · pin · pins
-- **Sandy Lantern Pin** → `previews/Pins/Default/Sandy_Lantern_Pin.webp` brawler: sandy · chinese new year · lantern · pin
-- **Sandy Neon Jellyfish Pin** → `previews/Pins/Default/Sandy_Neon_Jellyfish_Pin.webp` brawler: sandy · jellyfish · neon · pin
-- **Sandy Nightmare Pin** → `previews/Pins/Default/Sandy_Nightmare_Pin.webp` brawler: sandy · nightmare · pin · pins
-  ... +5 more
+## Pins (16)
+  - _0019_jessie_sandy_jessie_happy_274
+    preview: previews/Pins/Default/_0019_jessie_sandy_jessie_happy_274.webp
+  - sandy_angry_pin
+    preview: previews/Pins/Default/sandy_angry_pin.webp
+  - sandy_clap_pin
+    preview: previews/Pins/Default/sandy_clap_pin.webp
+  - sandy_facepalm_pin
+    preview: previews/Pins/Default/sandy_facepalm_pin.webp
+  - sandy_gg_pin
+    preview: previews/Pins/Default/sandy_gg_pin.webp
+  - sandy_glowing_jellyfish_pin
+    preview: previews/Pins/Default/sandy_glowing_jellyfish_pin.webp
+  - sandy_happy_pin
+    preview: previews/Pins/Default/sandy_happy_pin.webp
+  - sandy_hypercharge_pin
+    preview: previews/Pins/Default/sandy_hypercharge_pin.webp
+  - sandy_jellyfish_pin
+    preview: previews/Pins/Default/sandy_jellyfish_pin.webp
+  - sandy_lantern_pin
+    preview: previews/Pins/Default/sandy_lantern_pin.webp
+    ... +6 more
 
 ## Emojis (1)
-- **Emoji Sandy Giftshop** → `previews/Emojis/All/Emoji_Sandy_Giftshop.webp` brawler: sandy · christmas · emoji · emojis
+  - emoji_sandy_giftshop
+    preview: previews/Emojis/All/emoji_sandy_giftshop.webp
 
 ## Sprays (3)
-- **Spray Sandy** → `previews/Sprays/All/Spray_Sandy.webp` brawler: sandy · png · sandy · spray
-- **Spray Sandy Bt21** → `previews/Sprays/All/Spray_Sandy_Bt21.webp` brawler: sandy · bt21 · png · sandy
-- **Spray Sandy Hypercharge** → `previews/Sprays/All/Spray_Sandy_Hypercharge.webp` brawler: sandy · hypercharge · png · sandy
+  - spray_sandy
+    preview: previews/Sprays/All/spray_sandy.webp
+  - spray_sandy_bt21
+    preview: previews/Sprays/All/spray_sandy_bt21.webp
+  - spray_sandy_hypercharge
+    preview: previews/Sprays/All/spray_sandy_hypercharge.webp
 
-## Animations (2)
-- **Sandy Lose** → `previews/Animations/Defeat/Sandy_Lose.webp` animated · animations · brawler: sandy · defeat
-- **Sandy Win** → `previews/Animations/Victory/Sandy_Win.webp` animated · animations · brawler: sandy · gif
-
-## UI (15)
-- **Player Icon Sandy Deepsea** → `previews/UI/Icons/Player_Icon_Sandy_Deepsea.webp` brawler: sandy · deep sea · deepsea · icon
-- **Player Icon Sandy Nightmare** → `previews/UI/Icons/Player_Icon_Sandy_Nightmare.webp` brawler: sandy · icon · nightmare · player
-- **Player Icon Sandy1** → `previews/UI/Icons/Player_Icon_Sandy1.webp` icon · player · png · sandy1
-- **Profile Icon Icon Sandy Bt21** → `previews/UI/Icons/Profile_Icon_Icon_Sandy_Bt21.webp` brawler: sandy · bt21 · icon · png
-- **Profile Icon Sandy Jellyfish** → `previews/UI/Icons/Profile_Icon_Sandy_Jellyfish.webp` brawler: sandy · icon · jellyfish · png
-- **Profile Icon Sandy Nightmare** → `previews/UI/Icons/Profile_Icon_Sandy_Nightmare.webp` brawler: sandy · icon · nightmare · png
-- **Sandy Gadget 01** → `previews/UI/Gadgets/Sandy_Gadget_01.webp` brawler: sandy · gadget · gadget_icon · png
-- **Sandy Gadget 02** → `previews/UI/Gadgets/Sandy_Gadget_02.webp` brawler: sandy · gadget · gadget_icon · png
-- **Sandy Starpower 01** → `previews/UI/StarPowers/Sandy_Starpower_01.webp` brawler: sandy · png · sandy · sci-fi
-- **Sandy Starpower 02** → `previews/UI/StarPowers/Sandy_Starpower_02.webp` brawler: sandy · png · sandy · sci-fi
-- **Sandy1 Mastery** → `previews/UI/Mastery/Sandy1_Mastery.webp` brawler: sandy · mastery · mastery_icon · png
-- **Sandy2 Mastery** → `previews/UI/Mastery/Sandy2_Mastery.webp` brawler: sandy · mastery · mastery_icon · png
-  ... +3 more
-
-## Misc (1)
-- **Sandy Sleep Awake Meme** → `previews/Misc/Memes/Sandy_Sleep_Awake_Meme.webp` awake · meme · misc · png
+## UI (6)
+  - player_icon_sandy1
+    preview: previews/UI/Icons/player_icon_sandy1.webp
+  - player_icon_sandy_deepsea
+    preview: previews/UI/Icons/player_icon_sandy_deepsea.webp
+  - player_icon_sandy_nightmare
+    preview: previews/UI/Icons/player_icon_sandy_nightmare.webp
+  - profile_icon_icon_sandy_bt21
+    preview: previews/UI/Icons/profile_icon_icon_sandy_bt21.webp
+  - profile_icon_sandy_jellyfish
+    preview: previews/UI/Icons/profile_icon_sandy_jellyfish.webp
+  - profile_icon_sandy_nightmare
+    preview: previews/UI/Icons/profile_icon_sandy_nightmare.webp

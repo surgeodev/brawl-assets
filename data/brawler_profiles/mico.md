@@ -1,51 +1,77 @@
 # Mico
 Rarity: Mythic | Class: Assassin
-Total assets: 40
-Skins: Button, Default, Grouch, Icon, Macaron, Mico, Overcharge, True, Wukong
-
-`previews/Brawlers/mico/` — mythic brawler
+Total assets: 39
 
 
 ## Brawlers (9)
-- **Gd Mico 01** → `previews/Brawlers/Mico/Gd_Mico_01.webp` brawler: mico · brawler_render · brawlers · gd
-- **Gd Mico 02** → `previews/Brawlers/Mico/Gd_Mico_02.webp` brawler: mico · brawler_render · brawlers · gd
-- **Mico Grouch Mico Happy 254** → `previews/Brawlers/Mico/Mico_Grouch_Mico_Happy_254.webp` 254 · brawler: mico · brawler_render · brawlers
-- **Mico Macaron Mico Happy 294** → `previews/Brawlers/Mico/Mico_Macaron_Mico_Happy_294.webp` 294 · brawler: mico · brawler_render · brawlers
-- **Mico True Gold Mico 001** → `previews/Brawlers/Mico/Mico_True_Gold_Mico_001.webp` brawler: mico · brawler_render · brawlers · gold
-- **Mico True Silver Mico 001** → `previews/Brawlers/Mico/Mico_True_Silver_Mico_001.webp` brawler: mico · brawler_render · brawlers · mico
-- **Mico Wukong Mico Happy 1340** → `previews/Brawlers/Mico/Mico_Wukong_Mico_Happy_1340.webp` 1340 · brawler: mico · brawler_render · brawlers
-- **Sp Mico 01** → `previews/Brawlers/Mico/Sp_Mico_01.webp` brawler: mico · brawler_render · brawlers · mico
-- **Sp Mico 02** → `previews/Brawlers/Mico/Sp_Mico_02.webp` brawler: mico · brawler_render · brawlers · mico
+  - GD_mico_01
+    preview: previews/Brawlers/gd/GD_mico_01.webp
+  - GD_mico_02
+    preview: previews/Brawlers/gd/GD_mico_02.webp
+  - SP_mico_01
+    preview: previews/Brawlers/sp/SP_mico_01.webp
+  - SP_mico_02
+    preview: previews/Brawlers/sp/SP_mico_02.webp
+  - gem_icon
+    preview: previews/Brawlers/gem/gem_icon.webp
+  - hypercharge_button_mico
+    preview: previews/Brawlers/hypercharge/hypercharge_button_mico.webp
+  - hypercharge_icon_mico
+    preview: previews/Brawlers/hypercharge/hypercharge_icon_mico.webp
+  - mico_true_gold_mico_001
+    preview: previews/Brawlers/mico/mico_true_gold_mico_001.webp
+  - mico_true_silver_mico_001
+    preview: previews/Brawlers/mico/mico_true_silver_mico_001.webp
 
 ## Portraits (1)
-- **Portrait Brawler Mico** → `previews/Portraits/Mico/Portrait_Brawler_Mico.webp` brawler · brawler: mico · mico · png
+  - portrait_brawler_mico
+    preview: previews/Portraits/Unknown/portrait_brawler_mico.webp
 
-## Emojis (21)
-- **Emoji Mico Angry** → `previews/Emojis/All/Emoji_Mico_Angry.webp` anger · angry · brawler: mico · emoji
-- **Emoji Mico Base** → `previews/Emojis/All/Emoji_Mico_Base.webp` base · brawler: mico · emoji · emojis
-- **Emoji Mico Clap** → `previews/Emojis/All/Emoji_Mico_Clap.webp` approval · brawler: mico · clap · emoji
-- **Emoji Mico Facepalm** → `previews/Emojis/All/Emoji_Mico_Facepalm.webp` brawler: mico · emoji · emojis · facepalm
-- **Emoji Mico Gg** → `previews/Emojis/All/Emoji_Mico_Gg.webp` brawler: mico · emoji · emojis · gg
-- **Emoji Mico Happy** → `previews/Emojis/All/Emoji_Mico_Happy.webp` brawler: mico · emoji · emojis · happy
-- **Emoji Mico Mic** → `previews/Emojis/All/Emoji_Mico_Mic.webp` brawler: mico · emoji · emojis · mic
-- **Emoji Mico Oc** → `previews/Emojis/All/Emoji_Mico_Oc.webp` brawler: mico · emoji · emojis · mico
-- **Emoji Mico Phew** → `previews/Emojis/All/Emoji_Mico_Phew.webp` brawler: mico · emoji · emojis · mico
-- **Emoji Mico Sad** → `previews/Emojis/All/Emoji_Mico_Sad.webp` brawler: mico · emoji · emojis · mico
-- **Emoji Mico Special** → `previews/Emojis/All/Emoji_Mico_Special.webp` brawler: mico · emoji · emojis · mico
-- **Emoji Mico Wukong Angry** → `previews/Emojis/All/Emoji_Mico_Wukong_Angry.webp` anger · angry · brawler: mico · emoji
-  ... +9 more
+## Pins (19)
+  - emoji_mico_angry
+    preview: previews/Pins/Angry/emoji_mico_angry.webp
+  - emoji_mico_clap
+    preview: previews/Pins/Clap/emoji_mico_clap.webp
+  - emoji_mico_facepalm
+    preview: previews/Pins/Facepalm/emoji_mico_facepalm.webp
+  - emoji_mico_gg
+    preview: previews/Pins/Gg/emoji_mico_gg.webp
+  - emoji_mico_happy
+    preview: previews/Pins/Happy/emoji_mico_happy.webp
+  - emoji_mico_phew
+    preview: previews/Pins/Phew/emoji_mico_phew.webp
+  - emoji_mico_sad
+    preview: previews/Pins/Sad/emoji_mico_sad.webp
+  - emoji_mico_special
+    preview: previews/Pins/Special/emoji_mico_special.webp
+  - emoji_mico_wukong_angry
+    preview: previews/Pins/Angry/emoji_mico_wukong_angry.webp
+  - emoji_mico_wukong_clap
+    preview: previews/Pins/Clap/emoji_mico_wukong_clap.webp
+    ... +9 more
+
+## Emojis (5)
+  - emoji_mico_base
+    preview: previews/Emojis/All/emoji_mico_base.webp
+  - emoji_mico_mic
+    preview: previews/Emojis/All/emoji_mico_mic.webp
+  - emoji_mico_oc
+    preview: previews/Emojis/All/emoji_mico_oc.webp
+  - emoji_mico_wukong_base
+    preview: previews/Emojis/All/emoji_mico_wukong_base.webp
+  - emoji_mico_xmas
+    preview: previews/Emojis/All/emoji_mico_xmas.webp
 
 ## Sprays (3)
-- **Spray Mico** → `previews/Sprays/All/Spray_Mico.webp` brawler: mico · mico · png · spray
-- **Spray Mico Wukong** → `previews/Sprays/All/Spray_Mico_Wukong.webp` brawler: mico · mico · png · spray
-- **Spray Overcharge Mico** → `previews/Sprays/All/Spray_Overcharge_Mico.webp` brawler: mico · mico · overcharge · png
+  - spray_mico
+    preview: previews/Sprays/All/spray_mico.webp
+  - spray_mico_wukong
+    preview: previews/Sprays/All/spray_mico_wukong.webp
+  - spray_overcharge_mico
+    preview: previews/Sprays/All/spray_overcharge_mico.webp
 
-## Animations (1)
-- **Mico Default Happy** → `previews/Animations/Mico/Mico_Default_Happy.webp` animated · animation · animations · brawler: mico
-
-## UI (5)
-- **Gem Icon** → `previews/UI/Icons/Gem_Icon.webp` gem · icon · png · transparent
-- **Hypercharge Button Mico** → `previews/UI/Hypercharge/Hypercharge_Button_Mico.webp` brawler: mico · button · hypercharge · hypercharge_icon
-- **Hypercharge Icon Mico** → `previews/UI/Hypercharge/Hypercharge_Icon_Mico.webp` brawler: mico · hypercharge · hypercharge_icon · icon
-- **Player Icon Mico Hyper** → `previews/UI/Icons/Player_Icon_Mico_Hyper.webp` brawler: mico · hyper · icon · mico
-- **Player Icon Mico Oc** → `previews/UI/Icons/Player_Icon_Mico_Oc.webp` brawler: mico · icon · mico · oc
+## UI (2)
+  - player_icon_mico_hyper
+    preview: previews/UI/Icons/player_icon_mico_hyper.webp
+  - player_icon_mico_oc
+    preview: previews/UI/Icons/player_icon_mico_oc.webp

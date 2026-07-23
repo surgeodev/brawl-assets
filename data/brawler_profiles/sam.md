@@ -1,46 +1,59 @@
 # Sam
 Rarity: Epic | Class: Assassin
-Total assets: 26
-Skins: Button, Caesar, Dark, Gadget, Icon, Starpower, Ulti, Yeti
-
-`previews/Brawlers/sam/` — epic brawler
+Total assets: 30
 
 
-## Brawlers (4)
-- **Sam Caesar Sam 001** → `previews/Brawlers/Sam/Sam_Caesar_Sam_001.webp` brawler: sam · brawler_render · brawlers · caesar
-- **Sam Dark Clown Sam 258** → `previews/Brawlers/Sam/Sam_Dark_Clown_Sam_258.webp` 258 · brawler: sam · brawler_render · brawlers
-- **Sam Win85** → `previews/Brawlers/Sam/Sam_Win85.webp` brawler: sam · brawler_render · brawlers · png
-- **Sam Yeti Sam 001** → `previews/Brawlers/Sam/Sam_Yeti_Sam_001.webp` brawler: sam · brawler_render · brawlers · png
+## Brawlers (18)
+  - gene_dark_samurai_gene_304
+    preview: previews/Brawlers/gene/gene_dark_samurai_gene_304.webp
+  - rosa_major_rosa_001
+    preview: previews/Brawlers/rosa/rosa_major_rosa_001.webp
+  - rosa_mantis_rosa_001
+    preview: previews/Brawlers/rosa/rosa_mantis_rosa_001.webp
+  - sam1_mastery
+    preview: previews/Brawlers/sam1/sam1_mastery.webp
+  - sam2_mastery
+    preview: previews/Brawlers/sam2/sam2_mastery.webp
+  - sam3_mastery
+    preview: previews/Brawlers/sam3/sam3_mastery.webp
+  - sam4_mastery
+    preview: previews/Brawlers/sam4/sam4_mastery.webp
+  - sam5_mastery
+    preview: previews/Brawlers/sam5/sam5_mastery.webp
+  - sam_button_ulti_blue
+    preview: previews/Brawlers/sam/sam_button_ulti_blue.webp
+  - sam_caesar_sam_001
+    preview: previews/Brawlers/sam/sam_caesar_sam_001.webp
+    ... +8 more
 
-## Portraits (1)
-- **Portrait Sam** → `previews/Portraits/Sam/Portrait_Sam.webp` brawler: sam · png · portrait · portraits
-
-## Pins (3)
-- **Sam Bear Pin** → `previews/Pins/Default/Sam_Bear_Pin.webp` bear · brawler: sam · pin · pins
-- **Sam Facepalm Pin** → `previews/Pins/Facepalm/Sam_Facepalm_Pin.webp` brawler: sam · facepalm · frustration · pin
-- **Sam Yeti Pin** → `previews/Pins/Default/Sam_Yeti_Pin.webp` brawler: sam · pin · pins · png
+## Pins (4)
+  - gene_dark _samurai_pin
+    preview: previews/Pins/Default/gene_dark__samurai_pin.webp
+  - sam_bear_pin
+    preview: previews/Pins/Default/sam_bear_pin.webp
+  - sam_facepalm_pin
+    preview: previews/Pins/Default/sam_facepalm_pin.webp
+  - sam_yeti_pin
+    preview: previews/Pins/Default/sam_yeti_pin.webp
 
 ## Emojis (1)
-- **Emoji Sam Circus** → `previews/Emojis/All/Emoji_Sam_Circus.webp` brawler: sam · circus · emoji · emojis
+  - emoji_sam_circus
+    preview: previews/Emojis/All/emoji_sam_circus.webp
 
 ## Sprays (1)
-- **Spray Sam** → `previews/Sprays/All/Spray_Sam.webp` brawler: sam · png · sam · spray
+  - spray_sam
+    preview: previews/Sprays/All/spray_sam.webp
 
-## Animations (2)
-- **Sam Lose** → `previews/Animations/Defeat/Sam_Lose.webp` animated · animations · brawler: sam · defeat
-- **Sam Win** → `previews/Animations/Victory/Sam_Win.webp` animated · animations · brawler: sam · gif
-
-## UI (14)
-- **Player Icon Sam1** → `previews/UI/Icons/Player_Icon_Sam1.webp` icon · player · png · sam1
-- **Profile Icon Sam Caesar** → `previews/UI/Icons/Profile_Icon_Sam_Caesar.webp` brawler: sam · caesar · icon · png
-- **Profile Icon Sam Yeti** → `previews/UI/Icons/Profile_Icon_Sam_Yeti.webp` brawler: sam · icon · png · profile
-- **Sam Button Ulti Blue** → `previews/UI/Buttons/Sam_Button_Ulti_Blue.webp` blue · brawler: sam · button · png
-- **Sam Gadget 01** → `previews/UI/Gadgets/Sam_Gadget_01.webp` brawler: sam · gadget · gadget_icon · png
-- **Sam Gadget 02** → `previews/UI/Gadgets/Sam_Gadget_02.webp` brawler: sam · gadget · gadget_icon · png
-- **Sam Starpower 01** → `previews/UI/StarPowers/Sam_Starpower_01.webp` brawler: sam · png · sam · sci-fi
-- **Sam Starpower 02** → `previews/UI/StarPowers/Sam_Starpower_02.webp` brawler: sam · png · sam · sci-fi
-- **Sam Ulti Button** → `previews/UI/Buttons/Sam_Ulti_Button.webp` brawler: sam · button · png · sam
-- **Sam1 Mastery** → `previews/UI/Mastery/Sam1_Mastery.webp` brawler: sam · mastery · mastery_icon · png
-- **Sam2 Mastery** → `previews/UI/Mastery/Sam2_Mastery.webp` brawler: sam · mastery · mastery_icon · png
-- **Sam3 Mastery** → `previews/UI/Mastery/Sam3_Mastery.webp` brawler: sam · mastery · mastery_icon · png
-  ... +2 more
+## UI (6)
+  - player_icon_gene_dark_samurai
+    preview: previews/UI/Icons/player_icon_gene_dark_samurai.webp
+  - player_icon_sam1
+    preview: previews/UI/Icons/player_icon_sam1.webp
+  - profile_icon_gene_dark_samurai
+    preview: previews/UI/Icons/profile_icon_gene_dark_samurai.webp
+  - profile_icon_rosa_mantis
+    preview: previews/UI/Icons/profile_icon_rosa_mantis.webp
+  - profile_icon_sam_caesar
+    preview: previews/UI/Icons/profile_icon_sam_caesar.webp
+  - profile_icon_sam_yeti
+    preview: previews/UI/Icons/profile_icon_sam_yeti.webp

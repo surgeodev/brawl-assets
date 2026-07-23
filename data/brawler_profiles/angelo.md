@@ -1,45 +1,59 @@
 # Angelo
 Rarity: Epic | Class: Marksman
-Total assets: 26
-Skins: Button, Default, Elf, Gadget, Icon, Spray, Starpower
-
-`previews/Brawlers/angelo/` — epic brawler
+Total assets: 24
 
 
-## Brawlers (1)
-- **Angelo Elf Angelo** → `previews/Brawlers/Angelo/Angelo_Elf_Angelo.webp` angelo · brawler: angelo · brawler_render · brawlers
+## Brawlers (7)
+  - angelo_button_hypercharge
+    preview: previews/Brawlers/angelo/angelo_button_hypercharge.webp
+  - angelo_elf_angelo
+    preview: previews/Brawlers/angelo/angelo_elf_angelo.webp
+  - angelo_gadget_01
+    preview: previews/Brawlers/angelo/angelo_gadget_01.webp
+  - angelo_gadget_02
+    preview: previews/Brawlers/angelo/angelo_gadget_02.webp
+  - angelo_hypercharge
+    preview: previews/Brawlers/angelo/angelo_hypercharge.webp
+  - angelo_starpower_01
+    preview: previews/Brawlers/angelo/angelo_starpower_01.webp
+  - angelo_starpower_02
+    preview: previews/Brawlers/angelo/angelo_starpower_02.webp
 
 ## Portraits (1)
-- **Angelo Portrait** → `previews/Portraits/Angelo/Angelo_Portrait.webp` angelo · brawler: angelo · png · portrait
+  - angelo_portrait
+    preview: previews/Portraits/Unknown/angelo_portrait.webp
 
 ## Pins (12)
-- **Angelo Angry Pin** → `previews/Pins/Angry/Angelo_Angry_Pin.webp` angelo · anger · angry · brawler: angelo
-- **Angelo Clap Pin** → `previews/Pins/Clap/Angelo_Clap_Pin.webp` angelo · approval · brawler: angelo · clap
-- **Angelo Default Pin** → `previews/Pins/Default/Angelo_Default_Pin.webp` angelo · brawler: angelo · default · pin
-- **Angelo Dionysus Pin** → `previews/Pins/Default/Angelo_Dionysus_Pin.webp` angelo · brawler: angelo · dionysus · pin
-- **Angelo Facepalm Pin** → `previews/Pins/Facepalm/Angelo_Facepalm_Pin.webp` angelo · brawler: angelo · facepalm · frustration
-- **Angelo Gg Pin** → `previews/Pins/GG/Angelo_Gg_Pin.webp` angelo · brawler: angelo · gg · pin
-- **Angelo Happy Pin** → `previews/Pins/Happy/Angelo_Happy_Pin.webp` angelo · brawler: angelo · happy · joy
-- **Angelo Hypercharge Pin** → `previews/Pins/Default/Angelo_Hypercharge_Pin.webp` angelo · brawler: angelo · hypercharge · pin
-- **Angelo Phew Pin** → `previews/Pins/Phew/Angelo_Phew_Pin.webp` angelo · brawler: angelo · phew · pin
-- **Angelo Sad Pin** → `previews/Pins/Sad/Angelo_Sad_Pin.webp` angelo · brawler: angelo · pin · pin_sad
-- **Angelo Special Pin** → `previews/Pins/Special/Angelo_Special_Pin.webp` angelo · brawler: angelo · pin · pin_special
-- **Angelo Thanks Pin** → `previews/Pins/Thanks/Angelo_Thanks_Pin.webp` angelo · brawler: angelo · gratitude · pin
+  - angelo_angry_pin
+    preview: previews/Pins/Default/angelo_angry_pin.webp
+  - angelo_clap_pin
+    preview: previews/Pins/Default/angelo_clap_pin.webp
+  - angelo_default_pin
+    preview: previews/Pins/Default/angelo_default_pin.webp
+  - angelo_dionysus_pin
+    preview: previews/Pins/Default/angelo_dionysus_pin.webp
+  - angelo_facepalm_pin
+    preview: previews/Pins/Default/angelo_facepalm_pin.webp
+  - angelo_gg_pin
+    preview: previews/Pins/Default/angelo_gg_pin.webp
+  - angelo_happy_pin
+    preview: previews/Pins/Default/angelo_happy_pin.webp
+  - angelo_hypercharge_pin
+    preview: previews/Pins/Default/angelo_hypercharge_pin.webp
+  - angelo_phew_pin
+    preview: previews/Pins/Default/angelo_phew_pin.webp
+  - angelo_sad_pin
+    preview: previews/Pins/Default/angelo_sad_pin.webp
+    ... +2 more
 
 ## Sprays (2)
-- **Angelo Spray** → `previews/Sprays/All/Angelo_Spray.webp` angelo · brawler: angelo · png · spray
-- **Angelo Spray Hypercharge** → `previews/Sprays/All/Angelo_Spray_Hypercharge.webp` angelo · brawler: angelo · hypercharge · png
+  - angelo_spray
+    preview: previews/Sprays/All/angelo_spray.webp
+  - angelo_spray_hypercharge
+    preview: previews/Sprays/All/angelo_spray_hypercharge.webp
 
-## Animations (2)
-- **Angelo Default Happy** → `previews/Animations/Angelo/Angelo_Default_Happy.webp` angelo · animated · animation · animations
-- **Angelo Default Sad** → `previews/Animations/Angelo/Angelo_Default_Sad.webp` angelo · animated · animation · animations
-
-## UI (8)
-- **Angelo Button Hypercharge** → `previews/UI/Hypercharge/Angelo_Button_Hypercharge.webp` angelo · brawler: angelo · button · hypercharge
-- **Angelo Gadget 01** → `previews/UI/Gadgets/Angelo_Gadget_01.webp` angelo · brawler: angelo · gadget · gadget_icon
-- **Angelo Gadget 02** → `previews/UI/Gadgets/Angelo_Gadget_02.webp` angelo · brawler: angelo · gadget · gadget_icon
-- **Angelo Hypercharge** → `previews/UI/Hypercharge/Angelo_Hypercharge.webp` angelo · brawler: angelo · hypercharge · hypercharge_icon
-- **Angelo Starpower 01** → `previews/UI/StarPowers/Angelo_Starpower_01.webp` angelo · brawler: angelo · png · sci-fi
-- **Angelo Starpower 02** → `previews/UI/StarPowers/Angelo_Starpower_02.webp` angelo · brawler: angelo · png · sci-fi
-- **Player Icon Angelo Hypercharge** → `previews/UI/Hypercharge/Player_Icon_Angelo_Hypercharge.webp` angelo · brawler: angelo · hypercharge · hypercharge_icon
-- **Profile Icon Angelo** → `previews/UI/Icons/Profile_Icon_Angelo.webp` angelo · brawler: angelo · icon · png
+## UI (2)
+  - player_icon_angelo_hypercharge
+    preview: previews/UI/Icons/player_icon_angelo_hypercharge.webp
+  - profile_icon_angelo
+    preview: previews/UI/Icons/profile_icon_angelo.webp

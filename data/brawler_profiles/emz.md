@@ -1,59 +1,74 @@
 # Emz
 Rarity: Epic | Class: Controller
-Total assets: 50
-Skins: Button, College, Default, Dj, Emz, Gadget, Harajuku, Icon, Mean, Spray, Starpower, Super, True
-
-`previews/Brawlers/emz/` — epic brawler
+Total assets: 46
 
 
-## Brawlers (8)
-- **Emz College Emz 001** → `previews/Brawlers/Emz/Emz_College_Emz_001.webp` brawler: emz · brawler_render · brawlers · college
-- **Emz Default 001** → `previews/Brawlers/Emz/Emz_Default_001.webp` brawler: emz · brawler_render · brawlers · default
-- **Emz Dj 3.M.Z 001** → `previews/Brawlers/Emz/Emz_Dj_3.M.Z_001.webp` brawler: emz · brawler_render · brawlers · dj
-- **Emz Harajuku Emz 001** → `previews/Brawlers/Emz/Emz_Harajuku_Emz_001.webp` brawler: emz · brawler_render · brawlers · emz
-- **Emz Mean Girl Emz 001** → `previews/Brawlers/Emz/Emz_Mean_Girl_Emz_001.webp` brawler: emz · brawler_render · brawlers · emz
-- **Emz Super Fan Emz 001** → `previews/Brawlers/Emz/Emz_Super_Fan_Emz_001.webp` brawler: emz · brawler_render · brawlers · emz
-- **Emz True Gold Emz 001** → `previews/Brawlers/Emz/Emz_True_Gold_Emz_001.webp` brawler: emz · brawler_render · brawlers · emz
-- **Emz True Silver Emz 001** → `previews/Brawlers/Emz/Emz_True_Silver_Emz_001.webp` brawler: emz · brawler_render · brawlers · emz
+## Brawlers (19)
+  - emz1_mastery
+    preview: previews/Brawlers/emz1/emz1_mastery.webp
+  - emz2_mastery
+    preview: previews/Brawlers/emz2/emz2_mastery.webp
+  - emz3_mastery
+    preview: previews/Brawlers/emz3/emz3_mastery.webp
+  - emz4_mastery
+    preview: previews/Brawlers/emz4/emz4_mastery.webp
+  - emz5_mastery
+    preview: previews/Brawlers/emz5/emz5_mastery.webp
+  - emz_button_hypercharge
+    preview: previews/Brawlers/emz/emz_button_hypercharge.webp
+  - emz_college_emz_001
+    preview: previews/Brawlers/emz/emz_college_emz_001.webp
+  - emz_default_001
+    preview: previews/Brawlers/emz/emz_default_001.webp
+  - emz_dj_3.m.z_001
+    preview: previews/Brawlers/emz/emz_dj_3.m.z_001.webp
+  - emz_gadget_01
+    preview: previews/Brawlers/emz/emz_gadget_01.webp
+    ... +9 more
 
-## Portraits (1)
-- **Emz Portrait** → `previews/Portraits/Emz/Emz_Portrait.webp` brawler: emz · emz · png · portrait
-
-## Pins (18)
-- **Emz Angry Pin** → `previews/Pins/Angry/Emz_Angry_Pin.webp` anger · angry · brawler: emz · emz
-- **Emz Clap Pin** → `previews/Pins/Clap/Emz_Clap_Pin.webp` approval · brawler: emz · clap · emz
-- **Emz Dj Make Pin** → `previews/Pins/Default/Emz_Dj_Make_Pin.webp` brawler: emz · dj · emz · make
-- **Emz Facepalm Pin** → `previews/Pins/Facepalm/Emz_Facepalm_Pin.webp` brawler: emz · emz · facepalm · frustration
-- **Emz Fan Pin** → `previews/Pins/Default/Emz_Fan_Pin.webp` brawler: emz · emz · fan · pin
-- **Emz Gg Pin** → `previews/Pins/GG/Emz_Gg_Pin.webp` brawler: emz · emz · gg · pin
-- **Emz Gw Pin** → `previews/Pins/Default/Emz_Gw_Pin.webp` brawler: emz · emz · gw · pin
-- **Emz Happy Pin** → `previews/Pins/Happy/Emz_Happy_Pin.webp` brawler: emz · emz · happy · joy
-- **Emz Hypercharge Pin** → `previews/Pins/Default/Emz_Hypercharge_Pin.webp` brawler: emz · emz · hypercharge · pin
-- **Emz Medusa Pin** → `previews/Pins/Default/Emz_Medusa_Pin.webp` brawler: emz · emz · medusa · pin
-- **Emz Phew Pin** → `previews/Pins/Phew/Emz_Phew_Pin.webp` brawler: emz · emz · phew · pin
-- **Emz Pin** → `previews/Pins/Default/Emz_Pin.webp` brawler: emz · emz · pin · pins
-  ... +6 more
+## Pins (17)
+  - emz_angry_pin
+    preview: previews/Pins/Default/emz_angry_pin.webp
+  - emz_clap_pin
+    preview: previews/Pins/Default/emz_clap_pin.webp
+  - emz_dj_make_pin
+    preview: previews/Pins/Default/emz_dj_make_pin.webp
+  - emz_facepalm_pin
+    preview: previews/Pins/Default/emz_facepalm_pin.webp
+  - emz_fan_pin
+    preview: previews/Pins/Default/emz_fan_pin.webp
+  - emz_gg_pin
+    preview: previews/Pins/Default/emz_gg_pin.webp
+  - emz_gw_pin
+    preview: previews/Pins/Default/emz_gw_pin.webp
+  - emz_happy_pin
+    preview: previews/Pins/Default/emz_happy_pin.webp
+  - emz_hypercharge_pin
+    preview: previews/Pins/Default/emz_hypercharge_pin.webp
+  - emz_medusa_pin
+    preview: previews/Pins/Default/emz_medusa_pin.webp
+    ... +7 more
 
 ## Sprays (3)
-- **Emz Spray Hypercharge** → `previews/Sprays/All/Emz_Spray_Hypercharge.webp` brawler: emz · emz · hypercharge · png
-- **Spray Emz** → `previews/Sprays/All/Spray_Emz.webp` brawler: emz · emz · png · spray
-- **Spray Emz Gw** → `previews/Sprays/All/Spray_Emz_Gw.webp` brawler: emz · emz · gw · png
+  - emz_spray_hypercharge
+    preview: previews/Sprays/All/emz_spray_hypercharge.webp
+  - spray_emz
+    preview: previews/Sprays/All/spray_emz.webp
+  - spray_emz_gw
+    preview: previews/Sprays/All/spray_emz_gw.webp
 
-## Animations (2)
-- **Emz Lose** → `previews/Animations/Defeat/Emz_Lose.webp` animated · animations · brawler: emz · defeat
-- **Emz Win** → `previews/Animations/Victory/Emz_Win.webp` animated · animations · brawler: emz · emz
-
-## UI (18)
-- **Emz Button Hypercharge** → `previews/UI/Hypercharge/Emz_Button_Hypercharge.webp` brawler: emz · button · emz · hypercharge
-- **Emz Gadget 01** → `previews/UI/Gadgets/Emz_Gadget_01.webp` brawler: emz · emz · gadget · gadget_icon
-- **Emz Gadget 02** → `previews/UI/Gadgets/Emz_Gadget_02.webp` brawler: emz · emz · gadget · gadget_icon
-- **Emz Hypercharge** → `previews/UI/Hypercharge/Emz_Hypercharge.webp` brawler: emz · emz · hypercharge · hypercharge_icon
-- **Emz Starpower 01** → `previews/UI/StarPowers/Emz_Starpower_01.webp` brawler: emz · emz · png · sci-fi
-- **Emz Starpower 02** → `previews/UI/StarPowers/Emz_Starpower_02.webp` brawler: emz · emz · png · sci-fi
-- **Emz1 Mastery** → `previews/UI/Mastery/Emz1_Mastery.webp` brawler: emz · emz · emz1 · mastery
-- **Emz2 Mastery** → `previews/UI/Mastery/Emz2_Mastery.webp` brawler: emz · emz · emz2 · mastery
-- **Emz3 Mastery** → `previews/UI/Mastery/Emz3_Mastery.webp` brawler: emz · emz · emz3 · mastery
-- **Emz4 Mastery** → `previews/UI/Mastery/Emz4_Mastery.webp` brawler: emz · emz · emz4 · mastery
-- **Emz5 Mastery** → `previews/UI/Mastery/Emz5_Mastery.webp` brawler: emz · emz · emz5 · mastery
-- **Player Icon Emz Fan** → `previews/UI/Icons/Player_Icon_Emz_Fan.webp` brawler: emz · emz · fan · icon
-  ... +6 more
+## UI (7)
+  - player_icon_emz1
+    preview: previews/UI/Icons/player_icon_emz1.webp
+  - player_icon_emz_fan
+    preview: previews/UI/Icons/player_icon_emz_fan.webp
+  - player_icon_emz_hypercharge
+    preview: previews/UI/Icons/player_icon_emz_hypercharge.webp
+  - profile_icon_emz1
+    preview: previews/UI/Icons/profile_icon_emz1.webp
+  - profile_icon_emz_dj_3mz
+    preview: previews/UI/Icons/profile_icon_emz_dj_3mz.webp
+  - profile_icon_emz_gw
+    preview: previews/UI/Icons/profile_icon_emz_gw.webp
+  - profile_icon_emz_medusa
+    preview: previews/UI/Icons/profile_icon_emz_medusa.webp

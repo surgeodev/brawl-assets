@@ -2,12 +2,13 @@
 Rarity: Legendary | Class: Unknown
 Total assets: 3
 
-`previews/Brawlers/pierce/` — legendary brawler
-
 
 ## Brawlers (2)
-- **Pierce_bordered** → `previews/Brawlers/pierce/Pierce_bordered.webp` pierce · bordered · brawlify
-- **Pierce_borderless** → `previews/Brawlers/pierce/Pierce_borderless.webp` pierce · borderless · brawlify
+  - Pierce_bordered
+    preview: previews/Brawlers/pierce/Pierce_bordered.webp
+  - Pierce_borderless
+    preview: previews/Brawlers/pierce/Pierce_borderless.webp
 
 ## Emojis (1)
-- **Pierce_emoji** → `previews/Emojis/pierce/Pierce_emoji.webp` pierce · emoji · brawlify
+  - Pierce_emoji
+    preview: previews/Emojis/pierce/Pierce_emoji.webp

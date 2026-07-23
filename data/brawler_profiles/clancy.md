@@ -1,42 +1,55 @@
 # Clancy
 Rarity: Mythic | Class: Damage Dealer
-Total assets: 24
-Skins: 2024, Clancy, Icon, Item, Sp
-
-`previews/Brawlers/clancy/` — mythic brawler
+Total assets: 22
 
 
-## Brawlers (4)
-- ** 0031 Clancy True Silver Clancy 001** → `previews/Brawlers/Clancy/_0031_Clancy_True_Silver_Clancy_001.webp` 0031 · brawler: clancy · brawler_render · brawlers
-- ** 0032 Clancy High Stakes Clancy Walk 046** → `previews/Brawlers/Clancy/_0032_Clancy_High_Stakes_Clancy_Walk_046.webp` 0032 · 046 · brawler: clancy · brawler_render
-- ** 0032 Clancy True Gold Clancy 001** → `previews/Brawlers/Clancy/_0032_Clancy_True_Gold_Clancy_001.webp` 0032 · brawler: clancy · brawler_render · brawlers
-- ** 0033 Clancy Default Happy 458** → `previews/Brawlers/Clancy/_0033_Clancy_Default_Happy_458.webp` 0033 · 458 · brawler: clancy · brawler_render
+## Brawlers (7)
+  - _0031_clancy_true_silver_clancy_001
+    preview: previews/Brawlers//_0031_clancy_true_silver_clancy_001.webp
+  - _0032_clancy_high_stakes_clancy_walk_046
+    preview: previews/Brawlers//_0032_clancy_high_stakes_clancy_walk_046.webp
+  - _0032_clancy_true_gold_clancy_001
+    preview: previews/Brawlers//_0032_clancy_true_gold_clancy_001.webp
+  - icon_item_clancy_1
+    preview: previews/Brawlers/icon/icon_item_clancy_1.webp
+  - icon_item_clancy_2
+    preview: previews/Brawlers/icon/icon_item_clancy_2.webp
+  - icon_sp_clancy_1
+    preview: previews/Brawlers/icon/icon_sp_clancy_1.webp
+  - icon_sp_clancy_2
+    preview: previews/Brawlers/icon/icon_sp_clancy_2.webp
 
 ## Portraits (1)
-- **Clancy Portrait** → `previews/Portraits/Clancy/Clancy_Portrait.webp` brawler: clancy · clancy · png · portrait
+  - clancy_portrait
+    preview: previews/Portraits/Unknown/clancy_portrait.webp
 
-## Pins (10)
-- **Clancy Angry Pin** → `previews/Pins/Angry/Clancy_Angry_Pin.webp` anger · angry · brawler: clancy · clancy
-- **Clancy Clap Pin** → `previews/Pins/Clap/Clancy_Clap_Pin.webp` approval · brawler: clancy · clancy · clap
-- **Clancy Facepalm Pin** → `previews/Pins/Facepalm/Clancy_Facepalm_Pin.webp` brawler: clancy · clancy · facepalm · frustration
-- **Clancy Gg Pin** → `previews/Pins/GG/Clancy_Gg_Pin.webp` brawler: clancy · clancy · gg · pin
-- **Clancy Happy Pin** → `previews/Pins/Happy/Clancy_Happy_Pin.webp` brawler: clancy · clancy · happy · joy
-- **Clancy Phew Pin** → `previews/Pins/Phew/Clancy_Phew_Pin.webp` brawler: clancy · clancy · phew · pin
-- **Clancy Pin** → `previews/Pins/Default/Clancy_Pin.webp` brawler: clancy · clancy · pin · pins
-- **Clancy Sad Pin** → `previews/Pins/Sad/Clancy_Sad_Pin.webp` brawler: clancy · clancy · pin · pin_sad
-- **Clancy Special Pin** → `previews/Pins/Special/Clancy_Special_Pin.webp` brawler: clancy · clancy · pin · pin_special
-- **Clancy Thanks Pin** → `previews/Pins/Thanks/Clancy_Thanks_Pin.webp` brawler: clancy · clancy · gratitude · pin
+## Pins (11)
+  - _0033_clancy_default_happy_458
+    preview: previews/Pins/Default/_0033_clancy_default_happy_458.webp
+  - clancy_angry_pin
+    preview: previews/Pins/Default/clancy_angry_pin.webp
+  - clancy_clap_pin
+    preview: previews/Pins/Default/clancy_clap_pin.webp
+  - clancy_facepalm_pin
+    preview: previews/Pins/Default/clancy_facepalm_pin.webp
+  - clancy_gg_pin
+    preview: previews/Pins/Default/clancy_gg_pin.webp
+  - clancy_happy_pin
+    preview: previews/Pins/Default/clancy_happy_pin.webp
+  - clancy_phew_pin
+    preview: previews/Pins/Default/clancy_phew_pin.webp
+  - clancy_pin
+    preview: previews/Pins/Default/clancy_pin.webp
+  - clancy_sad_pin
+    preview: previews/Pins/Default/clancy_sad_pin.webp
+  - clancy_special_pin
+    preview: previews/Pins/Default/clancy_special_pin.webp
+    ... +1 more
 
 ## Sprays (1)
-- **Spray Clancy** → `previews/Sprays/All/Spray_Clancy.webp` brawler: clancy · clancy · png · spray
+  - spray_clancy
+    preview: previews/Sprays/All/spray_clancy.webp
 
-## Animations (2)
-- **Clancy Lose** → `previews/Animations/Defeat/Clancy_Lose.webp` animated · animations · brawler: clancy · clancy
-- **Clancy Win** → `previews/Animations/Victory/Clancy_Win.webp` animated · animations · brawler: clancy · clancy
-
-## UI (5)
-- **Icon Item Clancy 1** → `previews/UI/Icons/Icon_Item_Clancy_1.webp` brawler: clancy · clancy · icon · item
-- **Icon Item Clancy 2** → `previews/UI/Icons/Icon_Item_Clancy_2.webp` brawler: clancy · clancy · icon · item
-- **Icon Sp Clancy 1** → `previews/UI/Icons/Icon_Sp_Clancy_1.webp` brawler: clancy · clancy · icon · png
-- **Icon Sp Clancy 2** → `previews/UI/Icons/Icon_Sp_Clancy_2.webp` brawler: clancy · clancy · icon · png
-- **Profile Icon Clancy** → `previews/UI/Icons/Profile_Icon_Clancy.webp` brawler: clancy · clancy · icon · png
+## UI (1)
+  - profile_icon_clancy
+    preview: previews/UI/Icons/profile_icon_clancy.webp

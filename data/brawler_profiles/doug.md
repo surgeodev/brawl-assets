@@ -1,43 +1,58 @@
 # Doug
 Rarity: Mythic | Class: Support
-Total assets: 24
-Skins: Default, Gadget, Icon, Starpower, True
-
-`previews/Brawlers/doug/` — mythic brawler
+Total assets: 22
 
 
-## Brawlers (4)
-- **Doug** → `previews/Brawlers/Doug/Doug.webp` brawler: doug · brawler_render · brawlers · doug
-- **Doug Default 001** → `previews/Brawlers/Doug/Doug_Default_001.webp` brawler: doug · brawler_render · brawlers · default
-- **Doug True Gold Doug 001** → `previews/Brawlers/Doug/Doug_True_Gold_Doug_001.webp` brawler: doug · brawler_render · brawlers · doug
-- **Doug True Silver Doug 001** → `previews/Brawlers/Doug/Doug_True_Silver_Doug_001.webp` brawler: doug · brawler_render · brawlers · doug
+## Brawlers (8)
+  - doug
+    preview: previews/Brawlers/doug/doug.webp
+  - doug_default_001
+    preview: previews/Brawlers/doug/doug_default_001.webp
+  - doug_gadget_01
+    preview: previews/Brawlers/doug/doug_gadget_01.webp
+  - doug_gadget_02
+    preview: previews/Brawlers/doug/doug_gadget_02.webp
+  - doug_starpower_01
+    preview: previews/Brawlers/doug/doug_starpower_01.webp
+  - doug_starpower_02
+    preview: previews/Brawlers/doug/doug_starpower_02.webp
+  - doug_true_gold_doug_001
+    preview: previews/Brawlers/doug/doug_true_gold_doug_001.webp
+  - doug_true_silver_doug_001
+    preview: previews/Brawlers/doug/doug_true_silver_doug_001.webp
 
 ## Portraits (1)
-- **Doug Portrait** → `previews/Portraits/Doug/Doug_Portrait.webp` brawler: doug · doug · png · portrait
+  - doug_portrait
+    preview: previews/Portraits/Unknown/doug_portrait.webp
 
 ## Pins (10)
-- **Doug Man O War Pin** → `previews/Pins/Default/Doug_Man_O_War_Pin.webp` brawler: doug · doug · man · pin
-- **Doug Pin Angry** → `previews/Pins/Default/Doug_Pin_Angry.webp` anger · angry · brawler: doug · doug
-- **Doug Pin Clap** → `previews/Pins/Default/Doug_Pin_Clap.webp` approval · brawler: doug · clap · doug
-- **Doug Pin Facepalm** → `previews/Pins/Default/Doug_Pin_Facepalm.webp` brawler: doug · doug · facepalm · frustration
-- **Doug Pin Gg** → `previews/Pins/Default/Doug_Pin_Gg.webp` brawler: doug · doug · gg · pin
-- **Doug Pin Happy** → `previews/Pins/Default/Doug_Pin_Happy.webp` brawler: doug · doug · happy · joy
-- **Doug Pin Phew** → `previews/Pins/Default/Doug_Pin_Phew.webp` brawler: doug · doug · phew · pin
-- **Doug Pin Sad** → `previews/Pins/Default/Doug_Pin_Sad.webp` brawler: doug · doug · pin · pin_sad
-- **Doug Pin Special** → `previews/Pins/Default/Doug_Pin_Special.webp` brawler: doug · doug · pin · pin_special
-- **Doug Pin Thanks** → `previews/Pins/Default/Doug_Pin_Thanks.webp` brawler: doug · doug · gratitude · pin
+  - doug_man-o-war_pin
+    preview: previews/Pins/Default/doug_man-o-war_pin.webp
+  - doug_pin_angry
+    preview: previews/Pins/Angry/doug_pin_angry.webp
+  - doug_pin_clap
+    preview: previews/Pins/Clap/doug_pin_clap.webp
+  - doug_pin_facepalm
+    preview: previews/Pins/Facepalm/doug_pin_facepalm.webp
+  - doug_pin_gg
+    preview: previews/Pins/Gg/doug_pin_gg.webp
+  - doug_pin_happy
+    preview: previews/Pins/Happy/doug_pin_happy.webp
+  - doug_pin_phew
+    preview: previews/Pins/Phew/doug_pin_phew.webp
+  - doug_pin_sad
+    preview: previews/Pins/Sad/doug_pin_sad.webp
+  - doug_pin_special
+    preview: previews/Pins/Special/doug_pin_special.webp
+  - doug_pin_thanks
+    preview: previews/Pins/Thanks/doug_pin_thanks.webp
 
 ## Sprays (1)
-- **Spray Doug** → `previews/Sprays/All/Spray_Doug.webp` brawler: doug · doug · png · spray
+  - spray_doug
+    preview: previews/Sprays/All/spray_doug.webp
 
-## Animations (2)
-- **Doug Lose** → `previews/Animations/Defeat/Doug_Lose.webp` animated · animations · brawler: doug · defeat
-- **Doug Win** → `previews/Animations/Victory/Doug_Win.webp` animated · animations · brawler: doug · doug
-
-## UI (6)
-- **Doug Gadget 01** → `previews/UI/Gadgets/Doug_Gadget_01.webp` brawler: doug · doug · gadget · gadget_icon
-- **Doug Gadget 02** → `previews/UI/Gadgets/Doug_Gadget_02.webp` brawler: doug · doug · gadget · gadget_icon
-- **Doug Starpower 01** → `previews/UI/StarPowers/Doug_Starpower_01.webp` brawler: doug · doug · png · sci-fi
-- **Doug Starpower 02** → `previews/UI/StarPowers/Doug_Starpower_02.webp` brawler: doug · doug · png · sci-fi
-- **Profile Icon Doug Man O War** → `previews/UI/Icons/Profile_Icon_Doug_Man_O_War.webp` brawler: doug · doug · icon · man
-- **Profile Icon Doug1** → `previews/UI/Icons/Profile_Icon_Doug1.webp` doug1 · icon · png · profile
+## UI (2)
+  - profile_icon_doug1
+    preview: previews/UI/Icons/profile_icon_doug1.webp
+  - profile_icon_doug_man-o-war
+    preview: previews/UI/Icons/profile_icon_doug_man-o-war.webp

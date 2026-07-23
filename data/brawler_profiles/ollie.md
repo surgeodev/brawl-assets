@@ -2,12 +2,13 @@
 Rarity: Mythic | Class: Unknown
 Total assets: 3
 
-`previews/Brawlers/ollie/` — mythic brawler
-
 
 ## Brawlers (2)
-- **Ollie_bordered** → `previews/Brawlers/ollie/Ollie_bordered.webp` ollie · bordered · brawlify
-- **Ollie_borderless** → `previews/Brawlers/ollie/Ollie_borderless.webp` ollie · borderless · brawlify
+  - Ollie_bordered
+    preview: previews/Brawlers/ollie/Ollie_bordered.webp
+  - Ollie_borderless
+    preview: previews/Brawlers/ollie/Ollie_borderless.webp
 
 ## Emojis (1)
-- **Ollie_emoji** → `previews/Emojis/ollie/Ollie_emoji.webp` ollie · emoji · brawlify
+  - Ollie_emoji
+    preview: previews/Emojis/ollie/Ollie_emoji.webp

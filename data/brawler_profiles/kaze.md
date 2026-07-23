@@ -2,12 +2,13 @@
 Rarity: Ultra Legendary | Class: Unknown
 Total assets: 3
 
-`previews/Brawlers/kaze/` — ultra legendary brawler
-
 
 ## Brawlers (2)
-- **Kaze_bordered** → `previews/Brawlers/kaze/Kaze_bordered.webp` kaze · bordered · brawlify
-- **Kaze_borderless** → `previews/Brawlers/kaze/Kaze_borderless.webp` kaze · borderless · brawlify
+  - Kaze_bordered
+    preview: previews/Brawlers/kaze/Kaze_bordered.webp
+  - Kaze_borderless
+    preview: previews/Brawlers/kaze/Kaze_borderless.webp
 
 ## Emojis (1)
-- **Kaze_emoji** → `previews/Emojis/kaze/Kaze_emoji.webp` kaze · emoji · brawlify
+  - Kaze_emoji
+    preview: previews/Emojis/kaze/Kaze_emoji.webp

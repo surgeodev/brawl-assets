@@ -2,12 +2,13 @@
 Rarity: Epic | Class: Unknown
 Total assets: 3
 
-`previews/Brawlers/trunk/` — epic brawler
-
 
 ## Brawlers (2)
-- **Trunk_bordered** → `previews/Brawlers/trunk/Trunk_bordered.webp` trunk · bordered · brawlify
-- **Trunk_borderless** → `previews/Brawlers/trunk/Trunk_borderless.webp` trunk · borderless · brawlify
+  - Trunk_bordered
+    preview: previews/Brawlers/trunk/Trunk_bordered.webp
+  - Trunk_borderless
+    preview: previews/Brawlers/trunk/Trunk_borderless.webp
 
 ## Emojis (1)
-- **Trunk_emoji** → `previews/Emojis/trunk/Trunk_emoji.webp` trunk · emoji · brawlify
+  - Trunk_emoji
+    preview: previews/Emojis/trunk/Trunk_emoji.webp
