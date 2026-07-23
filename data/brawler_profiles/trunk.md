@@ -1,14 +1,24 @@
 # Trunk
 Rarity: Epic | Class: Unknown
-Total assets: 3
+Total assets: 5
 
 
-## Brawlers (2)
-  - Trunk_bordered
-    preview: previews/Brawlers/trunk/Trunk_bordered.webp
-  - Trunk_borderless
-    preview: previews/Brawlers/trunk/Trunk_borderless.webp
+## Brawlers (1)
+  - Trunk@4x
+    preview: previews/Brawlers/trunk@4x/Trunk@4x.webp
+
+## Pins (1)
+  - trunk_royale_trunk_happy_730
+    preview: previews/Pins/Default/trunk_royale_trunk_happy_730.webp
 
 ## Emojis (1)
-  - Trunk_emoji
-    preview: previews/Emojis/trunk/Trunk_emoji.webp
+  - emoji_trunk_sc
+    preview: previews/Emojis/All/emoji_trunk_sc.webp
+
+## Sprays (1)
+  - spray_trunk_clash
+    preview: previews/Sprays/All/spray_trunk_clash.webp
+
+## UI (1)
+  - player_icon_trunk_scstore
+    preview: previews/UI/Icons/player_icon_trunk_scstore.webp

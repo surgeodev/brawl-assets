@@ -1,78 +1,56 @@
 # Meg
 Rarity: Legendary | Class: Tank
-Total assets: 37
+Total assets: 22
 
 
-## Brawlers (13)
-  - Meg_Beetle_001
-    preview: previews/Brawlers/Meg/Meg_Beetle_001.webp
-  - Meg_Beettle_Mecha_002
-    preview: previews/Brawlers/Meg/Meg_Beettle_Mecha_002.webp
-  - Meg_Default_001
-    preview: previews/Brawlers/Meg/Meg_Default_001.webp
-  - Meg_Gold_Mecha_004
-    preview: previews/Brawlers/Meg/Meg_Gold_Mecha_004.webp
-  - Meg_Jaguar_Mecha_006
-    preview: previews/Brawlers/Meg/Meg_Jaguar_Mecha_006.webp
-  - Meg_Jaguar_Spirit_Meg_001
-    preview: previews/Brawlers/Meg/Meg_Jaguar_Spirit_Meg_001.webp
-  - Meg_Mecha_001
-    preview: previews/Brawlers/Meg/Meg_Mecha_001.webp
-  - Meg_Megalodon
-    preview: previews/Brawlers/Meg/Meg_Megalodon.webp
-  - Meg_Monster_Truck_Mecha_003
-    preview: previews/Brawlers/Meg/Meg_Monster_Truck_Mecha_003.webp
-  - Meg_Monster_Truck_Meg_001
-    preview: previews/Brawlers/Meg/Meg_Monster_Truck_Meg_001.webp
-    ... +3 more
+## Brawlers (7)
+  - Meg@4x
+    preview: previews/Brawlers/meg@4x/Meg@4x.webp
+  - _0016_megabossstvec_default_001
+    preview: previews/Brawlers//_0016_megabossstvec_default_001.webp
+  - _0017_megabossstdg_default_001
+    preview: previews/Brawlers//_0017_megabossstdg_default_001.webp
+  - buddy_icon_meg_bling@4x
+    preview: previews/Brawlers/buddy/buddy_icon_meg_bling@4x.webp
+  - buddy_icon_meg_gadget@4x
+    preview: previews/Brawlers/buddy/buddy_icon_meg_gadget@4x.webp
+  - buddy_icon_meg_hypercharge@4x
+    preview: previews/Brawlers/buddy/buddy_icon_meg_hypercharge@4x.webp
+  - buddy_icon_meg_star_power@4x
+    preview: previews/Brawlers/buddy/buddy_icon_meg_star_power@4x.webp
 
-## Portraits (1)
-  - Meg_Portrait
-    preview: previews/Portraits/Meg/Meg_Portrait.webp
+## Pins (6)
+  - emoji_twin_sandsoftime_gg
+    preview: previews/Pins/Gg/emoji_twin_sandsoftime_gg.webp
+  - meg_default_happy_092
+    preview: previews/Pins/Default/meg_default_happy_092.webp
+  - meg_default_happy_092 2
+    preview: previews/Pins/Default/meg_default_happy_092_2.webp
+  - meg_default_happy_092 3
+    preview: previews/Pins/Default/meg_default_happy_092_3.webp
+  - meg_mega_corporate_mecha_meg_happy_1434
+    preview: previews/Pins/Default/meg_mega_corporate_mecha_meg_happy_1434.webp
+  - meg_mega_mecha_meg_happy_1434
+    preview: previews/Pins/Default/meg_mega_mecha_meg_happy_1434.webp
 
-## Pins (13)
-  - Meg_Angry_Pin
-    preview: previews/Pins/Angry/Meg_Angry_Pin.webp
-  - Meg_Clap_Pin
-    preview: previews/Pins/Clap/Meg_Clap_Pin.webp
-  - Meg_Facepalm_Pin
-    preview: previews/Pins/Facepalm/Meg_Facepalm_Pin.webp
-  - Meg_Gg_Pin
-    preview: previews/Pins/GG/Meg_Gg_Pin.webp
-  - Meg_Happy_Pin
-    preview: previews/Pins/Happy/Meg_Happy_Pin.webp
-  - Meg_Jungle_Pin
-    preview: previews/Pins/Default/Meg_Jungle_Pin.webp
-  - Meg_Phew_Pin
-    preview: previews/Pins/Phew/Meg_Phew_Pin.webp
-  - Meg_Pin
-    preview: previews/Pins/Default/Meg_Pin.webp
-  - Meg_Pin_Cursed
-    preview: previews/Pins/Default/Meg_Pin_Cursed.webp
-  - Meg_Sad_Pin
-    preview: previews/Pins/Sad/Meg_Sad_Pin.webp
-    ... +3 more
+## Emojis (1)
+  - emoji_meg_nano
+    preview: previews/Emojis/All/emoji_meg_nano.webp
 
 ## Sprays (1)
-  - Meg_Spray_Cursed
-    preview: previews/Sprays/All/Meg_Spray_Cursed.webp
+  - spray_anime_gem
+    preview: previews/Sprays/All/spray_anime_gem.webp
 
-## UI (9)
-  - Meg1_Mastery
-    preview: previews/UI/Mastery/Meg1_Mastery.webp
-  - Meg2_Mastery
-    preview: previews/UI/Mastery/Meg2_Mastery.webp
-  - Meg3_Mastery
-    preview: previews/UI/Mastery/Meg3_Mastery.webp
-  - Meg4_Mastery
-    preview: previews/UI/Mastery/Meg4_Mastery.webp
-  - Meg5_Mastery
-    preview: previews/UI/Mastery/Meg5_Mastery.webp
-  - Meg_Gadget_01
-    preview: previews/UI/Gadgets/Meg_Gadget_01.webp
-  - Meg_Gadget_02
-    preview: previews/UI/Gadgets/Meg_Gadget_02.webp
-  - Meg_Starpower_01
-    preview: previews/UI/StarPowers/Meg_Starpower_01.webp
-  - Meg_Starpower_02
-    preview: previews/UI/StarPowers/Meg_Starpower_02.webp
+## UI (6)
+  - player_icon_anime_gem1
+    preview: previews/UI/Icons/player_icon_anime_gem1.webp
+  - player_icon_anime_gem2
+    preview: previews/UI/Icons/player_icon_anime_gem2.webp
+  - player_icon_anime_gem3
+    preview: previews/UI/Icons/player_icon_anime_gem3.webp
+  - player_icon_anime_gem4
+    preview: previews/UI/Icons/player_icon_anime_gem4.webp
+  - player_icon_anime_gem5
+    preview: previews/UI/Icons/player_icon_anime_gem5.webp
+  - player_icon_meg_cybernoodles
+    preview: previews/UI/Icons/player_icon_meg_cybernoodles.webp

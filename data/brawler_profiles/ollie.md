@@ -1,14 +1,8 @@
 # Ollie
 Rarity: Mythic | Class: Unknown
-Total assets: 3
+Total assets: 1
 
 
-## Brawlers (2)
-  - Ollie_bordered
-    preview: previews/Brawlers/ollie/Ollie_bordered.webp
-  - Ollie_borderless
-    preview: previews/Brawlers/ollie/Ollie_borderless.webp
-
-## Emojis (1)
-  - Ollie_emoji
-    preview: previews/Emojis/ollie/Ollie_emoji.webp
+## Brawlers (1)
+  - Ollie@4x
+    preview: previews/Brawlers/ollie@4x/Ollie@4x.webp
