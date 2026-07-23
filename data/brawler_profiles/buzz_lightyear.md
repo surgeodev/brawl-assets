@@ -3,12 +3,7 @@ Rarity: Legendary | Class: Unknown
 Total assets: 3
 
 
-## Brawlers (2)
-  - Buzz-Lightyear_bordered
-    preview: previews/Brawlers/buzz_lightyear/Buzz-Lightyear_bordered.webp
-  - Buzz-Lightyear_borderless
-    preview: previews/Brawlers/buzz_lightyear/Buzz-Lightyear_borderless.webp
-
-## Emojis (1)
-  - Buzz-Lightyear_emoji
-    preview: previews/Emojis/buzz_lightyear/Buzz-Lightyear_emoji.webp
+## Brawlers (3)
+  - buzz_lightyear_bordered
+  - buzz_lightyear_borderless
+  - buzz_lightyear_emoji
