@@ -41,21 +41,20 @@ jobs:
 
       - name: Download Fankit assets from mirror (fallback)
         run: |
+          rm -rf _raw_assets 2>/dev/null; rm -f _raw_assets 2>/dev/null
           mkdir -p _raw_assets
-          if [ -d _raw_assets ] && [ "$(ls -A _raw_assets 2>/dev/null)" ]; then
-            echo "Assets already present, skipping download"
-          else
-            echo "Downloading Fankit assets from mirror..."
-            curl -sL "https://github.com/LaptopCat/bs-fankit-rehosted/archive/refs/heads/main.tar.gz" \
-              -o /tmp/fankit.tar.gz
-            tar xzf /tmp/fankit.tar.gz -C /tmp
-            if [ -d "/tmp/bs-fankit-rehosted-main/assets" ]; then
-              cp -r /tmp/bs-fankit-rehosted-main/assets/* _raw_assets/ 2>/dev/null || true
+          echo "Downloading Fankit assets from mirror..."
+          curl -sL "https://github.com/LaptopCat/bs-fankit-rehosted/archive/refs/heads/main.tar.gz" \
+            -o /tmp/fankit.tar.gz
+          tar xzf /tmp/fankit.tar.gz -C /tmp
+          for d in game-assets assets; do
+            if [ -d "/tmp/bs-fankit-rehosted-main/$d" ]; then
+              cp -r "/tmp/bs-fankit-rehosted-main/$d/"* _raw_assets/ 2>/dev/null || true
             fi
-            echo "Assets after mirror download: $(find _raw_assets -type f | wc -l)"
-            rm -f /tmp/fankit.tar.gz
-            rm -rf /tmp/bs-fankit-rehosted-main
-          fi
+          done
+          echo "Assets after mirror download: $(find _raw_assets -type f | wc -l)"
+          rm -f /tmp/fankit.tar.gz
+          rm -rf /tmp/bs-fankit-rehosted-main
         continue-on-error: true
 
       - name: Try Playwright scrape (best effort)
@@ -72,6 +71,7 @@ jobs:
 
       - name: Generate WebP previews
         run: |
+          rm -f previews 2>/dev/null; rm -rf previews 2>/dev/null
           mkdir -p previews
           python scripts/build_previews.py
         timeout-minutes: 60
