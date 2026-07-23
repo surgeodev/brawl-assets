@@ -1,24 +1,28 @@
 # Mico
 Rarity: Mythic | Class: Assassin
-Total assets: 6
+Total assets: 10
 
 
-## Brawlers (1)
-  - Mico@4x
-    preview: previews/Brawlers/mico@4x/Mico@4x.webp
+## Brawlers (9)
+  - Gd_Mico_01
+    preview: previews/Brawlers/Mico/Gd_Mico_01.webp
+  - Gd_Mico_02
+    preview: previews/Brawlers/Mico/Gd_Mico_02.webp
+  - Mico_Grouch_Mico_Happy_254
+    preview: previews/Brawlers/Mico/Mico_Grouch_Mico_Happy_254.webp
+  - Mico_Macaron_Mico_Happy_294
+    preview: previews/Brawlers/Mico/Mico_Macaron_Mico_Happy_294.webp
+  - Mico_True_Gold_Mico_001
+    preview: previews/Brawlers/Mico/Mico_True_Gold_Mico_001.webp
+  - Mico_True_Silver_Mico_001
+    preview: previews/Brawlers/Mico/Mico_True_Silver_Mico_001.webp
+  - Mico_Wukong_Mico_Happy_1340
+    preview: previews/Brawlers/Mico/Mico_Wukong_Mico_Happy_1340.webp
+  - Sp_Mico_01
+    preview: previews/Brawlers/Mico/Sp_Mico_01.webp
+  - Sp_Mico_02
+    preview: previews/Brawlers/Mico/Sp_Mico_02.webp
 
-## Pins (3)
-  - mico_earth_master_mico_happy_145
-    preview: previews/Pins/Default/mico_earth_master_mico_happy_145.webp
-  - mico_fire_master_mico_happy_145
-    preview: previews/Pins/Default/mico_fire_master_mico_happy_145.webp
-  - mico_master_mico_happy_145
-    preview: previews/Pins/Default/mico_master_mico_happy_145.webp
-
-## Emojis (1)
-  - emoji_mico_nano
-    preview: previews/Emojis/All/emoji_mico_nano.webp
-
-## UI (1)
-  - player_icon_mico_katana
-    preview: previews/UI/Icons/player_icon_mico_katana.webp
+## Portraits (1)
+  - Portrait_Brawler_Mico
+    preview: previews/Portraits/Mico/Portrait_Brawler_Mico.webp

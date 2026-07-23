@@ -1,6 +1,6 @@
 # Glowy
 Rarity: Mythic | Class: Unknown
-Total assets: 4
+Total assets: 3
 
 
 ## Brawlers (2)
@@ -12,7 +12,3 @@ Total assets: 4
 ## Emojis (1)
   - Glowy_emoji
     preview: previews/Emojis/glowy/Glowy_emoji.webp
-
-## Sprays (1)
-  - spray_overcharge_glowy
-    preview: previews/Sprays/All/spray_overcharge_glowy.webp
