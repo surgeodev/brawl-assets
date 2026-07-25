@@ -88,32 +88,39 @@ def main():
         tokens = list(dict.fromkeys(tokens))
         print(f"    Unique tokens: {len(tokens)}", flush=True)
 
-        # Fetch viewer metadata for ALL tokens
+        # Fetch viewer metadata for ALL tokens (Promise.all = parallel = fast)
         print(f"\n[2] Fetching viewer metadata for {len(tokens)} tokens...", flush=True)
         all_assets = []
-        for i in range(0, len(tokens), 50):
-            batch = tokens[i:i+50]
+        batch_size = 100
+        for i in range(0, len(tokens), batch_size):
+            batch = tokens[i:i+batch_size]
             batch_assets = page.evaluate(f"""
                 async (tokens) => {{
-                    const results = [];
-                    for (const token of tokens) {{
+                    const results = await Promise.all(tokens.map(async (token) => {{
                         try {{
                             const r = await fetch('{FANKIT}/api/viewer/data/' + token + '?document_id={DOC_ID}');
                             const d = await r.json();
-                            if (d.success && d.asset) {{
-                                results.push(d.asset);
-                            }}
+                            if (d.success && d.asset) return d.asset;
                         }} catch(e) {{}}
-                    }}
-                    return results;
+                        return null;
+                    }}));
+                    return results.filter(Boolean);
                 }}
             """, batch)
             if batch_assets:
                 all_assets.extend(batch_assets)
-            if (i + 50) % 500 == 0 or i + 50 >= len(tokens):
-                print(f"    [{min(i+50, len(tokens))}/{len(tokens)}] got={len(all_assets)}", flush=True)
+            # Save incrementally every 500
+            if len(all_assets) % 500 < batch_size:
+                with open(META_FILE, "w") as f:
+                    json.dump({
+                        "total": total, "tokens_count": len(tokens),
+                        "assets_count": len(all_assets), "assets": all_assets,
+                        "fetched_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                        "partial": True,
+                    }, f, indent=2)
+                print(f"    [{min(i+batch_size, len(tokens))}/{len(tokens)}] got={len(all_assets)} (saved)", flush=True)
 
-        # Save metadata
+        # Final save
         with open(META_FILE, "w") as f:
             json.dump({
                 "total": total, "tokens_count": len(tokens),
