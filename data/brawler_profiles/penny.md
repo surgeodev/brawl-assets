@@ -1,19 +1,27 @@
 # Penny
 Rarity: Super Rare | Class: Artillery
-Total assets: 18
+Total assets: 29
 
 
-## Brawlers (6)
+## Brawlers (14)
   - Penny@4x
   - _0008_penny_archer_queen_penny_001
   - _0014_penny_truant_penny_001
+  - penny_bunny_penny_001
+  - penny_dark_bunny_penny_001
+  - penny_default_001
+  - penny_lil_helper_penny_001
+  - penny_lil_helper_penny_002
   - penny_moon-curser_penny_1688
   - penny_pop_penny_001
-  - penny_robo_penny_001
+    ... +4 more
 
-## Pins (3)
+## Pins (6)
+  - penny_ghost_pin
   - penny_hypercharge_pin
   - penny_moon_curser_pin
+  - penny_pin_pl
+  - penny_smuggler_001
   - penny_toy_pin
 
 ## Emojis (2)

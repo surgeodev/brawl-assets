@@ -1,6 +1,6 @@
 # Belle
 Rarity: Epic | Class: Marksman
-Total assets: 16
+Total assets: 17
 
 
 ## Brawlers (4)
@@ -9,12 +9,13 @@ Total assets: 16
   - Belle@4x
   - belle_hypercharge
 
-## Pins (5)
+## Pins (6)
   - _0039_belle_dragoon_belle_happy_296
   - _0042_belle_knight_belle_happy_262
   - belle_default_happy_168
   - belle_hypercharge_pin
   - belle_scmake_pin_pin
+  - pin_esports_belle
 
 ## Emojis (1)
   - emoji_belle_fantasy

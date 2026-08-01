@@ -1,6 +1,6 @@
 # Mico
 Rarity: Mythic | Class: Assassin
-Total assets: 57
+Total assets: 60
 
 
 ## Brawlers (9)
@@ -13,6 +13,9 @@ Total assets: 57
   - mico_nano
   - mico_true_gold_mico_001
   - mico_true_silver_mico_001
+
+## Portraits (1)
+  - portrait_brawler_mico
 
 ## Pins (7)
   - mico_default_happy
@@ -41,7 +44,7 @@ Total assets: 57
   - spray_mico_wukong
   - spray_overcharge_mico
 
-## UI (15)
+## UI (17)
   - emblem_icon_00
   - emblem_icon_01
   - emblem_icon_02
@@ -52,4 +55,4 @@ Total assets: 57
   - emblem_icon_05
   - emblem_icon_06
   - emblem_icon_07
-    ... +5 more
+    ... +7 more

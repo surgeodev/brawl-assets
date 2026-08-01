@@ -1,21 +1,23 @@
 # Sam
 Rarity: Epic | Class: Assassin
-Total assets: 16
+Total assets: 18
 
 
-## Brawlers (4)
+## Brawlers (5)
   - SAM’S
   - Sam@4x
   - nano_samurai
+  - sam_dark_clown_sam_258
   - sam_peaky_sam_002
 
 ## Pins (2)
   - sam_spectaculor_sam_happy_438
   - sam_super_pin
 
-## Emojis (3)
+## Emojis (4)
   - emoji_feudaljapan_samuraisushi
   - emoji_nano_samurai
+  - emoji_sam_circus
   - emoji_sam_steampunk
 
 ## Sprays (2)

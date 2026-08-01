@@ -1,20 +1,20 @@
 # Eve
 Rarity: Mythic | Class: Damage Dealer
-Total assets: 74
+Total assets: 86
 
 
-## Brawlers (11)
+## Brawlers (19)
   - Eve@4x
   - achievements_dot
+  - eve_baiku_eve_001
+  - eve_default_001
   - eve_extraterrestrial_eve_001
   - eve_hypercharge
   - eve_mothra_eve_272
-  - event_banner_drumroll_240x240
-  - event_banner_mirrormatch_240x240
-  - event_banner_paintball_240x240
-  - img_reverse_blue
-  - img_reverse_red
-    ... +1 more
+  - eve_spiky_eve_001
+  - eve_true_gold_eve_001
+  - eve_true_silver_eve_001
+    ... +9 more
 
 ## Pins (14)
   - eve_cored_eve_happy_360
@@ -36,7 +36,7 @@ Total assets: 74
   - spray_event_sb_patty
   - spray_event_sb_sponge
 
-## Backgrounds (24)
+## Backgrounds (28)
   - achievements_bg_base_active
   - achievements_bg_base_claim_reward
   - achievements_bg_base_claimed
@@ -47,7 +47,7 @@ Total assets: 74
   - achievements_bg_reward_locked
   - achievements_bg_tab1_active
   - achievements_bg_tab1_claim_reward
-    ... +14 more
+    ... +18 more
 
 ## UI (20)
   - button_event_shop

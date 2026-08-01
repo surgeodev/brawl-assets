@@ -1,6 +1,6 @@
 # Brock
 Rarity: Rare | Class: Marksman
-Total assets: 85
+Total assets: 89
 
 
 ## Brawlers (20)
@@ -20,7 +20,7 @@ Total assets: 85
   - BS_Portrait_BROCK-CYBERPUNK_Export_V3
   - brock_portrait
 
-## Pins (33)
+## Pins (35)
   - brock_angry_pin
   - brock_boom_box_pin
   - brock_corrupted_brock_happy_436
@@ -31,7 +31,7 @@ Total assets: 85
   - brock_hacker_pin
   - brock_happy_pin
   - brock_hypercharge_pin
-    ... +23 more
+    ... +25 more
 
 ## Emojis (12)
   - emoji_brock_nano
@@ -51,7 +51,7 @@ Total assets: 85
   - spray_brock_propass
   - spray_brock_steampunk
 
-## UI (15)
+## UI (17)
   - Brock Button Meme
   - buddy_icon_brock_bling@4x
   - buddy_icon_brock_gadget@4x
@@ -60,6 +60,6 @@ Total assets: 85
   - icon_game_mode_boss_brock
   - player_icon_brock_liondance
   - player_icon_brock_propass
+  - player_icon_brock_retro
   - player_icon_brock_steampunk
-  - profile_icon_brock_line
-    ... +5 more
+    ... +7 more

@@ -1,6 +1,6 @@
 # Darryl
 Rarity: Super Rare | Class: Tank
-Total assets: 16
+Total assets: 18
 
 
 ## Brawlers (3)
@@ -8,12 +8,14 @@ Total assets: 16
   - darryl_D4RRY1
   - darryl_pop_up_darryl_001
 
-## Pins (5)
+## Pins (7)
   - _0028_darryl_plankton_darryl_happy_354
   - _0033_darryl_sheepish_darryl_happy_798
   - darryl_dumpling_pin
   - darryl_hypercharge_pin
+  - darryl_lastbox_gg_pin
   - darryl_sb_pin
+  - darryl_special_pin
 
 ## Emojis (2)
   - emoji_darryl_d4r

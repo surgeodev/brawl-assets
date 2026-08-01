@@ -1067,7 +1067,7 @@
     "class": "Damage Dealer",
     "color": "#fe5e72",
     "preview_dir": "lumi",
-    "total_assets": 30,
+    "total_assets": 33,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -1099,18 +1099,21 @@
         "fa90460",
         "fa90459",
         "fa90458",
-        "fa90457"
+        "fa90457",
+        "fa61114"
       ],
       "Portraits": [
         "fa90359"
       ],
       "Sprays": [
         "fa100123",
-        "fa90599"
+        "fa90599",
+        "fa61016"
       ],
       "UI": [
         "fa121519",
-        "fa90930"
+        "fa90930",
+        "fa62988"
       ]
     }
   },
@@ -1709,7 +1712,7 @@
     "class": "Tank",
     "color": "#fff11ev",
     "preview_dir": "draco",
-    "total_assets": 41,
+    "total_assets": 42,
     "skins": [],
     "asset_types": {
       "Backgrounds": [
@@ -1721,7 +1724,8 @@
         "fa72774",
         "fa72744",
         "fa72464",
-        "fa72463"
+        "fa72463",
+        "fa61283"
       ],
       "Emojis": [
         "fa120803",
@@ -1993,7 +1997,7 @@
     "class": "Assassin",
     "color": "#fe5e72",
     "preview_dir": "mico",
-    "total_assets": 57,
+    "total_assets": 60,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2041,6 +2045,9 @@
         "fa65425",
         "fa65424"
       ],
+      "Portraits": [
+        "fa64296"
+      ],
       "Sprays": [
         "fa64459",
         "fa64453",
@@ -2061,7 +2068,9 @@
         "fa105089",
         "fa105088",
         "fa64443",
-        "fa64442"
+        "fa64442",
+        "fa64366",
+        "fa64359"
       ]
     }
   },
@@ -2071,7 +2080,7 @@
     "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "charlie",
-    "total_assets": 19,
+    "total_assets": 29,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2079,7 +2088,12 @@
         "fa121492",
         "fa72741",
         "fa72740",
-        "fa72739"
+        "fa72739",
+        "fa63880",
+        "fa63656",
+        "fa63655",
+        "fa63654",
+        "fa63653"
       ],
       "Emojis": [
         "fa120823"
@@ -2093,15 +2107,22 @@
         "fa72364",
         "fa72363",
         "fa72362",
-        "fa72361"
+        "fa72361",
+        "fa63883",
+        "fa63882"
+      ],
+      "Portraits": [
+        "fa63619"
       ],
       "Sprays": [
-        "fa72324"
+        "fa72324",
+        "fa63659"
       ],
       "UI": [
         "fa121530",
         "fa76673",
-        "fa72232"
+        "fa72232",
+        "fa63640"
       ]
     }
   },
@@ -2111,14 +2132,22 @@
     "class": "Damage Dealer",
     "color": "#fe5e72",
     "preview_dir": "chuck",
-    "total_assets": 20,
+    "total_assets": 42,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa134975",
         "fa72743",
         "fa72742",
-        "fa67817"
+        "fa67817",
+        "fa63132",
+        "fa63129",
+        "fa63073",
+        "fa63071",
+        "fa62959",
+        "fa62958",
+        "fa62957",
+        "fa62956"
       ],
       "Emojis": [
         "fa99795"
@@ -2134,15 +2163,31 @@
         "fa67709",
         "fa67708",
         "fa67702",
-        "fa67701"
+        "fa67701",
+        "fa63072",
+        "fa63070",
+        "fa63069",
+        "fa63068",
+        "fa63067",
+        "fa63066",
+        "fa63065",
+        "fa63064",
+        "fa63063"
+      ],
+      "Portraits": [
+        "fa62952"
       ],
       "Sprays": [
         "fa100119",
-        "fa67750"
+        "fa67750",
+        "fa63024"
       ],
       "UI": [
         "fa90905",
-        "fa67926"
+        "fa67926",
+        "fa63014",
+        "fa63013",
+        "fa62983"
       ]
     }
   },
@@ -2152,28 +2197,65 @@
     "class": "Damage Dealer",
     "color": "#d850ff",
     "preview_dir": "pearl",
-    "total_assets": 10,
+    "total_assets": 45,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa135033",
         "fa69360",
-        "fa69359"
+        "fa69359",
+        "fa63131",
+        "fa63130",
+        "fa63120",
+        "fa63119",
+        "fa63116",
+        "fa62973",
+        "fa62925",
+        "fa62924"
       ],
       "Emojis": [
         "fa104882"
       ],
       "Pins": [
         "fa77534",
-        "fa76443"
+        "fa76443",
+        "fa63102",
+        "fa63039",
+        "fa62949",
+        "fa62948",
+        "fa62947",
+        "fa62946",
+        "fa62945",
+        "fa62944",
+        "fa62943",
+        "fa62942",
+        "fa62941",
+        "fa62940",
+        "fa62939",
+        "fa62938",
+        "fa62937",
+        "fa62936",
+        "fa62935",
+        "fa62933",
+        "fa62932"
+      ],
+      "Portraits": [
+        "fa62917"
       ],
       "Sprays": [
         "fa120915",
-        "fa104940"
+        "fa104940",
+        "fa63019",
+        "fa62922"
       ],
       "UI": [
         "fa104753",
-        "fa90942"
+        "fa90942",
+        "fa63010",
+        "fa63004",
+        "fa62995",
+        "fa62927",
+        "fa62926"
       ]
     }
   },
@@ -2183,14 +2265,20 @@
     "class": "Support",
     "color": "#fe5e72",
     "preview_dir": "doug",
-    "total_assets": 15,
+    "total_assets": 35,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa135709",
         "fa134982",
         "fa69356",
-        "fa69355"
+        "fa69355",
+        "fa61286",
+        "fa61282",
+        "fa61279",
+        "fa61278",
+        "fa61277",
+        "fa61266"
       ],
       "Emojis": [
         "fa135601",
@@ -2200,16 +2288,32 @@
       "Pins": [
         "fa135793",
         "fa99907",
-        "fa74779"
+        "fa74779",
+        "fa61276",
+        "fa61275",
+        "fa61274",
+        "fa61273",
+        "fa61272",
+        "fa61271",
+        "fa61270",
+        "fa61269",
+        "fa61268"
+      ],
+      "Portraits": [
+        "fa60968"
       ],
       "Sprays": [
         "fa134812",
-        "fa100120"
+        "fa100120",
+        "fa61284"
       ],
       "UI": [
         "fa135144",
         "fa100079",
-        "fa74926"
+        "fa74926",
+        "fa61281",
+        "fa61280",
+        "fa61267"
       ]
     }
   },
@@ -2219,7 +2323,7 @@
     "class": "Assassin",
     "color": "#fff11ev",
     "preview_dir": "cordelius",
-    "total_assets": 30,
+    "total_assets": 65,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2231,7 +2335,16 @@
         "fa69354",
         "fa69353",
         "fa67982",
-        "fa67829"
+        "fa67829",
+        "fa63091",
+        "fa61141",
+        "fa61140",
+        "fa61139",
+        "fa61137",
+        "fa61135",
+        "fa61134",
+        "fa61027",
+        "fa61026"
       ],
       "Emojis": [
         "fa135600",
@@ -2251,16 +2364,44 @@
         "fa80015",
         "fa80014",
         "fa80013",
-        "fa67658"
+        "fa67658",
+        "fa63074",
+        "fa61065",
+        "fa61064",
+        "fa61063",
+        "fa61062",
+        "fa61061",
+        "fa61060",
+        "fa61059",
+        "fa61058",
+        "fa61057",
+        "fa61047",
+        "fa61046",
+        "fa61045",
+        "fa61044",
+        "fa61043",
+        "fa61042",
+        "fa61041",
+        "fa61040",
+        "fa61039"
+      ],
+      "Portraits": [
+        "fa60969"
       ],
       "Sprays": [
         "fa79958",
-        "fa67760"
+        "fa67760",
+        "fa63025",
+        "fa61001"
       ],
       "UI": [
         "fa135142",
         "fa90910",
-        "fa67928"
+        "fa67928",
+        "fa62985",
+        "fa61122",
+        "fa61029",
+        "fa61028"
       ]
     }
   },
@@ -2270,7 +2411,7 @@
     "class": "Tank",
     "color": "#d850ff",
     "preview_dir": "hank",
-    "total_assets": 69,
+    "total_assets": 99,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2282,7 +2423,12 @@
         "fa104788",
         "fa96928",
         "fa96918",
-        "fa96908"
+        "fa96908",
+        "fa63124",
+        "fa60889",
+        "fa60882",
+        "fa60495",
+        "fa60494"
       ],
       "Emojis": [
         "fa150298",
@@ -2314,7 +2460,12 @@
         "fa95616",
         "fa65594",
         "fa65078",
-        "fa64965"
+        "fa64965",
+        "fa63751",
+        "fa63746",
+        "fa63737",
+        "fa63696",
+        "fa63693"
       ],
       "Pins": [
         "fa90556",
@@ -2341,16 +2492,38 @@
         "fa67706",
         "fa67689",
         "fa67683",
-        "fa67642"
+        "fa67642",
+        "fa63075",
+        "fa63060",
+        "fa61096",
+        "fa61074",
+        "fa60453",
+        "fa60452",
+        "fa60451",
+        "fa60450",
+        "fa60449",
+        "fa60448",
+        "fa60447",
+        "fa60446",
+        "fa60445",
+        "fa60444"
+      ],
+      "Portraits": [
+        "fa60533"
       ],
       "Sprays": [
         "fa104953",
-        "fa90593"
+        "fa90593",
+        "fa63027"
       ],
       "UI": [
         "fa150464",
         "fa104759",
-        "fa64432"
+        "fa64432",
+        "fa62990",
+        "fa60526",
+        "fa60491",
+        "fa60490"
       ]
     }
   },
@@ -2360,7 +2533,7 @@
     "class": "Marksman",
     "color": "#d850ff",
     "preview_dir": "maisie",
-    "total_assets": 14,
+    "total_assets": 48,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2369,23 +2542,59 @@
         "fa80259",
         "fa80258",
         "fa69358",
-        "fa69357"
+        "fa69357",
+        "fa63122",
+        "fa60886",
+        "fa60885",
+        "fa60497",
+        "fa60496"
       ],
       "Emojis": [
-        "fa135675"
+        "fa135675",
+        "fa63728"
       ],
       "Pins": [
         "fa135785",
         "fa80053",
         "fa80052",
-        "fa80051"
+        "fa80051",
+        "fa63077",
+        "fa60471",
+        "fa60470",
+        "fa60469",
+        "fa60468",
+        "fa60467",
+        "fa60466",
+        "fa60465",
+        "fa60464",
+        "fa60463",
+        "fa60462",
+        "fa60461",
+        "fa60460",
+        "fa60459",
+        "fa60458",
+        "fa60457",
+        "fa60456",
+        "fa60455",
+        "fa60454"
+      ],
+      "Portraits": [
+        "fa60534"
       ],
       "Sprays": [
-        "fa134821"
+        "fa134821",
+        "fa63670",
+        "fa63029"
       ],
       "UI": [
         "fa86679",
-        "fa80117"
+        "fa80117",
+        "fa63878",
+        "fa63872",
+        "fa62992",
+        "fa60527",
+        "fa60493",
+        "fa60492"
       ]
     }
   },
@@ -2395,7 +2604,7 @@
     "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "willow",
-    "total_assets": 14,
+    "total_assets": 22,
     "skins": [],
     "asset_types": {
       "Backgrounds": [
@@ -2407,22 +2616,30 @@
         "fa95434",
         "fa80275",
         "fa72765",
-        "fa72764"
+        "fa72764",
+        "fa63112",
+        "fa60888",
+        "fa60884",
+        "fa58981",
+        "fa58980"
       ],
       "Emojis": [
         "fa125674",
         "fa95700"
       ],
       "Pins": [
-        "fa80080"
+        "fa80080",
+        "fa63081"
       ],
       "Sprays": [
         "fa125720",
-        "fa95565"
+        "fa95565",
+        "fa63038"
       ],
       "UI": [
         "fa125665",
-        "fa80127"
+        "fa80127",
+        "fa63000"
       ]
     }
   },
@@ -2432,11 +2649,14 @@
     "class": "Damage Dealer",
     "color": "#fe5e72",
     "preview_dir": "rt",
-    "total_assets": 131,
+    "total_assets": 145,
     "skins": [],
     "asset_types": {
       "Backgrounds": [
-        "fa125764"
+        "fa125764",
+        "fa64272",
+        "fa64268",
+        "fa64263"
       ],
       "Brawlers": [
         "fa158757",
@@ -2468,7 +2688,12 @@
         "fa69362",
         "fa69361",
         "fa67997",
-        "fa67963"
+        "fa67963",
+        "fa64337",
+        "fa63634",
+        "fa60887",
+        "fa60883",
+        "fa60536"
       ],
       "Emojis": [
         "fa158506",
@@ -2511,7 +2736,8 @@
       "LoadingScreens": [
         "fa150142",
         "fa96619",
-        "fa79968"
+        "fa79968",
+        "fa64212"
       ],
       "Pins": [
         "fa157698",
@@ -2533,7 +2759,9 @@
         "fa76420",
         "fa74786",
         "fa72446",
-        "fa67985"
+        "fa67985",
+        "fa61115",
+        "fa60443"
       ],
       "Portraits": [
         "fa150277",
@@ -2555,7 +2783,8 @@
         "fa74744",
         "fa74739",
         "fa67756",
-        "fa64448"
+        "fa64448",
+        "fa61014"
       ],
       "UI": [
         "fa126217",
@@ -2580,7 +2809,9 @@
         "fa72241",
         "fa67991",
         "fa67959",
-        "fa67953"
+        "fa67953",
+        "fa64330",
+        "fa60512"
       ]
     }
   },
@@ -2590,14 +2821,15 @@
     "class": "Marksman",
     "color": "#d850ff",
     "preview_dir": "mandy",
-    "total_assets": 19,
+    "total_assets": 23,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa135016",
         "fa121475",
         "fa121474",
-        "fa95463"
+        "fa95463",
+        "fa63121"
       ],
       "Emojis": [
         "fa120879",
@@ -2610,17 +2842,20 @@
         "fa90514",
         "fa90467",
         "fa77551",
-        "fa76472"
+        "fa76472",
+        "fa63078"
       ],
       "Sprays": [
         "fa90600",
-        "fa90595"
+        "fa90595",
+        "fa63030"
       ],
       "UI": [
         "fa121501",
         "fa90932",
         "fa90931",
-        "fa76690"
+        "fa76690",
+        "fa62993"
       ]
     }
   },
@@ -2663,14 +2898,19 @@
     "class": "Damage Dealer",
     "color": "#fff11ev",
     "preview_dir": "chester",
-    "total_assets": 16,
+    "total_assets": 24,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa134974",
         "fa90370",
         "fa67824",
-        "fa66367"
+        "fa66367",
+        "fa60987",
+        "fa58784",
+        "fa58783",
+        "fa58782",
+        "fa58781"
       ],
       "Emojis": [
         "fa104852"
@@ -2680,17 +2920,20 @@
         "fa90510",
         "fa90435",
         "fa77571",
-        "fa67653"
+        "fa67653",
+        "fa61080"
       ],
       "Sprays": [
-        "fa90591"
+        "fa90591",
+        "fa61000"
       ],
       "UI": [
         "fa104796",
         "fa104765",
         "fa90904",
         "fa76674",
-        "fa67925"
+        "fa67925",
+        "fa61121"
       ]
     }
   },
@@ -2700,7 +2943,7 @@
     "class": "Tank",
     "color": "#fe5e72",
     "preview_dir": "buster",
-    "total_assets": 19,
+    "total_assets": 22,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2718,7 +2961,8 @@
         "fa91164",
         "fa90433",
         "fa74770",
-        "fa72405"
+        "fa72405",
+        "fa60474"
       ],
       "Sprays": [
         "fa90589",
@@ -2730,7 +2974,9 @@
         "fa95589",
         "fa90900",
         "fa74880",
-        "fa72262"
+        "fa72262",
+        "fa60522",
+        "fa60521"
       ]
     }
   },
@@ -2740,7 +2986,7 @@
     "class": "Support",
     "color": "#5ab3ff",
     "preview_dir": "gus",
-    "total_assets": 16,
+    "total_assets": 18,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2748,7 +2994,9 @@
         "fa134998",
         "fa121489",
         "fa95435",
-        "fa67814"
+        "fa67814",
+        "fa63784",
+        "fa58793"
       ],
       "Emojis": [
         "fa150252",
@@ -2775,19 +3023,21 @@
     "class": "Assassin",
     "color": "#d850ff",
     "preview_dir": "sam",
-    "total_assets": 16,
+    "total_assets": 18,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa158767",
         "fa135040",
         "fa125565",
-        "fa90378"
+        "fa90378",
+        "fa63789"
       ],
       "Emojis": [
         "fa158502",
         "fa125552",
-        "fa95622"
+        "fa95622",
+        "fa63754"
       ],
       "Pins": [
         "fa91264",
@@ -2812,7 +3062,7 @@
     "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "otis",
-    "total_assets": 13,
+    "total_assets": 14,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2836,7 +3086,8 @@
       "UI": [
         "fa150174",
         "fa90940",
-        "fa80121"
+        "fa80121",
+        "fa64425"
       ]
     }
   },
@@ -2846,7 +3097,7 @@
     "class": "Marksman",
     "color": "#d850ff",
     "preview_dir": "bonnie",
-    "total_assets": 21,
+    "total_assets": 26,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2855,7 +3106,12 @@
         "fa135750",
         "fa134966",
         "fa85943",
-        "fa66359"
+        "fa66359",
+        "fa60979",
+        "fa60972",
+        "fa59164",
+        "fa59163",
+        "fa59162"
       ],
       "Emojis": [
         "fa135653",
@@ -2888,7 +3144,7 @@
     "class": "Marksman",
     "color": "#fe5e72",
     "preview_dir": "janet",
-    "total_assets": 18,
+    "total_assets": 27,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2896,7 +3152,9 @@
         "fa135001",
         "fa104787",
         "fa86284",
-        "fa85956"
+        "fa85956",
+        "fa63123",
+        "fa60981"
       ],
       "Emojis": [
         "fa150253",
@@ -2907,17 +3165,24 @@
         "fa91239",
         "fa90455",
         "fa86590",
-        "fa86531"
+        "fa86531",
+        "fa63076",
+        "fa61083",
+        "fa60911"
       ],
       "Sprays": [
-        "fa150120"
+        "fa150120",
+        "fa63028",
+        "fa61004"
       ],
       "UI": [
         "fa150180",
         "fa104758",
         "fa90924",
         "fa86668",
-        "fa74897"
+        "fa74897",
+        "fa62991",
+        "fa61128"
       ]
     }
   },
@@ -2927,7 +3192,7 @@
     "class": "Damage Dealer",
     "color": "#fe5e72",
     "preview_dir": "eve",
-    "total_assets": 74,
+    "total_assets": 86,
     "skins": [],
     "asset_types": {
       "Backgrounds": [
@@ -2954,7 +3219,11 @@
         "fa76424",
         "fa72308",
         "fa72307",
-        "fa72141"
+        "fa72141",
+        "fa64274",
+        "fa64273",
+        "fa64269",
+        "fa63632"
       ],
       "Brawlers": [
         "fa158731",
@@ -2967,7 +3236,15 @@
         "fa75088",
         "fa74738",
         "fa74737",
-        "fa72745"
+        "fa72745",
+        "fa64328",
+        "fa64270",
+        "fa60500",
+        "fa58789",
+        "fa58788",
+        "fa58787",
+        "fa58786",
+        "fa58785"
       ],
       "Pins": [
         "fa157562",
@@ -3022,7 +3299,7 @@
     "class": "Assassin",
     "color": "#fe5e72",
     "preview_dir": "fang",
-    "total_assets": 29,
+    "total_assets": 39,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3030,13 +3307,20 @@
         "fa134987",
         "fa72746",
         "fa67816",
-        "fa67815"
+        "fa67815",
+        "fa63781",
+        "fa58887",
+        "fa58886",
+        "fa58885",
+        "fa58884",
+        "fa58883"
       ],
       "Emojis": [
         "fa150254",
         "fa99812",
         "fa64980",
-        "fa64922"
+        "fa64922",
+        "fa63707"
       ],
       "Pins": [
         "fa150117",
@@ -3062,7 +3346,10 @@
         "fa67934",
         "fa67933",
         "fa64439",
-        "fa64438"
+        "fa64438",
+        "fa64418",
+        "fa64364",
+        "fa64361"
       ]
     }
   },
@@ -3072,24 +3359,33 @@
     "class": "Damage Dealer",
     "color": "#d850ff",
     "preview_dir": "lola",
-    "total_assets": 8,
+    "total_assets": 15,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa135013",
         "fa85963",
         "fa80257",
-        "fa66374"
+        "fa66374",
+        "fa63786",
+        "fa63785"
+      ],
+      "Emojis": [
+        "fa63726",
+        "fa63725"
       ],
       "Pins": [
         "fa86538"
       ],
       "Sprays": [
-        "fa90594"
+        "fa90594",
+        "fa63663"
       ],
       "UI": [
         "fa86678",
-        "fa80115"
+        "fa80115",
+        "fa63651",
+        "fa63644"
       ]
     }
   },
@@ -3099,7 +3395,7 @@
     "class": "Tank",
     "color": "#fff11ev",
     "preview_dir": "meg",
-    "total_assets": 30,
+    "total_assets": 37,
     "skins": [],
     "asset_types": {
       "Backgrounds": [
@@ -3111,7 +3407,9 @@
         "fa121498",
         "fa121497",
         "fa95490",
-        "fa95466"
+        "fa95466",
+        "fa60970",
+        "fa58834"
       ],
       "Emojis": [
         "fa158513",
@@ -3131,12 +3429,15 @@
         "fa91261",
         "fa90515",
         "fa74813",
-        "fa72386"
+        "fa72386",
+        "fa61085",
+        "fa60486"
       ],
       "Sprays": [
         "fa150149",
         "fa90601",
-        "fa90596"
+        "fa90596",
+        "fa61006"
       ],
       "UI": [
         "fa157595",
@@ -3144,7 +3445,9 @@
         "fa157593",
         "fa157592",
         "fa95493",
-        "fa74940"
+        "fa74940",
+        "fa61130",
+        "fa60515"
       ]
     }
   },
@@ -3154,7 +3457,7 @@
     "class": "Tank",
     "color": "#d850ff",
     "preview_dir": "ash",
-    "total_assets": 24,
+    "total_assets": 33,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3164,7 +3467,13 @@
         "fa95488",
         "fa95471",
         "fa86291",
-        "fa80246"
+        "fa80246",
+        "fa58983",
+        "fa58825",
+        "fa58824",
+        "fa58823",
+        "fa58822",
+        "fa58821"
       ],
       "Emojis": [
         "fa158458",
@@ -3179,10 +3488,12 @@
         "fa90478",
         "fa90426",
         "fa86587",
-        "fa80010"
+        "fa80010",
+        "fa60902"
       ],
       "Sprays": [
-        "fa150085"
+        "fa150085",
+        "fa61019"
       ],
       "UI": [
         "fa134932",
@@ -3191,7 +3502,8 @@
         "fa77486",
         "fa77485",
         "fa72276",
-        "fa72275"
+        "fa72275",
+        "fa60541"
       ]
     }
   },
@@ -3201,13 +3513,14 @@
     "class": "Controller",
     "color": "#d850ff",
     "preview_dir": "griff",
-    "total_assets": 20,
+    "total_assets": 24,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa134996",
         "fa95449",
-        "fa95437"
+        "fa95437",
+        "fa60976"
       ],
       "Emojis": [
         "fa135664",
@@ -3220,10 +3533,12 @@
         "fa135782",
         "fa135781",
         "fa135780",
-        "fa99988"
+        "fa99988",
+        "fa61081"
       ],
       "Sprays": [
-        "fa95560"
+        "fa95560",
+        "fa61003"
       ],
       "UI": [
         "fa150209",
@@ -3232,7 +3547,8 @@
         "fa150206",
         "fa135151",
         "fa95600",
-        "fa95575"
+        "fa95575",
+        "fa61127"
       ]
     }
   },
@@ -3242,7 +3558,7 @@
     "class": "Assassin",
     "color": "#fe5e72",
     "preview_dir": "buzz",
-    "total_assets": 41,
+    "total_assets": 50,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3255,7 +3571,14 @@
         "fa67822",
         "fa67821",
         "fa67820",
-        "fa66368"
+        "fa66368",
+        "fa58914",
+        "fa58913",
+        "fa58912",
+        "fa58911",
+        "fa58910",
+        "fa58909",
+        "fa58908"
       ],
       "Emojis": [
         "fa104846"
@@ -3279,7 +3602,9 @@
         "fa67669",
         "fa67652",
         "fa67645",
-        "fa67644"
+        "fa67644",
+        "fa61078",
+        "fa60926"
       ],
       "Sprays": [
         "fa72321",
@@ -3304,13 +3629,14 @@
     "class": "Artillery",
     "color": "#d850ff",
     "preview_dir": "grom",
-    "total_assets": 20,
+    "total_assets": 24,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa134997",
         "fa95474",
-        "fa90373"
+        "fa90373",
+        "fa63783"
       ],
       "Emojis": [
         "fa135672",
@@ -3320,7 +3646,8 @@
         "fa135668",
         "fa135667",
         "fa135666",
-        "fa135665"
+        "fa135665",
+        "fa63711"
       ],
       "Pins": [
         "fa135784",
@@ -3331,11 +3658,13 @@
       "Sprays": [
         "fa134819",
         "fa90592",
-        "fa90586"
+        "fa90586",
+        "fa63661"
       ],
       "UI": [
         "fa135153",
-        "fa90921"
+        "fa90921",
+        "fa63642"
       ]
     }
   },
@@ -3345,13 +3674,14 @@
     "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "squeak",
-    "total_assets": 14,
+    "total_assets": 20,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa135048",
         "fa125492",
-        "fa67840"
+        "fa67840",
+        "fa63115"
       ],
       "Emojis": [
         "fa125594",
@@ -3361,16 +3691,21 @@
       "Pins": [
         "fa91267",
         "fa90482",
-        "fa76501"
+        "fa76501",
+        "fa63080",
+        "fa60918",
+        "fa60635"
       ],
       "Sprays": [
         "fa125718",
-        "fa76547"
+        "fa76547",
+        "fa63032"
       ],
       "UI": [
         "fa125658",
         "fa95569",
-        "fa77469"
+        "fa77469",
+        "fa62997"
       ]
     }
   },
@@ -3380,7 +3715,7 @@
     "class": "Marksman",
     "color": "#d850ff",
     "preview_dir": "belle",
-    "total_assets": 16,
+    "total_assets": 17,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3397,7 +3732,8 @@
         "fa91122",
         "fa77580",
         "fa76446",
-        "fa67667"
+        "fa67667",
+        "fa60922"
       ],
       "Sprays": [
         "fa100103",
@@ -3417,7 +3753,7 @@
     "class": "Assassin",
     "color": "#d850ff",
     "preview_dir": "stu",
-    "total_assets": 15,
+    "total_assets": 34,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3426,7 +3762,13 @@
         "fa125567",
         "fa125566",
         "fa104725",
-        "fa85971"
+        "fa85971",
+        "fa60768",
+        "fa58931",
+        "fa58930",
+        "fa58929",
+        "fa58928",
+        "fa58927"
       ],
       "Emojis": [
         "fa125561",
@@ -3435,13 +3777,30 @@
         "fa104900",
         "fa64988"
       ],
+      "LoadingScreens": [
+        "fa60774"
+      ],
       "Pins": [
         "fa86565",
         "fa80008",
-        "fa65354"
+        "fa65354",
+        "fa63059",
+        "fa63058",
+        "fa63057",
+        "fa63056",
+        "fa63055",
+        "fa63054",
+        "fa63053",
+        "fa63052",
+        "fa61113",
+        "fa60919"
       ],
       "Sprays": [
-        "fa79950"
+        "fa79950",
+        "fa63033"
+      ],
+      "UI": [
+        "fa58932"
       ]
     }
   },
@@ -3451,14 +3810,19 @@
     "class": "Support",
     "color": "#fe5e72",
     "preview_dir": "ruffs",
-    "total_assets": 14,
+    "total_assets": 19,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa135042",
         "fa104727",
         "fa80274",
-        "fa66383"
+        "fa66383",
+        "fa58769",
+        "fa58768",
+        "fa58767",
+        "fa58766",
+        "fa58765"
       ],
       "Emojis": [
         "fa104895"
@@ -3484,7 +3848,7 @@
     "class": "Assassin",
     "color": "#d850ff",
     "preview_dir": "edgar",
-    "total_assets": 48,
+    "total_assets": 77,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3499,7 +3863,19 @@
         "fa80253",
         "fa80252",
         "fa80251",
-        "fa67830"
+        "fa67830",
+        "fa63780",
+        "fa63779",
+        "fa63105",
+        "fa62953",
+        "fa58820",
+        "fa58819",
+        "fa58818",
+        "fa58817",
+        "fa58816",
+        "fa58815",
+        "fa58814",
+        "fa58813"
       ],
       "Emojis": [
         "fa150251",
@@ -3522,13 +3898,25 @@
         "fa80024",
         "fa80023",
         "fa80022",
-        "fa67647"
+        "fa67647",
+        "fa63049",
+        "fa63048",
+        "fa63047",
+        "fa63046",
+        "fa63045",
+        "fa63044",
+        "fa63043",
+        "fa63042",
+        "fa63041",
+        "fa61116",
+        "fa60924"
       ],
       "Sprays": [
         "fa150122",
         "fa79959",
         "fa67752",
-        "fa64456"
+        "fa64456",
+        "fa63026"
       ],
       "UI": [
         "fa150205",
@@ -3543,7 +3931,12 @@
         "fa74898",
         "fa67931",
         "fa64437",
-        "fa64436"
+        "fa64436",
+        "fa64368",
+        "fa64363",
+        "fa62994",
+        "fa62986",
+        "fa62961"
       ]
     }
   },
@@ -3553,7 +3946,7 @@
     "class": "Support",
     "color": "#fe5e72",
     "preview_dir": "byron",
-    "total_assets": 18,
+    "total_assets": 27,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3561,28 +3954,37 @@
         "fa134970",
         "fa104811",
         "fa72738",
-        "fa72737"
+        "fa72737",
+        "fa63846",
+        "fa58797",
+        "fa58796",
+        "fa58795",
+        "fa58794"
       ],
       "Emojis": [
         "fa158508",
         "fa104848",
-        "fa104847"
+        "fa104847",
+        "fa63677"
       ],
       "Pins": [
         "fa157692",
         "fa157691",
         "fa157690",
-        "fa72393"
+        "fa72393",
+        "fa61079"
       ],
       "Sprays": [
-        "fa104950"
+        "fa104950",
+        "fa63658"
       ],
       "UI": [
         "fa158430",
         "fa104798",
         "fa104768",
         "fa74942",
-        "fa72246"
+        "fa72246",
+        "fa63639"
       ]
     }
   },
@@ -3592,7 +3994,7 @@
     "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "lou",
-    "total_assets": 12,
+    "total_assets": 26,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3600,20 +4002,36 @@
         "fa135012",
         "fa95472",
         "fa86289",
-        "fa80260"
+        "fa80260",
+        "fa60982",
+        "fa58984",
+        "fa58803",
+        "fa58802",
+        "fa58800",
+        "fa58799",
+        "fa58798"
       ],
       "Emojis": [
         "fa135616",
-        "fa64981"
+        "fa64981",
+        "fa63727"
       ],
       "Pins": [
         "fa150082",
-        "fa80050"
+        "fa80050",
+        "fa61084"
       ],
       "Sprays": [
         "fa134839",
         "fa90612",
-        "fa79956"
+        "fa79956",
+        "fa63669",
+        "fa61005"
+      ],
+      "UI": [
+        "fa63877",
+        "fa63871",
+        "fa61129"
       ]
     }
   },
@@ -3623,12 +4041,13 @@
     "class": "Controller",
     "color": "#fff11ev",
     "preview_dir": "amber",
-    "total_assets": 28,
+    "total_assets": 29,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa134958",
-        "fa95438"
+        "fa95438",
+        "fa60498"
       ],
       "Emojis": [
         "fa150289",
@@ -3672,20 +4091,28 @@
     "class": "Damage Dealer",
     "color": "#d850ff",
     "preview_dir": "colette",
-    "total_assets": 28,
+    "total_assets": 41,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa95461",
         "fa80245",
-        "fa67825"
+        "fa67825",
+        "fa58939",
+        "fa58938",
+        "fa58937",
+        "fa58936",
+        "fa58935",
+        "fa58934",
+        "fa58933"
       ],
       "Emojis": [
         "fa150292",
         "fa95658",
         "fa64977",
         "fa64976",
-        "fa64975"
+        "fa64975",
+        "fa63697"
       ],
       "Pins": [
         "fa150135",
@@ -3697,7 +4124,11 @@
         "fa67657",
         "fa65402",
         "fa65401",
-        "fa65400"
+        "fa65400",
+        "fa60905"
+      ],
+      "Sprays": [
+        "fa63667"
       ],
       "UI": [
         "fa150379",
@@ -3709,7 +4140,10 @@
         "fa95591",
         "fa90906",
         "fa80103",
-        "fa80102"
+        "fa80102",
+        "fa64414",
+        "fa63875",
+        "fa63869"
       ]
     }
   },
@@ -3719,7 +4153,7 @@
     "class": "Damage Dealer",
     "color": "#fff11ev",
     "preview_dir": "surge",
-    "total_assets": 50,
+    "total_assets": 73,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3728,7 +4162,8 @@
         "fa95470",
         "fa85972",
         "fa72759",
-        "fa67841"
+        "fa67841",
+        "fa60975"
       ],
       "Emojis": [
         "fa120855",
@@ -3762,11 +4197,32 @@
         "fa76492",
         "fa76491",
         "fa72406",
-        "fa67650"
+        "fa67650",
+        "fa61088",
+        "fa60569",
+        "fa60568",
+        "fa60567",
+        "fa60566",
+        "fa60565",
+        "fa60564",
+        "fa60563",
+        "fa60562",
+        "fa60561",
+        "fa60560",
+        "fa60559",
+        "fa60558",
+        "fa60557",
+        "fa60556",
+        "fa60555",
+        "fa60554",
+        "fa60553",
+        "fa60552",
+        "fa60551"
       ],
       "Sprays": [
         "fa104938",
-        "fa76548"
+        "fa76548",
+        "fa61007"
       ],
       "UI": [
         "fa157610",
@@ -3780,7 +4236,8 @@
         "fa77470",
         "fa76709",
         "fa72226",
-        "fa67945"
+        "fa67945",
+        "fa61132"
       ]
     }
   },
@@ -3790,7 +4247,7 @@
     "class": "Artillery",
     "color": "#fe5e72",
     "preview_dir": "sprout",
-    "total_assets": 11,
+    "total_assets": 12,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3805,7 +4262,8 @@
         "fa158517"
       ],
       "Pins": [
-        "fa157706"
+        "fa157706",
+        "fa60925"
       ],
       "Portraits": [
         "fa158381"
@@ -3822,12 +4280,18 @@
     "class": "Marksman",
     "color": "#d850ff",
     "preview_dir": "nani",
-    "total_assets": 20,
+    "total_assets": 28,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa135026",
-        "fa125518"
+        "fa125518",
+        "fa58990",
+        "fa58989",
+        "fa58988",
+        "fa58987",
+        "fa58986",
+        "fa58985"
       ],
       "Emojis": [
         "fa125694"
@@ -3836,7 +4300,8 @@
         "fa77538",
         "fa76499",
         "fa76487",
-        "fa74798"
+        "fa74798",
+        "fa60487"
       ],
       "Sprays": [
         "fa125711",
@@ -3853,7 +4318,8 @@
         "fa125649",
         "fa77467",
         "fa76695",
-        "fa74883"
+        "fa74883",
+        "fa60528"
       ]
     }
   },
@@ -3863,7 +4329,7 @@
     "class": "Controller",
     "color": "#d850ff",
     "preview_dir": "gale",
-    "total_assets": 19,
+    "total_assets": 20,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3882,7 +4348,8 @@
       ],
       "Pins": [
         "fa74823",
-        "fa74782"
+        "fa74782",
+        "fa60909"
       ],
       "Sprays": [
         "fa74750"
@@ -3903,12 +4370,21 @@
     "class": "Tank",
     "color": "#5ab3ff",
     "preview_dir": "jacky",
-    "total_assets": 15,
+    "total_assets": 30,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa135000",
-        "fa72749"
+        "fa72749",
+        "fa62972",
+        "fa58955",
+        "fa58954",
+        "fa58953",
+        "fa58952",
+        "fa58951",
+        "fa58950",
+        "fa58949",
+        "fa58948"
       ],
       "Emojis": [
         "fa150316",
@@ -3920,16 +4396,22 @@
         "fa150112",
         "fa99906",
         "fa74783",
-        "fa72398"
+        "fa72398",
+        "fa63101",
+        "fa61082",
+        "fa60910"
       ],
       "Sprays": [
-        "fa100116"
+        "fa100116",
+        "fa63018"
       ],
       "UI": [
         "fa150199",
         "fa100089",
         "fa74944",
-        "fa72250"
+        "fa72250",
+        "fa63009",
+        "fa63003"
       ]
     }
   },
@@ -3939,7 +4421,7 @@
     "class": "Support",
     "color": "#fe5e72",
     "preview_dir": "max",
-    "total_assets": 16,
+    "total_assets": 19,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3954,7 +4436,10 @@
         "fa80293",
         "fa80054",
         "fa74797",
-        "fa72433"
+        "fa72433",
+        "fa60485",
+        "fa60484",
+        "fa60483"
       ],
       "Sprays": [
         "fa72316"
@@ -4005,7 +4490,7 @@
     "class": "Controller",
     "color": "#d850ff",
     "preview_dir": "emz",
-    "total_assets": 22,
+    "total_assets": 26,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4014,7 +4499,8 @@
         "fa104790",
         "fa104789",
         "fa80291",
-        "fa75106"
+        "fa75106",
+        "fa63061"
       ],
       "Emojis": [
         "fa125501",
@@ -4030,7 +4516,9 @@
         "fa74822",
         "fa74796",
         "fa74795",
-        "fa74780"
+        "fa74780",
+        "fa60479",
+        "fa60478"
       ],
       "Sprays": [
         "fa74748"
@@ -4038,7 +4526,8 @@
       "UI": [
         "fa75113",
         "fa74943",
-        "fa74918"
+        "fa74918",
+        "fa60524"
       ]
     }
   },
@@ -4048,7 +4537,7 @@
     "class": "Marksman",
     "color": "#d850ff",
     "preview_dir": "bea",
-    "total_assets": 14,
+    "total_assets": 21,
     "skins": [],
     "asset_types": {
       "Backgrounds": [
@@ -4057,7 +4546,14 @@
       "Brawlers": [
         "fa134961",
         "fa90369",
-        "fa72725"
+        "fa72725",
+        "fa58833",
+        "fa58832",
+        "fa58831",
+        "fa58830",
+        "fa58829",
+        "fa58828",
+        "fa58827"
       ],
       "Emojis": [
         "fa150291",
@@ -4085,13 +4581,20 @@
     "class": "Controller",
     "color": "#fff11ev",
     "preview_dir": "sandy",
-    "total_assets": 28,
+    "total_assets": 35,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa135046",
         "fa72757",
-        "fa66384"
+        "fa66384",
+        "fa58850",
+        "fa58849",
+        "fa58848",
+        "fa58847",
+        "fa58846",
+        "fa58845",
+        "fa58844"
       ],
       "Emojis": [
         "fa99851",
@@ -4134,14 +4637,15 @@
     "class": "Damage Dealer",
     "color": "#5ab3ff",
     "preview_dir": "8bit",
-    "total_assets": 21,
+    "total_assets": 29,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa135704",
         "fa134956",
         "fa72724",
-        "fa65371"
+        "fa65371",
+        "fa60983"
       ],
       "Emojis": [
         "fa135592",
@@ -4152,12 +4656,17 @@
         "fa135795",
         "fa99996",
         "fa80003",
-        "fa72384"
+        "fa72384",
+        "fa61076",
+        "fa61075",
+        "fa60921",
+        "fa60472"
       ],
       "Sprays": [
         "fa134808",
         "fa79953",
-        "fa64446"
+        "fa64446",
+        "fa60998"
       ],
       "UI": [
         "fa157583",
@@ -4166,7 +4675,9 @@
         "fa157580",
         "fa135133",
         "fa100066",
-        "fa72245"
+        "fa72245",
+        "fa64409",
+        "fa61117"
       ]
     }
   },
@@ -4176,7 +4687,7 @@
     "class": "Tank",
     "color": "#d850ff",
     "preview_dir": "bibi",
-    "total_assets": 40,
+    "total_assets": 53,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4186,7 +4697,17 @@
         "fa85941",
         "fa72726",
         "fa67980",
-        "fa67819"
+        "fa67819",
+        "fa60977",
+        "fa58874",
+        "fa58873",
+        "fa58872",
+        "fa58871",
+        "fa58870",
+        "fa58869",
+        "fa58868",
+        "fa58867",
+        "fa58866"
       ],
       "Emojis": [
         "fa135591",
@@ -4213,12 +4734,14 @@
         "fa67717",
         "fa67716",
         "fa67715",
-        "fa67668"
+        "fa67668",
+        "fa61077"
       ],
       "Sprays": [
         "fa72322",
         "fa67758",
-        "fa67749"
+        "fa67749",
+        "fa60999"
       ],
       "UI": [
         "fa150198",
@@ -4227,7 +4750,8 @@
         "fa86704",
         "fa76668",
         "fa72235",
-        "fa67920"
+        "fa67920",
+        "fa61118"
       ]
     }
   },
@@ -4237,7 +4761,7 @@
     "class": "Damage Dealer",
     "color": "#5ab3ff",
     "preview_dir": "carl",
-    "total_assets": 27,
+    "total_assets": 28,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4247,7 +4771,8 @@
         "fa135729",
         "fa134971",
         "fa104797",
-        "fa66364"
+        "fa66364",
+        "fa60974"
       ],
       "Emojis": [
         "fa135640",
@@ -4285,7 +4810,7 @@
     "class": "Tank",
     "color": "#68fd58",
     "preview_dir": "rosa",
-    "total_assets": 16,
+    "total_assets": 32,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4293,24 +4818,42 @@
         "fa135037",
         "fa95473",
         "fa80273",
-        "fa66382"
+        "fa66382",
+        "fa63117",
+        "fa58972",
+        "fa58971",
+        "fa58970",
+        "fa58969",
+        "fa58968",
+        "fa58967",
+        "fa58966"
       ],
       "Emojis": [
-        "fa158516"
+        "fa158516",
+        "fa63753"
       ],
       "Pins": [
         "fa157705",
         "fa157704",
         "fa157703",
         "fa80069",
-        "fa76489"
+        "fa76489",
+        "fa63079",
+        "fa60923"
+      ],
+      "Sprays": [
+        "fa63671",
+        "fa63031"
       ],
       "UI": [
         "fa158432",
         "fa86688",
         "fa80124",
         "fa76705",
-        "fa74886"
+        "fa74886",
+        "fa63879",
+        "fa63873",
+        "fa62996"
       ]
     }
   },
@@ -4320,7 +4863,7 @@
     "class": "Assassin",
     "color": "#fff11ev",
     "preview_dir": "leon",
-    "total_assets": 51,
+    "total_assets": 60,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4334,7 +4877,9 @@
         "fa67835",
         "fa67834",
         "fa67833",
-        "fa67626"
+        "fa67626",
+        "fa63776",
+        "fa58982"
       ],
       "Emojis": [
         "fa134937",
@@ -4353,7 +4898,8 @@
         "fa120824",
         "fa104865",
         "fa95726",
-        "fa64923"
+        "fa64923",
+        "fa63724"
       ],
       "LoadingScreens": [
         "fa67621"
@@ -4370,7 +4916,9 @@
         "fa67678",
         "fa67677",
         "fa67676",
-        "fa67675"
+        "fa67675",
+        "fa60912",
+        "fa60428"
       ],
       "Portraits": [
         "fa120662"
@@ -4378,7 +4926,8 @@
       "Sprays": [
         "fa120908",
         "fa67755",
-        "fa64458"
+        "fa64458",
+        "fa63662"
       ],
       "UI": [
         "fa121537",
@@ -4386,7 +4935,10 @@
         "fa76689",
         "fa67936",
         "fa64441",
-        "fa64440"
+        "fa64440",
+        "fa64365",
+        "fa64360",
+        "fa63643"
       ]
     }
   },
@@ -4396,7 +4948,7 @@
     "class": "Artillery",
     "color": "#5ab3ff",
     "preview_dir": "tick",
-    "total_assets": 41,
+    "total_assets": 51,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4407,7 +4959,14 @@
         "fa100194",
         "fa72763",
         "fa72762",
-        "fa72761"
+        "fa72761",
+        "fa58979",
+        "fa58978",
+        "fa58977",
+        "fa58976",
+        "fa58975",
+        "fa58974",
+        "fa58973"
       ],
       "Emojis": [
         "fa158503",
@@ -4430,7 +4989,10 @@
         "fa72428",
         "fa72360",
         "fa72359",
-        "fa72358"
+        "fa72358",
+        "fa60920",
+        "fa60900",
+        "fa60489"
       ],
       "Sprays": [
         "fa104934",
@@ -4458,7 +5020,7 @@
     "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "gene",
-    "total_assets": 15,
+    "total_assets": 16,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4474,7 +5036,8 @@
         "fa150079",
         "fa80034",
         "fa72432",
-        "fa72397"
+        "fa72397",
+        "fa60480"
       ],
       "Sprays": [
         "fa72315"
@@ -4492,7 +5055,7 @@
     "class": "Tank",
     "color": "#d850ff",
     "preview_dir": "frank",
-    "total_assets": 54,
+    "total_assets": 69,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4524,7 +5087,8 @@
         "fa64905",
         "fa64904",
         "fa64903",
-        "fa64902"
+        "fa64902",
+        "fa63710"
       ],
       "Pins": [
         "fa135783",
@@ -4539,13 +5103,23 @@
         "fa74791",
         "fa74781",
         "fa65394",
-        "fa65375"
+        "fa65375",
+        "fa60689",
+        "fa60688",
+        "fa60687",
+        "fa60686",
+        "fa60685",
+        "fa60684",
+        "fa60683",
+        "fa60682",
+        "fa60681"
       ],
       "Sprays": [
         "fa134816",
         "fa74749",
         "fa64450",
-        "fa64449"
+        "fa64449",
+        "fa63660"
       ],
       "UI": [
         "fa135143",
@@ -4557,7 +5131,11 @@
         "fa75114",
         "fa75107",
         "fa75092",
-        "fa72747"
+        "fa72747",
+        "fa64420",
+        "fa64419",
+        "fa63782",
+        "fa63641"
       ]
     }
   },
@@ -4567,7 +5145,7 @@
     "class": "Artillery",
     "color": "#5ab3ff",
     "preview_dir": "penny",
-    "total_assets": 18,
+    "total_assets": 29,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4576,7 +5154,15 @@
         "fa104782",
         "fa85939",
         "fa85938",
-        "fa72756"
+        "fa72756",
+        "fa63118",
+        "fa58882",
+        "fa58881",
+        "fa58880",
+        "fa58879",
+        "fa58878",
+        "fa58877",
+        "fa58875"
       ],
       "Emojis": [
         "fa120840",
@@ -4585,7 +5171,10 @@
       "Pins": [
         "fa86563",
         "fa80006",
-        "fa72403"
+        "fa72403",
+        "fa61086",
+        "fa60973",
+        "fa60915"
       ],
       "Sprays": [
         "fa79952"
@@ -4606,7 +5195,7 @@
     "class": "Tank",
     "color": "#5ab3ff",
     "preview_dir": "darryl",
-    "total_assets": 16,
+    "total_assets": 18,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4623,7 +5212,9 @@
         "fa80004",
         "fa77564",
         "fa76496",
-        "fa76433"
+        "fa76433",
+        "fa60908",
+        "fa60907"
       ],
       "Sprays": [
         "fa79954"
@@ -4643,14 +5234,21 @@
     "class": "Damage Dealer",
     "color": "#fe5e72",
     "preview_dir": "tara",
-    "total_assets": 20,
+    "total_assets": 28,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa158773",
         "fa135050",
         "fa95487",
-        "fa72760"
+        "fa72760",
+        "fa58907",
+        "fa58906",
+        "fa58905",
+        "fa58904",
+        "fa58903",
+        "fa58902",
+        "fa58901"
       ],
       "Emojis": [
         "fa158501",
@@ -4674,7 +5272,8 @@
         "fa77471",
         "fa74948",
         "fa74891",
-        "fa72234"
+        "fa72234",
+        "fa60980"
       ]
     }
   },
@@ -4684,24 +5283,35 @@
     "class": "Support",
     "color": "#d850ff",
     "preview_dir": "pam",
-    "total_assets": 9,
+    "total_assets": 20,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa135030",
-        "fa66385"
+        "fa66385",
+        "fa61034"
       ],
       "Emojis": [
         "fa120893",
-        "fa120839"
+        "fa120839",
+        "fa63747",
+        "fa63745",
+        "fa63744",
+        "fa63743",
+        "fa63742",
+        "fa63741",
+        "fa63740",
+        "fa63739"
       ],
       "Pins": [
         "fa90470",
         "fa77536",
-        "fa76488"
+        "fa76488",
+        "fa60914"
       ],
       "Sprays": [
-        "fa120912"
+        "fa120912",
+        "fa63672"
       ],
       "UI": [
         "fa120928"
@@ -4714,7 +5324,7 @@
     "class": "Marksman",
     "color": "#d850ff",
     "preview_dir": "piper",
-    "total_assets": 39,
+    "total_assets": 40,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4764,7 +5374,8 @@
         "fa75094",
         "fa74945",
         "fa74920",
-        "fa67938"
+        "fa67938",
+        "fa64426"
       ]
     }
   },
@@ -4774,7 +5385,7 @@
     "class": "Controller",
     "color": "#d850ff",
     "preview_dir": "bo",
-    "total_assets": 114,
+    "total_assets": 140,
     "skins": [],
     "asset_types": {
       "Backgrounds": [
@@ -4808,7 +5419,21 @@
         "fa85942",
         "fa77491",
         "fa77489",
-        "fa77477"
+        "fa77477",
+        "fa64336",
+        "fa64335",
+        "fa63778",
+        "fa58780",
+        "fa58779",
+        "fa58778",
+        "fa58777",
+        "fa58776",
+        "fa58775",
+        "fa58774",
+        "fa58773",
+        "fa58772",
+        "fa58771",
+        "fa58770"
       ],
       "Emojis": [
         "fa158745",
@@ -4829,7 +5454,11 @@
         "fa99769",
         "fa99768",
         "fa99767",
-        "fa95724"
+        "fa95724",
+        "fa63709",
+        "fa63708",
+        "fa63676",
+        "fa63675"
       ],
       "LoadingScreens": [
         "fa76387"
@@ -4871,7 +5500,10 @@
         "fa72378",
         "fa72377",
         "fa72376",
-        "fa72375"
+        "fa72375",
+        "fa63777",
+        "fa63095",
+        "fa60927"
       ],
       "Sprays": [
         "fa158559",
@@ -4885,7 +5517,11 @@
         "fa100104",
         "fa90588",
         "fa72323",
-        "fa64460"
+        "fa64460",
+        "fa63889",
+        "fa63888",
+        "fa63887",
+        "fa63657"
       ],
       "UI": [
         "fa158744",
@@ -4903,7 +5539,8 @@
         "fa74896",
         "fa72283",
         "fa72280",
-        "fa72223"
+        "fa72223",
+        "fa64334"
       ]
     }
   },
@@ -4913,7 +5550,7 @@
     "class": "Support",
     "color": "#68fd58",
     "preview_dir": "poco",
-    "total_assets": 39,
+    "total_assets": 49,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4924,7 +5561,14 @@
         "fa104731",
         "fa104730",
         "fa104729",
-        "fa85970"
+        "fa85970",
+        "fa58947",
+        "fa58946",
+        "fa58945",
+        "fa58944",
+        "fa58943",
+        "fa58942",
+        "fa58940"
       ],
       "Emojis": [
         "fa104892",
@@ -4946,7 +5590,8 @@
         "fa77533",
         "fa76500",
         "fa76444",
-        "fa65357"
+        "fa65357",
+        "fa60916"
       ],
       "Sprays": [
         "fa104939",
@@ -4963,7 +5608,9 @@
         "fa74947",
         "fa74946",
         "fa74934",
-        "fa74884"
+        "fa74884",
+        "fa64427",
+        "fa58941"
       ]
     }
   },
@@ -4973,7 +5620,7 @@
     "class": "Assassin",
     "color": "#fff11ev",
     "preview_dir": "crow",
-    "total_assets": 65,
+    "total_assets": 79,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4986,7 +5633,8 @@
         "fa104794",
         "fa104793",
         "fa95422",
-        "fa85947"
+        "fa85947",
+        "fa60978"
       ],
       "Emojis": [
         "fa135686",
@@ -5032,7 +5680,16 @@
         "fa67690",
         "fa67688",
         "fa67687",
-        "fa67686"
+        "fa67686",
+        "fa61073",
+        "fa61072",
+        "fa61071",
+        "fa61070",
+        "fa61069",
+        "fa61068",
+        "fa61067",
+        "fa61066",
+        "fa60906"
       ],
       "Portraits": [
         "fa134801"
@@ -5041,7 +5698,8 @@
         "fa134813",
         "fa76519",
         "fa67751",
-        "fa64454"
+        "fa64454",
+        "fa61002"
       ],
       "UI": [
         "fa135146",
@@ -5051,7 +5709,10 @@
         "fa74873",
         "fa67929",
         "fa64435",
-        "fa64434"
+        "fa64434",
+        "fa64367",
+        "fa64357",
+        "fa61123"
       ]
     }
   },
@@ -5061,7 +5722,7 @@
     "class": "Assassin",
     "color": "#fe5e72",
     "preview_dir": "mortis",
-    "total_assets": 58,
+    "total_assets": 76,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5078,7 +5739,21 @@
         "fa66378",
         "fa66377",
         "fa66372",
-        "fa64725"
+        "fa64725",
+        "fa63787",
+        "fa58900",
+        "fa58899",
+        "fa58898",
+        "fa58897",
+        "fa58896",
+        "fa58895",
+        "fa58894",
+        "fa58893",
+        "fa58892",
+        "fa58891",
+        "fa58890",
+        "fa58889",
+        "fa58888"
       ],
       "Emojis": [
         "fa125509",
@@ -5089,7 +5764,8 @@
         "fa99833",
         "fa99832",
         "fa99831",
-        "fa95693"
+        "fa95693",
+        "fa63729"
       ],
       "Pins": [
         "fa99824",
@@ -5114,7 +5790,8 @@
         "fa76484",
         "fa76483",
         "fa74771",
-        "fa66379"
+        "fa66379",
+        "fa60913"
       ],
       "Sprays": [
         "fa100105",
@@ -5130,7 +5807,9 @@
         "fa77472",
         "fa76693",
         "fa76692",
-        "fa74938"
+        "fa74938",
+        "fa63647",
+        "fa63646"
       ]
     }
   },
@@ -5140,13 +5819,27 @@
     "class": "Tank",
     "color": "#68fd58",
     "preview_dir": "elprimo",
-    "total_assets": 19,
+    "total_assets": 34,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa104792",
         "fa67831",
-        "fa66369"
+        "fa66369",
+        "fa58865",
+        "fa58864",
+        "fa58863",
+        "fa58862",
+        "fa58861",
+        "fa58860",
+        "fa58859",
+        "fa58858",
+        "fa58857",
+        "fa58855",
+        "fa58854",
+        "fa58853",
+        "fa58852",
+        "fa58851"
       ],
       "Emojis": [
         "fa64979"
@@ -5158,7 +5851,8 @@
         "fa76464",
         "fa74877",
         "fa67671",
-        "fa65396"
+        "fa65396",
+        "fa58856"
       ],
       "Sprays": [
         "fa76521",
@@ -5180,7 +5874,7 @@
     "class": "Artillery",
     "color": "#5ab3ff",
     "preview_dir": "dynamike",
-    "total_assets": 40,
+    "total_assets": 52,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5201,7 +5895,16 @@
         "fa99804",
         "fa99803",
         "fa99802",
-        "fa99801"
+        "fa99801",
+        "fa63706",
+        "fa63705",
+        "fa63704",
+        "fa63703",
+        "fa63702",
+        "fa63701",
+        "fa63700",
+        "fa63699",
+        "fa63698"
       ],
       "Pins": [
         "fa99984",
@@ -5215,7 +5918,8 @@
         "fa74793",
         "fa74769",
         "fa74768",
-        "fa67646"
+        "fa67646",
+        "fa60477"
       ],
       "Portraits": [
         "fa99532"
@@ -5233,7 +5937,9 @@
         "fa74930",
         "fa74875",
         "fa74874",
-        "fa67930"
+        "fa67930",
+        "fa64416",
+        "fa64362"
       ]
     }
   },
@@ -5243,7 +5949,7 @@
     "class": "Damage Dealer",
     "color": "#68fd58",
     "preview_dir": "nita",
-    "total_assets": 45,
+    "total_assets": 57,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5257,7 +5963,8 @@
         "fa121458",
         "fa85969",
         "fa85968",
-        "fa72734"
+        "fa72734",
+        "fa63788"
       ],
       "Emojis": [
         "fa135647",
@@ -5275,7 +5982,15 @@
         "fa120810",
         "fa120809",
         "fa120807",
-        "fa99835"
+        "fa99835",
+        "fa63738",
+        "fa63736",
+        "fa63735",
+        "fa63734",
+        "fa63733",
+        "fa63732",
+        "fa63731",
+        "fa63730"
       ],
       "Pins": [
         "fa135798",
@@ -5283,13 +5998,15 @@
         "fa86552",
         "fa72430",
         "fa72402",
-        "fa72357"
+        "fa72357",
+        "fa60901"
       ],
       "Sprays": [
         "fa134820",
         "fa120909",
         "fa72326",
-        "fa72317"
+        "fa72317",
+        "fa63665"
       ],
       "UI": [
         "fa121522",
@@ -5299,7 +6016,8 @@
         "fa74903",
         "fa72733",
         "fa72252",
-        "fa72222"
+        "fa72222",
+        "fa63648"
       ]
     }
   },
@@ -5309,7 +6027,7 @@
     "class": "Controller",
     "color": "#5ab3ff",
     "preview_dir": "jessie",
-    "total_assets": 37,
+    "total_assets": 59,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5319,7 +6037,12 @@
         "fa121479",
         "fa85957",
         "fa67832",
-        "fa66373"
+        "fa66373",
+        "fa59169",
+        "fa59168",
+        "fa59167",
+        "fa59166",
+        "fa59165"
       ],
       "Emojis": [
         "fa120875",
@@ -5334,7 +6057,19 @@
         "fa120866",
         "fa120865",
         "fa99823",
-        "fa95677"
+        "fa95677",
+        "fa63723",
+        "fa63722",
+        "fa63721",
+        "fa63720",
+        "fa63719",
+        "fa63718",
+        "fa63717",
+        "fa63716",
+        "fa63715",
+        "fa63714",
+        "fa63713",
+        "fa63712"
       ],
       "Pins": [
         "fa86532",
@@ -5343,11 +6078,14 @@
         "fa76469",
         "fa76440",
         "fa67662",
-        "fa65393"
+        "fa65393",
+        "fa60482",
+        "fa60481"
       ],
       "Sprays": [
         "fa120904",
-        "fa67753"
+        "fa67753",
+        "fa63668"
       ],
       "UI": [
         "fa121504",
@@ -5357,7 +6095,9 @@
         "fa80111",
         "fa74931",
         "fa74881",
-        "fa67935"
+        "fa67935",
+        "fa63876",
+        "fa63870"
       ]
     }
   },
@@ -5367,13 +6107,23 @@
     "class": "Artillery",
     "color": "#68fd58",
     "preview_dir": "barley",
-    "total_assets": 12,
+    "total_assets": 23,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa134960",
         "fa104800",
-        "fa75104"
+        "fa75104",
+        "fa58965",
+        "fa58964",
+        "fa58963",
+        "fa58962",
+        "fa58961",
+        "fa58960",
+        "fa58959",
+        "fa58958",
+        "fa58957",
+        "fa58956"
       ],
       "Emojis": [
         "fa104826",
@@ -5390,7 +6140,8 @@
         "fa135135",
         "fa104781",
         "fa75090",
-        "fa74924"
+        "fa74924",
+        "fa63635"
       ]
     }
   },
@@ -5400,7 +6151,7 @@
     "class": "Damage Dealer",
     "color": "#fff11ev",
     "preview_dir": "spike",
-    "total_assets": 47,
+    "total_assets": 61,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5409,7 +6160,17 @@
         "fa104726",
         "fa67839",
         "fa66386",
-        "fa66356"
+        "fa66356",
+        "fa62975",
+        "fa58843",
+        "fa58842",
+        "fa58841",
+        "fa58840",
+        "fa58839",
+        "fa58838",
+        "fa58837",
+        "fa58836",
+        "fa58835"
       ],
       "Emojis": [
         "fa150295",
@@ -5436,11 +6197,13 @@
         "fa76505",
         "fa67665",
         "fa67664",
-        "fa65350"
+        "fa65350",
+        "fa63104"
       ],
       "Sprays": [
         "fa67754",
-        "fa64461"
+        "fa64461",
+        "fa63021"
       ],
       "UI": [
         "fa150382",
@@ -5458,7 +6221,9 @@
         "fa74909",
         "fa67943",
         "fa67942",
-        "fa64430"
+        "fa64430",
+        "fa63012",
+        "fa63006"
       ]
     }
   },
@@ -5468,7 +6233,7 @@
     "class": "Damage Dealer",
     "color": "#5ab3ff",
     "preview_dir": "rico",
-    "total_assets": 362,
+    "total_assets": 398,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5477,7 +6242,16 @@
         "fa125489",
         "fa125488",
         "fa104717",
-        "fa75109"
+        "fa75109",
+        "fa58812",
+        "fa58811",
+        "fa58810",
+        "fa58809",
+        "fa58808",
+        "fa58807",
+        "fa58806",
+        "fa58805",
+        "fa58804"
       ],
       "Emojis": [
         "fa125582",
@@ -5843,7 +6617,34 @@
         "fa64433",
         "fa64431",
         "fa64429",
-        "fa64428"
+        "fa64428",
+        "fa64424",
+        "fa64423",
+        "fa64421",
+        "fa64417",
+        "fa64415",
+        "fa64413",
+        "fa64412",
+        "fa64410",
+        "fa63650",
+        "fa63649",
+        "fa63645",
+        "fa63637",
+        "fa63636",
+        "fa63002",
+        "fa63001",
+        "fa62999",
+        "fa62998",
+        "fa62989",
+        "fa62987",
+        "fa62984",
+        "fa62982",
+        "fa62981",
+        "fa62980",
+        "fa62979",
+        "fa62978",
+        "fa62977",
+        "fa62976"
       ]
     }
   },
@@ -5853,7 +6654,7 @@
     "class": "Marksman",
     "color": "#68fd58",
     "preview_dir": "brock",
-    "total_assets": 85,
+    "total_assets": 89,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5925,7 +6726,9 @@
         "fa72371",
         "fa72370",
         "fa72254",
-        "fa67651"
+        "fa67651",
+        "fa60903",
+        "fa60473"
       ],
       "Portraits": [
         "fa158380",
@@ -5951,7 +6754,9 @@
         "fa72253",
         "fa72227",
         "fa67923",
-        "fa66360"
+        "fa66360",
+        "fa63638",
+        "fa60520"
       ]
     }
   },
@@ -5961,7 +6766,7 @@
     "class": "Tank",
     "color": "#68fd58",
     "preview_dir": "bull",
-    "total_assets": 34,
+    "total_assets": 39,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5971,7 +6776,8 @@
         "fa134891",
         "fa134888",
         "fa121491",
-        "fa95469"
+        "fa95469",
+        "fa62968"
       ],
       "Emojis": [
         "fa134886",
@@ -5998,15 +6804,19 @@
         "fa90431",
         "fa74790",
         "fa74778",
-        "fa74777"
+        "fa74777",
+        "fa63099",
+        "fa60904"
       ],
       "Sprays": [
         "fa100106",
-        "fa74740"
+        "fa74740",
+        "fa63016"
       ],
       "UI": [
         "fa74914",
-        "fa74900"
+        "fa74900",
+        "fa63007"
       ]
     }
   },
@@ -6016,7 +6826,7 @@
     "class": "Damage Dealer",
     "color": "#68fd58",
     "preview_dir": "colt",
-    "total_assets": 47,
+    "total_assets": 54,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -6030,7 +6840,8 @@
         "fa67828",
         "fa67827",
         "fa67826",
-        "fa66365"
+        "fa66365",
+        "fa62971"
       ],
       "Emojis": [
         "fa135641",
@@ -6064,7 +6875,10 @@
         "fa67697",
         "fa67696",
         "fa67695",
-        "fa65397"
+        "fa65397",
+        "fa63100",
+        "fa60476",
+        "fa60475"
       ],
       "Portraits": [
         "fa90358",
@@ -6072,11 +6886,14 @@
       ],
       "Sprays": [
         "fa90583",
-        "fa67748"
+        "fa67748",
+        "fa63017"
       ],
       "UI": [
         "fa74937",
-        "fa67927"
+        "fa67927",
+        "fa63008",
+        "fa60523"
       ]
     }
   },
@@ -6086,7 +6903,7 @@
     "class": "Damage Dealer",
     "color": "#b9eaff",
     "preview_dir": "shelly",
-    "total_assets": 27,
+    "total_assets": 49,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -6096,7 +6913,21 @@
         "fa67838",
         "fa67837",
         "fa67836",
-        "fa66366"
+        "fa66366",
+        "fa63791",
+        "fa62974",
+        "fa62960",
+        "fa58926",
+        "fa58925",
+        "fa58924",
+        "fa58922",
+        "fa58921",
+        "fa58920",
+        "fa58919",
+        "fa58918",
+        "fa58917",
+        "fa58916",
+        "fa58915"
       ],
       "Emojis": [
         "fa158500",
@@ -6104,7 +6935,8 @@
         "fa125513",
         "fa125512",
         "fa125511",
-        "fa125510"
+        "fa125510",
+        "fa63755"
       ],
       "Pins": [
         "fa157677",
@@ -6114,17 +6946,26 @@
         "fa74806",
         "fa67655",
         "fa67649",
-        "fa67648"
+        "fa67648",
+        "fa63103"
       ],
       "Portraits": [
         "fa104697"
+      ],
+      "Sprays": [
+        "fa63674",
+        "fa63020"
       ],
       "UI": [
         "fa158418",
         "fa76707",
         "fa74936",
         "fa74913",
-        "fa67941"
+        "fa67941",
+        "fa63652",
+        "fa63011",
+        "fa63005",
+        "fa58923"
       ]
     }
   }

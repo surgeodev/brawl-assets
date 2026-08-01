@@ -1,6 +1,6 @@
 # Gale
 Rarity: Epic | Class: Controller
-Total assets: 19
+Total assets: 20
 
 
 ## Brawlers (6)
@@ -11,9 +11,10 @@ Total assets: 19
   - gale_hypercharge
   - gale_steampunk_gale_001
 
-## Pins (2)
+## Pins (3)
   - gale_hypercharge_pin
   - gale_shell_blasterpin
+  - gale_trader_special_pin
 
 ## Emojis (4)
   - emoji_gale_steampunk

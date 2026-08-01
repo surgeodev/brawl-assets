@@ -1,17 +1,26 @@
 # El Primo
 Rarity: Rare | Class: Tank
-Total assets: 19
+Total assets: 34
 
 
-## Brawlers (3)
+## Brawlers (17)
   - El Primo Not this this Meme
   - _0024_el_primo_el_grilo_001
+  - el_primo_default_001
+  - el_primo_el_atÓmico_001
   - el_primo_el_baby_shark_516
+  - el_primo_el_brown_001
+  - el_primo_el_corazÓn_001
+  - el_primo_el_dragÓn_verdoso_001
+  - el_primo_el_mayordomo_001
+  - el_primo_el_primo_club_nacional_001
+    ... +7 more
 
-## Pins (7)
+## Pins (8)
   - _0023_el_primo_vamprimo_happy_220
   - _0024_el_primo_spongebob_el_primo_happy_264
   - el_primo_all_might:_el_primo_happy_337
+  - el_primo_el_dragÓn_rosado_001
   - el_primo_el_quarterback_happy_220
   - el_primo_hypercharge_pin
   - elprimo_spongebob_pin

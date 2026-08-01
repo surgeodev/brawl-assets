@@ -1,6 +1,6 @@
 # Max
 Rarity: Mythic | Class: Support
-Total assets: 16
+Total assets: 19
 
 
 ## Brawlers (3)
@@ -8,11 +8,14 @@ Total assets: 16
   - Max@4x
   - max_angel_max_001
 
-## Pins (4)
+## Pins (7)
   - max_angel_max_happy_498
   - max_angel_max_pin
+  - max_black_jungle_pin
   - max_cony_pin
+  - max_hermes_pin
   - max_hypercharge_pin
+  - max_jungle_pin
 
 ## Emojis (1)
   - emoji_max_streetwear

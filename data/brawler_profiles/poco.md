@@ -1,9 +1,9 @@
 # Poco
 Rarity: Rare | Class: Support
-Total assets: 39
+Total assets: 49
 
 
-## Brawlers (8)
+## Brawlers (15)
   - Poco@4x
   - _0008_poco_scratcher_poco_001
   - _0009_poco_dj_poco_001
@@ -11,14 +11,18 @@ Total assets: 39
   - _0011_poco_default_002
   - _0012_poco_default_001
   - _0013_poco_beatmatcher_poco_001
-  - poco_quit_playing_poco_001
+  - poco_default_001
+  - poco_desperado_poco_001
+  - poco_pirate_poco_001
+    ... +5 more
 
-## Pins (6)
+## Pins (7)
   - _0004_poco_phantom_poco_happy_178
   - _0005_poco_possessed_poco_happy_202
   - poco_cctv_poco_happy_288
   - poco_goodrandoms_pin
   - poco_hypercharge_pin
+  - poco_punk_special_pin
   - poco_skullknight_pin
 
 ## Emojis (12)
@@ -40,13 +44,15 @@ Total assets: 39
   - spray_poco_hc_street
   - spray_poco_street
 
-## UI (9)
+## UI (11)
   - icon_ulti_hypercharge_poco
   - player_icon_hc_poco_street
   - player_icon_poco_goodrandoms
+  - player_icon_poco_origins
   - player_icon_poco_possessed
   - player_icon_poco_street
+  - poco_poco_starr_001
   - profile_icon_poco_classic
   - profile_icon_poco_desperado
   - profile_icon_poco_serenade
-  - profile_icon_poco_trash
+    ... +1 more

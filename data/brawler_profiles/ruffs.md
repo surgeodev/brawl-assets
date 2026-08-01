@@ -1,13 +1,18 @@
 # Ruffs
 Rarity: Mythic | Class: Support
-Total assets: 14
+Total assets: 19
 
 
-## Brawlers (4)
+## Brawlers (9)
   - Ruffs Alwayshasbeen Meme
   - Ruffs@4x
   - _0005_ruffs_teen_ruffs_001
+  - ruffs_default_001
+  - ruffs_marshal_ruffs_001
+  - ruffs_ronin_ruffs_001
   - ruffs_sous_chef_ruffs_001
+  - ruffs_true_gold_ruffs_001
+  - ruffs_true_silver_ruffs_001
 
 ## Pins (5)
   - ruffs_hypercharge_pin

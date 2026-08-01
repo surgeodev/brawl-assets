@@ -1,12 +1,13 @@
 # Draco
 Rarity: Legendary | Class: Tank
-Total assets: 41
+Total assets: 42
 
 
-## Brawlers (6)
+## Brawlers (7)
   - Draco-lose
   - Draco@4x
   - _0037_draco_eddie_draco_001
+  - doug_draco_doug_001
   - draco_dark_knight_draco_368
   - draco_gadget_01
   - draco_gadget_02

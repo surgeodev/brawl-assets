@@ -1,14 +1,15 @@
 # Carl
 Rarity: Super Rare | Class: Damage Dealer
-Total assets: 27
+Total assets: 28
 
 
-## Brawlers (7)
+## Brawlers (8)
   - Carl Glasses Meme
   - Carl@4x
   - Carl_darktide
   - _0029_carl_crazy_clown_carl_001
   - captain_carl_special
+  - carl_dark_tide_001
   - carl_strikers
   - carl_surfer
 

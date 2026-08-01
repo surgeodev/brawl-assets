@@ -1,28 +1,33 @@
 # Tick
 Rarity: Super Rare | Class: Artillery
-Total assets: 41
+Total assets: 51
 
 
-## Brawlers (8)
+## Brawlers (15)
   - Tick@4x
   - _0002_tick_headless_tickman_001
   - nn_chopsticks
   - tick
+  - tick_cerberus_tick_001
+  - tick_default_001
+  - tick_king_crab_tick_001
   - tick_mecha-tick_ghidorah_1556
   - tick_mecha-tick_ghidorah_dark_1556
   - tick_mecha-tick_ghidorah_light_1556
-  - tick_nano
+    ... +5 more
 
-## Pins (9)
+## Pins (12)
   - _0000_tick_mr._krabs_tick_happy_282
   - _0002_tick_egg_xplosive_tick_happy_284
   - champie_sticker_pin
+  - tick_cerberus_pin
+  - tick_clap_pin
   - tick_mecha_tick_ ghidorah_dark_pin
   - tick_mecha_tick_ ghidorah_light_pin
   - tick_mecha_tick_ ghidorah_pin
   - tick_overcharge_pin
   - tick_sb_pin
-  - tick_tickoyaki_happy_160
+    ... +2 more
 
 ## Emojis (10)
   - emoji_tick_brawloween

@@ -1,6 +1,6 @@
 # Otis
 Rarity: Mythic | Class: Controller
-Total assets: 13
+Total assets: 14
 
 
 ## Brawlers (4)
@@ -21,7 +21,8 @@ Total assets: 13
 ## Sprays (1)
   - otis_spray_hypercharge
 
-## UI (3)
+## UI (4)
   - player_icon_otis_angelsdemons
   - player_icon_otis_pharaotis
   - player_icon_otis_strikers
+  - player_icon_otis_wc2023

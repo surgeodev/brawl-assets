@@ -1,19 +1,25 @@
 # Spike
 Rarity: Legendary | Class: Damage Dealer
-Total assets: 47
+Total assets: 61
 
 
-## Brawlers (6)
+## Brawlers (16)
   - Baby Spike Meme
   - Spike@4x
   - This Is Fine Spike
   - _0004_spike_carreta_spike_001
   - img_shadow_smash_spike
-  - spike_poop_spike_376
+  - items_hypercharge_spike
+  - spike_dark_lord_spike_001
+  - spike_default_001
+  - spike_logmas_spike_001
+  - spike_mask_spike_001
+    ... +6 more
 
-## Pins (8)
+## Pins (9)
   - champie_spike_pin
   - spike_friend_pin
+  - spike_hypercharge_pin
   - spike_poop_pin
   - spike_robo_pin
   - spike_starr_patrol_spike_happy_405
@@ -34,11 +40,13 @@ Total assets: 47
   - emoji_spike_buffy_bling
     ... +5 more
 
-## Sprays (2)
+## Sprays (3)
   - spike_spray_poop
   - spray_spike_cartoon
+  - spray_spike_overcharge
 
-## UI (16)
+## UI (18)
+  - button_hypercharge_spike
   - player_icon_anime_spike
   - player_icon_boba_spike
   - player_icon_perfect_spike
@@ -48,5 +56,4 @@ Total assets: 47
   - player_icon_spike_carreta
   - player_icon_spike_cartoon
   - player_icon_spike_demonfire1
-  - player_icon_spike_demonfire2
-    ... +6 more
+    ... +8 more

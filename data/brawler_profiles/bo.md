@@ -1,35 +1,35 @@
 # Bo
 Rarity: Epic | Class: Controller
-Total assets: 114
+Total assets: 140
 
 
-## Brawlers (26)
+## Brawlers (40)
   - Bo@4x
   - adidas_box
   - bo_cupid_bo_001
+  - bo_default_001
+  - bo_gold_mecha_bo_001
+  - bo_ho_ho_ho_bo_001
+  - bo_horus_bo_001
   - bo_hypercharge
-  - bowdudebuddy_default_idle_001
-  - bowdudebuddy_default_idle_001
-  - bowdudebuddy_default_idle_001
-  - bowdudebuddy_default_idle_001
-  - box_nano
-  - box_windstock
-    ... +16 more
+  - bo_light_mecha_bo_001
+  - bo_mecha_bo_001
+    ... +30 more
 
-## Pins (37)
+## Pins (40)
   - _0038_bo_knight_bo_happy_702
   - _0040_bo_king_archer_bo_happy_702
   - bo_brawlentine_pin
+  - bo_brother_bo_happy_068
   - bo_mecha_angry_pin
   - bo_mecha_clap_pin
   - bo_mecha_gg_pin
   - bo_mecha_happy_pin
   - bo_mecha_phew_pin
   - bo_mecha_pin
-  - bo_mecha_sad_pin
-    ... +27 more
+    ... +30 more
 
-## Emojis (19)
+## Emojis (23)
   - emoji_bo_buffy_bling
   - emoji_bo_buffy_gadget
   - emoji_bo_buffy_hc
@@ -37,14 +37,15 @@ Total assets: 114
   - emoji_bo_fantasy
   - emoji_bo_fantasy_black
   - emoji_bo_fantasy_green
+  - emoji_bo_hindu
+  - emoji_bo_hindu_gold
   - emoji_box_mila
-  - emoji_box_nano
-  - emoji_box_nano@4x
-    ... +9 more
+    ... +13 more
 
-## Sprays (12)
+## Sprays (16)
   - spray_anime_book
   - spray_anime_bow
+  - spray_bo_hindu
   - spray_bo_mecha
   - spray_box_lvl_3
   - spray_box_lvl_4
@@ -52,15 +53,14 @@ Total assets: 114
   - spray_bp_fantasybo
   - spray_brawloween_boo
   - spray_hypercharge_bo@2x
-  - spray_primo_superbowl
-    ... +2 more
+    ... +6 more
 
 ## Backgrounds (3)
   - banner_bp_spongebob
   - banner_spongebob
   - bp_banner_kaiuju&robots (1)
 
-## UI (16)
+## UI (17)
   - icon_bomb_lobbers
   - icon_box
   - icon_ingame_BoomBox_1_active
@@ -71,4 +71,4 @@ Total assets: 114
   - icon_modifier_boss_robot
   - icon_nano_bounce
   - icon_rebound
-    ... +6 more
+    ... +7 more

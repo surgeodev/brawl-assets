@@ -1,6 +1,6 @@
 # Sprout
 Rarity: Mythic | Class: Artillery
-Total assets: 11
+Total assets: 12
 
 
 ## Brawlers (6)
@@ -14,7 +14,8 @@ Total assets: 11
 ## Portraits (1)
   - sprout_portrait_new
 
-## Pins (1)
+## Pins (2)
+  - pin_esports_sprout
   - sprout_default_happy_133
 
 ## Emojis (1)

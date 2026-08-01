@@ -1,15 +1,20 @@
 # Rico
 Rarity: Super Rare | Class: Damage Dealer
-Total assets: 362
+Total assets: 398
 
 
-## Brawlers (6)
+## Brawlers (15)
   - Rico@4x
   - _0006_rico_ghost_diver_rico_001
   - rico_breakup_rico_001
+  - rico_chicken_rico_001
+  - rico_default_001
+  - rico_firefly_rico_001
+  - rico_guard_rico_001
   - rico_heartbroken_rico_004
   - rico_hypercharge
-  - rico_revenge_rico_001
+  - rico_loaded_rico_001
+    ... +5 more
 
 ## Pins (22)
   - _0000_rico_egg_rico_002
@@ -37,7 +42,7 @@ Total assets: 362
   - spray_rico_brawloween
   - spray_ricoegg
 
-## UI (324)
+## UI (351)
   - buddy_icon_rico_bling@4x
   - buddy_icon_rico_gadget@4x
   - buddy_icon_rico_hypercharge@4x
@@ -45,10 +50,10 @@ Total assets: 362
   - player icon_bea_starrgirl
   - player icon_deku_mha
   - player_icon_PFP3_sb
+  - player_icon_academy
   - player_icon_adidas_cap
   - player_icon_adidas_smokebomb
-  - player_icon_angel_star
-    ... +314 more
+    ... +341 more
 
 ## Logos (1)
   - player_icon_starrpark_logo

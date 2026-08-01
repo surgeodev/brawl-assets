@@ -1,11 +1,12 @@
 # Amber
 Rarity: Legendary | Class: Controller
-Total assets: 28
+Total assets: 29
 
 
-## Brawlers (2)
+## Brawlers (3)
   - Amber@4x
   - amber
+  - gear_mythic_amber
 
 ## Pins (14)
   - _0043_amber_knight_amber_happy_324

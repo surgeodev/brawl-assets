@@ -1,12 +1,19 @@
 # Sandy
 Rarity: Legendary | Class: Controller
-Total assets: 28
+Total assets: 35
 
 
-## Brawlers (3)
+## Brawlers (10)
   - Sandy Sleep Awake Meme
   - Sandy@4x
+  - sandy_default_001
+  - sandy_lantern_sandy_001
   - sandy_nightmare_sandy_718
+  - sandy_sandy_koya_001
+  - sandy_sleepy_sandy_001
+  - sandy_sugar_rush_sandy_001
+  - sandy_true_gold_sandy_001
+  - sandy_true_silver_sandy_001
 
 ## Pins (8)
   - _0003_sandy_hypnos_sandy_happy_662

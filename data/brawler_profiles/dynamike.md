@@ -1,6 +1,6 @@
 # Dynamike
 Rarity: Super Rare | Class: Artillery
-Total assets: 40
+Total assets: 52
 
 
 ## Brawlers (5)
@@ -13,7 +13,7 @@ Total assets: 40
 ## Portraits (1)
   - portrait_brawler_dynamike_propass
 
-## Pins (12)
+## Pins (13)
   - _0025_dynamike_decaying_dynamike_happy_114
   - _0027_dynamike_possessed_dynamike_happy_476
   - _0028_dynamike_occulist_dynamike_i_happy_230
@@ -24,9 +24,9 @@ Total assets: 40
   - dynamike_classic_pin
   - dynamike_coach_mike_pin
   - dynamike_dynasty_pin
-    ... +2 more
+    ... +3 more
 
-## Emojis (11)
+## Emojis (20)
   - emoji_dynamike_propass
   - emoji_dynamike_propass_angry
   - emoji_dynamike_propass_clap
@@ -37,7 +37,7 @@ Total assets: 40
   - emoji_dynamike_propass_special
   - emoji_dynamike_propass_special_green
   - emoji_dynamike_propass_special_red
-    ... +1 more
+    ... +10 more
 
 ## Sprays (4)
   - dynamike_spray_moldy
@@ -45,10 +45,12 @@ Total assets: 40
   - spray_overcharge_dynamike
   - spray_propass_dynamike
 
-## UI (7)
+## UI (9)
+  - hypercharge_button_dynamike
   - player_icon_dynamike_classic
   - player_icon_dynamike_moldy
   - player_icon_dynamike_propass
+  - player_icon_dynamike_spicy
   - profile_icon_dynamike_classic
   - profile_icon_dynamike_coach_mike
   - profile_icon_dynamike_psg_mike

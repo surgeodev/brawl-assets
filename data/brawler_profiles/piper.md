@@ -1,6 +1,6 @@
 # Piper
 Rarity: Epic | Class: Marksman
-Total assets: 39
+Total assets: 40
 
 
 ## Brawlers (8)
@@ -38,8 +38,9 @@ Total assets: 39
   - piper_spray_hypercharge
   - spray_piper_mecha
 
-## UI (7)
+## UI (8)
   - piper_button_hypercharge
+  - player_icon_piper_carnaval
   - player_icon_piper_feudaljapan
   - player_icon_piper_hypercharge
   - player_icon_piper_mecha

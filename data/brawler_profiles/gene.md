@@ -1,6 +1,6 @@
 # Gene
 Rarity: Mythic | Class: Controller
-Total assets: 15
+Total assets: 16
 
 
 ## Brawlers (5)
@@ -10,9 +10,10 @@ Total assets: 15
   - gene_jungle_gene_001
   - gene_strikers
 
-## Pins (6)
+## Pins (7)
   - gene_angel_gene_pin
   - gene_dark _samurai_pin
+  - gene_evil_pin
   - gene_hypercharge_pin
   - gene_keeper_gene_happy_348
   - gene_score_stopper_gene_happy_348
