@@ -1,17 +1,13 @@
 # Chester
 Rarity: Legendary | Class: Damage Dealer
-Total assets: 24
+Total assets: 20
 
 
-## Brawlers (9)
+## Brawlers (5)
   - CHESTER’S
   - Chester@4x
   - Disaster Chester Meme
-  - chester_dark_chester_001
-  - chester_default_001
   - chester_loki_chester_282
-  - chester_true_gold_chester_001
-  - chester_true_silver_chester_001
   - chester_wood_spirit_001
 
 ## Pins (6)

@@ -1,6 +1,6 @@
 # Colt
 Rarity: Rare | Class: Damage Dealer
-Total assets: 54
+Total assets: 51
 
 
 ## Brawlers (12)
@@ -20,18 +20,18 @@ Total assets: 54
   - colt_portrait
   - hyper_colt_portrait
 
-## Pins (24)
+## Pins (22)
   - colt_astral_colt_iv_happy_530
   - colt_challenger_pin
   - colt_dark_angel_colt_happy_296
   - colt_guardian_colt_happy_456
-  - colt_handsome_pin
   - colt_hypercharge_pin
   - colt_hyperion_colt_happy_456
-  - colt_jungle_pin
   - colt_light_angel_colt_pin
   - colt_mecha_angry_pin
-    ... +14 more
+  - colt_mecha_clap_pin
+  - colt_mecha_gg_pin
+    ... +12 more
 
 ## Emojis (9)
   - emoji_colt_buffy_hc
@@ -49,8 +49,7 @@ Total assets: 54
   - spray_colt_overcharge
   - spray_colt_ranked
 
-## UI (4)
+## UI (3)
   - button_hypercharge_colt
   - profile_icon_colt_classic
-  - profile_icon_colt_jungle
   - profile_icon_colt_mecha

@@ -1,6 +1,6 @@
 # Bull
 Rarity: Rare | Class: Tank
-Total assets: 39
+Total assets: 38
 
 
 ## Brawlers (8)
@@ -13,18 +13,18 @@ Total assets: 39
   - bullbuddy_default_idle_001
   - items_hypercharge_bull
 
-## Pins (16)
+## Pins (15)
   - _0036_bull_hellbull_happy_458
   - bull_B800_pin
   - bull_hypercharge_pin
   - bull_minotaur_pin
   - bull_norse_rider_pin
   - bull_spaceox_pin
-  - bull_special_pin
   - bull_viking_pin
   - bullbuddy_default_happy_097
   - bullbuddy_default_happy_097
-    ... +6 more
+  - bullbuddy_default_happy_097
+    ... +5 more
 
 ## Emojis (9)
   - emoji_bull_buffy_bling

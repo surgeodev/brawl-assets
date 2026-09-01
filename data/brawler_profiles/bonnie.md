@@ -1,20 +1,17 @@
 # Bonnie
 Rarity: Epic | Class: Marksman
-Total assets: 26
+Total assets: 23
 
 
-## Brawlers (11)
+## Brawlers (8)
   - Bonnie Puking Rainbows Meme
   - Bonnie@4x
-  - bonnie_default_001
   - bonnie_fairy
   - bonnie_fairy_chroma_dark
   - bonnie_fairy_chroma_light
   - bonnie_footbonnie_001
   - bonnie_reindeer_bonnie_001
-  - bonnie_true_gold_bonnie_001
-  - bonnie_true_silver_bonnie_001
-    ... +1 more
+  - bonnie_unicorn_001
 
 ## Pins (6)
   - _0037_bonnie_icarus_bonnie_happy_512

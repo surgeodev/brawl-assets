@@ -1,6 +1,6 @@
 # 8-Bit
 Rarity: Super Rare | Class: Damage Dealer
-Total assets: 29
+Total assets: 28
 
 
 ## Brawlers (5)
@@ -10,14 +10,13 @@ Total assets: 29
   - 8Bit@4x
   - 8bit_sandsoftime
 
-## Pins (8)
+## Pins (7)
   - 8-bit_canopic_8-bit_happy_543
   - 8bit_hypercharge_pin
   - 8bit_piano_pin
   - 8bit_pin_enchanted
   - 8bit_pin_pl
   - 8bit_special_pin
-  - 8bit_virus_pin
   - _0046_8-bit_ascended_8bit_happy_646
 
 ## Emojis (3)

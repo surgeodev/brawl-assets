@@ -1,20 +1,20 @@
 # Edgar
 Rarity: Epic | Class: Assassin
-Total assets: 77
+Total assets: 69
 
 
-## Brawlers (24)
+## Brawlers (16)
   - Edgar@4x
   - _0031_edgar_shin_edgar_001
   - _0032_edgar_masked_edgar_001
   - _0033_edgar_drift_edgar_001
-  - edgar_blackbird_edgar_001
   - edgar_dark_angel_edgar_0001
   - edgar_dark_angel_edgar_001
-  - edgar_default_003
-  - edgar_doctor_edgar_001
-  - edgar_edgar_tata_001
-    ... +14 more
+  - edgar_lightbearer_edgar_0001
+  - edgar_lightbearer_edgar_001
+  - edgar_mecha_edgar_001
+  - edgar_mecha_edgar_unit-00_196
+    ... +6 more
 
 ## Pins (25)
   - edgar_bakugo:_edgar_happy_422

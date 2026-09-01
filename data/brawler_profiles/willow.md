@@ -1,20 +1,16 @@
 # Willow
 Rarity: Mythic | Class: Controller
-Total assets: 22
+Total assets: 18
 
 
-## Brawlers (11)
+## Brawlers (7)
   - Willow@4x
   - willow
-  - willow_axl_willow_001
-  - willow_default_001
   - willow_demon_willow_001
-  - willow_lose
   - willow_lunar_lotus_willow_001
   - willow_scorpion_willow_001
   - willow_true_gold_willow_001
   - willow_true_silver_willow_001
-    ... +1 more
 
 ## Pins (2)
   - willow_demon_willow_pin

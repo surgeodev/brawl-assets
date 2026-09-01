@@ -1,16 +1,15 @@
 # Gus
 Rarity: Super Rare | Class: Support
-Total assets: 18
+Total assets: 17
 
 
-## Brawlers (7)
+## Brawlers (6)
   - Gus@4x
   - _0034_gus_will_gus_001
   - gus
   - gus_balloon_sally_1510
   - gus_boy_scout_gus_262
   - gus_mha
-  - gus_world_champion_gus_005
 
 ## Pins (5)
   - _0021_gus_gruesome_gus_happy_334

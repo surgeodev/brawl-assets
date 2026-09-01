@@ -1,6 +1,6 @@
 # Nita
 Rarity: Rare | Class: Damage Dealer
-Total assets: 57
+Total assets: 56
 
 
 ## Brawlers (12)
@@ -16,12 +16,11 @@ Total assets: 57
   - nita_reinbear_nita_001
     ... +2 more
 
-## Pins (7)
+## Pins (6)
   - nita_bruce_nita_happy_390
   - nita_hypercharge_pin
   - nita_mechagodzilla_pin
   - nita_rui_shou_pin
-  - nita_shiba_pin
   - nita_starrforce_pin
   - nita_xmas_red_pin
 

@@ -1,6 +1,6 @@
 # Crow
 Rarity: Legendary | Class: Assassin
-Total assets: 79
+Total assets: 78
 
 
 ## Brawlers (11)
@@ -19,7 +19,7 @@ Total assets: 79
 ## Portraits (1)
   - portrait_brawler_crow_propass
 
-## Pins (32)
+## Pins (31)
   - _0029_crow_moon_guardian_crow_happy_504
   - crow_dragon_crow_happy_243
   - crow_dragon_crow_vii_happy_1058
@@ -30,7 +30,7 @@ Total assets: 79
   - crow_mecha_angry_pin
   - crow_mecha_clap_pin
   - crow_mecha_gg_pin
-    ... +22 more
+    ... +21 more
 
 ## Emojis (19)
   - emoji_crow_brawloween

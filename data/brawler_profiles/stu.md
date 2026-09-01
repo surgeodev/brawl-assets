@@ -1,20 +1,15 @@
 # Stu
 Rarity: Epic | Class: Assassin
-Total assets: 34
+Total assets: 26
 
 
-## Brawlers (12)
+## Brawlers (6)
   - Stu@4x
   - _0003_stu_graffiti_stu_001
   - stu_crime_lord_stu_001
-  - stu_default_001
-  - stu_headless_rider_stu_001
   - stu_iced_out_stu_001
   - stu_steampunk_stu_001
-  - stu_true_gold_stu_001
-  - stu_true_silver_stu_001
-  - stu_wicked_stu_001
-    ... +2 more
+  - stu_woodriver_stu_001
 
 ## Pins (13)
   - stu_goodrandoms_pin
@@ -39,6 +34,3 @@ Total assets: 34
 ## Sprays (2)
   - spray_stu_university
   - stu_spray_hypercharge
-
-## UI (1)
-  - stu_superstar_stu_001

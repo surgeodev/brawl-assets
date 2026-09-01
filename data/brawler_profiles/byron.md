@@ -1,18 +1,14 @@
 # Byron
 Rarity: Mythic | Class: Support
-Total assets: 27
+Total assets: 23
 
 
-## Brawlers (10)
+## Brawlers (6)
   - Byron@4x
   - byron_beach_byron_182
   - byron_byron_the_white_220
-  - byron_default_001
-  - byron_overlord_byron_001
   - byron_ringmaster_byron_160
-  - byron_true_silver_byron_001
   - byron_windstock
-  - byron_wizard_byron_001
   - hc_byron
 
 ## Pins (5)

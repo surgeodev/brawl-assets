@@ -1,6 +1,6 @@
 # Surge
 Rarity: Legendary | Class: Damage Dealer
-Total assets: 73
+Total assets: 54
 
 
 ## Brawlers (7)
@@ -12,18 +12,18 @@ Total assets: 73
   - surge_surge_lightyear_001
   - surge_surgenie_306
 
-## Pins (40)
+## Pins (21)
   - _0001_surge_villainous_skeletal_surge_happyloop_378
   - _0002_surge_skeletal_surge_happyloop_378
   - _0003_surge_anti-hero_skeletal_surge_happyloop_378
-  - surge_angry_pin
-  - surge_clap_pin
   - surge_evilking_green_pin
   - surge_evilking_pin
   - surge_evilking_red_pin
-  - surge_facepalm_pin
-  - surge_gg_pin
-    ... +30 more
+  - surge_hypercharge_pin
+  - surge_kong_pin
+  - surge_pin_cursed
+  - surge_scarlet_paladin_pin
+    ... +11 more
 
 ## Emojis (10)
   - emoji_surge_diy

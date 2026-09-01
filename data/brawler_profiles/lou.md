@@ -1,20 +1,15 @@
 # Lou
 Rarity: Mythic | Class: Controller
-Total assets: 26
+Total assets: 20
 
 
-## Brawlers (12)
+## Brawlers (6)
   - Lou@4x
   - _0014_lou_bandito_lou_001
-  - lou_burger_lou_001
-  - lou_default_001
   - lou_hypercharge
-  - lou_king_lou_001
   - lou_rude_lou_001
-  - lou_smooth_lou_001
   - lou_stone_troll_lou_001
   - lou_strikers
-    ... +2 more
 
 ## Pins (3)
   - lou_pin_enchanted

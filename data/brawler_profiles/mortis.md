@@ -1,9 +1,9 @@
 # Mortis
 Rarity: Mythic | Class: Assassin
-Total assets: 76
+Total assets: 63
 
 
-## Brawlers (28)
+## Brawlers (15)
   - Grim Mortis Meme
   - Mortis Change My Mind Meme
   - Mortis Grave Meme
@@ -11,10 +11,10 @@ Total assets: 76
   - Mortis@4x
   - gears_december2023_mortis
   - img_shadow_smash_mortis
-  - mecha_mortis_dark
-  - mecha_mortis_light
-  - mecha_mortis_purple
-    ... +18 more
+  - mortis_demon_mortis_001
+  - mortis_demon_mortis_002
+  - mortis_devilish_mortis_001
+    ... +5 more
 
 ## Pins (24)
   - Mortis Happy Sad Meme

@@ -1,19 +1,18 @@
 # Meg
 Rarity: Legendary | Class: Tank
-Total assets: 37
+Total assets: 34
 
 
-## Brawlers (8)
+## Brawlers (7)
   - Meg@4x
   - _0009_meg_whisked_meg_001
   - _0010_meg_mecha_whisked_001
   - _0016_megabossstvec_default_001
   - _0017_megabossstdg_default_001
-  - bea_mega_beetle_bea_001
   - meg_megalodon
   - meg_nano
 
-## Pins (12)
+## Pins (11)
   - _0001_pam_egg_pam_002
   - bea_mega_bettle_pin
   - classic_box_mega_pin
@@ -21,10 +20,10 @@ Total assets: 37
   - meg_default_happy_092 2
   - meg_default_happy_092 3
   - meg_hypercharge_pin
-  - meg_jungle_pin
   - meg_mega_corporate_mecha_meg_happy_1434
   - meg_mega_mecha_meg_happy_1434
-    ... +2 more
+  - meg_pin_cursed
+    ... +1 more
 
 ## Emojis (3)
   - emoji_meg_angel
@@ -40,7 +39,7 @@ Total assets: 37
 ## Backgrounds (1)
   - map_select_mega_boss_bg
 
-## UI (8)
+## UI (7)
   - buddy_icon_meg_bling@4x
   - buddy_icon_meg_gadget@4x
   - buddy_icon_meg_hypercharge@4x
@@ -48,4 +47,3 @@ Total assets: 37
   - icon_megaboss_big
   - profile_icon_bea_mega_bettle
   - profile_icon_meg_cursed
-  - profile_icon_pl_meg_jungle

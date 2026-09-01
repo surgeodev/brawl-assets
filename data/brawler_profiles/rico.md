@@ -1,20 +1,15 @@
 # Rico
 Rarity: Super Rare | Class: Damage Dealer
-Total assets: 398
+Total assets: 389
 
 
-## Brawlers (15)
+## Brawlers (6)
   - Rico@4x
   - _0006_rico_ghost_diver_rico_001
   - rico_breakup_rico_001
-  - rico_chicken_rico_001
-  - rico_default_001
-  - rico_firefly_rico_001
-  - rico_guard_rico_001
   - rico_heartbroken_rico_004
   - rico_hypercharge
-  - rico_loaded_rico_001
-    ... +5 more
+  - rico_revenge_rico_001
 
 ## Pins (22)
   - _0000_rico_egg_rico_002

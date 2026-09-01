@@ -1,20 +1,15 @@
 # Rosa
 Rarity: Rare | Class: Tank
-Total assets: 32
+Total assets: 25
 
 
-## Brawlers (13)
+## Brawlers (6)
   - Rosa x Primo Predator Meme
   - Rosa@4x
   - _0004_rosa_sunflowerosa_001
-  - rosa_brawl-o-ween_rosa_001
   - rosa_cheerleader_rosa_001
-  - rosa_coco_rosa_001
-  - rosa_default_001
-  - rosa_major_rosa_001
-  - rosa_mantis_rosa_001
   - rosa_sugarplum_rosa_001
-    ... +3 more
+  - rosa_windstock
 
 ## Pins (7)
   - pin_esports_rosa

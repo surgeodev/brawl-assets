@@ -1,6 +1,6 @@
 # Squeak
 Rarity: Mythic | Class: Controller
-Total assets: 20
+Total assets: 19
 
 
 ## Brawlers (4)
@@ -9,9 +9,8 @@ Total assets: 20
   - squeak_nerd_squeak_002
   - squeak_squeak_note_276
 
-## Pins (6)
+## Pins (5)
   - squeak_action_special_pin
-  - squeak_bunny_pin
   - squeak_hypercharge_pin
   - squeak_sandsoftime2_pin
   - squeak_scarab_squeak_happy_194

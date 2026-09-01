@@ -1,20 +1,19 @@
 # Buzz
 Rarity: Mythic | Class: Assassin
-Total assets: 50
+Total assets: 43
 
 
-## Brawlers (17)
+## Brawlers (10)
   - Buzz@4x
   - Dont Buzz Meme
   - _0031_buzz_fisherman_buzz_001
-  - buzz_born_bad_buzz_001
-  - buzz_buzzette_001
   - buzz_bye_bye_buzz_001
-  - buzz_default_001
-  - buzz_director_buzz_001
   - buzz_eldr_fenrir_buzz_300
   - buzz_fenrir_buzz_300
-    ... +7 more
+  - buzz_filmmaker_buzz_294
+  - buzz_godzilla_buzz_559
+  - buzz_hypercharge
+  - buzz_mork_fenrir_buzz_300
 
 ## Pins (21)
   - _0035_buzz_buzz_patrick_happy_250

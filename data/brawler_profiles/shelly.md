@@ -1,20 +1,19 @@
 # Shelly
 Rarity: Common | Class: Damage Dealer
-Total assets: 49
+Total assets: 37
 
 
-## Brawlers (21)
+## Brawlers (10)
   - Colt x Shelly Anakin Meme
   - Shelly@4x
   - banner_shelly_hypercharge
   - items_hypercharge_shelly
-  - shelly_america_shelly_001
-  - shelly_bandita_shelly_001
-  - shelly_boca_juniors_shelly_001
-  - shelly_classic_shelly_001
-  - shelly_default_001
   - shelly_hoot_hoot_shelly_118
-    ... +11 more
+  - shelly_nano
+  - shelly_psg
+  - shelly_shelly_dancer_318
+  - shelly_shelly_dancer_dahlia_318
+  - shelly_shelly_dancer_iris_318
 
 ## Portraits (1)
   - BS_Portrait_SHELLY_Export_V1a
@@ -43,7 +42,7 @@ Total assets: 49
   - spray_shelly_overcharge
   - spray_shelly_witch
 
-## UI (9)
+## UI (8)
   - button_hypercharge_shelly
   - player_icon_shelly_nano
   - player_icon_shelly_witch
@@ -52,4 +51,3 @@ Total assets: 49
   - profile_icon_shelly_classic
   - profile_icon_shelly_dancer
   - profile_icon_shelly_star
-  - shelly_star_shelly_001

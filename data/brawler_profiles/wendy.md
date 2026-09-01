@@ -1,6 +1,6 @@
 # Wendy
 Rarity: Mythic | Class: Unknown
-Total assets: 40
+Total assets: 44
 
 
 ## Brawlers (5)
@@ -13,9 +13,13 @@ Total assets: 40
 ## Portraits (1)
   - BS_Portrait_Wendy
 
-## Pins (6)
+## Pins (10)
   - wendy_angry
   - wendy_clap
+  - wendy_default_happy_158
+  - wendy_default_happy_257
+  - wendy_default_happy_343
+  - wendy_default_happy_523
   - wendy_facepalm
   - wendy_gg
   - wendy_happy

@@ -1,20 +1,17 @@
 # Bibi
 Rarity: Epic | Class: Tank
-Total assets: 53
+Total assets: 44
 
 
-## Brawlers (17)
+## Brawlers (8)
   - BS_BibiEvent_Final
   - Bibi@4x
-  - bibi_bibi_rj_001
-  - bibi_bibilante_001
   - bibi_bo_peep_bibi_002
-  - bibi_bubblegum_bibi_001
   - bibi_cursed_pirate_001
-  - bibi_default_001
   - bibi_gamer_bibi_320
-  - bibi_heroine_bibi_001
-    ... +7 more
+  - bibi_hypercharge
+  - bibi_sandsoftime
+  - bibi_thor_bibi_170
 
 ## Pins (19)
   - bibi_bodyguard_bibi_happy_170

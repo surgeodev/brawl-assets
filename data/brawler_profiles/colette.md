@@ -1,24 +1,16 @@
 # Colette
 Rarity: Epic | Class: Damage Dealer
-Total assets: 41
+Total assets: 33
 
 
-## Brawlers (10)
+## Brawlers (3)
   - _0035_colette_tokusatsu_colette_001
-  - colette_default_001
   - colette_fangirl_cony_292
-  - colette_gladiator_colette_001
   - colette_impie_colette_002
-  - colette_inspector_colette_001
-  - colette_navigator_colette_001
-  - colette_trixie_colette_001
-  - colette_true_gold_colette_001
-  - colette_true_silver_colette_001
 
-## Pins (11)
+## Pins (10)
   - _0030_colette_cuckoo_colette_happy_348
   - colette_fangirl_cony_pin
-  - colette_ghost_pin
   - colette_impie_colette_pin
   - colette_kiiro_pawlette_happy_330
   - colette_midori_pawlette_happy_330
@@ -26,7 +18,7 @@ Total assets: 41
   - colette_pinku_pawlette_happy_330
   - colette_void_colette_happy_207
   - colette_white_dwarf_colette_happy_207
-    ... +1 more
+  - colette_wip_starr_girl_colette_happy_207
 
 ## Emojis (6)
   - emoji_colette_kaiju

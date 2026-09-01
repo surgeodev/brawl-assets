@@ -1,20 +1,13 @@
 # Tara
 Rarity: Mythic | Class: Damage Dealer
-Total assets: 28
+Total assets: 21
 
 
-## Brawlers (11)
+## Brawlers (4)
   - Tara@4x
   - _0000_tara_shukuteki_tara_001
-  - tara_default_001
-  - tara_misfortune_tara_001
   - tara_nano
-  - tara_ragequit_tara_001
-  - tara_street_ninja_tara_001
-  - tara_tempest_tara_001
-  - tara_true_gold_tara_001
-  - tara_true_silver_tara_001
-    ... +1 more
+  - tara_urban_ninja_tara_1844
 
 ## Pins (4)
   - tara_hypercharge_pin

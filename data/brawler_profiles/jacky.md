@@ -1,20 +1,12 @@
 # Jacky
 Rarity: Super Rare | Class: Tank
-Total assets: 30
+Total assets: 22
 
 
-## Brawlers (11)
+## Brawlers (3)
   - Jacky@4x
   - items_hypercharge_jacky
-  - jacky_constructor_jacky_001
-  - jacky_default_001
-  - jacky_gift_express_jacky_001
-  - jacky_jacky_cooky_001
-  - jacky_jet_ski_jacky_001
-  - jacky_true_gold_jacky_001
-  - jacky_true_silver_jacky_001
-  - jacky_ultra_driller_jacky_002
-    ... +1 more
+  - jacky_wave_hopper_jacky_204
 
 ## Pins (9)
   - _0021_jacky_knight_jacky_happy_454

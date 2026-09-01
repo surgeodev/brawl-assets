@@ -1,20 +1,15 @@
 # Fang
 Rarity: Mythic | Class: Assassin
-Total assets: 39
+Total assets: 34
 
 
-## Brawlers (11)
+## Brawlers (6)
   - Fang@4x
   - fang_blue_pitcher_fang_220
-  - fang_default_001
   - fang_fanguard_043
-  - fang_furious_fang_001
   - fang_kabocha_fang_178
   - fang_mha
-  - fang_octo_fang_001
   - fang_red_pitcher_fang_220
-  - fang_true_gold_fang_001
-    ... +1 more
 
 ## Pins (9)
   - _0022_fang_the_fans'_fang_happy_344

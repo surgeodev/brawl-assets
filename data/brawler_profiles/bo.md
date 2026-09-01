@@ -1,20 +1,20 @@
 # Bo
 Rarity: Epic | Class: Controller
-Total assets: 140
+Total assets: 129
 
 
-## Brawlers (40)
+## Brawlers (29)
   - Bo@4x
   - adidas_box
   - bo_cupid_bo_001
-  - bo_default_001
-  - bo_gold_mecha_bo_001
-  - bo_ho_ho_ho_bo_001
-  - bo_horus_bo_001
   - bo_hypercharge
-  - bo_light_mecha_bo_001
-  - bo_mecha_bo_001
-    ... +30 more
+  - bo_supreme_bo_068
+  - bowdudebuddy_default_idle_001
+  - bowdudebuddy_default_idle_001
+  - bowdudebuddy_default_idle_001
+  - bowdudebuddy_default_idle_001
+  - box_nano
+    ... +19 more
 
 ## Pins (40)
   - _0038_bo_knight_bo_happy_702
