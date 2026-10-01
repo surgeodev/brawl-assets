@@ -1,5 +1,5 @@
 # Bea
-Rarity: Epic | Class: Marksman
+Rarity: Epic | Class: Land Hits Then Punish
 Total assets: 14
 
 

@@ -1,6 +1,6 @@
 # Frank
-Rarity: Epic | Class: Tank
-Total assets: 60
+Rarity: Epic | Class: Control Space With Stuns And High Health.
+Total assets: 69
 
 
 ## Brawlers (3)
@@ -8,7 +8,7 @@ Total assets: 60
   - frank_borderless
   - frank_emoji
 
-## Pins (13)
+## Pins (22)
   - frank_blue_king_frank_happy_188
   - frank_caveman_pin
   - frank_charcoal_frank_happy_436
@@ -19,7 +19,7 @@ Total assets: 60
   - frank_prehistoric_pin
   - frank_red_king_frank_happy_188
   - frank_sandsoftime2_black_pin
-    ... +3 more
+    ... +12 more
 
 ## Emojis (25)
   - emoji_frank_buffy_bling

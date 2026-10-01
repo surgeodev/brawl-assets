@@ -1,5 +1,5 @@
 # Meeple
-Rarity: Epic | Class: Unknown
+Rarity: Epic | Class: Shoot Through Walls And Control The Map
 Total assets: 31
 
 

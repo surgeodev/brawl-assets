@@ -1,5 +1,5 @@
 # Mortis
-Rarity: Mythic | Class: Assassin
+Rarity: Mythic | Class: Jump In On Weak Or Isolated Enemies.
 Total assets: 63
 
 

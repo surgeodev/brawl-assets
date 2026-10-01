@@ -1,5 +1,5 @@
 # Larry & Lawrie
-Rarity: Epic | Class: Artillery
+Rarity: Epic | Class: Overwhelm With Teamwork
 Total assets: 25
 
 

@@ -1,21 +1,27 @@
 # Jessie
-Rarity: Super Rare | Class: Controller
-Total assets: 52
+Rarity: Super Rare | Class: Place Your Turret To Dominate The Map
+Total assets: 59
 
 
-## Brawlers (7)
+## Brawlers (12)
   - Jessie x Rico Jurassic Meme
   - Jessie@4x
   - _0031_jessie_shining_mecha_jessie_001
   - _0032_jessie_mecha_jessie_001
   - _0033_jessie_bubblegum_mecha_jessie_001
+  - jessie_cat_burglar_jessie_001
+  - jessie_dragon_knight_jessie_001
   - jessie_jessie_jessie_001
-  - jessie_skadi_jessie_238
+  - jessie_red_dragon_jessie_001
+  - jessie_shadow_knight_jessie_001
+    ... +2 more
 
-## Pins (7)
+## Pins (9)
   - _0019_jessie_sandy_jessie_happy_274
+  - jessie_catburglar_pin
   - jessie_doll_jessie_happy_178
   - jessie_knight_dark_pin
+  - jessie_knight_pin
   - jessie_reddragon_pin
   - jessie_sb_pin
   - jessie_skadi_pin

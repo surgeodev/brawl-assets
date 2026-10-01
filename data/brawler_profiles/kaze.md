@@ -1,6 +1,6 @@
 # Kaze
-Rarity: Ultra Legendary | Class: Unknown
-Total assets: 51
+Rarity: Ultra Legendary | Class: Zone As Geisha Strike As Ninja.
+Total assets: 49
 
 
 ## Brawlers (10)
@@ -41,8 +41,6 @@ Total assets: 51
 ## Backgrounds (1)
   - background_kaze
 
-## UI (4)
-  - icon_pattern_kaze
-  - icon_pattern_kaze_small
+## UI (2)
   - player_icon_kaze
   - player_icon_kaze_steampunk

@@ -1,5 +1,5 @@
 # Clancy
-Rarity: Mythic | Class: Damage Dealer
+Rarity: Mythic | Class: Poke To Level Up And Take Over
 Total assets: 30
 
 

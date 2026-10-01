@@ -1,5 +1,5 @@
 # Lumi
-Rarity: Mythic | Class: Damage Dealer
+Rarity: Mythic | Class: Recall Weapons To Create New Angles Of Attack.
 Total assets: 33
 
 

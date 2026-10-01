@@ -1,6 +1,6 @@
 # Trunk
-Rarity: Epic | Class: Unknown
-Total assets: 35
+Rarity: Epic | Class: Use Ants For Speed And Charge In
+Total assets: 33
 
 
 ## Brawlers (11)
@@ -45,8 +45,6 @@ Total assets: 35
 ## Backgrounds (1)
   - background_trunk
 
-## UI (4)
-  - icon_pattern_trunk
-  - icon_pattern_trunk_small
+## UI (2)
   - player_icon_trunk1
   - player_icon_trunk_scstore

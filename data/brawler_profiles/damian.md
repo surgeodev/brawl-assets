@@ -1,11 +1,12 @@
 # Damian
-Rarity: Mythic | Class: Unknown
-Total assets: 38
+Rarity: Mythic | Class: Jump In To Unleash Chaos
+Total assets: 41
 
 
-## Brawlers (9)
+## Brawlers (10)
   - box_damian
   - damian
+  - damian_brawloween26
   - damian_builder
   - damian_firepower
   - damian_phew
@@ -17,7 +18,7 @@ Total assets: 38
 ## Portraits (1)
   - BS_Portrait_DAMIAN
 
-## Pins (13)
+## Pins (14)
   - damian_(gold)_happy_412 2
   - damian_(silver)_happy_412
   - damian_angry
@@ -28,7 +29,10 @@ Total assets: 38
   - damian_default_sad_006
   - damian_default_sad_177
   - damian_facepalm
-    ... +3 more
+    ... +4 more
+
+## Emojis (1)
+  - emoji_damian_brawloween26
 
 ## Sprays (5)
   - spray_box_damian

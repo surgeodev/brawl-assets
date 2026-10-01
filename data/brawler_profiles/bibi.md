@@ -1,5 +1,5 @@
 # Bibi
-Rarity: Epic | Class: Tank
+Rarity: Epic | Class: Charge In And Knock Em Back
 Total assets: 44
 
 

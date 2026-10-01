@@ -1,5 +1,5 @@
 # Gale
-Rarity: Epic | Class: Controller
+Rarity: Epic | Class: Push Enemies Away To Control The Map.
 Total assets: 20
 
 

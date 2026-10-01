@@ -1,5 +1,5 @@
 # Draco
-Rarity: Legendary | Class: Tank
+Rarity: Legendary | Class: Poke Transform Then Dominate
 Total assets: 42
 
 

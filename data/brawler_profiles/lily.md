@@ -1,9 +1,9 @@
 # Lily
-Rarity: Mythic | Class: Assassin
-Total assets: 42
+Rarity: Mythic | Class: Use Bushes And A Super To Get Close.
+Total assets: 45
 
 
-## Brawlers (10)
+## Brawlers (11)
   - Lily-Lose
   - Lily-Win
   - Lily@4x
@@ -11,14 +11,15 @@ Total assets: 42
   - lily_angel_lily_001
   - lily_gadget_01
   - lily_gadget_02
+  - lily_make
   - lily_sandsoftime
   - lily_sandsoftime_chroma_brown
-  - lily_sandsoftime_chroma_white
+    ... +1 more
 
 ## Portraits (1)
   - lily_portrait
 
-## Pins (15)
+## Pins (16)
   - _0010_lily_knight_lily_happy_364
   - lily_GG_pin
   - lily_angel_lily_pin
@@ -29,10 +30,11 @@ Total assets: 42
   - lily_happy_pin
   - lily_night_sands_lily_happy_631
   - lily_phew_pin
-    ... +5 more
+    ... +6 more
 
-## Emojis (5)
+## Emojis (6)
   - emoji_lily_fantasy
+  - emoji_lily_make
   - emoji_lily_overcharge
   - emoji_lily_sandsoftime
   - emoji_lily_sandsoftime_chroma_brown

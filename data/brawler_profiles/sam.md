@@ -1,5 +1,5 @@
 # Sam
-Rarity: Epic | Class: Assassin
+Rarity: Epic | Class: Throw Fists Reclaim Repeat.
 Total assets: 18
 
 

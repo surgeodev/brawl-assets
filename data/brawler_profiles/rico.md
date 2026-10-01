@@ -1,6 +1,6 @@
 # Rico
-Rarity: Super Rare | Class: Damage Dealer
-Total assets: 389
+Rarity: Super Rare | Class: Bounce Shots For Extra Range
+Total assets: 397
 
 
 ## Brawlers (6)
@@ -37,18 +37,18 @@ Total assets: 389
   - spray_rico_brawloween
   - spray_ricoegg
 
-## UI (351)
+## UI (359)
   - buddy_icon_rico_bling@4x
   - buddy_icon_rico_gadget@4x
   - buddy_icon_rico_hypercharge@4x
   - buddy_icon_rico_star_power@4x
+  - icon_item_rico_2
   - player icon_bea_starrgirl
   - player icon_deku_mha
   - player_icon_PFP3_sb
   - player_icon_academy
   - player_icon_adidas_cap
-  - player_icon_adidas_smokebomb
-    ... +341 more
+    ... +349 more
 
 ## Logos (1)
   - player_icon_starrpark_logo

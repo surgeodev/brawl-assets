@@ -1,5 +1,5 @@
 # Pam
-Rarity: Epic | Class: Support
+Rarity: Epic | Class: Hold Ground And Heal Teammates.
 Total assets: 20
 
 

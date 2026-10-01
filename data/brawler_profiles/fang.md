@@ -1,5 +1,5 @@
 # Fang
-Rarity: Mythic | Class: Assassin
+Rarity: Mythic | Class: Poke With Range Then Jump In To Finish.
 Total assets: 34
 
 

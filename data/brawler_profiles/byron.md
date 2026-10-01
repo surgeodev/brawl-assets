@@ -1,5 +1,5 @@
 # Byron
-Rarity: Mythic | Class: Support
+Rarity: Mythic | Class: Heal Teammates Or Snipe With Poison.
 Total assets: 23
 
 

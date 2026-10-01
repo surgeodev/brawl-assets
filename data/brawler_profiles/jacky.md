@@ -1,5 +1,5 @@
 # Jacky
-Rarity: Super Rare | Class: Tank
+Rarity: Super Rare | Class: Get Close To Deal Large Area Damage.
 Total assets: 22
 
 

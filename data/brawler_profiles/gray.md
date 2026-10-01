@@ -1,5 +1,5 @@
 # Gray
-Rarity: Mythic | Class: Support
+Rarity: Mythic | Class: Get Your Team Into The Action With Portals
 Total assets: 14
 
 

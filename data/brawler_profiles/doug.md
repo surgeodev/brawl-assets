@@ -1,26 +1,28 @@
 # Doug
-Rarity: Mythic | Class: Support
-Total assets: 35
+Rarity: Mythic | Class: Big Close Range Damage And Self-Revival
+Total assets: 38
 
 
-## Brawlers (10)
+## Brawlers (11)
   - Doug@4x
   - Doug_lose
   - doug
   - doug_default_001
   - doug_gadget_01
   - doug_gadget_02
+  - doug_make
   - doug_sandsoftime
   - doug_true_gold_doug_001
   - doug_true_silver_doug_001
-  - doug_win
+    ... +1 more
 
 ## Portraits (1)
   - doug_portrait
 
-## Pins (12)
+## Pins (13)
   - _0032_doug_knight_doug_happy_272
   - doug_dynasty_doug_happy_493
+  - doug_j_rmungandr_doug_happy_436
   - doug_man-o-war_pin
   - doug_pin_angry
   - doug_pin_clap
@@ -28,11 +30,11 @@ Total assets: 35
   - doug_pin_gg
   - doug_pin_happy
   - doug_pin_phew
-  - doug_pin_sad
-    ... +2 more
+    ... +3 more
 
-## Emojis (3)
+## Emojis (4)
   - emoji_doug_fantasy
+  - emoji_doug_make
   - emoji_doug_overcharge
   - emoji_doug_sandsoftime
 

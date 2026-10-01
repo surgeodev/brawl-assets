@@ -1,5 +1,5 @@
 # Berry
-Rarity: Epic | Class: Support
+Rarity: Epic | Class: Control Space And Heal Teammates.
 Total assets: 42
 
 

@@ -1,5 +1,5 @@
 # Tara
-Rarity: Mythic | Class: Damage Dealer
+Rarity: Mythic | Class: Punish Grouped Enemies.
 Total assets: 21
 
 

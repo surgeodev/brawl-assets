@@ -1,6 +1,6 @@
 # Colette
-Rarity: Epic | Class: Damage Dealer
-Total assets: 33
+Rarity: Epic | Class: Shred High-Health Enemies And Objectives.
+Total assets: 34
 
 
 ## Brawlers (3)
@@ -8,9 +8,10 @@ Total assets: 33
   - colette_fangirl_cony_292
   - colette_impie_colette_002
 
-## Pins (10)
+## Pins (11)
   - _0030_colette_cuckoo_colette_happy_348
   - colette_fangirl_cony_pin
+  - colette_ghost_pin
   - colette_impie_colette_pin
   - colette_kiiro_pawlette_happy_330
   - colette_midori_pawlette_happy_330
@@ -18,7 +19,7 @@ Total assets: 33
   - colette_pinku_pawlette_happy_330
   - colette_void_colette_happy_207
   - colette_white_dwarf_colette_happy_207
-  - colette_wip_starr_girl_colette_happy_207
+    ... +1 more
 
 ## Emojis (6)
   - emoji_colette_kaiju

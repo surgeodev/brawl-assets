@@ -1,5 +1,5 @@
 # Gigi
-Rarity: Mythic | Class: Unknown
+Rarity: Mythic | Class: Dodge Enemies Then Jump In To Finish Them.
 Total assets: 44
 
 

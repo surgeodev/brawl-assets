@@ -1,17 +1,20 @@
 # Bonnie
-Rarity: Epic | Class: Marksman
-Total assets: 23
+Rarity: Epic | Class: Snipe Then Jump In For Big Damage.
+Total assets: 26
 
 
-## Brawlers (8)
+## Brawlers (11)
   - Bonnie Puking Rainbows Meme
   - Bonnie@4x
+  - bonnie_default_001
   - bonnie_fairy
   - bonnie_fairy_chroma_dark
   - bonnie_fairy_chroma_light
   - bonnie_footbonnie_001
   - bonnie_reindeer_bonnie_001
-  - bonnie_unicorn_001
+  - bonnie_true_gold_bonnie_001
+  - bonnie_true_silver_bonnie_001
+    ... +1 more
 
 ## Pins (6)
   - _0037_bonnie_icarus_bonnie_happy_512

@@ -1,5 +1,5 @@
 # Glowy
-Rarity: Mythic | Class: Unknown
+Rarity: Mythic | Class: Heal Teammates And Fear Enemies.
 Total assets: 4
 
 

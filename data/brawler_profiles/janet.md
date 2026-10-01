@@ -1,5 +1,5 @@
 # Janet
-Rarity: Mythic | Class: Marksman
+Rarity: Mythic | Class: Super To Drop Bombs Safely From Above
 Total assets: 27
 
 

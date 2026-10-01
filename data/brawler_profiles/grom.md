@@ -1,5 +1,5 @@
 # Grom
-Rarity: Epic | Class: Artillery
+Rarity: Epic | Class: Bombard Safely From Behind Walls.
 Total assets: 24
 
 

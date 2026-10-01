@@ -1,6 +1,6 @@
 # Nita
-Rarity: Rare | Class: Damage Dealer
-Total assets: 56
+Rarity: Rare | Class: Pressure With Bruce The Bear
+Total assets: 57
 
 
 ## Brawlers (12)
@@ -16,11 +16,12 @@ Total assets: 56
   - nita_reinbear_nita_001
     ... +2 more
 
-## Pins (6)
+## Pins (7)
   - nita_bruce_nita_happy_390
   - nita_hypercharge_pin
   - nita_mechagodzilla_pin
   - nita_rui_shou_pin
+  - nita_shiba_pin
   - nita_starrforce_pin
   - nita_xmas_red_pin
 

@@ -1,5 +1,5 @@
 # Buzz
-Rarity: Mythic | Class: Assassin
+Rarity: Mythic | Class: Travel Around The Map And Stun Enemies.
 Total assets: 43
 
 

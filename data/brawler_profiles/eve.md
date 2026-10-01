@@ -1,24 +1,25 @@
 # Eve
-Rarity: Mythic | Class: Damage Dealer
-Total assets: 80
+Rarity: Mythic | Class: Walk Over Water And Spawn Hatchlings
+Total assets: 84
 
 
-## Brawlers (13)
+## Brawlers (15)
   - Eve@4x
   - achievements_dot
   - eve_extraterrestrial_eve_001
   - eve_hypercharge
+  - eve_moon
   - eve_mothra_eve_272
   - event_banner_5v5-graphic
   - event_banner_5v5_ingame
   - event_banner_drumroll_240x240
   - event_banner_mirrormatch_240x240
-  - event_banner_paintball_240x240
-    ... +3 more
+    ... +5 more
 
-## Pins (14)
+## Pins (15)
   - eve_cored_eve_happy_360
   - eve_hypercharge_pin
+  - eve_moonlight_eve_happy_665
   - eve_mothra_pin
   - eve_starrforce_pin
   - event_mrkrabs_sb_pin
@@ -26,8 +27,10 @@ Total assets: 80
   - event_plankton_sb_pin
   - event_spongebob_sb_pin
   - event_squidward_sb_pin
-  - powerlevelerbuddy_default_happy_325
-    ... +4 more
+    ... +5 more
+
+## Emojis (1)
+  - emoji_eve_moon
 
 ## Sprays (5)
   - spray_event_moon_1

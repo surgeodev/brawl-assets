@@ -1,21 +1,25 @@
 # Hank
-Rarity: Epic | Class: Tank
-Total assets: 81
+Rarity: Epic | Class: Charge Up Your Attack Then Engage.
+Total assets: 104
 
 
-## Brawlers (10)
+## Brawlers (15)
   - Hank@4x
   - _0020_hank_jam_master_hank_001
   - bp_sandsoftime26_thanks
+  - hank_backtoschool
+  - hank_gadget_01
+  - hank_gadget_02
+  - hank_lose
   - hank_rodeo_hank_001
+  - hank_win
   - naji_thanks
-  - primo_mha_thanks
-  - sandsoftime_twin_thanks
-  - thanks
-  - thanks
-  - thanks
+    ... +5 more
 
-## Pins (29)
+## Portraits (1)
+  - hank_portrait
+
+## Pins (42)
   - Cyberbrawlthanks_pin
   - _0020_hank_moon_guardian_hank_happy_572
   - bibi_thor_thanks_pin
@@ -26,9 +30,9 @@ Total assets: 81
   - bp_greek_thanks_pin
   - bp_sandsoftime2_thanks_pin
   - bp_spongebob_thanks_pin
-    ... +19 more
+    ... +32 more
 
-## Emojis (35)
+## Emojis (36)
   - emoji_Kit_thanks
   - emoji_bp_brawlentines_thanks
   - emoji_bp_brawloween25_thanks
@@ -39,15 +43,18 @@ Total assets: 81
   - emoji_bp_kaiju_thanks
   - emoji_bp_mecha_thanks
   - emoji_bp_sandsoftime26_thanks
-    ... +25 more
+    ... +26 more
 
 ## Sprays (3)
   - spray_hank_street
   - spray_hank_wasteland
   - spray_hypercharge_hank@2x
 
-## UI (4)
+## UI (7)
   - bp_starrgirl_thanks
+  - hank_starpower_01
+  - hank_starpower_02
   - player_icon_hank_street
   - player_icon_hank_wasteland
   - player_icon_thank_all
+  - profile_icon_hank1

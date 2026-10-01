@@ -1,5 +1,5 @@
 # Edgar
-Rarity: Epic | Class: Assassin
+Rarity: Epic | Class: Jump To Take Out Isolated Enemies.
 Total assets: 69
 
 

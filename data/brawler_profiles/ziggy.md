@@ -1,5 +1,5 @@
 # Ziggy
-Rarity: Mythic | Class: Unknown
+Rarity: Mythic | Class: Call Lightning To Control Space.
 Total assets: 47
 
 

@@ -1,21 +1,24 @@
 # Lola
-Rarity: Epic | Class: Damage Dealer
-Total assets: 15
+Rarity: Epic | Class: Control Multiple Lanes With Ego
+Total assets: 18
 
 
-## Brawlers (6)
+## Brawlers (7)
   - Lola Calculating Meme
   - Lola@4x
   - lola_cobra_lola_150
   - lola_high_flyer_lola_001
   - lola_lavish_lola_143
   - lola_loopy_lola_001
+  - lola_moon
 
-## Pins (1)
+## Pins (2)
+  - lola_moonlight_lola_happy_290
   - lola_toy_pin
 
-## Emojis (2)
+## Emojis (3)
   - emoji_lola_circus
+  - emoji_lola_moon
   - emoji_lola_retropolis
 
 ## Sprays (2)

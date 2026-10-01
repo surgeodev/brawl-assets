@@ -1,11 +1,12 @@
 # Amber
-Rarity: Legendary | Class: Controller
-Total assets: 28
+Rarity: Legendary | Class: Destroy Bushes And Control Space With Fire.
+Total assets: 36
 
 
-## Brawlers (2)
+## Brawlers (3)
   - Amber@4x
   - amber
+  - gear_mythic_amber
 
 ## Pins (14)
   - _0043_amber_knight_amber_happy_324
@@ -29,11 +30,15 @@ Total assets: 28
   - spray_amber_frost_queen
   - spray_overcharge_amber
 
-## UI (7)
+## UI (14)
   - amber_starr
+  - buddy_icon_amber_bling
+  - buddy_icon_amber_gadget
+  - buddy_icon_amber_hypercharge
+  - buddy_icon_amber_star_power
+  - icon_item_amber_1
   - player_icon_amber_fantasy
   - player_icon_amber_scmake
   - player_icon_amber_starrgirl
   - player_icon_anime_amber
-  - profile_icon_amber_de_la_vega
-  - profile_icon_amber_frost_queen
+    ... +4 more

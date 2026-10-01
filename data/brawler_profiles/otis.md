@@ -1,5 +1,5 @@
 # Otis
-Rarity: Mythic | Class: Controller
+Rarity: Mythic | Class: Burst Tanks And Silence Threats.
 Total assets: 14
 
 

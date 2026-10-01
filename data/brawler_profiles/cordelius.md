@@ -1,5 +1,5 @@
 # Cordelius
-Rarity: Legendary | Class: Assassin
+Rarity: Legendary | Class: Use The Shadow Realm To Isolate Targets
 Total assets: 65
 
 

@@ -1,9 +1,9 @@
 # Bo
-Rarity: Epic | Class: Controller
-Total assets: 129
+Rarity: Epic | Class: Control Space With Hidden Traps.
+Total assets: 133
 
 
-## Brawlers (29)
+## Brawlers (31)
   - Bo@4x
   - adidas_box
   - bo_cupid_bo_001
@@ -14,7 +14,7 @@ Total assets: 129
   - bowdudebuddy_default_idle_001
   - bowdudebuddy_default_idle_001
   - box_nano
-    ... +19 more
+    ... +21 more
 
 ## Pins (40)
   - _0038_bo_knight_bo_happy_702
@@ -29,7 +29,7 @@ Total assets: 129
   - bo_mecha_pin
     ... +30 more
 
-## Emojis (23)
+## Emojis (24)
   - emoji_bo_buffy_bling
   - emoji_bo_buffy_gadget
   - emoji_bo_buffy_hc
@@ -40,7 +40,7 @@ Total assets: 129
   - emoji_bo_hindu
   - emoji_bo_hindu_gold
   - emoji_box_mila
-    ... +13 more
+    ... +14 more
 
 ## Sprays (16)
   - spray_anime_book
@@ -60,7 +60,8 @@ Total assets: 129
   - banner_spongebob
   - bp_banner_kaiuju&robots (1)
 
-## UI (17)
+## UI (18)
+  - coffin_box_ui_render
   - icon_bomb_lobbers
   - icon_box
   - icon_ingame_BoomBox_1_active
@@ -70,5 +71,4 @@ Total assets: 129
   - icon_modifier_boost
   - icon_modifier_boss_robot
   - icon_nano_bounce
-  - icon_rebound
-    ... +7 more
+    ... +8 more

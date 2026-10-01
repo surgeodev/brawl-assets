@@ -1,5 +1,5 @@
 # Angelo
-Rarity: Epic | Class: Marksman
+Rarity: Epic | Class: Use Charged Attacks To Snipe
 Total assets: 37
 
 

@@ -1,5 +1,5 @@
 # Barley
-Rarity: Rare | Class: Artillery
+Rarity: Rare | Class: Deny Space By Throwing Fiery Bottles.
 Total assets: 13
 
 

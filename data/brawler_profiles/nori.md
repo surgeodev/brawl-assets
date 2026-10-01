@@ -1,17 +1,19 @@
 # Nori
-Rarity: Legendary | Class: Unknown
-Total assets: 46
+Rarity: Legendary | Class: Jump Around The Map And Cause Chaos
+Total assets: 52
 
 
-## Brawlers (3)
+## Brawlers (5)
   - box_nori
+  - hc_nori
   - nori_base
+  - nori_hypercharge
   - nori_phew
 
 ## Portraits (1)
   - BS_Portrait_NORI_Export_V1
 
-## Pins (11)
+## Pins (13)
   - nori_angry
   - nori_clap
   - nori_default_happy_155
@@ -22,9 +24,9 @@ Total assets: 46
   - nori_default_happy_508
   - nori_facepalm
   - nori_gg
-    ... +1 more
+    ... +3 more
 
-## Emojis (11)
+## Emojis (12)
   - emoji_box_nori
   - emoji_nori
   - emoji_nori_angry
@@ -32,16 +34,17 @@ Total assets: 46
   - emoji_nori_facepalm
   - emoji_nori_gg
   - emoji_nori_happy
+  - emoji_nori_overcharge
   - emoji_nori_phew
   - emoji_nori_sad
-  - emoji_nori_special
-    ... +1 more
+    ... +2 more
 
-## Sprays (4)
+## Sprays (5)
   - spray_box_nori
   - spray_nori_1
   - spray_nori_2
   - spray_nori_3
+  - spray_overcharge_nori
 
 ## Backgrounds (1)
   - background_nori

@@ -1,5 +1,5 @@
 # Pearl
-Rarity: Epic | Class: Damage Dealer
+Rarity: Epic | Class: Build Up Heat For Burst Damage
 Total assets: 45
 
 

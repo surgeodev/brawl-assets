@@ -1,15 +1,16 @@
 # Lou
-Rarity: Mythic | Class: Controller
-Total assets: 20
+Rarity: Mythic | Class: Control The Map With A Huge Freeze.
+Total assets: 22
 
 
-## Brawlers (6)
+## Brawlers (7)
   - Lou@4x
   - _0014_lou_bandito_lou_001
   - lou_hypercharge
   - lou_rude_lou_001
   - lou_stone_troll_lou_001
   - lou_strikers
+  - lou_true_gold_lou_001
 
 ## Pins (3)
   - lou_pin_enchanted
@@ -21,9 +22,10 @@ Total assets: 20
   - emoji_lou_burger
   - emoji_lou_oc
 
-## Sprays (5)
+## Sprays (6)
   - lou_spray_enchanted
   - lou_spray_rude_lou
+  - spray_26wf_loud
   - spray_overcharge_lou
   - spray_team_graffiti_loud
   - spray_team_loud_26

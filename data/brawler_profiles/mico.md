@@ -1,5 +1,5 @@
 # Mico
-Rarity: Mythic | Class: Assassin
+Rarity: Mythic | Class: Leap Over Walls And Enemy Attacks
 Total assets: 60
 
 

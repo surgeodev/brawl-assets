@@ -1,11 +1,13 @@
 # Wendy
-Rarity: Mythic | Class: Unknown
-Total assets: 44
+Rarity: Mythic | Class: Shield Teammates And Hold Ground.
+Total assets: 50
 
 
-## Brawlers (5)
+## Brawlers (7)
   - box_wendy
+  - hc_wendy
   - wendy_base
+  - wendy_hypercharge
   - wendy_phew
   - wendy_special
   - wendy_thanks
@@ -13,7 +15,7 @@ Total assets: 44
 ## Portraits (1)
   - BS_Portrait_Wendy
 
-## Pins (10)
+## Pins (12)
   - wendy_angry
   - wendy_clap
   - wendy_default_happy_158
@@ -24,8 +26,9 @@ Total assets: 44
   - wendy_gg
   - wendy_happy
   - wendy_sad
+    ... +2 more
 
-## Emojis (11)
+## Emojis (12)
   - emoji_box_wendy
   - emoji_wendy
   - emoji_wendy_angry
@@ -33,13 +36,14 @@ Total assets: 44
   - emoji_wendy_facepalm
   - emoji_wendy_gg
   - emoji_wendy_happy
+  - emoji_wendy_overcharge
   - emoji_wendy_phew
   - emoji_wendy_sad
-  - emoji_wendy_special
-    ... +1 more
+    ... +2 more
 
-## Sprays (4)
+## Sprays (5)
   - spray_box_wendy
+  - spray_overcharge_wendy
   - spray_wendy_1
   - spray_wendy_2
   - spray_wendy_3

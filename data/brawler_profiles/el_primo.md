@@ -1,6 +1,6 @@
 # El Primo
-Rarity: Rare | Class: Tank
-Total assets: 19
+Rarity: Rare | Class: Jump In But Stay Away From Crowds.
+Total assets: 24
 
 
 ## Brawlers (3)
@@ -24,10 +24,15 @@ Total assets: 19
   - elprimo_spray_hypercharge
   - elprimo_spray_spongebob
 
-## UI (6)
+## UI (11)
+  - buddy_icon_elprimo_bling
+  - buddy_icon_elprimo_gadget
+  - buddy_icon_elprimo_hypercharge
+  - buddy_icon_elprimo_star_power
+  - icon_item_elprimo_2
   - player_icon_elprimo_spongebob
   - profile_icon_el_primo_baby_shark
   - profile_icon_elprimo_dragon_verdoso
   - profile_icon_elprimo_el_brown
   - profile_icon_elprimo_el_rey
-  - profile_icon_elprimo_el_tigro
+    ... +1 more

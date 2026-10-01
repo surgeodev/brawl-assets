@@ -1,5 +1,5 @@
 # Finx
-Rarity: Mythic | Class: Unknown
+Rarity: Mythic | Class: Slow Enemy Projectiles To Take Space.
 Total assets: 43
 
 

@@ -1,5 +1,5 @@
 # Sandy
-Rarity: Legendary | Class: Controller
+Rarity: Legendary | Class: Use Sandstorm To Control Objectives
 Total assets: 28
 
 

@@ -1,9 +1,9 @@
 # R-T
-Rarity: Mythic | Class: Damage Dealer
-Total assets: 140
+Rarity: Mythic | Class: Mark Targets Then Deal Burst Damage
+Total assets: 159
 
 
-## Brawlers (32)
+## Brawlers (42)
   - BS_LS_Glowbert
   - FORTUNE-COOKIE_0000_Layer-2
   - FORTUNE-COOKIE_0001_Layer-3
@@ -14,14 +14,14 @@ Total assets: 140
   - _0007_r-t_gargoyle_r-t_001
   - _0041_artillerydudeturret_default_001
   - artillerydudeturret_003
-    ... +22 more
+    ... +32 more
 
 ## Portraits (3)
   - BS_Portrait_GLOWBERT_Export_V1
   - BS_Portrait_STELLA 2
   - larrie&lawrie_portrait
 
-## Pins (21)
+## Pins (22)
   - _0008_meg_martyr_meg_happy_432
   - _0039_bo_king_starrthur_bo_happy_702
   - esports_pin_grassroot
@@ -32,9 +32,9 @@ Total assets: 140
   - glowbert_true_silver_glowbert_happy_487
   - meg_mega_earth_mecha_meg_happy_1418
   - mutation_heart_pin
-    ... +11 more
+    ... +12 more
 
-## Emojis (36)
+## Emojis (43)
   - emoji_box_glowbert
   - emoji_bp_strangerthings
   - emoji_bp_strangerthings (2)
@@ -45,7 +45,7 @@ Total assets: 140
   - emoji_bp_strangerthings_phew
   - emoji_bp_strangerthings_sad
   - emoji_bp_strangerthings_special
-    ... +26 more
+    ... +33 more
 
 ## Sprays (16)
   - rt_spray_poseidon
@@ -66,7 +66,7 @@ Total assets: 140
   - bg_glowbert
   - event_banner_cartoon
 
-## UI (24)
+## UI (25)
   - Skin-icons_0000_Vector-Smart-Object
   - Skin-icons_0001_Vector-Smart-Object
   - back_other_player_trail_run
@@ -77,4 +77,4 @@ Total assets: 140
   - icon_class_support
   - icon_insert
   - icon_modifier_timedeto
-    ... +14 more
+    ... +15 more

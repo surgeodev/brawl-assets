@@ -1,5 +1,5 @@
 # Rosa
-Rarity: Rare | Class: Tank
+Rarity: Rare | Class: Use Bushes Whenever Possible
 Total assets: 25
 
 

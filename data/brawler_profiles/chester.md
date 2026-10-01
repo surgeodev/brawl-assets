@@ -1,5 +1,5 @@
 # Chester
-Rarity: Legendary | Class: Damage Dealer
+Rarity: Legendary | Class: Master Randomness To Control The Map.
 Total assets: 20
 
 

@@ -1,5 +1,5 @@
 # Penny
-Rarity: Super Rare | Class: Artillery
+Rarity: Super Rare | Class: Use Your Cannon To Take Over The Map
 Total assets: 22
 
 

@@ -1,6 +1,6 @@
 # Bull
-Rarity: Rare | Class: Tank
-Total assets: 38
+Rarity: Rare | Class: Super To Break Walls And Close The Distance
+Total assets: 39
 
 
 ## Brawlers (8)
@@ -13,18 +13,18 @@ Total assets: 38
   - bullbuddy_default_idle_001
   - items_hypercharge_bull
 
-## Pins (15)
+## Pins (16)
   - _0036_bull_hellbull_happy_458
   - bull_B800_pin
   - bull_hypercharge_pin
   - bull_minotaur_pin
   - bull_norse_rider_pin
   - bull_spaceox_pin
+  - bull_special_pin
   - bull_viking_pin
   - bullbuddy_default_happy_097
   - bullbuddy_default_happy_097
-  - bullbuddy_default_happy_097
-    ... +5 more
+    ... +6 more
 
 ## Emojis (9)
   - emoji_bull_buffy_bling

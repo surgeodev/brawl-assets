@@ -1,5 +1,5 @@
 # Charlie
-Rarity: Mythic | Class: Controller
+Rarity: Mythic | Class: Cocoon Enemies To Remove Them From Play
 Total assets: 29
 
 

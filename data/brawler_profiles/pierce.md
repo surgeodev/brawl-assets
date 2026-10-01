@@ -1,5 +1,5 @@
 # Pierce
-Rarity: Legendary | Class: Unknown
+Rarity: Legendary | Class: The Last Shot Is Key For Damage.
 Total assets: 41
 
 

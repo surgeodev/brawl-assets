@@ -1,5 +1,5 @@
 # Mina
-Rarity: Mythic | Class: Unknown
+Rarity: Mythic | Class: Combo Your Super With Main Attacks.
 Total assets: 42
 
 

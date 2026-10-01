@@ -1,5 +1,5 @@
 # Shelly
-Rarity: Common | Class: Damage Dealer
+Rarity: Common | Class: Counter Tanks And Assassins With Burst Damage.
 Total assets: 37
 
 

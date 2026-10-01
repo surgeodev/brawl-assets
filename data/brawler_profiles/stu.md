@@ -1,15 +1,16 @@
 # Stu
-Rarity: Epic | Class: Assassin
-Total assets: 26
+Rarity: Epic | Class: Use Your Dash To Get Close Or Dodge.
+Total assets: 28
 
 
-## Brawlers (6)
+## Brawlers (7)
   - Stu@4x
   - _0003_stu_graffiti_stu_001
   - stu_crime_lord_stu_001
   - stu_iced_out_stu_001
   - stu_steampunk_stu_001
   - stu_woodriver_stu_001
+  - stuntshow_lobby copy
 
 ## Pins (13)
   - stu_goodrandoms_pin

@@ -1,5 +1,5 @@
 # Melodie
-Rarity: Mythic | Class: Assassin
+Rarity: Mythic | Class: Build Up Notes Then Dive In
 Total assets: 31
 
 

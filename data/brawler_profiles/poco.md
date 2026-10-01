@@ -1,6 +1,6 @@
 # Poco
-Rarity: Rare | Class: Support
-Total assets: 41
+Rarity: Rare | Class: Instant Heals Keep Your Team Fighting
+Total assets: 45
 
 
 ## Brawlers (8)
@@ -41,14 +41,15 @@ Total assets: 41
   - spray_poco_hc_street
   - spray_poco_street
 
-## UI (10)
+## UI (14)
+  - buddy_icon_poco_bling
+  - buddy_icon_poco_gadget
+  - buddy_icon_poco_hypercharge
+  - buddy_icon_poco_star_power
   - icon_ulti_hypercharge_poco
   - player_icon_hc_poco_street
   - player_icon_poco_goodrandoms
   - player_icon_poco_origins
   - player_icon_poco_possessed
   - player_icon_poco_street
-  - profile_icon_poco_classic
-  - profile_icon_poco_desperado
-  - profile_icon_poco_serenade
-  - profile_icon_poco_trash
+    ... +4 more

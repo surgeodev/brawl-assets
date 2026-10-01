@@ -1,13 +1,14 @@
 # Spike
-Rarity: Legendary | Class: Damage Dealer
-Total assets: 52
+Rarity: Legendary | Class: Zone Enemies With A Super And Spikes.
+Total assets: 53
 
 
-## Brawlers (7)
+## Brawlers (8)
   - Baby Spike Meme
   - Spike@4x
   - This Is Fine Spike
   - _0004_spike_carreta_spike_001
+  - brawloween26_spike
   - img_shadow_smash_spike
   - items_hypercharge_spike
   - spike_poop_spike_376

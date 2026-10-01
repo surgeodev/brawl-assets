@@ -1,5 +1,5 @@
 # Moe
-Rarity: Mythic | Class: Damage Dealer
+Rarity: Mythic | Class: Chase Down Enemies With The Drill.
 Total assets: 31
 
 

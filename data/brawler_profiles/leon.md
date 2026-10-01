@@ -1,9 +1,9 @@
 # Leon
-Rarity: Legendary | Class: Assassin
-Total assets: 58
+Rarity: Legendary | Class: Sneak In And Assassinate.
+Total assets: 60
 
 
-## Brawlers (12)
+## Brawlers (13)
   - Leon@4x
   - _0017_leon_graffiti_leon_001
   - _0027_leon_white_tiger_leon_001
@@ -13,13 +13,13 @@ Total assets: 58
   - leon_mechaleon_320
   - leon_radiant_mecha_leon_320
   - leon_shadow_mecha_leon_320
-  - leon_white_wolf_leon_152
-    ... +2 more
+  - leon_trick_or_treat_leon_001
+    ... +3 more
 
 ## Portraits (1)
   - BS_Portrait_LEON_Export_V1
 
-## Pins (13)
+## Pins (14)
   - leon_dino_pin
   - leon_esports_pin
   - leon_mecha_angry_pin
@@ -30,7 +30,7 @@ Total assets: 58
   - leon_mecha_pin
   - leon_mecha_sad_pin
   - leon_mecha_special_pin
-    ... +3 more
+    ... +4 more
 
 ## Emojis (18)
   - emoji_leon_buffy_bling

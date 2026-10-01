@@ -1,5 +1,5 @@
 # Carl
-Rarity: Super Rare | Class: Damage Dealer
+Rarity: Super Rare | Class: Boomerang Your Pickaxe For More Damage
 Total assets: 28
 
 

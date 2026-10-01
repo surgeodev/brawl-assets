@@ -1,5 +1,5 @@
 # Jae-Yong
-Rarity: Mythic | Class: Unknown
+Rarity: Mythic | Class: Use Speed For Aggression And Heal For Safety.
 Total assets: 8
 
 
