@@ -1,6 +1,6 @@
 # Piper
-Rarity: Epic | Class: Poke From Range And Escape With A Super
-Total assets: 42
+Rarity: Epic | Class: Marksman
+Total assets: 39
 
 
 ## Brawlers (9)
@@ -14,17 +14,15 @@ Total assets: 42
   - piper_brawloween26
   - piper_brownfriends
 
-## Pins (5)
+## Pins (4)
   - pin_piper_team
   - piper_athena_pin
-  - piper_flag_bearer_piper_happy_254
   - piper_hypercharge_pin
   - piper_lunar_pin
 
-## Emojis (17)
+## Emojis (16)
   - emoji_piper_brawloween26
   - emoji_piper_brownfriends
-  - emoji_piper_carnival
   - emoji_piper_feudaljapan
   - emoji_piper_feudaljapan_blue
   - emoji_piper_feudaljapan_green
@@ -32,16 +30,16 @@ Total assets: 42
   - emoji_piper_mecha_angry
   - emoji_piper_mecha_clap
   - emoji_piper_mecha_gg
-    ... +7 more
+  - emoji_piper_mecha_happy
+    ... +6 more
 
 ## Sprays (3)
   - piper_spray_athena
   - piper_spray_hypercharge
   - spray_piper_mecha
 
-## UI (8)
+## UI (7)
   - piper_button_hypercharge
-  - player_icon_piper_carnaval
   - player_icon_piper_feudaljapan
   - player_icon_piper_hypercharge
   - player_icon_piper_mecha

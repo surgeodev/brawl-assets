@@ -1,5 +1,5 @@
 # Mina
-Rarity: Mythic | Class: Combo Your Super With Main Attacks.
+Rarity: Mythic | Class: Damage Dealer
 Total assets: 42
 
 

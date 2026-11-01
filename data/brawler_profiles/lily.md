@@ -1,5 +1,5 @@
 # Lily
-Rarity: Mythic | Class: Use Bushes And A Super To Get Close.
+Rarity: Mythic | Class: Assassin
 Total assets: 45
 
 

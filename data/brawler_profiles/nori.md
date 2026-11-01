@@ -1,5 +1,5 @@
 # Nori
-Rarity: Legendary | Class: Jump Around The Map And Cause Chaos
+Rarity: Legendary | Class: Assassin
 Total assets: 52
 
 

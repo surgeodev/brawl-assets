@@ -1,5 +1,5 @@
 # Starr Nova
-Rarity: Mythic | Class: Poke Then Transform And Strike
+Rarity: Mythic | Class: Assassin
 Total assets: 59
 
 

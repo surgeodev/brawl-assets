@@ -1,6 +1,6 @@
 # Otis
-Rarity: Mythic | Class: Burst Tanks And Silence Threats.
-Total assets: 14
+Rarity: Mythic | Class: Controller
+Total assets: 11
 
 
 ## Brawlers (4)
@@ -9,20 +9,15 @@ Total assets: 14
   - otis_rusty_otis_001
   - otis_strikers
 
-## Pins (4)
+## Pins (3)
   - otis_demon_otis_pin
   - otis_gridiron_otis_happy_1831
   - otis_hypercharge_pin
-  - otis_w_otis_happy_148
-
-## Emojis (1)
-  - emoji_otis_wf
 
 ## Sprays (1)
   - otis_spray_hypercharge
 
-## UI (4)
+## UI (3)
   - player_icon_otis_angelsdemons
   - player_icon_otis_pharaotis
   - player_icon_otis_strikers
-  - player_icon_otis_wc2023

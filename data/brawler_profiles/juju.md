@@ -1,5 +1,5 @@
 # Juju
-Rarity: Mythic | Class: Use Terrain Unleash Gris-Gris
+Rarity: Mythic | Class: Artillery
 Total assets: 32
 
 

@@ -1,6 +1,6 @@
 # Larry & Lawrie
-Rarity: Epic | Class: Overwhelm With Teamwork
-Total assets: 25
+Rarity: Epic | Class: Artillery
+Total assets: 13
 
 
 ## Brawlers (7)
@@ -12,18 +12,12 @@ Total assets: 25
   - larry_&_lawrie_glitch_larry_&_lawrie_2086
   - larry_&_lawrie_radiant_larry_&_lawrie_001
 
-## Pins (17)
-  - larry&lawrie_angry_pin
-  - larry&lawrie_base_pin
-  - larry&lawrie_clap_pin
-  - larry&lawrie_facepalm_pin
-  - larry&lawrie_gg_pin
+## Pins (5)
   - larry&lawrie_glitch_pin
-  - larry&lawrie_happy_pin
-  - larry&lawrie_sad_pin
-  - larry&lawrie_special _angry_pin
-  - larry&lawrie_special_pin
-    ... +7 more
+  - larry_&_lawrie_angel_pin
+  - larry_&_lawrie_dark_angel_pin
+  - larry_&_lawrie_magic_lamp_larry_&_lawrie_happy_474
+  - larry_&_lawrie_radiant_pin
 
 ## UI (1)
   - profile_icon_larry&lawrie_glitch

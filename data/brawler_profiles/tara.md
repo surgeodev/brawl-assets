@@ -1,6 +1,6 @@
 # Tara
-Rarity: Mythic | Class: Punish Grouped Enemies.
-Total assets: 21
+Rarity: Mythic | Class: Damage Dealer
+Total assets: 20
 
 
 ## Brawlers (4)
@@ -23,7 +23,7 @@ Total assets: 21
 ## Sprays (1)
   - tara_spray_hypercharge
 
-## UI (9)
+## UI (8)
   - icon_game_mode_boss_tara
   - icon_ulti_hypercharge_tara
   - player_icon_tara_cybernoodles.png
@@ -32,4 +32,3 @@ Total assets: 21
   - profile_icon_tara_misfortune
   - profile_icon_tara_tempest
   - profile_icon_tara_urban_ninja
-  - tara_stara_001

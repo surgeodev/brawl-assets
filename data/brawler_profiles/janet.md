@@ -1,23 +1,18 @@
 # Janet
-Rarity: Mythic | Class: Super To Drop Bombs Safely From Above
-Total assets: 27
+Rarity: Mythic | Class: Marksman
+Total assets: 18
 
 
-## Brawlers (7)
+## Brawlers (5)
   - Janet@4x
   - _0019_janet_tricky_janet_001
-  - janet_dark_fairy_janet_001
   - janet_hypercharge
   - janet_jolly_janet_001
-  - janet_lunar_janet_001
   - janet_mha
 
-## Pins (8)
+## Pins (5)
   - janet_firewing_janet_happy_274
   - janet_hypercharge_pin
-  - janet_moon_pin
-  - janet_pilot_gg_pin
-  - janet_pin_enchanted
   - janet_super_pin
   - janet_uravity:_janet_happy_302
   - janet_xmas_pin
@@ -26,16 +21,12 @@ Total assets: 27
   - emoji_janet_mha
   - emoji_janet_subway
 
-## Sprays (3)
-  - janet_spray_enchanted
+## Sprays (1)
   - spray_janet_mha
-  - spray_janet_moon
 
-## UI (7)
+## UI (5)
   - player_icon_hypercharge_janet
   - player_icon_janet_mha
-  - player_icon_janet_moon
   - player_icon_janet_street
   - player_icon_janet_superheroes
-  - profile_icon_janet_enchanted
   - profile_icon_janet_valkyrie

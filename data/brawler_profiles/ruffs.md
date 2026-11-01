@@ -1,5 +1,5 @@
 # Ruffs
-Rarity: Mythic | Class: Buff Teammates And Poke Enemies.
+Rarity: Mythic | Class: Support
 Total assets: 14
 
 

@@ -1,6 +1,6 @@
 # Buzz
-Rarity: Mythic | Class: Travel Around The Map And Stun Enemies.
-Total assets: 43
+Rarity: Mythic | Class: Assassin
+Total assets: 41
 
 
 ## Brawlers (10)
@@ -15,7 +15,7 @@ Total assets: 43
   - buzz_hypercharge
   - buzz_mork_fenrir_buzz_300
 
-## Pins (21)
+## Pins (19)
   - _0035_buzz_buzz_patrick_happy_250
   - buzz_black_godzilla_pin
   - buzz_eldr_fenrir_pin
@@ -26,7 +26,7 @@ Total assets: 43
   - buzz_godzilla_gg_pin
   - buzz_godzilla_happy_pin
   - buzz_godzilla_phew_pin
-    ... +11 more
+    ... +9 more
 
 ## Emojis (1)
   - emoji_buzz_fisherman

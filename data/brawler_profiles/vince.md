@@ -1,5 +1,5 @@
 # Vince
-Rarity: Mythic | Class: Collect Caterpillars To Become More Powerful
+Rarity: Mythic | Class: Damage Dealer
 Total assets: 42
 
 

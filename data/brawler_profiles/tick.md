@@ -1,31 +1,28 @@
 # Tick
-Rarity: Super Rare | Class: Control Space From Safety.
-Total assets: 46
+Rarity: Super Rare | Class: Artillery
+Total assets: 42
 
 
-## Brawlers (9)
+## Brawlers (8)
   - Tick@4x
   - _0002_tick_headless_tickman_001
   - nn_chopsticks
   - tick
-  - tick_default_001
   - tick_mecha-tick_ghidorah_1556
   - tick_mecha-tick_ghidorah_dark_1556
   - tick_mecha-tick_ghidorah_light_1556
   - tick_nano
 
-## Pins (12)
+## Pins (9)
   - _0000_tick_mr._krabs_tick_happy_282
   - _0002_tick_egg_xplosive_tick_happy_284
   - champie_sticker_pin
-  - tick_cerberus_pin
-  - tick_clap_pin
   - tick_mecha_tick_ ghidorah_dark_pin
   - tick_mecha_tick_ ghidorah_light_pin
   - tick_mecha_tick_ ghidorah_pin
   - tick_overcharge_pin
   - tick_sb_pin
-    ... +2 more
+  - tick_tickoyaki_happy_160
 
 ## Emojis (10)
   - emoji_tick_brawloween

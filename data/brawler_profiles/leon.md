@@ -1,9 +1,9 @@
 # Leon
-Rarity: Legendary | Class: Sneak In And Assassinate.
-Total assets: 60
+Rarity: Legendary | Class: Assassin
+Total assets: 47
 
 
-## Brawlers (13)
+## Brawlers (11)
   - Leon@4x
   - _0017_leon_graffiti_leon_001
   - _0027_leon_white_tiger_leon_001
@@ -13,13 +13,13 @@ Total assets: 60
   - leon_mechaleon_320
   - leon_radiant_mecha_leon_320
   - leon_shadow_mecha_leon_320
-  - leon_trick_or_treat_leon_001
-    ... +3 more
+  - leon_world_finals_leon_002
+    ... +1 more
 
 ## Portraits (1)
   - BS_Portrait_LEON_Export_V1
 
-## Pins (14)
+## Pins (12)
   - leon_dino_pin
   - leon_esports_pin
   - leon_mecha_angry_pin
@@ -30,34 +30,27 @@ Total assets: 60
   - leon_mecha_pin
   - leon_mecha_sad_pin
   - leon_mecha_special_pin
-    ... +4 more
+    ... +2 more
 
-## Emojis (18)
+## Emojis (16)
   - emoji_leon_buffy_bling
   - emoji_leon_buffy_gadget
   - emoji_leon_buffy_hc
   - emoji_leon_buffy_star
-  - emoji_leon_oc
   - emoji_leon_propass
   - emoji_leon_propass_angry
   - emoji_leon_propass_clap
   - emoji_leon_propass_gg
   - emoji_leon_propass_happy
-    ... +8 more
+  - emoji_leon_propass_phew
+    ... +6 more
 
-## Sprays (4)
+## Sprays (2)
   - leon_spray_mecha
   - spray_leon_propass
-  - spray_leon_wolf
-  - spray_overcharge_leon
 
-## UI (9)
-  - hypercharge_button_leon
-  - hypercharge_icon_leon
+## UI (4)
   - player_icon_leon_esports
-  - player_icon_leon_hyper
-  - player_icon_leon_oc
   - player_icon_leon_propass
   - player_icon_leon_werewolf
-  - player_icon_leon_wolf
   - profile_icon_leon_mecha

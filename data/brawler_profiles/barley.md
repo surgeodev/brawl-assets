@@ -1,6 +1,6 @@
 # Barley
-Rarity: Rare | Class: Deny Space By Throwing Fiery Bottles.
-Total assets: 13
+Rarity: Rare | Class: Artillery
+Total assets: 12
 
 
 ## Brawlers (3)
@@ -19,9 +19,8 @@ Total assets: 13
 ## Sprays (1)
   - barley_spray_hypercharge
 
-## UI (5)
+## UI (4)
   - player_icon_barley_hypercharge
-  - player_icon_barley_retro
   - player_icon_barley_sway
   - player_icon_barley_university
   - profile_icon_barley_buccaneer

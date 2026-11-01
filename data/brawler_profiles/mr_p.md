@@ -1,5 +1,5 @@
 # Mr. P
-Rarity: Mythic | Class: Use Porters To Control The Map.
+Rarity: Mythic | Class: Controller
 Total assets: 12
 
 

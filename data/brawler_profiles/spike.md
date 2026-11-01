@@ -1,49 +1,38 @@
 # Spike
-Rarity: Legendary | Class: Zone Enemies With A Super And Spikes.
-Total assets: 53
+Rarity: Legendary | Class: Damage Dealer
+Total assets: 36
 
 
-## Brawlers (8)
+## Brawlers (7)
   - Baby Spike Meme
   - Spike@4x
   - This Is Fine Spike
   - _0004_spike_carreta_spike_001
   - brawloween26_spike
   - img_shadow_smash_spike
-  - items_hypercharge_spike
   - spike_poop_spike_376
 
-## Pins (9)
+## Pins (7)
   - champie_spike_pin
   - spike_friend_pin
-  - spike_hypercharge_pin
   - spike_poop_pin
   - spike_robo_pin
   - spike_starr_patrol_spike_happy_405
   - spike_starr_scout_spike_happy_405
-  - spike_toon_spike_happy_336
   - spike_wip_starr_girl_spike_happy_405
 
-## Emojis (15)
-  - emoji_cartoon_spike_angry
-  - emoji_cartoon_spike_base
-  - emoji_cartoon_spike_clap
-  - emoji_cartoon_spike_gg
-  - emoji_cartoon_spike_happy
-  - emoji_cartoon_spike_phew
-  - emoji_cartoon_spike_sad
-  - emoji_cartoon_spike_special
-  - emoji_cartoon_spike_thanks
+## Emojis (6)
   - emoji_spike_buffy_bling
-    ... +5 more
+  - emoji_spike_buffy_gadget
+  - emoji_spike_buffy_hc
+  - emoji_spike_buffy_star
+  - emoji_spike_carreta
+  - emoji_spike_starr
 
-## Sprays (3)
+## Sprays (1)
   - spike_spray_poop
-  - spray_spike_cartoon
-  - spray_spike_overcharge
 
-## UI (18)
-  - button_hypercharge_spike
+## UI (15)
   - player_icon_anime_spike
   - player_icon_boba_spike
   - player_icon_perfect_spike
@@ -51,6 +40,7 @@ Total assets: 53
   - player_icon_sakuraspike
   - player_icon_spike_cake
   - player_icon_spike_carreta
-  - player_icon_spike_cartoon
   - player_icon_spike_demonfire1
-    ... +8 more
+  - player_icon_spike_demonfire2
+  - player_icon_spike_starrgirl
+    ... +5 more

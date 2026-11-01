@@ -1,5 +1,5 @@
 # Cosmo
-Rarity: Mythic | Class: Use Gravity To Target Enemies
+Rarity: Mythic | Class: Controller
 Total assets: 41
 
 

@@ -1,13 +1,12 @@
 # Grom
-Rarity: Epic | Class: Bombard Safely From Behind Walls.
-Total assets: 24
+Rarity: Epic | Class: Artillery
+Total assets: 20
 
 
-## Brawlers (4)
+## Brawlers (3)
   - GROM BOMB  GOES BOOM!
   - Grom@4x
   - _0023_grom_grombin_hood_001
-  - grom_dasis_grom_169
 
 ## Pins (4)
   - grom_dragrom_happy_401
@@ -15,7 +14,7 @@ Total assets: 24
   - grom_protector_grom_happy_390
   - grom_super_pin
 
-## Emojis (9)
+## Emojis (8)
   - emoji_grom_dragon
   - emoji_grom_dragon_angry
   - emoji_grom_dragon_clap
@@ -24,15 +23,12 @@ Total assets: 24
   - emoji_grom_dragon_phew
   - emoji_grom_dragon_sad
   - emoji_grom_dragon_splecial
-  - emoji_grom_hindu
 
-## Sprays (4)
+## Sprays (3)
   - spray_grom_dragon
-  - spray_grom_hindu
   - spray_gromlordofgod
   - spray_hypercharge_grom@2x
 
-## UI (3)
+## UI (2)
   - player_icon_grom_dragon
-  - player_icon_grom_hindu
   - player_icon_grom_superheroes

@@ -1,5 +1,5 @@
 # Damian
-Rarity: Mythic | Class: Jump In To Unleash Chaos
+Rarity: Mythic | Class: Tank
 Total assets: 41
 
 

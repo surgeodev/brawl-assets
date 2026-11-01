@@ -1,5 +1,5 @@
 # Kaze
-Rarity: Ultra Legendary | Class: Zone As Geisha Strike As Ninja.
+Rarity: Ultra Legendary | Class: Assassin
 Total assets: 49
 
 

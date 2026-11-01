@@ -2,7 +2,7 @@
   "vince": {
     "name": "Vince",
     "rarity": "Mythic",
-    "class": "Collect Caterpillars To Become More Powerful",
+    "class": "Damage Dealer",
     "color": "#fe5e72",
     "preview_dir": "vince",
     "total_assets": 42,
@@ -71,7 +71,7 @@
   "cosmo": {
     "name": "Cosmo",
     "rarity": "Mythic",
-    "class": "Use Gravity To Target Enemies",
+    "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "cosmo",
     "total_assets": 41,
@@ -139,7 +139,7 @@
   "wendy": {
     "name": "Wendy",
     "rarity": "Mythic",
-    "class": "Shield Teammates And Hold Ground.",
+    "class": "Support",
     "color": "#fe5e72",
     "preview_dir": "wendy",
     "total_assets": 50,
@@ -216,8 +216,8 @@
   "nori": {
     "name": "Nori",
     "rarity": "Legendary",
-    "class": "Jump Around The Map And Cause Chaos",
-    "color": "#fff11ev",
+    "class": "Assassin",
+    "color": "#fff11e",
     "preview_dir": "nori",
     "total_assets": 52,
     "skins": [],
@@ -295,7 +295,7 @@
   "bolt": {
     "name": "Bolt",
     "rarity": "Epic",
-    "class": "Avoid Walls And Sharp Turns For Speed",
+    "class": "Tank",
     "color": "#d850ff",
     "preview_dir": "bolt",
     "total_assets": 52,
@@ -376,7 +376,7 @@
   "starr_nova": {
     "name": "Starr Nova",
     "rarity": "Mythic",
-    "class": "Poke Then Transform And Strike",
+    "class": "Assassin",
     "color": "#fe5e72",
     "preview_dir": "starrnova",
     "total_assets": 59,
@@ -456,7 +456,7 @@
   "damian": {
     "name": "Damian",
     "rarity": "Mythic",
-    "class": "Jump In To Unleash Chaos",
+    "class": "Tank",
     "color": "#fe5e72",
     "preview_dir": "damian",
     "total_assets": 41,
@@ -526,7 +526,7 @@
   "najia": {
     "name": "Najia",
     "rarity": "Mythic",
-    "class": "Massive Range With Added Poison",
+    "class": "Damage Dealer",
     "color": "#fe5e72",
     "preview_dir": "najia",
     "total_assets": 27,
@@ -576,7 +576,7 @@
   "sirius": {
     "name": "Sirius",
     "rarity": "Ultra Legendary",
-    "class": "Use Shadows To Control The Map.",
+    "class": "Controller",
     "color": "#e1fb2a",
     "preview_dir": "sirius",
     "total_assets": 46,
@@ -649,7 +649,7 @@
   "glowy": {
     "name": "Glowy",
     "rarity": "Mythic",
-    "class": "Heal Teammates And Fear Enemies.",
+    "class": "Support",
     "color": "#fe5e72",
     "preview_dir": "glowy",
     "total_assets": 4,
@@ -668,7 +668,7 @@
   "gigi": {
     "name": "Gigi",
     "rarity": "Mythic",
-    "class": "Dodge Enemies Then Jump In To Finish Them.",
+    "class": "Assassin",
     "color": "#fe5e72",
     "preview_dir": "gigi",
     "total_assets": 44,
@@ -737,8 +737,8 @@
   "pierce": {
     "name": "Pierce",
     "rarity": "Legendary",
-    "class": "The Last Shot Is Key For Damage.",
-    "color": "#fff11ev",
+    "class": "Marksman",
+    "color": "#fff11e",
     "preview_dir": "pierce",
     "total_assets": 41,
     "skins": [],
@@ -803,7 +803,7 @@
   "ziggy": {
     "name": "Ziggy",
     "rarity": "Mythic",
-    "class": "Call Lightning To Control Space.",
+    "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "ziggy",
     "total_assets": 47,
@@ -871,7 +871,7 @@
   "mina": {
     "name": "Mina",
     "rarity": "Mythic",
-    "class": "Combo Your Super With Main Attacks.",
+    "class": "Damage Dealer",
     "color": "#fe5e72",
     "preview_dir": "mina",
     "total_assets": 42,
@@ -938,7 +938,7 @@
   "trunk": {
     "name": "Trunk",
     "rarity": "Epic",
-    "class": "Use Ants For Speed And Charge In",
+    "class": "Tank",
     "color": "#d850ff",
     "preview_dir": "trunk",
     "total_assets": 33,
@@ -996,7 +996,7 @@
   "alli": {
     "name": "Alli",
     "rarity": "Mythic",
-    "class": "Ambush From Bushes And Water",
+    "class": "Assassin",
     "color": "#fe5e72",
     "preview_dir": "alli",
     "total_assets": 38,
@@ -1059,7 +1059,7 @@
   "kaze": {
     "name": "Kaze",
     "rarity": "Ultra Legendary",
-    "class": "Zone As Geisha Strike As Ninja.",
+    "class": "Assassin",
     "color": "#e1fb2a",
     "preview_dir": "kaze",
     "total_assets": 49,
@@ -1131,7 +1131,7 @@
   "jae_yong": {
     "name": "Jae-Yong",
     "rarity": "Mythic",
-    "class": "Use Speed For Aggression And Heal For Safety.",
+    "class": "Support",
     "color": "#fe5e72",
     "preview_dir": "jaeyong",
     "total_assets": 8,
@@ -1156,7 +1156,7 @@
   "finx": {
     "name": "Finx",
     "rarity": "Mythic",
-    "class": "Slow Enemy Projectiles To Take Space.",
+    "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "finx",
     "total_assets": 43,
@@ -1222,10 +1222,10 @@
   "lumi": {
     "name": "Lumi",
     "rarity": "Mythic",
-    "class": "Recall Weapons To Create New Angles Of Attack.",
+    "class": "Damage Dealer",
     "color": "#fe5e72",
     "preview_dir": "lumi",
-    "total_assets": 33,
+    "total_assets": 30,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -1257,28 +1257,25 @@
         "fa90460",
         "fa90459",
         "fa90458",
-        "fa90457",
-        "fa61114"
+        "fa90457"
       ],
       "Portraits": [
         "fa90359"
       ],
       "Sprays": [
         "fa100123",
-        "fa90599",
-        "fa61016"
+        "fa90599"
       ],
       "UI": [
         "fa121519",
-        "fa90930",
-        "fa62988"
+        "fa90930"
       ]
     }
   },
   "ollie": {
     "name": "Ollie",
     "rarity": "Mythic",
-    "class": "Soak Up Damage Then Hypnotize.",
+    "class": "Tank",
     "color": "#fe5e72",
     "preview_dir": "ollie",
     "total_assets": 33,
@@ -1336,7 +1333,7 @@
   "meeple": {
     "name": "Meeple",
     "rarity": "Epic",
-    "class": "Shoot Through Walls And Control The Map",
+    "class": "Controller",
     "color": "#d850ff",
     "preview_dir": "meeple",
     "total_assets": 31,
@@ -1392,8 +1389,8 @@
   "buzz_lightyear": {
     "name": "Buzz Lightyear",
     "rarity": "Legendary",
-    "class": "Unknown",
-    "color": "#fff11ev",
+    "class": "Damage Dealer",
+    "color": "#fff11e",
     "preview_dir": "buzzlightyear",
     "total_assets": 12,
     "skins": [],
@@ -1421,7 +1418,7 @@
   "juju": {
     "name": "Juju",
     "rarity": "Mythic",
-    "class": "Use Terrain Unleash Gris-Gris",
+    "class": "Artillery",
     "color": "#fe5e72",
     "preview_dir": "juju",
     "total_assets": 32,
@@ -1478,7 +1475,7 @@
   "shade": {
     "name": "Shade",
     "rarity": "Epic",
-    "class": "Use Walls To Avoid Damage And Get Close.",
+    "class": "Assassin",
     "color": "#d850ff",
     "preview_dir": "shade",
     "total_assets": 49,
@@ -1552,8 +1549,8 @@
   "kenji": {
     "name": "Kenji",
     "rarity": "Legendary",
-    "class": "Stay Aggressive And Heal With Attacks.",
-    "color": "#fff11ev",
+    "class": "Assassin",
+    "color": "#fff11e",
     "preview_dir": "kenji",
     "total_assets": 58,
     "skins": [],
@@ -1635,7 +1632,7 @@
   "moe": {
     "name": "Moe",
     "rarity": "Mythic",
-    "class": "Chase Down Enemies With The Drill.",
+    "class": "Damage Dealer",
     "color": "#fe5e72",
     "preview_dir": "moe",
     "total_assets": 31,
@@ -1689,7 +1686,7 @@
   "clancy": {
     "name": "Clancy",
     "rarity": "Mythic",
-    "class": "Poke To Level Up And Take Over",
+    "class": "Damage Dealer",
     "color": "#fe5e72",
     "preview_dir": "clancy",
     "total_assets": 30,
@@ -1744,7 +1741,7 @@
   "berry": {
     "name": "Berry",
     "rarity": "Epic",
-    "class": "Control Space And Heal Teammates.",
+    "class": "Support",
     "color": "#d850ff",
     "preview_dir": "berry",
     "total_assets": 42,
@@ -1811,7 +1808,7 @@
   "lily": {
     "name": "Lily",
     "rarity": "Mythic",
-    "class": "Use Bushes And A Super To Get Close.",
+    "class": "Assassin",
     "color": "#fe5e72",
     "preview_dir": "lily",
     "total_assets": 45,
@@ -1883,10 +1880,10 @@
   "draco": {
     "name": "Draco",
     "rarity": "Legendary",
-    "class": "Poke Transform Then Dominate",
-    "color": "#fff11ev",
+    "class": "Tank",
+    "color": "#fff11e",
     "preview_dir": "draco",
-    "total_assets": 42,
+    "total_assets": 41,
     "skins": [],
     "asset_types": {
       "Backgrounds": [
@@ -1898,8 +1895,7 @@
         "fa72774",
         "fa72744",
         "fa72464",
-        "fa72463",
-        "fa61283"
+        "fa72463"
       ],
       "Emojis": [
         "fa120803",
@@ -1952,7 +1948,7 @@
   "angelo": {
     "name": "Angelo",
     "rarity": "Epic",
-    "class": "Use Charged Attacks To Snipe",
+    "class": "Marksman",
     "color": "#d850ff",
     "preview_dir": "angelo",
     "total_assets": 37,
@@ -2012,7 +2008,7 @@
   "melodie": {
     "name": "Melodie",
     "rarity": "Mythic",
-    "class": "Build Up Notes Then Dive In",
+    "class": "Assassin",
     "color": "#fe5e72",
     "preview_dir": "melodie",
     "total_assets": 31,
@@ -2068,10 +2064,10 @@
   "larry_and_lawrie": {
     "name": "Larry & Lawrie",
     "rarity": "Epic",
-    "class": "Overwhelm With Teamwork",
+    "class": "Artillery",
     "color": "#d850ff",
     "preview_dir": "larryandlawrie",
-    "total_assets": 25,
+    "total_assets": 13,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2088,19 +2084,7 @@
         "fa80048",
         "fa80047",
         "fa80046",
-        "fa72399",
-        "fa65441",
-        "fa64955",
-        "fa64954",
-        "fa64953",
-        "fa64952",
-        "fa64951",
-        "fa64950",
-        "fa64949",
-        "fa64948",
-        "fa64947",
-        "fa64946",
-        "fa64945"
+        "fa72399"
       ],
       "UI": [
         "fa72233"
@@ -2110,10 +2094,10 @@
   "kit": {
     "name": "Kit",
     "rarity": "Legendary",
-    "class": "Heal Teammates Or Assassinate Enemies",
-    "color": "#fff11ev",
+    "class": "Support",
+    "color": "#fff11e",
     "preview_dir": "kit",
-    "total_assets": 40,
+    "total_assets": 34,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2124,10 +2108,7 @@
         "fa65483",
         "fa65482",
         "fa65481",
-        "fa65480",
-        "fa65391",
-        "fa65390",
-        "fa65389"
+        "fa65480"
       ],
       "Emojis": [
         "fa162287",
@@ -2156,25 +2137,20 @@
         "fa77552",
         "fa76470",
         "fa65750",
-        "fa65748",
-        "fa65411"
-      ],
-      "Portraits": [
-        "fa65452"
+        "fa65748"
       ],
       "Sprays": [
-        "fa100122",
-        "fa65463"
+        "fa100122"
       ]
     }
   },
   "mico": {
     "name": "Mico",
     "rarity": "Mythic",
-    "class": "Leap Over Walls And Enemy Attacks",
+    "class": "Assassin",
     "color": "#fe5e72",
     "preview_dir": "mico",
-    "total_assets": 60,
+    "total_assets": 24,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2182,53 +2158,17 @@
         "fa135021",
         "fa95462",
         "fa72754",
-        "fa72753",
-        "fa64722",
-        "fa64721",
-        "fa64717",
-        "fa64716"
+        "fa72753"
       ],
       "Emojis": [
         "fa158499",
-        "fa95728",
-        "fa64982",
-        "fa64974",
-        "fa64973",
-        "fa64972",
-        "fa64971",
-        "fa64970",
-        "fa64969",
-        "fa64968",
-        "fa64967",
-        "fa64966",
-        "fa64935",
-        "fa64934",
-        "fa64933",
-        "fa64932",
-        "fa64931",
-        "fa64930",
-        "fa64929",
-        "fa64928",
-        "fa64927",
-        "fa64926",
-        "fa64924"
+        "fa95728"
       ],
       "Pins": [
         "fa157676",
         "fa157675",
         "fa157674",
-        "fa65749",
-        "fa65426",
-        "fa65425",
-        "fa65424"
-      ],
-      "Portraits": [
-        "fa64296"
-      ],
-      "Sprays": [
-        "fa64459",
-        "fa64453",
-        "fa64452"
+        "fa65749"
       ],
       "UI": [
         "fa158416",
@@ -2243,21 +2183,17 @@
         "fa105091",
         "fa105090",
         "fa105089",
-        "fa105088",
-        "fa64443",
-        "fa64442",
-        "fa64366",
-        "fa64359"
+        "fa105088"
       ]
     }
   },
   "charlie": {
     "name": "Charlie",
     "rarity": "Mythic",
-    "class": "Cocoon Enemies To Remove Them From Play",
+    "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "charlie",
-    "total_assets": 29,
+    "total_assets": 19,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2265,12 +2201,7 @@
         "fa121492",
         "fa72741",
         "fa72740",
-        "fa72739",
-        "fa63880",
-        "fa63656",
-        "fa63655",
-        "fa63654",
-        "fa63653"
+        "fa72739"
       ],
       "Emojis": [
         "fa120823"
@@ -2284,32 +2215,25 @@
         "fa72364",
         "fa72363",
         "fa72362",
-        "fa72361",
-        "fa63883",
-        "fa63882"
-      ],
-      "Portraits": [
-        "fa63619"
+        "fa72361"
       ],
       "Sprays": [
-        "fa72324",
-        "fa63659"
+        "fa72324"
       ],
       "UI": [
         "fa121530",
         "fa76673",
-        "fa72232",
-        "fa63640"
+        "fa72232"
       ]
     }
   },
   "chuck": {
     "name": "Chuck",
     "rarity": "Mythic",
-    "class": "Lay Down Tracks For Offense And Retreats.",
+    "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "chuck",
-    "total_assets": 51,
+    "total_assets": 29,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2317,15 +2241,7 @@
         "fa134975",
         "fa72743",
         "fa72742",
-        "fa67817",
-        "fa63132",
-        "fa63129",
-        "fa63073",
-        "fa63071",
-        "fa62959",
-        "fa62958",
-        "fa62957",
-        "fa62956"
+        "fa67817"
       ],
       "Emojis": [
         "fa162234",
@@ -2343,24 +2259,11 @@
         "fa67709",
         "fa67708",
         "fa67702",
-        "fa67701",
-        "fa63072",
-        "fa63070",
-        "fa63069",
-        "fa63068",
-        "fa63067",
-        "fa63066",
-        "fa63065",
-        "fa63064",
-        "fa63063"
-      ],
-      "Portraits": [
-        "fa62952"
+        "fa67701"
       ],
       "Sprays": [
         "fa100119",
-        "fa67750",
-        "fa63024"
+        "fa67750"
       ],
       "UI": [
         "fa162021",
@@ -2370,88 +2273,48 @@
         "fa161972",
         "fa161971",
         "fa90905",
-        "fa67926",
-        "fa63014",
-        "fa63013",
-        "fa62983"
+        "fa67926"
       ]
     }
   },
   "pearl": {
     "name": "Pearl",
     "rarity": "Epic",
-    "class": "Build Up Heat For Burst Damage",
+    "class": "Damage Dealer",
     "color": "#d850ff",
     "preview_dir": "pearl",
-    "total_assets": 45,
+    "total_assets": 10,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa135033",
         "fa69360",
-        "fa69359",
-        "fa63131",
-        "fa63130",
-        "fa63120",
-        "fa63119",
-        "fa63116",
-        "fa62973",
-        "fa62925",
-        "fa62924"
+        "fa69359"
       ],
       "Emojis": [
         "fa104882"
       ],
       "Pins": [
         "fa77534",
-        "fa76443",
-        "fa63102",
-        "fa63039",
-        "fa62949",
-        "fa62948",
-        "fa62947",
-        "fa62946",
-        "fa62945",
-        "fa62944",
-        "fa62943",
-        "fa62942",
-        "fa62941",
-        "fa62940",
-        "fa62939",
-        "fa62938",
-        "fa62937",
-        "fa62936",
-        "fa62935",
-        "fa62933",
-        "fa62932"
-      ],
-      "Portraits": [
-        "fa62917"
+        "fa76443"
       ],
       "Sprays": [
         "fa120915",
-        "fa104940",
-        "fa63019",
-        "fa62922"
+        "fa104940"
       ],
       "UI": [
         "fa104753",
-        "fa90942",
-        "fa63010",
-        "fa63004",
-        "fa62995",
-        "fa62927",
-        "fa62926"
+        "fa90942"
       ]
     }
   },
   "doug": {
     "name": "Doug",
     "rarity": "Mythic",
-    "class": "Big Close Range Damage And Self-Revival",
+    "class": "Support",
     "color": "#fe5e72",
     "preview_dir": "doug",
-    "total_assets": 38,
+    "total_assets": 18,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2459,13 +2322,7 @@
         "fa135709",
         "fa134982",
         "fa69356",
-        "fa69355",
-        "fa61286",
-        "fa61282",
-        "fa61279",
-        "fa61278",
-        "fa61277",
-        "fa61266"
+        "fa69355"
       ],
       "Emojis": [
         "fa162286",
@@ -2477,42 +2334,26 @@
         "fa162048",
         "fa135793",
         "fa99907",
-        "fa74779",
-        "fa61276",
-        "fa61275",
-        "fa61274",
-        "fa61273",
-        "fa61272",
-        "fa61271",
-        "fa61270",
-        "fa61269",
-        "fa61268"
-      ],
-      "Portraits": [
-        "fa60968"
+        "fa74779"
       ],
       "Sprays": [
         "fa134812",
-        "fa100120",
-        "fa61284"
+        "fa100120"
       ],
       "UI": [
         "fa135144",
         "fa100079",
-        "fa74926",
-        "fa61281",
-        "fa61280",
-        "fa61267"
+        "fa74926"
       ]
     }
   },
   "cordelius": {
     "name": "Cordelius",
     "rarity": "Legendary",
-    "class": "Use The Shadow Realm To Isolate Targets",
-    "color": "#fff11ev",
+    "class": "Assassin",
+    "color": "#fff11e",
     "preview_dir": "cordelius",
-    "total_assets": 65,
+    "total_assets": 30,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2524,16 +2365,7 @@
         "fa69354",
         "fa69353",
         "fa67982",
-        "fa67829",
-        "fa63091",
-        "fa61141",
-        "fa61140",
-        "fa61139",
-        "fa61137",
-        "fa61135",
-        "fa61134",
-        "fa61027",
-        "fa61026"
+        "fa67829"
       ],
       "Emojis": [
         "fa135600",
@@ -2553,54 +2385,26 @@
         "fa80015",
         "fa80014",
         "fa80013",
-        "fa67658",
-        "fa63074",
-        "fa61065",
-        "fa61064",
-        "fa61063",
-        "fa61062",
-        "fa61061",
-        "fa61060",
-        "fa61059",
-        "fa61058",
-        "fa61057",
-        "fa61047",
-        "fa61046",
-        "fa61045",
-        "fa61044",
-        "fa61043",
-        "fa61042",
-        "fa61041",
-        "fa61040",
-        "fa61039"
-      ],
-      "Portraits": [
-        "fa60969"
+        "fa67658"
       ],
       "Sprays": [
         "fa79958",
-        "fa67760",
-        "fa63025",
-        "fa61001"
+        "fa67760"
       ],
       "UI": [
         "fa135142",
         "fa90910",
-        "fa67928",
-        "fa62985",
-        "fa61122",
-        "fa61029",
-        "fa61028"
+        "fa67928"
       ]
     }
   },
   "hank": {
     "name": "Hank",
     "rarity": "Epic",
-    "class": "Charge Up Your Attack Then Engage.",
+    "class": "Tank",
     "color": "#d850ff",
     "preview_dir": "hank",
-    "total_assets": 104,
+    "total_assets": 71,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2613,12 +2417,7 @@
         "fa104788",
         "fa96928",
         "fa96918",
-        "fa96908",
-        "fa63124",
-        "fa60889",
-        "fa60882",
-        "fa60495",
-        "fa60494"
+        "fa96908"
       ],
       "Emojis": [
         "fa162279",
@@ -2649,14 +2448,7 @@
         "fa95720",
         "fa95655",
         "fa95616",
-        "fa65594",
-        "fa65078",
-        "fa64965",
-        "fa63751",
-        "fa63746",
-        "fa63737",
-        "fa63696",
-        "fa63693"
+        "fa65594"
       ],
       "Pins": [
         "fa162053",
@@ -2686,48 +2478,25 @@
         "fa67706",
         "fa67689",
         "fa67683",
-        "fa67642",
-        "fa63075",
-        "fa63060",
-        "fa61096",
-        "fa61074",
-        "fa60453",
-        "fa60452",
-        "fa60451",
-        "fa60450",
-        "fa60449",
-        "fa60448",
-        "fa60447",
-        "fa60446",
-        "fa60445",
-        "fa60444"
-      ],
-      "Portraits": [
-        "fa60533"
+        "fa67642"
       ],
       "Sprays": [
         "fa104953",
-        "fa90593",
-        "fa63027"
+        "fa90593"
       ],
       "UI": [
         "fa150464",
-        "fa104759",
-        "fa64432",
-        "fa62990",
-        "fa60526",
-        "fa60491",
-        "fa60490"
+        "fa104759"
       ]
     }
   },
   "maisie": {
     "name": "Maisie",
     "rarity": "Epic",
-    "class": "Punish Advancing Enemies.",
+    "class": "Marksman",
     "color": "#d850ff",
     "preview_dir": "maisie",
-    "total_assets": 48,
+    "total_assets": 14,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -2736,69 +2505,33 @@
         "fa80259",
         "fa80258",
         "fa69358",
-        "fa69357",
-        "fa63122",
-        "fa60886",
-        "fa60885",
-        "fa60497",
-        "fa60496"
+        "fa69357"
       ],
       "Emojis": [
-        "fa135675",
-        "fa63728"
+        "fa135675"
       ],
       "Pins": [
         "fa135785",
         "fa80053",
         "fa80052",
-        "fa80051",
-        "fa63077",
-        "fa60471",
-        "fa60470",
-        "fa60469",
-        "fa60468",
-        "fa60467",
-        "fa60466",
-        "fa60465",
-        "fa60464",
-        "fa60463",
-        "fa60462",
-        "fa60461",
-        "fa60460",
-        "fa60459",
-        "fa60458",
-        "fa60457",
-        "fa60456",
-        "fa60455",
-        "fa60454"
-      ],
-      "Portraits": [
-        "fa60534"
+        "fa80051"
       ],
       "Sprays": [
-        "fa134821",
-        "fa63670",
-        "fa63029"
+        "fa134821"
       ],
       "UI": [
         "fa86679",
-        "fa80117",
-        "fa63878",
-        "fa63872",
-        "fa62992",
-        "fa60527",
-        "fa60493",
-        "fa60492"
+        "fa80117"
       ]
     }
   },
   "willow": {
     "name": "Willow",
     "rarity": "Mythic",
-    "class": "Turn Enemies Against Themselves",
+    "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "willow",
-    "total_assets": 22,
+    "total_assets": 14,
     "skins": [],
     "asset_types": {
       "Backgrounds": [
@@ -2810,47 +2543,36 @@
         "fa95434",
         "fa80275",
         "fa72765",
-        "fa72764",
-        "fa63112",
-        "fa60888",
-        "fa60884",
-        "fa58981",
-        "fa58980"
+        "fa72764"
       ],
       "Emojis": [
         "fa125674",
         "fa95700"
       ],
       "Pins": [
-        "fa80080",
-        "fa63081"
+        "fa80080"
       ],
       "Sprays": [
         "fa125720",
-        "fa95565",
-        "fa63038"
+        "fa95565"
       ],
       "UI": [
         "fa125665",
-        "fa80127",
-        "fa63000"
+        "fa80127"
       ]
     }
   },
   "r_t": {
     "name": "R-T",
     "rarity": "Mythic",
-    "class": "Mark Targets Then Deal Burst Damage",
+    "class": "Damage Dealer",
     "color": "#fe5e72",
     "preview_dir": "rt",
-    "total_assets": 159,
+    "total_assets": 140,
     "skins": [],
     "asset_types": {
       "Backgrounds": [
-        "fa125764",
-        "fa64272",
-        "fa64268",
-        "fa64263"
+        "fa125764"
       ],
       "Brawlers": [
         "fa162149",
@@ -2889,12 +2611,7 @@
         "fa69362",
         "fa69361",
         "fa67997",
-        "fa67963",
-        "fa64337",
-        "fa63634",
-        "fa60887",
-        "fa60883",
-        "fa60536"
+        "fa67963"
       ],
       "Emojis": [
         "fa162256",
@@ -2936,16 +2653,12 @@
         "fa104896",
         "fa104893",
         "fa104814",
-        "fa99842",
-        "fa64994",
-        "fa64993",
-        "fa64990"
+        "fa99842"
       ],
       "LoadingScreens": [
         "fa150142",
         "fa96619",
-        "fa79968",
-        "fa64212"
+        "fa79968"
       ],
       "Pins": [
         "fa157698",
@@ -2967,14 +2680,11 @@
         "fa76420",
         "fa74786",
         "fa72446",
-        "fa67985",
-        "fa61115",
-        "fa60443"
+        "fa67985"
       ],
       "Portraits": [
         "fa150277",
-        "fa126147",
-        "fa64466"
+        "fa126147"
       ],
       "Sprays": [
         "fa158561",
@@ -2990,9 +2700,7 @@
         "fa79961",
         "fa74744",
         "fa74739",
-        "fa67756",
-        "fa64448",
-        "fa61014"
+        "fa67756"
       ],
       "UI": [
         "fa126217",
@@ -3017,19 +2725,17 @@
         "fa72241",
         "fa67991",
         "fa67959",
-        "fa67953",
-        "fa64330",
-        "fa60512"
+        "fa67953"
       ]
     }
   },
   "mandy": {
     "name": "Mandy",
     "rarity": "Epic",
-    "class": "Hold Your Ground For Huge Range.",
+    "class": "Marksman",
     "color": "#d850ff",
     "preview_dir": "mandy",
-    "total_assets": 26,
+    "total_assets": 22,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3037,8 +2743,7 @@
         "fa135016",
         "fa121475",
         "fa121474",
-        "fa95463",
-        "fa63121"
+        "fa95463"
       ],
       "Emojis": [
         "fa162280",
@@ -3053,27 +2758,24 @@
         "fa90514",
         "fa90467",
         "fa77551",
-        "fa76472",
-        "fa63078"
+        "fa76472"
       ],
       "Sprays": [
         "fa90600",
-        "fa90595",
-        "fa63030"
+        "fa90595"
       ],
       "UI": [
         "fa121501",
         "fa90932",
         "fa90931",
-        "fa76690",
-        "fa62993"
+        "fa76690"
       ]
     }
   },
   "gray": {
     "name": "Gray",
     "rarity": "Mythic",
-    "class": "Get Your Team Into The Action With Portals",
+    "class": "Support",
     "color": "#fe5e72",
     "preview_dir": "gray",
     "total_assets": 14,
@@ -3106,18 +2808,17 @@
   "chester": {
     "name": "Chester",
     "rarity": "Legendary",
-    "class": "Master Randomness To Control The Map.",
-    "color": "#fff11ev",
+    "class": "Damage Dealer",
+    "color": "#fff11e",
     "preview_dir": "chester",
-    "total_assets": 20,
+    "total_assets": 16,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa134974",
         "fa90370",
         "fa67824",
-        "fa66367",
-        "fa60987"
+        "fa66367"
       ],
       "Emojis": [
         "fa104852"
@@ -3127,30 +2828,27 @@
         "fa90510",
         "fa90435",
         "fa77571",
-        "fa67653",
-        "fa61080"
+        "fa67653"
       ],
       "Sprays": [
-        "fa90591",
-        "fa61000"
+        "fa90591"
       ],
       "UI": [
         "fa104796",
         "fa104765",
         "fa90904",
         "fa76674",
-        "fa67925",
-        "fa61121"
+        "fa67925"
       ]
     }
   },
   "buster": {
     "name": "Buster",
     "rarity": "Mythic",
-    "class": "Reflect Enemy Projectiles For Big Damage.",
+    "class": "Tank",
     "color": "#fe5e72",
     "preview_dir": "buster",
-    "total_assets": 22,
+    "total_assets": 19,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3168,8 +2866,7 @@
         "fa91164",
         "fa90433",
         "fa74770",
-        "fa72405",
-        "fa60474"
+        "fa72405"
       ],
       "Sprays": [
         "fa90589",
@@ -3181,19 +2878,17 @@
         "fa95589",
         "fa90900",
         "fa74880",
-        "fa72262",
-        "fa60522",
-        "fa60521"
+        "fa72262"
       ]
     }
   },
   "gus": {
     "name": "Gus",
     "rarity": "Super Rare",
-    "class": "Buff Teammates And Snipe Enemies.",
+    "class": "Support",
     "color": "#5ab3ff",
     "preview_dir": "gus",
-    "total_assets": 22,
+    "total_assets": 21,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3201,8 +2896,7 @@
         "fa134998",
         "fa121489",
         "fa95435",
-        "fa67814",
-        "fa63784"
+        "fa67814"
       ],
       "Emojis": [
         "fa150252",
@@ -3233,24 +2927,22 @@
   "sam": {
     "name": "Sam",
     "rarity": "Epic",
-    "class": "Throw Fists Reclaim Repeat.",
+    "class": "Assassin",
     "color": "#d850ff",
     "preview_dir": "sam",
-    "total_assets": 18,
+    "total_assets": 16,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa158767",
         "fa135040",
         "fa125565",
-        "fa90378",
-        "fa63789"
+        "fa90378"
       ],
       "Emojis": [
         "fa158502",
         "fa125552",
-        "fa95622",
-        "fa63754"
+        "fa95622"
       ],
       "Pins": [
         "fa91264",
@@ -3272,10 +2964,10 @@
   "otis": {
     "name": "Otis",
     "rarity": "Mythic",
-    "class": "Burst Tanks And Silence Threats.",
+    "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "otis",
-    "total_assets": 14,
+    "total_assets": 11,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3284,14 +2976,10 @@
         "fa80272",
         "fa80271"
       ],
-      "Emojis": [
-        "fa64989"
-      ],
       "Pins": [
         "fa150092",
         "fa80066",
-        "fa80005",
-        "fa65368"
+        "fa80005"
       ],
       "Sprays": [
         "fa79951"
@@ -3299,18 +2987,17 @@
       "UI": [
         "fa150174",
         "fa90940",
-        "fa80121",
-        "fa64425"
+        "fa80121"
       ]
     }
   },
   "bonnie": {
     "name": "Bonnie",
     "rarity": "Epic",
-    "class": "Snipe Then Jump In For Big Damage.",
+    "class": "Marksman",
     "color": "#d850ff",
     "preview_dir": "bonnie",
-    "total_assets": 26,
+    "total_assets": 21,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3319,12 +3006,7 @@
         "fa135750",
         "fa134966",
         "fa85943",
-        "fa66359",
-        "fa60979",
-        "fa60972",
-        "fa59164",
-        "fa59163",
-        "fa59162"
+        "fa66359"
       ],
       "Emojis": [
         "fa135653",
@@ -3354,10 +3036,10 @@
   "janet": {
     "name": "Janet",
     "rarity": "Mythic",
-    "class": "Super To Drop Bombs Safely From Above",
+    "class": "Marksman",
     "color": "#fe5e72",
     "preview_dir": "janet",
-    "total_assets": 27,
+    "total_assets": 18,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3365,9 +3047,7 @@
         "fa135001",
         "fa104787",
         "fa86284",
-        "fa85956",
-        "fa63123",
-        "fa60981"
+        "fa85956"
       ],
       "Emojis": [
         "fa150253",
@@ -3378,34 +3058,27 @@
         "fa91239",
         "fa90455",
         "fa86590",
-        "fa86531",
-        "fa63076",
-        "fa61083",
-        "fa60911"
+        "fa86531"
       ],
       "Sprays": [
-        "fa150120",
-        "fa63028",
-        "fa61004"
+        "fa150120"
       ],
       "UI": [
         "fa150180",
         "fa104758",
         "fa90924",
         "fa86668",
-        "fa74897",
-        "fa62991",
-        "fa61128"
+        "fa74897"
       ]
     }
   },
   "eve": {
     "name": "Eve",
     "rarity": "Mythic",
-    "class": "Walk Over Water And Spawn Hatchlings",
+    "class": "Damage Dealer",
     "color": "#fe5e72",
     "preview_dir": "eve",
-    "total_assets": 84,
+    "total_assets": 77,
     "skins": [],
     "asset_types": {
       "Backgrounds": [
@@ -3432,11 +3105,7 @@
         "fa76424",
         "fa72308",
         "fa72307",
-        "fa72141",
-        "fa64274",
-        "fa64273",
-        "fa64269",
-        "fa63632"
+        "fa72141"
       ],
       "Brawlers": [
         "fa162224",
@@ -3450,10 +3119,7 @@
         "fa75088",
         "fa74738",
         "fa74737",
-        "fa72745",
-        "fa64328",
-        "fa64270",
-        "fa60500"
+        "fa72745"
       ],
       "Emojis": [
         "fa162258"
@@ -3509,10 +3175,10 @@
   "fang": {
     "name": "Fang",
     "rarity": "Mythic",
-    "class": "Poke With Range Then Jump In To Finish.",
+    "class": "Assassin",
     "color": "#fe5e72",
     "preview_dir": "fang",
-    "total_assets": 34,
+    "total_assets": 23,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3520,15 +3186,11 @@
         "fa134987",
         "fa72746",
         "fa67816",
-        "fa67815",
-        "fa63781"
+        "fa67815"
       ],
       "Emojis": [
         "fa150254",
-        "fa99812",
-        "fa64980",
-        "fa64922",
-        "fa63707"
+        "fa99812"
       ],
       "Pins": [
         "fa150117",
@@ -3538,13 +3200,11 @@
         "fa76467",
         "fa72396",
         "fa67660",
-        "fa67659",
-        "fa65395"
+        "fa67659"
       ],
       "Sprays": [
         "fa150123",
-        "fa72325",
-        "fa64457"
+        "fa72325"
       ],
       "UI": [
         "fa100084",
@@ -3552,22 +3212,17 @@
         "fa76684",
         "fa72224",
         "fa67934",
-        "fa67933",
-        "fa64439",
-        "fa64438",
-        "fa64418",
-        "fa64364",
-        "fa64361"
+        "fa67933"
       ]
     }
   },
   "lola": {
     "name": "Lola",
     "rarity": "Epic",
-    "class": "Control Multiple Lanes With Ego",
+    "class": "Damage Dealer",
     "color": "#d850ff",
     "preview_dir": "lola",
-    "total_assets": 18,
+    "total_assets": 11,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3575,38 +3230,31 @@
         "fa135013",
         "fa85963",
         "fa80257",
-        "fa66374",
-        "fa63786",
-        "fa63785"
+        "fa66374"
       ],
       "Emojis": [
-        "fa162257",
-        "fa63726",
-        "fa63725"
+        "fa162257"
       ],
       "Pins": [
         "fa162056",
         "fa86538"
       ],
       "Sprays": [
-        "fa90594",
-        "fa63663"
+        "fa90594"
       ],
       "UI": [
         "fa86678",
-        "fa80115",
-        "fa63651",
-        "fa63644"
+        "fa80115"
       ]
     }
   },
   "meg": {
     "name": "Meg",
     "rarity": "Legendary",
-    "class": "Use The Mecha For Space Then Run",
-    "color": "#fff11ev",
+    "class": "Tank",
+    "color": "#fff11e",
     "preview_dir": "meg",
-    "total_assets": 37,
+    "total_assets": 31,
     "skins": [],
     "asset_types": {
       "Backgrounds": [
@@ -3618,8 +3266,7 @@
         "fa121498",
         "fa121497",
         "fa95490",
-        "fa95466",
-        "fa60970"
+        "fa95466"
       ],
       "Emojis": [
         "fa158513",
@@ -3639,15 +3286,12 @@
         "fa91261",
         "fa90515",
         "fa74813",
-        "fa72386",
-        "fa61085",
-        "fa60486"
+        "fa72386"
       ],
       "Sprays": [
         "fa150149",
         "fa90601",
-        "fa90596",
-        "fa61006"
+        "fa90596"
       ],
       "UI": [
         "fa162000",
@@ -3656,19 +3300,17 @@
         "fa157593",
         "fa157592",
         "fa95493",
-        "fa74940",
-        "fa61130",
-        "fa60515"
+        "fa74940"
       ]
     }
   },
   "ash": {
     "name": "Ash",
     "rarity": "Epic",
-    "class": "Unleash An Army Of Rats",
+    "class": "Tank",
     "color": "#d850ff",
     "preview_dir": "ash",
-    "total_assets": 29,
+    "total_assets": 25,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3678,8 +3320,7 @@
         "fa95488",
         "fa95471",
         "fa86291",
-        "fa80246",
-        "fa58983"
+        "fa80246"
       ],
       "Emojis": [
         "fa158458",
@@ -3694,13 +3335,11 @@
         "fa90478",
         "fa90426",
         "fa86587",
-        "fa80010",
-        "fa60902"
+        "fa80010"
       ],
       "Sprays": [
         "fa162081",
-        "fa150085",
-        "fa61019"
+        "fa150085"
       ],
       "UI": [
         "fa134932",
@@ -3709,26 +3348,24 @@
         "fa77486",
         "fa77485",
         "fa72276",
-        "fa72275",
-        "fa60541"
+        "fa72275"
       ]
     }
   },
   "griff": {
     "name": "Griff",
     "rarity": "Epic",
-    "class": "Burst Down Enemies From Mid-Range.",
+    "class": "Controller",
     "color": "#d850ff",
     "preview_dir": "griff",
-    "total_assets": 27,
+    "total_assets": 23,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa162182",
         "fa134996",
         "fa95449",
-        "fa95437",
-        "fa60976"
+        "fa95437"
       ],
       "Emojis": [
         "fa162285",
@@ -3743,12 +3380,10 @@
         "fa135782",
         "fa135781",
         "fa135780",
-        "fa99988",
-        "fa61081"
+        "fa99988"
       ],
       "Sprays": [
-        "fa95560",
-        "fa61003"
+        "fa95560"
       ],
       "UI": [
         "fa150209",
@@ -3757,18 +3392,17 @@
         "fa150206",
         "fa135151",
         "fa95600",
-        "fa95575",
-        "fa61127"
+        "fa95575"
       ]
     }
   },
   "buzz": {
     "name": "Buzz",
     "rarity": "Mythic",
-    "class": "Travel Around The Map And Stun Enemies.",
+    "class": "Assassin",
     "color": "#fe5e72",
     "preview_dir": "buzz",
-    "total_assets": 43,
+    "total_assets": 41,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3805,9 +3439,7 @@
         "fa67669",
         "fa67652",
         "fa67645",
-        "fa67644",
-        "fa61078",
-        "fa60926"
+        "fa67644"
       ],
       "Sprays": [
         "fa72321",
@@ -3829,17 +3461,16 @@
   "grom": {
     "name": "Grom",
     "rarity": "Epic",
-    "class": "Bombard Safely From Behind Walls.",
+    "class": "Artillery",
     "color": "#d850ff",
     "preview_dir": "grom",
-    "total_assets": 24,
+    "total_assets": 20,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa134997",
         "fa95474",
-        "fa90373",
-        "fa63783"
+        "fa90373"
       ],
       "Emojis": [
         "fa135672",
@@ -3849,8 +3480,7 @@
         "fa135668",
         "fa135667",
         "fa135666",
-        "fa135665",
-        "fa63711"
+        "fa135665"
       ],
       "Pins": [
         "fa135784",
@@ -3861,30 +3491,27 @@
       "Sprays": [
         "fa134819",
         "fa90592",
-        "fa90586",
-        "fa63661"
+        "fa90586"
       ],
       "UI": [
         "fa135153",
-        "fa90921",
-        "fa63642"
+        "fa90921"
       ]
     }
   },
   "squeak": {
     "name": "Squeak",
     "rarity": "Mythic",
-    "class": "Hit Enemies Through Walls With Explosions",
+    "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "squeak",
-    "total_assets": 20,
+    "total_assets": 14,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa135048",
         "fa125492",
-        "fa67840",
-        "fa63115"
+        "fa67840"
       ],
       "Emojis": [
         "fa125594",
@@ -3894,31 +3521,26 @@
       "Pins": [
         "fa91267",
         "fa90482",
-        "fa76501",
-        "fa63080",
-        "fa60918",
-        "fa60635"
+        "fa76501"
       ],
       "Sprays": [
         "fa125718",
-        "fa76547",
-        "fa63032"
+        "fa76547"
       ],
       "UI": [
         "fa125658",
         "fa95569",
-        "fa77469",
-        "fa62997"
+        "fa77469"
       ]
     }
   },
   "belle": {
     "name": "Belle",
     "rarity": "Epic",
-    "class": "Snipe With Bouncing Bullets.",
+    "class": "Marksman",
     "color": "#d850ff",
     "preview_dir": "belle",
-    "total_assets": 21,
+    "total_assets": 20,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3939,8 +3561,7 @@
         "fa91122",
         "fa77580",
         "fa76446",
-        "fa67667",
-        "fa60922"
+        "fa67667"
       ],
       "Sprays": [
         "fa100103",
@@ -3957,10 +3578,10 @@
   "stu": {
     "name": "Stu",
     "rarity": "Epic",
-    "class": "Use Your Dash To Get Close Or Dodge.",
+    "class": "Assassin",
     "color": "#d850ff",
     "preview_dir": "stu",
-    "total_assets": 28,
+    "total_assets": 13,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -3969,44 +3590,27 @@
         "fa125567",
         "fa125566",
         "fa104725",
-        "fa85971",
-        "fa60768"
+        "fa85971"
       ],
       "Emojis": [
         "fa125561",
         "fa125559",
         "fa125557",
-        "fa104900",
-        "fa64988"
-      ],
-      "LoadingScreens": [
-        "fa60774"
+        "fa104900"
       ],
       "Pins": [
         "fa86565",
-        "fa80008",
-        "fa65354",
-        "fa63059",
-        "fa63058",
-        "fa63057",
-        "fa63056",
-        "fa63055",
-        "fa63054",
-        "fa63053",
-        "fa63052",
-        "fa61113",
-        "fa60919"
+        "fa80008"
       ],
       "Sprays": [
-        "fa79950",
-        "fa63033"
+        "fa79950"
       ]
     }
   },
   "ruffs": {
     "name": "Ruffs",
     "rarity": "Mythic",
-    "class": "Buff Teammates And Poke Enemies.",
+    "class": "Support",
     "color": "#fe5e72",
     "preview_dir": "ruffs",
     "total_assets": 14,
@@ -4039,10 +3643,10 @@
   "edgar": {
     "name": "Edgar",
     "rarity": "Epic",
-    "class": "Jump To Take Out Isolated Enemies.",
+    "class": "Assassin",
     "color": "#d850ff",
     "preview_dir": "edgar",
-    "total_assets": 69,
+    "total_assets": 44,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4057,18 +3661,13 @@
         "fa80253",
         "fa80252",
         "fa80251",
-        "fa67830",
-        "fa63780",
-        "fa63779",
-        "fa63105",
-        "fa62953"
+        "fa67830"
       ],
       "Emojis": [
         "fa150251",
         "fa95708",
         "fa95662",
-        "fa95661",
-        "fa64921"
+        "fa95661"
       ],
       "Pins": [
         "fa150115",
@@ -4084,25 +3683,12 @@
         "fa80024",
         "fa80023",
         "fa80022",
-        "fa67647",
-        "fa63049",
-        "fa63048",
-        "fa63047",
-        "fa63046",
-        "fa63045",
-        "fa63044",
-        "fa63043",
-        "fa63042",
-        "fa63041",
-        "fa61116",
-        "fa60924"
+        "fa67647"
       ],
       "Sprays": [
         "fa150122",
         "fa79959",
-        "fa67752",
-        "fa64456",
-        "fa63026"
+        "fa67752"
       ],
       "UI": [
         "fa150205",
@@ -4115,24 +3701,17 @@
         "fa90913",
         "fa80106",
         "fa74898",
-        "fa67931",
-        "fa64437",
-        "fa64436",
-        "fa64368",
-        "fa64363",
-        "fa62994",
-        "fa62986",
-        "fa62961"
+        "fa67931"
       ]
     }
   },
   "byron": {
     "name": "Byron",
     "rarity": "Mythic",
-    "class": "Heal Teammates Or Snipe With Poison.",
+    "class": "Support",
     "color": "#fe5e72",
     "preview_dir": "byron",
-    "total_assets": 23,
+    "total_assets": 18,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4140,43 +3719,38 @@
         "fa134970",
         "fa104811",
         "fa72738",
-        "fa72737",
-        "fa63846"
+        "fa72737"
       ],
       "Emojis": [
         "fa158508",
         "fa104848",
-        "fa104847",
-        "fa63677"
+        "fa104847"
       ],
       "Pins": [
         "fa157692",
         "fa157691",
         "fa157690",
-        "fa72393",
-        "fa61079"
+        "fa72393"
       ],
       "Sprays": [
-        "fa104950",
-        "fa63658"
+        "fa104950"
       ],
       "UI": [
         "fa158430",
         "fa104798",
         "fa104768",
         "fa74942",
-        "fa72246",
-        "fa63639"
+        "fa72246"
       ]
     }
   },
   "lou": {
     "name": "Lou",
     "rarity": "Mythic",
-    "class": "Control The Map With A Huge Freeze.",
+    "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "lou",
-    "total_assets": 22,
+    "total_assets": 12,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4184,48 +3758,35 @@
         "fa135012",
         "fa95472",
         "fa86289",
-        "fa80260",
-        "fa60982",
-        "fa58984"
+        "fa80260"
       ],
       "Emojis": [
-        "fa135616",
-        "fa64981",
-        "fa63727"
+        "fa135616"
       ],
       "Pins": [
         "fa150082",
-        "fa80050",
-        "fa61084"
+        "fa80050"
       ],
       "Sprays": [
         "fa162104",
         "fa134839",
         "fa90612",
-        "fa79956",
-        "fa63669",
-        "fa61005"
-      ],
-      "UI": [
-        "fa63877",
-        "fa63871",
-        "fa61129"
+        "fa79956"
       ]
     }
   },
   "amber": {
     "name": "Amber",
     "rarity": "Legendary",
-    "class": "Destroy Bushes And Control Space With Fire.",
-    "color": "#fff11ev",
+    "class": "Controller",
+    "color": "#fff11e",
     "preview_dir": "amber",
-    "total_assets": 36,
+    "total_assets": 35,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa134958",
-        "fa95438",
-        "fa60498"
+        "fa95438"
       ],
       "Emojis": [
         "fa150289",
@@ -4273,10 +3834,10 @@
   "colette": {
     "name": "Colette",
     "rarity": "Epic",
-    "class": "Shred High-Health Enemies And Objectives.",
+    "class": "Damage Dealer",
     "color": "#d850ff",
     "preview_dir": "colette",
-    "total_assets": 34,
+    "total_assets": 22,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4286,11 +3847,7 @@
       ],
       "Emojis": [
         "fa150292",
-        "fa95658",
-        "fa64977",
-        "fa64976",
-        "fa64975",
-        "fa63697"
+        "fa95658"
       ],
       "Pins": [
         "fa150135",
@@ -4299,14 +3856,7 @@
         "fa80011",
         "fa77566",
         "fa72394",
-        "fa67657",
-        "fa65402",
-        "fa65401",
-        "fa65400",
-        "fa60905"
-      ],
-      "Sprays": [
-        "fa63667"
+        "fa67657"
       ],
       "UI": [
         "fa150379",
@@ -4318,20 +3868,17 @@
         "fa95591",
         "fa90906",
         "fa80103",
-        "fa80102",
-        "fa64414",
-        "fa63875",
-        "fa63869"
+        "fa80102"
       ]
     }
   },
   "surge": {
     "name": "Surge",
     "rarity": "Legendary",
-    "class": "Use Supers To Level Up Or Dive In",
-    "color": "#fff11ev",
+    "class": "Damage Dealer",
+    "color": "#fff11e",
     "preview_dir": "surge",
-    "total_assets": 73,
+    "total_assets": 50,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4340,8 +3887,7 @@
         "fa95470",
         "fa85972",
         "fa72759",
-        "fa67841",
-        "fa60975"
+        "fa67841"
       ],
       "Emojis": [
         "fa120855",
@@ -4375,32 +3921,11 @@
         "fa76492",
         "fa76491",
         "fa72406",
-        "fa67650",
-        "fa61088",
-        "fa60569",
-        "fa60568",
-        "fa60567",
-        "fa60566",
-        "fa60565",
-        "fa60564",
-        "fa60563",
-        "fa60562",
-        "fa60561",
-        "fa60560",
-        "fa60559",
-        "fa60558",
-        "fa60557",
-        "fa60556",
-        "fa60555",
-        "fa60554",
-        "fa60553",
-        "fa60552",
-        "fa60551"
+        "fa67650"
       ],
       "Sprays": [
         "fa104938",
-        "fa76548",
-        "fa61007"
+        "fa76548"
       ],
       "UI": [
         "fa157610",
@@ -4414,18 +3939,17 @@
         "fa77470",
         "fa76709",
         "fa72226",
-        "fa67945",
-        "fa61132"
+        "fa67945"
       ]
     }
   },
   "sprout": {
     "name": "Sprout",
     "rarity": "Mythic",
-    "class": "Make Walls And Bounce Projectiles Off Of Them.",
+    "class": "Artillery",
     "color": "#fe5e72",
     "preview_dir": "sprout",
-    "total_assets": 33,
+    "total_assets": 32,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4461,8 +3985,7 @@
         "fa162204",
         "fa162203",
         "fa162202",
-        "fa157706",
-        "fa60925"
+        "fa157706"
       ],
       "Portraits": [
         "fa158381"
@@ -4476,22 +3999,16 @@
   "nani": {
     "name": "Nani",
     "rarity": "Epic",
-    "class": "Poke With Outside Shots Or Burst With All",
+    "class": "Marksman",
     "color": "#d850ff",
     "preview_dir": "nani",
-    "total_assets": 33,
+    "total_assets": 25,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa162170",
         "fa135026",
-        "fa125518",
-        "fa58990",
-        "fa58989",
-        "fa58988",
-        "fa58987",
-        "fa58986",
-        "fa58985"
+        "fa125518"
       ],
       "Emojis": [
         "fa162282",
@@ -4504,8 +4021,7 @@
         "fa77538",
         "fa76499",
         "fa76487",
-        "fa74798",
-        "fa60487"
+        "fa74798"
       ],
       "Sprays": [
         "fa125711",
@@ -4522,18 +4038,17 @@
         "fa125649",
         "fa77467",
         "fa76695",
-        "fa74883",
-        "fa60528"
+        "fa74883"
       ]
     }
   },
   "gale": {
     "name": "Gale",
     "rarity": "Epic",
-    "class": "Push Enemies Away To Control The Map.",
+    "class": "Controller",
     "color": "#d850ff",
     "preview_dir": "gale",
-    "total_assets": 20,
+    "total_assets": 19,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4552,8 +4067,7 @@
       ],
       "Pins": [
         "fa74823",
-        "fa74782",
-        "fa60909"
+        "fa74782"
       ],
       "Sprays": [
         "fa74750"
@@ -4571,16 +4085,15 @@
   "jacky": {
     "name": "Jacky",
     "rarity": "Super Rare",
-    "class": "Get Close To Deal Large Area Damage.",
+    "class": "Tank",
     "color": "#5ab3ff",
     "preview_dir": "jacky",
-    "total_assets": 22,
+    "total_assets": 15,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa135000",
-        "fa72749",
-        "fa62972"
+        "fa72749"
       ],
       "Emojis": [
         "fa150316",
@@ -4592,32 +4105,26 @@
         "fa150112",
         "fa99906",
         "fa74783",
-        "fa72398",
-        "fa63101",
-        "fa61082",
-        "fa60910"
+        "fa72398"
       ],
       "Sprays": [
-        "fa100116",
-        "fa63018"
+        "fa100116"
       ],
       "UI": [
         "fa150199",
         "fa100089",
         "fa74944",
-        "fa72250",
-        "fa63009",
-        "fa63003"
+        "fa72250"
       ]
     }
   },
   "max": {
     "name": "Max",
     "rarity": "Mythic",
-    "class": "Buff Your Team With Tons Of Speed",
+    "class": "Support",
     "color": "#fe5e72",
     "preview_dir": "max",
-    "total_assets": 20,
+    "total_assets": 17,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4633,10 +4140,7 @@
         "fa80293",
         "fa80054",
         "fa74797",
-        "fa72433",
-        "fa60485",
-        "fa60484",
-        "fa60483"
+        "fa72433"
       ],
       "Sprays": [
         "fa72316"
@@ -4655,7 +4159,7 @@
   "mr_p": {
     "name": "Mr. P",
     "rarity": "Mythic",
-    "class": "Use Porters To Control The Map.",
+    "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "mrp",
     "total_assets": 12,
@@ -4688,10 +4192,10 @@
   "emz": {
     "name": "Emz",
     "rarity": "Epic",
-    "class": "Control The Map With Large Attacks.",
+    "class": "Controller",
     "color": "#d850ff",
     "preview_dir": "emz",
-    "total_assets": 26,
+    "total_assets": 22,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4700,8 +4204,7 @@
         "fa104790",
         "fa104789",
         "fa80291",
-        "fa75106",
-        "fa63061"
+        "fa75106"
       ],
       "Emojis": [
         "fa125501",
@@ -4717,9 +4220,7 @@
         "fa74822",
         "fa74796",
         "fa74795",
-        "fa74780",
-        "fa60479",
-        "fa60478"
+        "fa74780"
       ],
       "Sprays": [
         "fa74748"
@@ -4727,15 +4228,14 @@
       "UI": [
         "fa75113",
         "fa74943",
-        "fa74918",
-        "fa60524"
+        "fa74918"
       ]
     }
   },
   "bea": {
     "name": "Bea",
     "rarity": "Epic",
-    "class": "Land Hits Then Punish",
+    "class": "Marksman",
     "color": "#d850ff",
     "preview_dir": "bea",
     "total_assets": 14,
@@ -4772,10 +4272,10 @@
   "sandy": {
     "name": "Sandy",
     "rarity": "Legendary",
-    "class": "Use Sandstorm To Control Objectives",
-    "color": "#fff11ev",
+    "class": "Controller",
+    "color": "#fff11e",
     "preview_dir": "sandy",
-    "total_assets": 28,
+    "total_assets": 27,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4792,8 +4292,7 @@
         "fa99846",
         "fa99845",
         "fa99844",
-        "fa99843",
-        "fa64987"
+        "fa99843"
       ],
       "Pins": [
         "fa99748",
@@ -4821,18 +4320,16 @@
   "8_bit": {
     "name": "8-Bit",
     "rarity": "Super Rare",
-    "class": "Hold Ground And Boost Your Team",
+    "class": "Damage Dealer",
     "color": "#5ab3ff",
     "preview_dir": "8bit",
-    "total_assets": 29,
+    "total_assets": 19,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa135704",
         "fa134956",
-        "fa72724",
-        "fa65371",
-        "fa60983"
+        "fa72724"
       ],
       "Emojis": [
         "fa135592",
@@ -4843,17 +4340,11 @@
         "fa135795",
         "fa99996",
         "fa80003",
-        "fa72384",
-        "fa61076",
-        "fa61075",
-        "fa60921",
-        "fa60472"
+        "fa72384"
       ],
       "Sprays": [
         "fa134808",
-        "fa79953",
-        "fa64446",
-        "fa60998"
+        "fa79953"
       ],
       "UI": [
         "fa157583",
@@ -4862,19 +4353,17 @@
         "fa157580",
         "fa135133",
         "fa100066",
-        "fa72245",
-        "fa64409",
-        "fa61117"
+        "fa72245"
       ]
     }
   },
   "bibi": {
     "name": "Bibi",
     "rarity": "Epic",
-    "class": "Charge In And Knock Em Back",
+    "class": "Tank",
     "color": "#d850ff",
     "preview_dir": "bibi",
-    "total_assets": 44,
+    "total_assets": 40,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4884,8 +4373,7 @@
         "fa85941",
         "fa72726",
         "fa67980",
-        "fa67819",
-        "fa60977"
+        "fa67819"
       ],
       "Emojis": [
         "fa135591",
@@ -4912,14 +4400,12 @@
         "fa67717",
         "fa67716",
         "fa67715",
-        "fa67668",
-        "fa61077"
+        "fa67668"
       ],
       "Sprays": [
         "fa72322",
         "fa67758",
-        "fa67749",
-        "fa60999"
+        "fa67749"
       ],
       "UI": [
         "fa150198",
@@ -4928,18 +4414,17 @@
         "fa86704",
         "fa76668",
         "fa72235",
-        "fa67920",
-        "fa61118"
+        "fa67920"
       ]
     }
   },
   "carl": {
     "name": "Carl",
     "rarity": "Super Rare",
-    "class": "Boomerang Your Pickaxe For More Damage",
+    "class": "Damage Dealer",
     "color": "#5ab3ff",
     "preview_dir": "carl",
-    "total_assets": 28,
+    "total_assets": 27,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4949,8 +4434,7 @@
         "fa135729",
         "fa134971",
         "fa104797",
-        "fa66364",
-        "fa60974"
+        "fa66364"
       ],
       "Emojis": [
         "fa135640",
@@ -4985,10 +4469,10 @@
   "rosa": {
     "name": "Rosa",
     "rarity": "Rare",
-    "class": "Use Bushes Whenever Possible",
+    "class": "Tank",
     "color": "#68fd58",
     "preview_dir": "rosa",
-    "total_assets": 25,
+    "total_assets": 16,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -4996,45 +4480,34 @@
         "fa135037",
         "fa95473",
         "fa80273",
-        "fa66382",
-        "fa63117"
+        "fa66382"
       ],
       "Emojis": [
-        "fa158516",
-        "fa63753"
+        "fa158516"
       ],
       "Pins": [
         "fa157705",
         "fa157704",
         "fa157703",
         "fa80069",
-        "fa76489",
-        "fa63079",
-        "fa60923"
-      ],
-      "Sprays": [
-        "fa63671",
-        "fa63031"
+        "fa76489"
       ],
       "UI": [
         "fa158432",
         "fa86688",
         "fa80124",
         "fa76705",
-        "fa74886",
-        "fa63879",
-        "fa63873",
-        "fa62996"
+        "fa74886"
       ]
     }
   },
   "leon": {
     "name": "Leon",
     "rarity": "Legendary",
-    "class": "Sneak In And Assassinate.",
-    "color": "#fff11ev",
+    "class": "Assassin",
+    "color": "#fff11e",
     "preview_dir": "leon",
-    "total_assets": 60,
+    "total_assets": 47,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5048,9 +4521,7 @@
         "fa67835",
         "fa67834",
         "fa67833",
-        "fa67626",
-        "fa63776",
-        "fa58982"
+        "fa67626"
       ],
       "Emojis": [
         "fa134937",
@@ -5068,9 +4539,7 @@
         "fa120826",
         "fa120824",
         "fa104865",
-        "fa95726",
-        "fa64923",
-        "fa63724"
+        "fa95726"
       ],
       "LoadingScreens": [
         "fa67621"
@@ -5087,39 +4556,30 @@
         "fa67678",
         "fa67677",
         "fa67676",
-        "fa67675",
-        "fa60912",
-        "fa60428"
+        "fa67675"
       ],
       "Portraits": [
         "fa120662"
       ],
       "Sprays": [
         "fa120908",
-        "fa67755",
-        "fa64458",
-        "fa63662"
+        "fa67755"
       ],
       "UI": [
         "fa121537",
         "fa86671",
         "fa76689",
-        "fa67936",
-        "fa64441",
-        "fa64440",
-        "fa64365",
-        "fa64360",
-        "fa63643"
+        "fa67936"
       ]
     }
   },
   "tick": {
     "name": "Tick",
     "rarity": "Super Rare",
-    "class": "Control Space From Safety.",
+    "class": "Artillery",
     "color": "#5ab3ff",
     "preview_dir": "tick",
-    "total_assets": 46,
+    "total_assets": 42,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5130,8 +4590,7 @@
         "fa100194",
         "fa72763",
         "fa72762",
-        "fa72761",
-        "fa58979"
+        "fa72761"
       ],
       "Emojis": [
         "fa158503",
@@ -5154,10 +4613,7 @@
         "fa72428",
         "fa72360",
         "fa72359",
-        "fa72358",
-        "fa60920",
-        "fa60900",
-        "fa60489"
+        "fa72358"
       ],
       "Sprays": [
         "fa162079",
@@ -5183,10 +4639,10 @@
   "gene": {
     "name": "Gene",
     "rarity": "Mythic",
-    "class": "Single Out Enemies With Long Range Pulls",
+    "class": "Controller",
     "color": "#fe5e72",
     "preview_dir": "gene",
-    "total_assets": 16,
+    "total_assets": 15,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5202,8 +4658,7 @@
         "fa150079",
         "fa80034",
         "fa72432",
-        "fa72397",
-        "fa60480"
+        "fa72397"
       ],
       "Sprays": [
         "fa72315"
@@ -5218,10 +4673,10 @@
   "frank": {
     "name": "Frank",
     "rarity": "Epic",
-    "class": "Control Space With Stuns And High Health.",
+    "class": "Tank",
     "color": "#d850ff",
     "preview_dir": "frank",
-    "total_assets": 69,
+    "total_assets": 32,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5235,26 +4690,7 @@
         "fa125504",
         "fa125503",
         "fa125502",
-        "fa120825",
-        "fa64919",
-        "fa64918",
-        "fa64917",
-        "fa64916",
-        "fa64915",
-        "fa64914",
-        "fa64913",
-        "fa64912",
-        "fa64911",
-        "fa64910",
-        "fa64909",
-        "fa64908",
-        "fa64907",
-        "fa64906",
-        "fa64905",
-        "fa64904",
-        "fa64903",
-        "fa64902",
-        "fa63710"
+        "fa120825"
       ],
       "Pins": [
         "fa135783",
@@ -5267,25 +4703,11 @@
         "fa76495",
         "fa74819",
         "fa74791",
-        "fa74781",
-        "fa65394",
-        "fa65375",
-        "fa60689",
-        "fa60688",
-        "fa60687",
-        "fa60686",
-        "fa60685",
-        "fa60684",
-        "fa60683",
-        "fa60682",
-        "fa60681"
+        "fa74781"
       ],
       "Sprays": [
         "fa134816",
-        "fa74749",
-        "fa64450",
-        "fa64449",
-        "fa63660"
+        "fa74749"
       ],
       "UI": [
         "fa135143",
@@ -5297,21 +4719,17 @@
         "fa75114",
         "fa75107",
         "fa75092",
-        "fa72747",
-        "fa64420",
-        "fa64419",
-        "fa63782",
-        "fa63641"
+        "fa72747"
       ]
     }
   },
   "penny": {
     "name": "Penny",
     "rarity": "Super Rare",
-    "class": "Use Your Cannon To Take Over The Map",
+    "class": "Controller",
     "color": "#5ab3ff",
     "preview_dir": "penny",
-    "total_assets": 22,
+    "total_assets": 18,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5320,8 +4738,7 @@
         "fa104782",
         "fa85939",
         "fa85938",
-        "fa72756",
-        "fa63118"
+        "fa72756"
       ],
       "Emojis": [
         "fa120840",
@@ -5330,10 +4747,7 @@
       "Pins": [
         "fa86563",
         "fa80006",
-        "fa72403",
-        "fa61086",
-        "fa60973",
-        "fa60915"
+        "fa72403"
       ],
       "Sprays": [
         "fa79952"
@@ -5351,10 +4765,10 @@
   "darryl": {
     "name": "Darryl",
     "rarity": "Super Rare",
-    "class": "Roll In And Burst Damage Targets.",
+    "class": "Tank",
     "color": "#5ab3ff",
     "preview_dir": "darryl",
-    "total_assets": 20,
+    "total_assets": 18,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5373,9 +4787,7 @@
         "fa80004",
         "fa77564",
         "fa76496",
-        "fa76433",
-        "fa60908",
-        "fa60907"
+        "fa76433"
       ],
       "Sprays": [
         "fa79954"
@@ -5392,10 +4804,10 @@
   "tara": {
     "name": "Tara",
     "rarity": "Mythic",
-    "class": "Punish Grouped Enemies.",
+    "class": "Damage Dealer",
     "color": "#fe5e72",
     "preview_dir": "tara",
-    "total_assets": 21,
+    "total_assets": 20,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5426,46 +4838,34 @@
         "fa77471",
         "fa74948",
         "fa74891",
-        "fa72234",
-        "fa60980"
+        "fa72234"
       ]
     }
   },
   "pam": {
     "name": "Pam",
     "rarity": "Epic",
-    "class": "Hold Ground And Heal Teammates.",
+    "class": "Support",
     "color": "#d850ff",
     "preview_dir": "pam",
-    "total_assets": 20,
+    "total_assets": 9,
     "skins": [],
     "asset_types": {
       "Brawlers": [
         "fa135030",
-        "fa66385",
-        "fa61034"
+        "fa66385"
       ],
       "Emojis": [
         "fa120893",
-        "fa120839",
-        "fa63747",
-        "fa63745",
-        "fa63744",
-        "fa63743",
-        "fa63742",
-        "fa63741",
-        "fa63740",
-        "fa63739"
+        "fa120839"
       ],
       "Pins": [
         "fa90470",
         "fa77536",
-        "fa76488",
-        "fa60914"
+        "fa76488"
       ],
       "Sprays": [
-        "fa120912",
-        "fa63672"
+        "fa120912"
       ],
       "UI": [
         "fa120928"
@@ -5475,10 +4875,10 @@
   "piper": {
     "name": "Piper",
     "rarity": "Epic",
-    "class": "Poke From Range And Escape With A Super",
+    "class": "Marksman",
     "color": "#d850ff",
     "preview_dir": "piper",
-    "total_assets": 42,
+    "total_assets": 39,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5508,15 +4908,13 @@
         "fa120881",
         "fa95694",
         "fa95642",
-        "fa95641",
-        "fa64984"
+        "fa95641"
       ],
       "Pins": [
         "fa74824",
         "fa74785",
         "fa67783",
-        "fa67656",
-        "fa65366"
+        "fa67656"
       ],
       "Sprays": [
         "fa120917",
@@ -5530,18 +4928,17 @@
         "fa75094",
         "fa74945",
         "fa74920",
-        "fa67938",
-        "fa64426"
+        "fa67938"
       ]
     }
   },
   "bo": {
     "name": "Bo",
     "rarity": "Epic",
-    "class": "Control Space With Hidden Traps.",
+    "class": "Controller",
     "color": "#d850ff",
     "preview_dir": "bo",
-    "total_assets": 133,
+    "total_assets": 117,
     "skins": [],
     "asset_types": {
       "Backgrounds": [
@@ -5577,10 +4974,7 @@
         "fa85942",
         "fa77491",
         "fa77489",
-        "fa77477",
-        "fa64336",
-        "fa64335",
-        "fa63778"
+        "fa77477"
       ],
       "Emojis": [
         "fa162231",
@@ -5602,11 +4996,7 @@
         "fa99769",
         "fa99768",
         "fa99767",
-        "fa95724",
-        "fa63709",
-        "fa63708",
-        "fa63676",
-        "fa63675"
+        "fa95724"
       ],
       "LoadingScreens": [
         "fa76387"
@@ -5648,10 +5038,7 @@
         "fa72378",
         "fa72377",
         "fa72376",
-        "fa72375",
-        "fa63777",
-        "fa63095",
-        "fa60927"
+        "fa72375"
       ],
       "Sprays": [
         "fa158559",
@@ -5664,12 +5051,7 @@
         "fa120899",
         "fa100104",
         "fa90588",
-        "fa72323",
-        "fa64460",
-        "fa63889",
-        "fa63888",
-        "fa63887",
-        "fa63657"
+        "fa72323"
       ],
       "UI": [
         "fa162032",
@@ -5688,18 +5070,17 @@
         "fa74896",
         "fa72283",
         "fa72280",
-        "fa72223",
-        "fa64334"
+        "fa72223"
       ]
     }
   },
   "poco": {
     "name": "Poco",
     "rarity": "Rare",
-    "class": "Instant Heals Keep Your Team Fighting",
+    "class": "Support",
     "color": "#68fd58",
     "preview_dir": "poco",
-    "total_assets": 45,
+    "total_assets": 41,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5723,17 +5104,14 @@
         "fa104818",
         "fa104816",
         "fa104813",
-        "fa95610",
-        "fa64985"
+        "fa95610"
       ],
       "Pins": [
         "fa99972",
         "fa86562",
         "fa77533",
         "fa76500",
-        "fa76444",
-        "fa65357",
-        "fa60916"
+        "fa76444"
       ],
       "Sprays": [
         "fa104939",
@@ -5754,18 +5132,17 @@
         "fa74947",
         "fa74946",
         "fa74934",
-        "fa74884",
-        "fa64427"
+        "fa74884"
       ]
     }
   },
   "crow": {
     "name": "Crow",
     "rarity": "Legendary",
-    "class": "Poison Enemies From A Distance.",
-    "color": "#fff11ev",
+    "class": "Assassin",
+    "color": "#fff11e",
     "preview_dir": "crow",
-    "total_assets": 79,
+    "total_assets": 61,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5778,8 +5155,7 @@
         "fa104794",
         "fa104793",
         "fa95422",
-        "fa85947",
-        "fa60978"
+        "fa85947"
       ],
       "Emojis": [
         "fa135686",
@@ -5799,8 +5175,7 @@
         "fa104855",
         "fa104854",
         "fa104853",
-        "fa95707",
-        "fa64920"
+        "fa95707"
       ],
       "Pins": [
         "fa135771",
@@ -5825,16 +5200,7 @@
         "fa67690",
         "fa67688",
         "fa67687",
-        "fa67686",
-        "fa61073",
-        "fa61072",
-        "fa61071",
-        "fa61070",
-        "fa61069",
-        "fa61068",
-        "fa61067",
-        "fa61066",
-        "fa60906"
+        "fa67686"
       ],
       "Portraits": [
         "fa134801"
@@ -5842,9 +5208,7 @@
       "Sprays": [
         "fa134813",
         "fa76519",
-        "fa67751",
-        "fa64454",
-        "fa61002"
+        "fa67751"
       ],
       "UI": [
         "fa135146",
@@ -5852,22 +5216,17 @@
         "fa104762",
         "fa76675",
         "fa74873",
-        "fa67929",
-        "fa64435",
-        "fa64434",
-        "fa64367",
-        "fa64357",
-        "fa61123"
+        "fa67929"
       ]
     }
   },
   "mortis": {
     "name": "Mortis",
     "rarity": "Mythic",
-    "class": "Jump In On Weak Or Isolated Enemies.",
+    "class": "Assassin",
     "color": "#fe5e72",
     "preview_dir": "mortis",
-    "total_assets": 63,
+    "total_assets": 57,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5883,9 +5242,7 @@
         "fa66380",
         "fa66378",
         "fa66377",
-        "fa66372",
-        "fa64725",
-        "fa63787"
+        "fa66372"
       ],
       "Emojis": [
         "fa125509",
@@ -5896,8 +5253,7 @@
         "fa99833",
         "fa99832",
         "fa99831",
-        "fa95693",
-        "fa63729"
+        "fa95693"
       ],
       "Pins": [
         "fa99824",
@@ -5922,8 +5278,7 @@
         "fa76484",
         "fa76483",
         "fa74771",
-        "fa66379",
-        "fa60913"
+        "fa66379"
       ],
       "Sprays": [
         "fa100105",
@@ -5939,19 +5294,17 @@
         "fa77472",
         "fa76693",
         "fa76692",
-        "fa74938",
-        "fa63647",
-        "fa63646"
+        "fa74938"
       ]
     }
   },
   "el_primo": {
     "name": "El Primo",
     "rarity": "Rare",
-    "class": "Jump In But Stay Away From Crowds.",
+    "class": "Tank",
     "color": "#68fd58",
     "preview_dir": "elprimo",
-    "total_assets": 24,
+    "total_assets": 22,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -5959,17 +5312,13 @@
         "fa67831",
         "fa66369"
       ],
-      "Emojis": [
-        "fa64979"
-      ],
       "Pins": [
         "fa150116",
         "fa77560",
         "fa77559",
         "fa76464",
         "fa74877",
-        "fa67671",
-        "fa65396"
+        "fa67671"
       ],
       "Sprays": [
         "fa76521",
@@ -5993,10 +5342,10 @@
   "dynamike": {
     "name": "Dynamike",
     "rarity": "Super Rare",
-    "class": "Bombard Safely From Behind Walls.",
+    "class": "Artillery",
     "color": "#5ab3ff",
     "preview_dir": "dynamike",
-    "total_assets": 52,
+    "total_assets": 39,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -6017,16 +5366,7 @@
         "fa99804",
         "fa99803",
         "fa99802",
-        "fa99801",
-        "fa63706",
-        "fa63705",
-        "fa63704",
-        "fa63703",
-        "fa63702",
-        "fa63701",
-        "fa63700",
-        "fa63699",
-        "fa63698"
+        "fa99801"
       ],
       "Pins": [
         "fa99984",
@@ -6040,8 +5380,7 @@
         "fa74793",
         "fa74769",
         "fa74768",
-        "fa67646",
-        "fa60477"
+        "fa67646"
       ],
       "Portraits": [
         "fa99532"
@@ -6049,8 +5388,7 @@
       "Sprays": [
         "fa100130",
         "fa90584",
-        "fa74741",
-        "fa64455"
+        "fa74741"
       ],
       "UI": [
         "fa100081",
@@ -6059,19 +5397,17 @@
         "fa74930",
         "fa74875",
         "fa74874",
-        "fa67930",
-        "fa64416",
-        "fa64362"
+        "fa67930"
       ]
     }
   },
   "nita": {
     "name": "Nita",
     "rarity": "Rare",
-    "class": "Pressure With Bruce The Bear",
+    "class": "Damage Dealer",
     "color": "#68fd58",
     "preview_dir": "nita",
-    "total_assets": 57,
+    "total_assets": 45,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -6085,8 +5421,7 @@
         "fa121458",
         "fa85969",
         "fa85968",
-        "fa72734",
-        "fa63788"
+        "fa72734"
       ],
       "Emojis": [
         "fa135647",
@@ -6104,15 +5439,7 @@
         "fa120810",
         "fa120809",
         "fa120807",
-        "fa99835",
-        "fa63738",
-        "fa63736",
-        "fa63735",
-        "fa63734",
-        "fa63733",
-        "fa63732",
-        "fa63731",
-        "fa63730"
+        "fa99835"
       ],
       "Pins": [
         "fa135798",
@@ -6120,15 +5447,13 @@
         "fa86552",
         "fa72430",
         "fa72402",
-        "fa72357",
-        "fa60901"
+        "fa72357"
       ],
       "Sprays": [
         "fa134820",
         "fa120909",
         "fa72326",
-        "fa72317",
-        "fa63665"
+        "fa72317"
       ],
       "UI": [
         "fa121522",
@@ -6138,18 +5463,17 @@
         "fa74903",
         "fa72733",
         "fa72252",
-        "fa72222",
-        "fa63648"
+        "fa72222"
       ]
     }
   },
   "jessie": {
     "name": "Jessie",
     "rarity": "Super Rare",
-    "class": "Place Your Turret To Dominate The Map",
+    "class": "Controller",
     "color": "#5ab3ff",
     "preview_dir": "jessie",
-    "total_assets": 59,
+    "total_assets": 36,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -6159,12 +5483,7 @@
         "fa121479",
         "fa85957",
         "fa67832",
-        "fa66373",
-        "fa59169",
-        "fa59168",
-        "fa59167",
-        "fa59166",
-        "fa59165"
+        "fa66373"
       ],
       "Emojis": [
         "fa120875",
@@ -6179,19 +5498,7 @@
         "fa120866",
         "fa120865",
         "fa99823",
-        "fa95677",
-        "fa63723",
-        "fa63722",
-        "fa63721",
-        "fa63720",
-        "fa63719",
-        "fa63718",
-        "fa63717",
-        "fa63716",
-        "fa63715",
-        "fa63714",
-        "fa63713",
-        "fa63712"
+        "fa95677"
       ],
       "Pins": [
         "fa86532",
@@ -6199,15 +5506,11 @@
         "fa77555",
         "fa76469",
         "fa76440",
-        "fa67662",
-        "fa65393",
-        "fa60482",
-        "fa60481"
+        "fa67662"
       ],
       "Sprays": [
         "fa120904",
-        "fa67753",
-        "fa63668"
+        "fa67753"
       ],
       "UI": [
         "fa121504",
@@ -6217,19 +5520,17 @@
         "fa80111",
         "fa74931",
         "fa74881",
-        "fa67935",
-        "fa63876",
-        "fa63870"
+        "fa67935"
       ]
     }
   },
   "barley": {
     "name": "Barley",
     "rarity": "Rare",
-    "class": "Deny Space By Throwing Fiery Bottles.",
+    "class": "Artillery",
     "color": "#68fd58",
     "preview_dir": "barley",
-    "total_assets": 13,
+    "total_assets": 12,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -6252,18 +5553,17 @@
         "fa135135",
         "fa104781",
         "fa75090",
-        "fa74924",
-        "fa63635"
+        "fa74924"
       ]
     }
   },
   "spike": {
     "name": "Spike",
     "rarity": "Legendary",
-    "class": "Zone Enemies With A Super And Spikes.",
-    "color": "#fff11ev",
+    "class": "Damage Dealer",
+    "color": "#fff11e",
     "preview_dir": "spike",
-    "total_assets": 53,
+    "total_assets": 36,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -6273,8 +5573,7 @@
         "fa104726",
         "fa67839",
         "fa66386",
-        "fa66356",
-        "fa62975"
+        "fa66356"
       ],
       "Emojis": [
         "fa150295",
@@ -6282,16 +5581,7 @@
         "fa125515",
         "fa125514",
         "fa125497",
-        "fa104894",
-        "fa64944",
-        "fa64943",
-        "fa64942",
-        "fa64941",
-        "fa64940",
-        "fa64939",
-        "fa64938",
-        "fa64937",
-        "fa64936"
+        "fa104894"
       ],
       "Pins": [
         "fa150161",
@@ -6300,14 +5590,10 @@
         "fa80009",
         "fa76505",
         "fa67665",
-        "fa67664",
-        "fa65350",
-        "fa63104"
+        "fa67664"
       ],
       "Sprays": [
-        "fa67754",
-        "fa64461",
-        "fa63021"
+        "fa67754"
       ],
       "UI": [
         "fa150382",
@@ -6324,20 +5610,17 @@
         "fa86690",
         "fa74909",
         "fa67943",
-        "fa67942",
-        "fa64430",
-        "fa63012",
-        "fa63006"
+        "fa67942"
       ]
     }
   },
   "rico": {
     "name": "Rico",
     "rarity": "Super Rare",
-    "class": "Bounce Shots For Extra Range",
+    "class": "Damage Dealer",
     "color": "#5ab3ff",
     "preview_dir": "rico",
-    "total_assets": 397,
+    "total_assets": 360,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -6352,8 +5635,7 @@
         "fa125582",
         "fa125581",
         "fa125580",
-        "fa104889",
-        "fa64986"
+        "fa104889"
       ],
       "Logos": [
         "fa100046"
@@ -6379,8 +5661,7 @@
         "fa74762",
         "fa74761",
         "fa74760",
-        "fa74759",
-        "fa65348"
+        "fa74759"
       ],
       "Sprays": [
         "fa104937",
@@ -6712,52 +5993,17 @@
         "fa74905",
         "fa74895",
         "fa74885",
-        "fa65601",
-        "fa65472",
-        "fa65471",
-        "fa64445",
-        "fa64444",
-        "fa64433",
-        "fa64431",
-        "fa64429",
-        "fa64428",
-        "fa64424",
-        "fa64423",
-        "fa64421",
-        "fa64417",
-        "fa64415",
-        "fa64413",
-        "fa64412",
-        "fa64410",
-        "fa63650",
-        "fa63649",
-        "fa63645",
-        "fa63637",
-        "fa63636",
-        "fa63002",
-        "fa63001",
-        "fa62999",
-        "fa62998",
-        "fa62989",
-        "fa62987",
-        "fa62984",
-        "fa62982",
-        "fa62981",
-        "fa62980",
-        "fa62979",
-        "fa62978",
-        "fa62977",
-        "fa62976"
+        "fa65601"
       ]
     }
   },
   "brock": {
     "name": "Brock",
     "rarity": "Rare",
-    "class": "Explode Brawlers And Walls",
+    "class": "Marksman",
     "color": "#68fd58",
     "preview_dir": "brock",
-    "total_assets": 89,
+    "total_assets": 85,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -6829,9 +6075,7 @@
         "fa72371",
         "fa72370",
         "fa72254",
-        "fa67651",
-        "fa60903",
-        "fa60473"
+        "fa67651"
       ],
       "Portraits": [
         "fa158380",
@@ -6857,19 +6101,17 @@
         "fa72253",
         "fa72227",
         "fa67923",
-        "fa66360",
-        "fa63638",
-        "fa60520"
+        "fa66360"
       ]
     }
   },
   "bull": {
     "name": "Bull",
     "rarity": "Rare",
-    "class": "Super To Break Walls And Close The Distance",
+    "class": "Tank",
     "color": "#68fd58",
     "preview_dir": "bull",
-    "total_assets": 39,
+    "total_assets": 34,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -6879,8 +6121,7 @@
         "fa134891",
         "fa134888",
         "fa121491",
-        "fa95469",
-        "fa62968"
+        "fa95469"
       ],
       "Emojis": [
         "fa134886",
@@ -6907,29 +6148,25 @@
         "fa90431",
         "fa74790",
         "fa74778",
-        "fa74777",
-        "fa63099",
-        "fa60904"
+        "fa74777"
       ],
       "Sprays": [
         "fa100106",
-        "fa74740",
-        "fa63016"
+        "fa74740"
       ],
       "UI": [
         "fa74914",
-        "fa74900",
-        "fa63007"
+        "fa74900"
       ]
     }
   },
   "colt": {
     "name": "Colt",
     "rarity": "Rare",
-    "class": "Long Range Consistent Damage.",
+    "class": "Damage Dealer",
     "color": "#68fd58",
     "preview_dir": "colt",
-    "total_assets": 54,
+    "total_assets": 45,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -6943,8 +6180,7 @@
         "fa67828",
         "fa67827",
         "fa67826",
-        "fa66365",
-        "fa62971"
+        "fa66365"
       ],
       "Emojis": [
         "fa135641",
@@ -6954,8 +6190,7 @@
         "fa125493",
         "fa95706",
         "fa95660",
-        "fa95659",
-        "fa64978"
+        "fa95659"
       ],
       "Pins": [
         "fa91228",
@@ -6977,11 +6212,7 @@
         "fa67698",
         "fa67697",
         "fa67696",
-        "fa67695",
-        "fa65397",
-        "fa63100",
-        "fa60476",
-        "fa60475"
+        "fa67695"
       ],
       "Portraits": [
         "fa90358",
@@ -6989,24 +6220,21 @@
       ],
       "Sprays": [
         "fa90583",
-        "fa67748",
-        "fa63017"
+        "fa67748"
       ],
       "UI": [
         "fa74937",
-        "fa67927",
-        "fa63008",
-        "fa60523"
+        "fa67927"
       ]
     }
   },
   "shelly": {
     "name": "Shelly",
     "rarity": "Common",
-    "class": "Counter Tanks And Assassins With Burst Damage.",
+    "class": "Damage Dealer",
     "color": "#b9eaff",
     "preview_dir": "shelly",
-    "total_assets": 37,
+    "total_assets": 27,
     "skins": [],
     "asset_types": {
       "Brawlers": [
@@ -7016,10 +6244,7 @@
         "fa67838",
         "fa67837",
         "fa67836",
-        "fa66366",
-        "fa63791",
-        "fa62974",
-        "fa62960"
+        "fa66366"
       ],
       "Emojis": [
         "fa158500",
@@ -7027,8 +6252,7 @@
         "fa125513",
         "fa125512",
         "fa125511",
-        "fa125510",
-        "fa63755"
+        "fa125510"
       ],
       "Pins": [
         "fa157677",
@@ -7038,25 +6262,17 @@
         "fa74806",
         "fa67655",
         "fa67649",
-        "fa67648",
-        "fa63103"
+        "fa67648"
       ],
       "Portraits": [
         "fa104697"
-      ],
-      "Sprays": [
-        "fa63674",
-        "fa63020"
       ],
       "UI": [
         "fa158418",
         "fa76707",
         "fa74936",
         "fa74913",
-        "fa67941",
-        "fa63652",
-        "fa63011",
-        "fa63005"
+        "fa67941"
       ]
     }
   }

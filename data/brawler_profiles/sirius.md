@@ -1,5 +1,5 @@
 # Sirius
-Rarity: Ultra Legendary | Class: Use Shadows To Control The Map.
+Rarity: Ultra Legendary | Class: Controller
 Total assets: 46
 
 

@@ -1,18 +1,17 @@
 # Meg
-Rarity: Legendary | Class: Use The Mecha For Space Then Run
-Total assets: 37
+Rarity: Legendary | Class: Tank
+Total assets: 31
 
 
-## Brawlers (7)
+## Brawlers (6)
   - Meg@4x
   - _0009_meg_whisked_meg_001
   - _0010_meg_mecha_whisked_001
   - _0016_megabossstvec_default_001
   - _0017_megabossstdg_default_001
-  - meg_megalodon
   - meg_nano
 
-## Pins (12)
+## Pins (10)
   - _0001_pam_egg_pam_002
   - bea_mega_bettle_pin
   - classic_box_mega_pin
@@ -20,18 +19,16 @@ Total assets: 37
   - meg_default_happy_092 2
   - meg_default_happy_092 3
   - meg_hypercharge_pin
-  - meg_jungle_pin
   - meg_mega_corporate_mecha_meg_happy_1434
   - meg_mega_mecha_meg_happy_1434
-    ... +2 more
+  - twin_sandsoftime_gg
 
 ## Emojis (3)
   - emoji_meg_angel
   - emoji_meg_nano
   - emoji_twin_sandsoftime_gg
 
-## Sprays (4)
-  - meg_spray_cursed
+## Sprays (3)
   - spray_anime_gem
   - spray_hypercharge_meg@2x
   - spray_pamegg
@@ -39,7 +36,7 @@ Total assets: 37
 ## Backgrounds (1)
   - map_select_mega_boss_bg
 
-## UI (9)
+## UI (7)
   - buddy_icon_meg_bling@4x
   - buddy_icon_meg_gadget@4x
   - buddy_icon_meg_hypercharge@4x
@@ -47,5 +44,3 @@ Total assets: 37
   - icon_item_meg_2
   - icon_megaboss_big
   - profile_icon_bea_mega_bettle
-  - profile_icon_meg_cursed
-  - profile_icon_pl_meg_jungle

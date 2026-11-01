@@ -1,5 +1,5 @@
 # Wendy
-Rarity: Mythic | Class: Shield Teammates And Hold Ground.
+Rarity: Mythic | Class: Support
 Total assets: 50
 
 

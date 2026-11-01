@@ -1,5 +1,5 @@
 # Shade
-Rarity: Epic | Class: Use Walls To Avoid Damage And Get Close.
+Rarity: Epic | Class: Assassin
 Total assets: 49
 
 

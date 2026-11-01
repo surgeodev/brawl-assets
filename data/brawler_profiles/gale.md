@@ -1,6 +1,6 @@
 # Gale
-Rarity: Epic | Class: Push Enemies Away To Control The Map.
-Total assets: 20
+Rarity: Epic | Class: Controller
+Total assets: 19
 
 
 ## Brawlers (6)
@@ -11,10 +11,9 @@ Total assets: 20
   - gale_hypercharge
   - gale_steampunk_gale_001
 
-## Pins (3)
+## Pins (2)
   - gale_hypercharge_pin
   - gale_shell_blasterpin
-  - gale_trader_special_pin
 
 ## Emojis (4)
   - emoji_gale_steampunk

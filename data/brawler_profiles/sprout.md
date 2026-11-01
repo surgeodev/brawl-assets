@@ -1,6 +1,6 @@
 # Sprout
-Rarity: Mythic | Class: Make Walls And Bounce Projectiles Off Of Them.
-Total assets: 33
+Rarity: Mythic | Class: Artillery
+Total assets: 32
 
 
 ## Brawlers (11)
@@ -19,8 +19,7 @@ Total assets: 33
 ## Portraits (1)
   - sprout_portrait_new
 
-## Pins (8)
-  - pin_esports_sprout
+## Pins (7)
   - sprout_angry
   - sprout_clap
   - sprout_default_happy_133

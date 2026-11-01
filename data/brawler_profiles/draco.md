@@ -1,13 +1,12 @@
 # Draco
-Rarity: Legendary | Class: Poke Transform Then Dominate
-Total assets: 42
+Rarity: Legendary | Class: Tank
+Total assets: 41
 
 
-## Brawlers (7)
+## Brawlers (6)
   - Draco-lose
   - Draco@4x
   - _0037_draco_eddie_draco_001
-  - doug_draco_doug_001
   - draco_dark_knight_draco_368
   - draco_gadget_01
   - draco_gadget_02

@@ -1,6 +1,6 @@
 # Darryl
-Rarity: Super Rare | Class: Roll In And Burst Damage Targets.
-Total assets: 20
+Rarity: Super Rare | Class: Tank
+Total assets: 18
 
 
 ## Brawlers (4)
@@ -9,14 +9,12 @@ Total assets: 20
   - darryl_backtoschool
   - darryl_pop_up_darryl_001
 
-## Pins (8)
+## Pins (6)
   - _0028_darryl_plankton_darryl_happy_354
   - _0033_darryl_sheepish_darryl_happy_798
   - darryl_dumpling_pin
   - darryl_hypercharge_pin
-  - darryl_lastbox_gg_pin
   - darryl_sb_pin
-  - darryl_special_pin
   - darryl_trash_goblin_darryl_happy_331
 
 ## Emojis (2)

@@ -1,5 +1,5 @@
 # Najia
-Rarity: Mythic | Class: Massive Range With Added Poison
+Rarity: Mythic | Class: Damage Dealer
 Total assets: 27
 
 

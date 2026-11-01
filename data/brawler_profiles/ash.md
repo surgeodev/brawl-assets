@@ -1,9 +1,9 @@
 # Ash
-Rarity: Epic | Class: Unleash An Army Of Rats
-Total assets: 29
+Rarity: Epic | Class: Tank
+Total assets: 25
 
 
-## Brawlers (8)
+## Brawlers (7)
   - Ash@4x
   - _0038_ash_shinobi_ash_001
   - _0039_ash_sandcastle_ash_001
@@ -11,27 +11,24 @@ Total assets: 29
   - ash_adidas
   - ash_be_less_ash_001
   - ash_hypercharge
-  - ash_krampus_ash_001
 
-## Pins (7)
+## Pins (6)
   - ash_adidas_ash_happy_1123
   - ash_be_less_ash_pin
   - ash_hypercharge_pin
   - ash_p.e.k.k.a.s.h_happy_278
   - ash_pekka_pin
-  - ash_pizza_angry_pin
   - scstore_cash_pin
 
 ## Emojis (2)
   - emoji_ash_adidas
   - emoji_ash_ninja_black
 
-## Sprays (3)
-  - spray_qlash
+## Sprays (2)
   - spray_smash
   - spray_university26_trashcan
 
-## UI (8)
+## UI (7)
   - icon_citysmash_city_blue
   - icon_citysmash_city_red
   - icon_game_mode_shadow_smash
@@ -39,4 +36,3 @@ Total assets: 29
   - icon_krusty_kash_pile
   - icon_sb_cash_pile_big
   - icon_shadow_smash_counter
-  - icon_skin_category_clash

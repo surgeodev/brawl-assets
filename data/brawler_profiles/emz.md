@@ -1,21 +1,18 @@
 # Emz
-Rarity: Epic | Class: Control The Map With Large Attacks.
-Total assets: 26
+Rarity: Epic | Class: Controller
+Total assets: 22
 
 
-## Brawlers (7)
+## Brawlers (6)
   - EMZ@4x
   - _0021_emz_techwear_emz_002
   - _0022_emz_streetwear_emz_002
   - _0023_emz_hypebeast_emz_002
   - emz_demon_emz_002
   - emz_hypercharge
-  - emz_mean_girl_emz_001
 
-## Pins (7)
+## Pins (5)
   - emz_demon_emz_pin
-  - emz_fan_pin
-  - emz_gw_pin
   - emz_hypercharge_pin
   - emz_medusa_pin
   - emz_ruby_medusa_pin
@@ -33,8 +30,7 @@ Total assets: 26
 ## Sprays (1)
   - emz_spray_hypercharge
 
-## UI (4)
+## UI (3)
   - emz_button_hypercharge
   - profile_icon_emz_dj_3mz
-  - profile_icon_emz_gw
   - profile_icon_emz_medusa

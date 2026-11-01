@@ -1,5 +1,5 @@
 # Ollie
-Rarity: Mythic | Class: Soak Up Damage Then Hypnotize.
+Rarity: Mythic | Class: Tank
 Total assets: 33
 
 

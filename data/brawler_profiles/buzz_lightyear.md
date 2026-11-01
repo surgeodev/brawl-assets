@@ -1,5 +1,5 @@
 # Buzz Lightyear
-Rarity: Legendary | Class: Unknown
+Rarity: Legendary | Class: Damage Dealer
 Total assets: 12
 
 

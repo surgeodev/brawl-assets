@@ -1,9 +1,9 @@
 # Edgar
-Rarity: Epic | Class: Jump To Take Out Isolated Enemies.
-Total assets: 69
+Rarity: Epic | Class: Assassin
+Total assets: 44
 
 
-## Brawlers (16)
+## Brawlers (12)
   - Edgar@4x
   - _0031_edgar_shin_edgar_001
   - _0032_edgar_masked_edgar_001
@@ -12,11 +12,11 @@ Total assets: 69
   - edgar_dark_angel_edgar_001
   - edgar_lightbearer_edgar_0001
   - edgar_lightbearer_edgar_001
-  - edgar_mecha_edgar_001
-  - edgar_mecha_edgar_unit-00_196
-    ... +6 more
+  - edgar_mha
+  - edgar_nightbringer_edgar_0001
+    ... +2 more
 
-## Pins (25)
+## Pins (14)
   - edgar_bakugo:_edgar_happy_422
   - edgar_dark_angel_angry_pin
   - edgar_dark_angel_clap_pin
@@ -27,31 +27,28 @@ Total assets: 69
   - edgar_dark_angel_sad_pin
   - edgar_dark_angel_special_pin
   - edgar_dark_angel_thanks_pin
-    ... +15 more
+    ... +4 more
 
-## Emojis (5)
+## Emojis (4)
   - emoji_edgar_kaiju
   - emoji_edgar_kaiju_black
   - emoji_edgar_kaiju_white
   - emoji_edgar_mha
-  - emoji_edgar_oc
 
-## Sprays (5)
+## Sprays (3)
   - edgar_spray_dark_angel_edgar
   - edgar_spray_sands
-  - spray_edgar_mecha
   - spray_edgar_mha
-  - spray_overcharge_edgar
 
-## UI (18)
+## UI (11)
   - buddy_icon_edgar_bling
   - buddy_icon_edgar_gadget
   - buddy_icon_edgar_hypercharge
   - buddy_icon_edgar_star_power
-  - hypercharge_button_edgar
-  - hypercharge_icon_edgar
-  - icon_mecha_edgar_challenge
   - player_icon_edgar_angelsdemons
   - player_icon_edgar_doctor
-  - player_icon_edgar_hyper
-    ... +8 more
+  - player_icon_edgar_kaiju
+  - player_icon_goodrandomsedgar
+  - player_icon_scream_edgar
+  - profile_icon_edgar_orochi
+    ... +1 more

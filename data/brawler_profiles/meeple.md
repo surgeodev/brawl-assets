@@ -1,5 +1,5 @@
 # Meeple
-Rarity: Epic | Class: Shoot Through Walls And Control The Map
+Rarity: Epic | Class: Controller
 Total assets: 31
 
 

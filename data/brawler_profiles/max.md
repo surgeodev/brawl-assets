@@ -1,6 +1,6 @@
 # Max
-Rarity: Mythic | Class: Buff Your Team With Tons Of Speed
-Total assets: 20
+Rarity: Mythic | Class: Support
+Total assets: 17
 
 
 ## Brawlers (3)
@@ -8,14 +8,11 @@ Total assets: 20
   - Max@4x
   - max_angel_max_001
 
-## Pins (8)
+## Pins (5)
   - max_angel_max_happy_498
   - max_angel_max_pin
-  - max_black_jungle_pin
   - max_cony_pin
-  - max_hermes_pin
   - max_hypercharge_pin
-  - max_jungle_pin
   - max_xenomech_max_happy_569
 
 ## Emojis (1)

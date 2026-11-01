@@ -1,5 +1,5 @@
 # Alli
-Rarity: Mythic | Class: Ambush From Bushes And Water
+Rarity: Mythic | Class: Assassin
 Total assets: 38
 
 

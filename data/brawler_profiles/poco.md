@@ -1,6 +1,6 @@
 # Poco
-Rarity: Rare | Class: Instant Heals Keep Your Team Fighting
-Total assets: 45
+Rarity: Rare | Class: Support
+Total assets: 41
 
 
 ## Brawlers (8)
@@ -13,16 +13,14 @@ Total assets: 45
   - _0013_poco_beatmatcher_poco_001
   - poco_quit_playing_poco_001
 
-## Pins (7)
+## Pins (5)
   - _0004_poco_phantom_poco_happy_178
   - _0005_poco_possessed_poco_happy_202
-  - poco_cctv_poco_happy_288
   - poco_goodrandoms_pin
   - poco_hypercharge_pin
-  - poco_punk_special_pin
   - poco_skullknight_pin
 
-## Emojis (12)
+## Emojis (11)
   - emoji_poco_hc_street
   - emoji_poco_hc_street_angry
   - emoji_poco_hc_street_clap
@@ -33,7 +31,7 @@ Total assets: 45
   - emoji_poco_hc_street_special
   - emoji_poco_hc_street_special_pink
   - emoji_poco_hc_street_special_purple
-    ... +2 more
+    ... +1 more
 
 ## Sprays (4)
   - poco_spray_darkonce
@@ -41,7 +39,7 @@ Total assets: 45
   - spray_poco_hc_street
   - spray_poco_street
 
-## UI (14)
+## UI (13)
   - buddy_icon_poco_bling
   - buddy_icon_poco_gadget
   - buddy_icon_poco_hypercharge
@@ -49,7 +47,7 @@ Total assets: 45
   - icon_ulti_hypercharge_poco
   - player_icon_hc_poco_street
   - player_icon_poco_goodrandoms
-  - player_icon_poco_origins
   - player_icon_poco_possessed
   - player_icon_poco_street
-    ... +4 more
+  - profile_icon_poco_classic
+    ... +3 more

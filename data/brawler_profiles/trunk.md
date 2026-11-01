@@ -1,5 +1,5 @@
 # Trunk
-Rarity: Epic | Class: Use Ants For Speed And Charge In
+Rarity: Epic | Class: Tank
 Total assets: 33
 
 

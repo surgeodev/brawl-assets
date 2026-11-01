@@ -1,5 +1,5 @@
 # Bolt
-Rarity: Epic | Class: Avoid Walls And Sharp Turns For Speed
+Rarity: Epic | Class: Tank
 Total assets: 52
 
 

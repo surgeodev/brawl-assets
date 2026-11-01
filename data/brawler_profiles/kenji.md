@@ -1,5 +1,5 @@
 # Kenji
-Rarity: Legendary | Class: Stay Aggressive And Heal With Attacks.
+Rarity: Legendary | Class: Assassin
 Total assets: 58
 
 

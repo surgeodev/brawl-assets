@@ -1,6 +1,6 @@
 # Lumi
-Rarity: Mythic | Class: Recall Weapons To Create New Angles Of Attack.
-Total assets: 33
+Rarity: Mythic | Class: Damage Dealer
+Total assets: 30
 
 
 ## Brawlers (8)
@@ -16,9 +16,8 @@ Total assets: 33
 ## Portraits (1)
   - lumi_portrait
 
-## Pins (13)
+## Pins (12)
   - _0009_lumi_persephone_lumi_happy_334
-  - bea_pin_team_pin_luminosity
   - lumi_angry_pin
   - lumi_clap_pin
   - lumi_dark_knight_lumi_happy_572
@@ -27,7 +26,8 @@ Total assets: 33
   - lumi_happy_pin
   - lumi_phew_pin
   - lumi_pin
-    ... +3 more
+  - lumi_sad_pin
+    ... +2 more
 
 ## Emojis (5)
   - emoji_lumi_greek
@@ -36,12 +36,10 @@ Total assets: 33
   - emoji_lumi_st_blue
   - emoji_lumi_st_red
 
-## Sprays (3)
+## Sprays (2)
   - spray_lumi
-  - spray_luminosity
   - spray_overcharge_lumi
 
-## UI (3)
-  - player_icon_esports_luminosity
+## UI (2)
   - player_icon_lumi1
   - player_icon_lumi_st

@@ -1,6 +1,6 @@
 # Sandy
-Rarity: Legendary | Class: Use Sandstorm To Control Objectives
-Total assets: 28
+Rarity: Legendary | Class: Controller
+Total assets: 27
 
 
 ## Brawlers (3)
@@ -18,8 +18,7 @@ Total assets: 28
   - sandy_neon_jellyfish_pin
   - sandy_nightmare_pin
 
-## Emojis (10)
-  - emoji_sandy_giftshop
+## Emojis (9)
   - emoji_sandy_greek
   - emoji_sandy_greek_angry
   - emoji_sandy_greek_clap

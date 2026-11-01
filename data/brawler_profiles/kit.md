@@ -1,25 +1,19 @@
 # Kit
-Rarity: Legendary | Class: Heal Teammates Or Assassinate Enemies
-Total assets: 40
+Rarity: Legendary | Class: Support
+Total assets: 34
 
 
-## Brawlers (11)
+## Brawlers (8)
   - GD_kit_01
   - GD_kit_02.png
   - Kit Meme
   - Kit@4x
-  - Kit_Kitboxer
-  - Kitboxer_Darkpaw
-  - Kitboxer_Goldpaw
   - SP_kit_01
   - SP_kit_02
   - kit_cuddly_kit_001
-    ... +1 more
+  - kit_make
 
-## Portraits (1)
-  - portrait_brawler_kit
-
-## Pins (13)
+## Pins (12)
   - _0011_kit_yuki_kit_happy_460
   - _0012_kit_tabby_kit_happy_460
   - _0013_kit_siamese_kit_happy_460
@@ -27,10 +21,10 @@ Total assets: 40
   - _0015_kit_guismo_kit_happy_460
   - _0016_kit_calico_kit_happy_460
   - _0016_kit_lockpickit_happy_228
-  - kit_billy_the_kit_happy_404
   - kit_default_happy
   - kit_default_sad
-    ... +3 more
+  - kit_retro_kit_happy_364
+    ... +2 more
 
 ## Emojis (13)
   - emoji_Kit_angry
@@ -45,6 +39,5 @@ Total assets: 40
   - emoji_kit_boxer
     ... +3 more
 
-## Sprays (2)
-  - spray_kit
+## Sprays (1)
   - spray_overcharge_kit

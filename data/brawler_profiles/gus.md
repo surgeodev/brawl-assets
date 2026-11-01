@@ -1,14 +1,13 @@
 # Gus
-Rarity: Super Rare | Class: Buff Teammates And Snipe Enemies.
-Total assets: 22
+Rarity: Super Rare | Class: Support
+Total assets: 21
 
 
-## Brawlers (6)
+## Brawlers (5)
   - Gus@4x
   - _0034_gus_will_gus_001
   - gus
   - gus_balloon_sally_1510
-  - gus_boy_scout_gus_262
   - gus_mha
 
 ## Pins (5)

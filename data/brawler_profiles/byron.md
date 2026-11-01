@@ -1,36 +1,31 @@
 # Byron
-Rarity: Mythic | Class: Heal Teammates Or Snipe With Poison.
-Total assets: 23
+Rarity: Mythic | Class: Support
+Total assets: 18
 
 
-## Brawlers (6)
+## Brawlers (5)
   - Byron@4x
   - byron_beach_byron_182
   - byron_byron_the_white_220
-  - byron_ringmaster_byron_160
   - byron_windstock
   - hc_byron
 
-## Pins (5)
+## Pins (4)
   - byron_(wip)_happy_354
   - byron_(wip)_happy_354 2
   - byron_(wip)_happy_354 3
-  - byron_pin_pl
   - byron_the_white_pin
 
-## Emojis (4)
-  - emoji_byron_circus
+## Emojis (3)
   - emoji_byron_overcharge
   - emoji_byron_subway
   - emoji_byron_windstock
 
-## Sprays (2)
-  - spray_byron_circus
+## Sprays (1)
   - spray_overcharge_byron
 
-## UI (6)
+## UI (5)
   - _0030_byron_frank_byron_001
-  - player_icon_byron_circus
   - player_icon_byron_street
   - player_icon_byron_windstock
   - profile_icon_byron_overlord

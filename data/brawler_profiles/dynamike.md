@@ -1,6 +1,6 @@
 # Dynamike
-Rarity: Super Rare | Class: Bombard Safely From Behind Walls.
-Total assets: 52
+Rarity: Super Rare | Class: Artillery
+Total assets: 39
 
 
 ## Brawlers (5)
@@ -13,7 +13,7 @@ Total assets: 52
 ## Portraits (1)
   - portrait_brawler_dynamike_propass
 
-## Pins (13)
+## Pins (12)
   - _0025_dynamike_decaying_dynamike_happy_114
   - _0027_dynamike_possessed_dynamike_happy_476
   - _0028_dynamike_occulist_dynamike_i_happy_230
@@ -24,9 +24,9 @@ Total assets: 52
   - dynamike_classic_pin
   - dynamike_coach_mike_pin
   - dynamike_dynasty_pin
-    ... +3 more
+    ... +2 more
 
-## Emojis (20)
+## Emojis (11)
   - emoji_dynamike_propass
   - emoji_dynamike_propass_angry
   - emoji_dynamike_propass_clap
@@ -37,20 +37,17 @@ Total assets: 52
   - emoji_dynamike_propass_special
   - emoji_dynamike_propass_special_green
   - emoji_dynamike_propass_special_red
-    ... +10 more
+    ... +1 more
 
-## Sprays (4)
+## Sprays (3)
   - dynamike_spray_moldy
   - spray_dynamike_moldy
-  - spray_overcharge_dynamike
   - spray_propass_dynamike
 
-## UI (9)
-  - hypercharge_button_dynamike
+## UI (7)
   - player_icon_dynamike_classic
   - player_icon_dynamike_moldy
   - player_icon_dynamike_propass
-  - player_icon_dynamike_spicy
   - profile_icon_dynamike_classic
   - profile_icon_dynamike_coach_mike
   - profile_icon_dynamike_psg_mike

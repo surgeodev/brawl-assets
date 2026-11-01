@@ -1,5 +1,5 @@
 # Finx
-Rarity: Mythic | Class: Slow Enemy Projectiles To Take Space.
+Rarity: Mythic | Class: Controller
 Total assets: 43
 
 
